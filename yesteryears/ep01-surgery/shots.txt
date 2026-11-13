@@ -245,9 +245,9 @@
 245|stairs|M|procession|two dressers carrying {YOU} on a stretcher up the narrow stone staircase
 246|stairs|LA|dread|low-angle view of a long climb of stairs, step numbers floating, the number 42 at the top
 247|theatre|W|grand, ominous|the circular operating theatre seen from the doorway, tiered rails rising steeply
-248|theatre|LA|grand|low-angle view up the steep tiers toward the glass skylight
+248|theatre|LA|grand|the steep tiers rising toward the glass skylight
 249|theatre|W|packed|every tier crammed with {STUDENTS}
-250|theatre|HA|packed|high-angle view over the packed rows of {STUDENTS}, shoulder to shoulder
+250|theatre|HA|packed|the packed rows of {STUDENTS}, shoulder to shoulder
 251|theatre|M|dark comedy|a student eating a meat pie, another scribbling in a notebook
 252|theatre|M|comic|a student at the back cupping his mouth and shouting
 253|theatre|M|comic|front-row students ducking their heads in unison
