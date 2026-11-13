@@ -1,0 +1,3582 @@
+[
+ {
+  "beat": 1,
+  "start": 0.0,
+  "dur": 4.167,
+  "text": "The year is 1818 and you are born in Buda,",
+  "motion": "push",
+  "scene": "buda",
+  "action": "{MOTHER} holding {BABY} in a bundle at an upstairs window above a grocery shop, a Buda street below",
+  "image": "images/beat_001.png"
+ },
+ {
+  "beat": 2,
+  "start": 4.167,
+  "dur": 2.917,
+  "text": "on the hilly side of the Danube,",
+  "motion": "pan",
+  "scene": "buda",
+  "action": "the hilly Buda riverside with the Danube below and the castle on the hill",
+  "image": "images/beat_002.png"
+ },
+ {
+  "beat": 3,
+  "start": 7.084,
+  "dur": 2.917,
+  "text": "in what will one day become Budapest.",
+  "motion": "push",
+  "scene": "buda",
+  "action": "a split view: the old hilly town of Buda on one bank, flat Pest on the other, a ghostly faint modern skyline outline above",
+  "image": "images/beat_003.png"
+ },
+ {
+  "beat": 4,
+  "start": 10.001,
+  "dur": 4.583,
+  "text": "Your home sits above a grocery shop called The White Elephant,",
+  "motion": "pull",
+  "scene": "buda",
+  "action": "the grocery shopfront with a painted sign showing a white elephant, barrels and sacks outside",
+  "image": "images/beat_004.png"
+ },
+ {
+  "beat": 5,
+  "start": 14.584,
+  "dur": 4.583,
+  "text": "and it smells of coffee beans, dried fruit, and floor polish.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "the grocery interior with coffee sacks, jars of dried fruit and a gleaming polished wooden floor",
+  "image": "images/beat_005.png"
+ },
+ {
+  "beat": 6,
+  "start": 19.167,
+  "dur": 3.75,
+  "text": "Your father owns the shop. He is a careful,",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{FATHER} standing behind the counter weighing coffee beans on brass scales",
+  "image": "images/beat_006.png"
+ },
+ {
+  "beat": 7,
+  "start": 22.917,
+  "dur": 4.167,
+  "text": "prosperous man who counts every coin twice and believes that",
+  "motion": "pan",
+  "scene": "shop",
+  "action": "{FATHER} counting coins twice into a ledger, one stick arm hovering over the stacks",
+  "image": "images/beat_007.png"
+ },
+ {
+  "beat": 8,
+  "start": 27.084,
+  "dur": 3.75,
+  "text": "a son's job is to make his father proud.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{FATHER} gazing at a framed family portrait with a hopeful expression",
+  "image": "images/beat_008.png"
+ },
+ {
+  "beat": 9,
+  "start": 30.834,
+  "dur": 3.333,
+  "text": "Your mother runs the household and its ten",
+  "motion": "pull",
+  "scene": "home",
+  "action": "{MOTHER} standing calmly in the middle of a busy dining room full of ten children of different sizes",
+  "image": "images/beat_009.png"
+ },
+ {
+  "beat": 10,
+  "start": 34.167,
+  "dur": 4.583,
+  "text": "children with the calm of a general. You are number five.",
+  "motion": "push",
+  "scene": "home",
+  "action": "the ten children lined up by height, {YOU6} fifth in line, a large number 5 floating above him",
+  "image": "images/beat_010.png"
+ },
+ {
+  "beat": 11,
+  "start": 38.75,
+  "dur": 3.333,
+  "text": "Being number five teaches you one thing early.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{YOU6} squeezed in the middle of a noisy dinner table, nobody looking at him",
+  "image": "images/beat_011.png"
+ },
+ {
+  "beat": 12,
+  "start": 42.083,
+  "dur": 4.583,
+  "text": "If you want to be heard, you have to be loud.",
+  "motion": "fade",
+  "scene": "home",
+  "action": "{YOU6} standing on a chair shouting, speech lines bursting from his mouth",
+  "image": "images/beat_012.png"
+ },
+ {
+  "beat": 13,
+  "start": 46.666,
+  "dur": 1.25,
+  "text": "You are loud.",
+  "motion": "push",
+  "scene": "home",
+  "action": "the whole family flinching and covering their ears as {YOU6} shouts",
+  "image": "images/beat_013.png"
+ },
+ {
+  "beat": 14,
+  "start": 47.916,
+  "dur": 3.75,
+  "text": "By age 6, you are correcting the customers' arithmetic.",
+  "motion": "pull",
+  "scene": "shop",
+  "action": "{YOU6} standing on a stool pointing at a customer's receipt, the customer embarrassed",
+  "image": "images/beat_014.png"
+ },
+ {
+  "beat": 15,
+  "start": 51.666,
+  "dur": 4.583,
+  "text": "By age 9, you are correcting your tutors. By age 12,",
+  "motion": "push",
+  "scene": "home",
+  "action": "{YOU9} correcting a tutor's chalkboard sum, the tutor frowning",
+  "image": "images/beat_015.png"
+ },
+ {
+  "beat": 16,
+  "start": 56.249,
+  "dur": 2.917,
+  "text": "you have learned that being right and",
+  "motion": "push",
+  "scene": "home",
+  "action": "{YOU12} sitting alone at a desk with a book",
+  "image": "images/beat_016.png"
+ },
+ {
+  "beat": 17,
+  "start": 59.166,
+  "dur": 2.917,
+  "text": "being liked are two completely different things,",
+  "motion": "pan",
+  "scene": "home",
+  "action": "an inset of two signposts, one reading RIGHT, one reading LIKED",
+  "image": "images/beat_017.png"
+ },
+ {
+  "beat": 18,
+  "start": 62.083,
+  "dur": 2.5,
+  "text": "and you have chosen being right.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{YOU12} firmly pointing at the RIGHT signpost, arms crossed",
+  "image": "images/beat_018.png"
+ },
+ {
+  "beat": 19,
+  "start": 64.583,
+  "dur": 2.917,
+  "text": "Your mother tells you that one day",
+  "motion": "pull",
+  "scene": "home",
+  "action": "{MOTHER} wagging a finger at {YOU12} in the kitchen",
+  "image": "images/beat_019.png"
+ },
+ {
+  "beat": 20,
+  "start": 67.5,
+  "dur": 2.917,
+  "text": "your mouth will cost you something important.",
+  "motion": "push",
+  "scene": "home",
+  "action": "close-up of {MOTHER}'s gentle, knowing face",
+  "image": "images/beat_020.png"
+ },
+ {
+  "beat": 21,
+  "start": 70.417,
+  "dur": 4.583,
+  "text": "You tell her that one day she'll be wrong. She laughs.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{YOU12} answering back, {MOTHER} laughing",
+  "image": "images/beat_021.png"
+ },
+ {
+  "beat": 22,
+  "start": 75.0,
+  "dur": 1.2,
+  "text": "You don't.",
+  "motion": "pan",
+  "scene": "home",
+  "action": "{YOU12} with a perfectly straight face, not laughing",
+  "image": "images/beat_022.png"
+ },
+ {
+  "beat": 23,
+  "start": 76.2,
+  "dur": 2.917,
+  "text": "Your father has a plan for you.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{FATHER} unrolling a plan on the shop counter, {YOU12} beside him",
+  "image": "images/beat_023.png"
+ },
+ {
+  "beat": 24,
+  "start": 79.117,
+  "dur": 3.75,
+  "text": "You will become a lawyer, a respectable Austrian lawyer,",
+  "motion": "pull",
+  "scene": "shop",
+  "action": "a thought bubble above {FATHER} showing a stern lawyer in a white wig at a grand desk",
+  "image": "images/beat_024.png"
+ },
+ {
+  "beat": 25,
+  "start": 82.867,
+  "dur": 2.917,
+  "text": "with a respectable office and respectable clients",
+  "motion": "push",
+  "scene": "shop",
+  "action": "an inset of a tidy law office with clients bowing and paying coins",
+  "image": "images/beat_025.png"
+ },
+ {
+  "beat": 26,
+  "start": 85.784,
+  "dur": 2.5,
+  "text": "who pay their bills on time.",
+  "motion": "fade",
+  "scene": "shop",
+  "action": "an inset of a neat ledger stamped PAID IN FULL",
+  "image": "images/beat_026.png"
+ },
+ {
+  "beat": 27,
+  "start": 88.284,
+  "dur": 4.583,
+  "text": "So in 1837, at age 19, he sends you to Vienna,",
+  "motion": "pan",
+  "scene": "vienna",
+  "action": "{YOU19} arriving in Vienna on a coach, St Stephen's Cathedral spire on the skyline",
+  "image": "images/beat_027.png"
+ },
+ {
+  "beat": 28,
+  "start": 92.867,
+  "dur": 3.75,
+  "text": "the capital of the Austrian Empire, to study law.",
+  "motion": "push",
+  "scene": "vienna",
+  "action": "a grand Vienna boulevard in the 1830s with palaces and carriages",
+  "image": "images/beat_028.png"
+ },
+ {
+  "beat": 29,
+  "start": 96.617,
+  "dur": 2.083,
+  "text": "You last about a year.",
+  "motion": "pull",
+  "scene": "vienna",
+  "action": "{YOU19} yawning over a thick law book, a calendar flipping one year",
+  "image": "images/beat_029.png"
+ },
+ {
+  "beat": 30,
+  "start": 98.7,
+  "dur": 2.917,
+  "text": "One afternoon, a friend drags you into",
+  "motion": "push",
+  "scene": "vienna",
+  "action": "a friend tugging {YOU19} by the arm through a university doorway",
+  "image": "images/beat_030.png"
+ },
+ {
+  "beat": 31,
+  "start": 101.617,
+  "dur": 2.917,
+  "text": "a lecture hall at the medical school.",
+  "motion": "push",
+  "scene": "lecture",
+  "action": "a steep tiered anatomy lecture theatre with students on wooden benches",
+  "image": "images/beat_031.png"
+ },
+ {
+  "beat": 32,
+  "start": 104.534,
+  "dur": 2.5,
+  "text": "There's a body on the table.",
+  "motion": "pan",
+  "scene": "lecture",
+  "action": "a shape under a white sheet on a dissection table in the centre",
+  "image": "images/beat_032.png"
+ },
+ {
+  "beat": 33,
+  "start": 107.034,
+  "dur": 3.75,
+  "text": "A professor is taking it apart, piece by piece,",
+  "motion": "push",
+  "scene": "lecture",
+  "action": "an old professor lecturing beside the sheet-covered table, pointing at an anatomical chart",
+  "image": "images/beat_033.png"
+ },
+ {
+  "beat": 34,
+  "start": 110.784,
+  "dur": 5.0,
+  "text": "explaining how each part failed. The room smells of vinegar and rot.",
+  "motion": "pull",
+  "scene": "lecture",
+  "action": "the professor gesturing at a chart labelled CAUSE, students holding noses, green smell lines",
+  "image": "images/beat_034.png"
+ },
+ {
+  "beat": 35,
+  "start": 115.784,
+  "dur": 2.917,
+  "text": "Students are fainting in the back rows.",
+  "motion": "push",
+  "scene": "lecture",
+  "action": "students in the back rows fainting one by one like dominoes",
+  "image": "images/beat_035.png"
+ },
+ {
+  "beat": 36,
+  "start": 118.701,
+  "dur": 2.5,
+  "text": "You don't faint. You lean forward.",
+  "motion": "fade",
+  "scene": "lecture",
+  "action": "{YOU19} leaning forward eagerly in the front row, eyes wide",
+  "image": "images/beat_036.png"
+ },
+ {
+  "beat": 37,
+  "start": 121.201,
+  "dur": 2.917,
+  "text": "For the first time in your life,",
+  "motion": "pan",
+  "scene": "lecture",
+  "action": "close-up of {YOU19}'s face lit with a sudden idea",
+  "image": "images/beat_037.png"
+ },
+ {
+  "beat": 38,
+  "start": 124.118,
+  "dur": 3.333,
+  "text": "you're looking at something that can't argue back.",
+  "motion": "push",
+  "scene": "lecture",
+  "action": "{YOU19} staring at the chart while the professor talks, a thought bubble of a body diagram",
+  "image": "images/beat_038.png"
+ },
+ {
+  "beat": 39,
+  "start": 127.451,
+  "dur": 5.0,
+  "text": "The body doesn't have opinions. It just has evidence. Causes and effects.",
+  "motion": "pull",
+  "scene": "lecture",
+  "action": "an inset of a chart with arrows from CAUSE to EFFECT",
+  "image": "images/beat_039.png"
+ },
+ {
+  "beat": 40,
+  "start": 132.451,
+  "dur": 4.167,
+  "text": "Questions with answers. You walk out of that room and",
+  "motion": "shake",
+  "scene": "vienna",
+  "action": "{YOU19} striding out of the lecture hall, tossing a law book over his shoulder",
+  "image": "images/beat_040.png"
+ },
+ {
+  "beat": 41,
+  "start": 136.618,
+  "dur": 2.5,
+  "text": "never go back to law school.",
+  "motion": "push",
+  "scene": "vienna",
+  "action": "a law school door behind him, the law book landing in a puddle",
+  "image": "images/beat_041.png"
+ },
+ {
+  "beat": 42,
+  "start": 139.118,
+  "dur": 5.0,
+  "text": "Your father is not thrilled. But you're the fifth child of ten.",
+  "motion": "pan",
+  "scene": "shop",
+  "action": "{FATHER} reading a letter, his face falling",
+  "image": "images/beat_042.png"
+ },
+ {
+  "beat": 43,
+  "start": 144.118,
+  "dur": 3.333,
+  "text": "He has other sons to be proud of.",
+  "motion": "shake",
+  "scene": "shop",
+  "action": "{FATHER} glancing at a family portrait of his other sons, sighing",
+  "image": "images/beat_043.png"
+ },
+ {
+  "beat": 44,
+  "start": 147.451,
+  "dur": 4.167,
+  "text": "Years pass, and in 1844, you earn your medical degree.",
+  "motion": "pull",
+  "scene": "lecture",
+  "action": "{YOU} receiving a rolled diploma in a lecture hall, 1844 written on a banner",
+  "image": "images/beat_044.png"
+ },
+ {
+  "beat": 45,
+  "start": 151.618,
+  "dur": 4.167,
+  "text": "Two years later, you land the job of your dreams.",
+  "motion": "shake",
+  "scene": "hospext",
+  "action": "{YOU} standing at the gate of the vast Vienna General Hospital, chest puffed",
+  "image": "images/beat_045.png"
+ },
+ {
+  "beat": 46,
+  "start": 155.785,
+  "dur": 5.0,
+  "text": "Assistant physician at the First Obstetric Clinic of the Vienna General Hospital.",
+  "motion": "push",
+  "scene": "hospext",
+  "action": "a brass plaque reading FIRST OBSTETRIC CLINIC beside a doorway, {YOU} admiring it",
+  "image": "images/beat_046.png"
+ },
+ {
+  "beat": 47,
+  "start": 160.785,
+  "dur": 2.917,
+  "text": "The biggest maternity hospital in the world.",
+  "motion": "pan",
+  "scene": "hospext",
+  "action": "a high-angle view of the enormous hospital with many courtyards and buildings",
+  "image": "images/beat_047.png"
+ },
+ {
+  "beat": 48,
+  "start": 163.702,
+  "dur": 4.167,
+  "text": "The first month is disorienting in the best possible way.",
+  "motion": "push",
+  "scene": "corridor",
+  "action": "{YOU} walking through a long hospital corridor, grinning",
+  "image": "images/beat_048.png"
+ },
+ {
+  "beat": 49,
+  "start": 167.869,
+  "dur": 3.75,
+  "text": "The hospital is enormous, a city within a city,",
+  "motion": "shake",
+  "scene": "hospext",
+  "action": "courtyards, a chapel and rows of windows, tiny figures everywhere",
+  "image": "images/beat_049.png"
+ },
+ {
+  "beat": 50,
+  "start": 171.619,
+  "dur": 5.0,
+  "text": "with courtyards and chapels and thousands of beds. You have a salary.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} counting a small purse of coins at a desk",
+  "image": "images/beat_050.png"
+ },
+ {
+  "beat": 51,
+  "start": 176.619,
+  "dur": 5.0,
+  "text": "You have a title. You have a room in the hospital itself.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} admiring a nameplate on his own small room door",
+  "image": "images/beat_051.png"
+ },
+ {
+  "beat": 52,
+  "start": 181.619,
+  "dur": 3.333,
+  "text": "Students follow you down the corridors taking notes.",
+  "motion": "pan",
+  "scene": "corridor",
+  "action": "a line of students following {YOU} down the corridor, scribbling notes",
+  "image": "images/beat_052.png"
+ },
+ {
+  "beat": 53,
+  "start": 184.952,
+  "dur": 3.333,
+  "text": "Your mother writes to tell you the whole",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} reading a letter from home, smiling",
+  "image": "images/beat_053.png"
+ },
+ {
+  "beat": 54,
+  "start": 188.285,
+  "dur": 2.917,
+  "text": "neighbourhood back home is talking about you.",
+  "motion": "pull",
+  "scene": "buda",
+  "action": "an inset of neighbours gossiping excitedly outside the grocery shop",
+  "image": "images/beat_054.png"
+ },
+ {
+  "beat": 55,
+  "start": 191.202,
+  "dur": 4.167,
+  "text": "You decide that this was absolutely worth disappointing your father.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} leaning back in his chair, hands behind his head, satisfied",
+  "image": "images/beat_055.png"
+ },
+ {
+  "beat": 56,
+  "start": 195.369,
+  "dur": 2.083,
+  "text": "Your days have a rhythm.",
+  "motion": "push",
+  "scene": "office",
+  "action": "a wall clock and a daily schedule pinned to the wall",
+  "image": "images/beat_056.png"
+ },
+ {
+  "beat": 57,
+  "start": 197.452,
+  "dur": 5.0,
+  "text": "In the morning, before dawn, you go down to the dead house,",
+  "motion": "pan",
+  "scene": "stairs",
+  "action": "{YOU} carrying a lantern down dark stone steps before dawn",
+  "image": "images/beat_057.png"
+ },
+ {
+  "beat": 58,
+  "start": 202.452,
+  "dur": 4.583,
+  "text": "the hospital morgue, where you and the students perform autopsies on",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "the hospital morgue: stone tables with shapes under white sheets, students gathered, lanterns",
+  "image": "images/beat_058.png"
+ },
+ {
+  "beat": 59,
+  "start": 207.035,
+  "dur": 4.583,
+  "text": "the women who died the day before. You study their organs.",
+  "motion": "pull",
+  "scene": "deadhouse",
+  "action": "{YOU} and students around a sheet-covered table, a medical chart held up",
+  "image": "images/beat_059.png"
+ },
+ {
+  "beat": 60,
+  "start": 211.618,
+  "dur": 3.333,
+  "text": "You take notes. You learn. Then, around nine,",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "{YOU} writing in a notebook by lantern light",
+  "image": "images/beat_060.png"
+ },
+ {
+  "beat": 61,
+  "start": 214.951,
+  "dur": 3.333,
+  "text": "you walk upstairs to the maternity wards to",
+  "motion": "push",
+  "scene": "stairs",
+  "action": "{YOU} climbing the staircase from the morgue, a clock showing nine",
+  "image": "images/beat_061.png"
+ },
+ {
+  "beat": 62,
+  "start": 218.284,
+  "dur": 2.917,
+  "text": "examine the women who are still alive.",
+  "motion": "pan",
+  "scene": "ward1",
+  "action": "{YOU} entering the maternity ward with rows of iron beds and women under grey blankets, cradles beside them",
+  "image": "images/beat_062.png"
+ },
+ {
+  "beat": 63,
+  "start": 221.201,
+  "dur": 5.0,
+  "text": "You don't wash your hands in between. Nobody does. Why would you?",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "close-up of {YOU} wiping his stick hands on his dark coat",
+  "image": "images/beat_063.png"
+ },
+ {
+  "beat": 64,
+  "start": 226.201,
+  "dur": 1.667,
+  "text": "There's no reason to.",
+  "motion": "pull",
+  "scene": "ward1",
+  "action": "a group of doctors shrugging at the idea of a washbasin",
+  "image": "images/beat_064.png"
+ },
+ {
+  "beat": 65,
+  "start": 227.868,
+  "dur": 4.583,
+  "text": "You wipe them on your coat, like every doctor in Europe.",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "every doctor in the ward wiping their hands on their coats",
+  "image": "images/beat_065.png"
+ },
+ {
+  "beat": 66,
+  "start": 232.451,
+  "dur": 5.0,
+  "text": "You don't know it yet, but that walk up the stairs is",
+  "motion": "push",
+  "scene": "stairs",
+  "action": "a low-angle view of the staircase from the morgue to the wards glowing faintly red",
+  "image": "images/beat_066.png"
+ },
+ {
+  "beat": 67,
+  "start": 237.451,
+  "dur": 2.5,
+  "text": "the most dangerous walk in Vienna.",
+  "motion": "pan",
+  "scene": "stairs",
+  "action": "an inset of the staircase labelled THE MOST DANGEROUS WALK IN VIENNA",
+  "image": "images/beat_067.png"
+ },
+ {
+  "beat": 68,
+  "start": 239.951,
+  "dur": 2.083,
+  "text": "Then the women start begging.",
+  "motion": "push",
+  "scene": "gate",
+  "action": "women in labour arriving at the hospital gate, faces frightened",
+  "image": "images/beat_068.png"
+ },
+ {
+  "beat": 69,
+  "start": 242.034,
+  "dur": 2.5,
+  "text": "It happens on your second week.",
+  "motion": "pull",
+  "scene": "gate",
+  "action": "a calendar showing week two beside the hospital gate",
+  "image": "images/beat_069.png"
+ },
+ {
+  "beat": 70,
+  "start": 244.534,
+  "dur": 4.167,
+  "text": "A young woman arrives at the hospital gate in labour,",
+  "motion": "push",
+  "scene": "gate",
+  "action": "{ANNA} at the gate, holding her belly, looking terrified",
+  "image": "images/beat_070.png"
+ },
+ {
+  "beat": 71,
+  "start": 248.701,
+  "dur": 4.167,
+  "text": "holding her belly, and when the porter tells her she's",
+  "motion": "push",
+  "scene": "gate",
+  "action": "{PORTER} pointing toward a door marked FIRST CLINIC",
+  "image": "images/beat_071.png"
+ },
+ {
+  "beat": 72,
+  "start": 252.868,
+  "dur": 2.5,
+  "text": "been assigned to the First Clinic,",
+  "motion": "pan",
+  "scene": "gate",
+  "action": "a doorway sign reading FIRST CLINIC, the shadow of {ANNA} falling across it",
+  "image": "images/beat_072.png"
+ },
+ {
+  "beat": 73,
+  "start": 255.368,
+  "dur": 4.583,
+  "text": "your clinic, she drops to her knees. She grabs your coat.",
+  "motion": "fade",
+  "scene": "gate",
+  "action": "{ANNA} on her knees clutching {YOU}'s coat",
+  "image": "images/beat_073.png"
+ },
+ {
+  "beat": 74,
+  "start": 259.951,
+  "dur": 5.0,
+  "text": "She cries and pleads and begs you to send her anywhere else.",
+  "motion": "pull",
+  "scene": "gate",
+  "action": "close-up of {ANNA} crying and pleading",
+  "image": "images/beat_074.png"
+ },
+ {
+  "beat": 75,
+  "start": 264.951,
+  "dur": 2.5,
+  "text": "The Second Clinic. The street. Anywhere.",
+  "motion": "push",
+  "scene": "gate",
+  "action": "{ANNA} pointing frantically toward a door marked SECOND CLINIC and the street",
+  "image": "images/beat_075.png"
+ },
+ {
+  "beat": 76,
+  "start": 267.451,
+  "dur": 5.0,
+  "text": "You're confused. You ask the porter what's wrong with her. He shrugs.",
+  "motion": "push",
+  "scene": "gate",
+  "action": "{YOU} glancing at {PORTER}, who shrugs",
+  "image": "images/beat_076.png"
+ },
+ {
+  "beat": 77,
+  "start": 272.451,
+  "dur": 2.5,
+  "text": "They all do that, he says.",
+  "motion": "pan",
+  "scene": "gate",
+  "action": "{PORTER} with a bored shrug",
+  "image": "images/beat_077.png"
+ },
+ {
+  "beat": 78,
+  "start": 274.951,
+  "dur": 2.5,
+  "text": "You find out why that night.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} at his desk at night with a candle, opening ledgers",
+  "image": "images/beat_078.png"
+ },
+ {
+  "beat": 79,
+  "start": 277.451,
+  "dur": 4.583,
+  "text": "The Vienna General Hospital has two maternity clinics, side by side,",
+  "motion": "pull",
+  "scene": "hospext",
+  "action": "a cutaway diagram of the hospital building with two wings labelled FIRST CLINIC and SECOND CLINIC",
+  "image": "images/beat_079.png"
+ },
+ {
+  "beat": 80,
+  "start": 282.034,
+  "dur": 3.333,
+  "text": "sharing the same building and the same entrance.",
+  "motion": "push",
+  "scene": "hospext",
+  "action": "a shared entrance with two arrows splitting left and right",
+  "image": "images/beat_080.png"
+ },
+ {
+  "beat": 81,
+  "start": 285.367,
+  "dur": 3.333,
+  "text": "Women are admitted to them on alternate days.",
+  "motion": "push",
+  "scene": "gate",
+  "action": "an inset of a calendar with alternating days coloured red and blue",
+  "image": "images/beat_081.png"
+ },
+ {
+  "beat": 82,
+  "start": 288.7,
+  "dur": 3.333,
+  "text": "The only real difference is who works there.",
+  "motion": "pan",
+  "scene": "ward2",
+  "action": "a split frame: midwives on one side, doctors on the other",
+  "image": "images/beat_082.png"
+ },
+ {
+  "beat": 83,
+  "start": 292.033,
+  "dur": 2.917,
+  "text": "The Second Clinic is run by midwives.",
+  "motion": "push",
+  "scene": "ward2",
+  "action": "the Second Clinic ward with calm midwives tending women in beds",
+  "image": "images/beat_083.png"
+ },
+ {
+  "beat": 84,
+  "start": 294.95,
+  "dur": 5.0,
+  "text": "The First Clinic, your clinic, is run by doctors and medical students.",
+  "motion": "pull",
+  "scene": "ward1",
+  "action": "the First Clinic ward with doctors and students crowding around beds",
+  "image": "images/beat_084.png"
+ },
+ {
+  "beat": 85,
+  "start": 299.95,
+  "dur": 2.917,
+  "text": "And in your clinic, the mothers die.",
+  "motion": "shake",
+  "scene": "ward1",
+  "action": "empty beds with sheets pulled up in the First Clinic, flowers left on a pillow",
+  "image": "images/beat_085.png"
+ },
+ {
+  "beat": 86,
+  "start": 302.867,
+  "dur": 3.333,
+  "text": "Not a few of them. In some months,",
+  "motion": "push",
+  "scene": "office",
+  "action": "an inset of a ledger page with a growing column of crosses",
+  "image": "images/beat_086.png"
+ },
+ {
+  "beat": 87,
+  "start": 306.2,
+  "dur": 3.333,
+  "text": "one in every ten women who gives birth",
+  "motion": "pan",
+  "scene": "office",
+  "action": "an inset of ten small figures, one greyed out",
+  "image": "images/beat_087.png"
+ },
+ {
+  "beat": 88,
+  "start": 309.533,
+  "dur": 2.917,
+  "text": "in your wards dies of childbed fever.",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "an inset bar labelled CHILDBED FEVER beside a ward of beds",
+  "image": "images/beat_088.png"
+ },
+ {
+  "beat": 89,
+  "start": 312.45,
+  "dur": 3.333,
+  "text": "Some months, it's closer to one in three.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "an inset of three small figures, one greyed out",
+  "image": "images/beat_089.png"
+ },
+ {
+  "beat": 90,
+  "start": 315.783,
+  "dur": 3.333,
+  "text": "They give birth to healthy babies, and then,",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "a mother in bed holding a swaddled healthy baby, smiling",
+  "image": "images/beat_090.png"
+ },
+ {
+  "beat": 91,
+  "start": 319.116,
+  "dur": 5.0,
+  "text": "a day or two later, the fever comes. The chills. The swelling.",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "the same mother shivering under blankets, sweat drops",
+  "image": "images/beat_091.png"
+ },
+ {
+  "beat": 92,
+  "start": 324.116,
+  "dur": 3.333,
+  "text": "The pain. And within a week, they're gone.",
+  "motion": "pan",
+  "scene": "ward1",
+  "action": "the same bed empty, the baby in a cradle alone, a nurse standing by",
+  "image": "images/beat_092.png"
+ },
+ {
+  "beat": 93,
+  "start": 327.449,
+  "dur": 4.583,
+  "text": "In the Second Clinic, run by midwives with half your training,",
+  "motion": "push",
+  "scene": "ward2",
+  "action": "a midwife calmly tending a smiling mother in the Second Clinic",
+  "image": "images/beat_093.png"
+ },
+ {
+  "beat": 94,
+  "start": 332.032,
+  "dur": 3.333,
+  "text": "the death rate is a fraction of yours.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "an inset bar chart: a tall red bar for First Clinic, a short blue bar for Second Clinic",
+  "image": "images/beat_094.png"
+ },
+ {
+  "beat": 95,
+  "start": 335.365,
+  "dur": 2.083,
+  "text": "Everyone in Vienna knows this.",
+  "motion": "push",
+  "scene": "vienna",
+  "action": "Viennese townsfolk whispering in the street, pointing toward the hospital",
+  "image": "images/beat_095.png"
+ },
+ {
+  "beat": 96,
+  "start": 337.448,
+  "dur": 5.0,
+  "text": "The poor women know it best of all. That's why they beg.",
+  "motion": "push",
+  "scene": "vienna",
+  "action": "poor women in shawls whispering fearfully together",
+  "image": "images/beat_096.png"
+ },
+ {
+  "beat": 97,
+  "start": 342.448,
+  "dur": 3.75,
+  "text": "Some of them deliberately give birth in the street",
+  "motion": "pan",
+  "scene": "street",
+  "action": "a woman sitting in a doorway outside the hospital holding a newborn bundle",
+  "image": "images/beat_097.png"
+ },
+ {
+  "beat": 98,
+  "start": 346.198,
+  "dur": 3.75,
+  "text": "outside, in carriages, in doorways, so they can arrive",
+  "motion": "push",
+  "scene": "street",
+  "action": "a woman in a carriage holding a swaddled baby, the carriage parked at the hospital gate",
+  "image": "images/beat_098.png"
+ },
+ {
+  "beat": 99,
+  "start": 349.948,
+  "dur": 5.0,
+  "text": "with a baby already in their arms. And here's the strange part.",
+  "motion": "pull",
+  "scene": "street",
+  "action": "a woman walking through the gate already holding her baby, {PORTER} raising an eyebrow",
+  "image": "images/beat_099.png"
+ },
+ {
+  "beat": 100,
+  "start": 354.948,
+  "dur": 2.917,
+  "text": "Even the women who give birth in",
+  "motion": "push",
+  "scene": "street",
+  "action": "women with babies in the street looking healthy and rosy",
+  "image": "images/beat_100.png"
+ },
+ {
+  "beat": 101,
+  "start": 357.865,
+  "dur": 2.917,
+  "text": "the gutter almost never catch the fever.",
+  "motion": "push",
+  "scene": "office",
+  "action": "an inset of a ledger column labelled STREET BIRTHS with almost no crosses",
+  "image": "images/beat_101.png"
+ },
+ {
+  "beat": 102,
+  "start": 360.782,
+  "dur": 2.5,
+  "text": "You can't stop thinking about it.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} staring at the ledgers, eyes wide, candle burning low",
+  "image": "images/beat_102.png"
+ },
+ {
+  "beat": 103,
+  "start": 363.282,
+  "dur": 2.917,
+  "text": "You think about the woman who grabbed",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} remembering, a thought bubble of {ANNA} clutching his coat",
+  "image": "images/beat_103.png"
+ },
+ {
+  "beat": 104,
+  "start": 366.199,
+  "dur": 4.167,
+  "text": "your coat on your second week. Her name was Anna.",
+  "motion": "pull",
+  "scene": "gate",
+  "action": "close-up of {ANNA}'s face, a name label ANNA",
+  "image": "images/beat_104.png"
+ },
+ {
+  "beat": 105,
+  "start": 370.366,
+  "dur": 2.917,
+  "text": "She was a laundress, twenty years old,",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "{ANNA} in bed holding a swaddled baby boy",
+  "image": "images/beat_105.png"
+ },
+ {
+  "beat": 106,
+  "start": 373.283,
+  "dur": 4.167,
+  "text": "and she had a healthy baby boy, loud and red-faced.",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "a red-faced baby boy crying loudly in a cradle",
+  "image": "images/beat_106.png"
+ },
+ {
+  "beat": 107,
+  "start": 377.45,
+  "dur": 1.667,
+  "text": "You delivered him yourself.",
+  "motion": "pan",
+  "scene": "ward1",
+  "action": "{YOU} handing the swaddled baby to {ANNA}",
+  "image": "images/beat_107.png"
+ },
+ {
+  "beat": 108,
+  "start": 379.117,
+  "dur": 4.167,
+  "text": "She smiled at you afterward, as if to say, see,",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "{ANNA} smiling up at {YOU}",
+  "image": "images/beat_108.png"
+ },
+ {
+  "beat": 109,
+  "start": 383.284,
+  "dur": 2.083,
+  "text": "I was worried for nothing.",
+  "motion": "pull",
+  "scene": "ward1",
+  "action": "{ANNA} giving a small relieved laugh",
+  "image": "images/beat_109.png"
+ },
+ {
+  "beat": 110,
+  "start": 385.367,
+  "dur": 2.917,
+  "text": "Three days later, she had the fever.",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "{ANNA} shivering in bed, sweat drops, the baby crying in the cradle",
+  "image": "images/beat_110.png"
+ },
+ {
+  "beat": 111,
+  "start": 388.284,
+  "dur": 3.333,
+  "text": "Five days later, you signed her death certificate.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} signing a death certificate at his desk, quill trembling",
+  "image": "images/beat_111.png"
+ },
+ {
+  "beat": 112,
+  "start": 391.617,
+  "dur": 4.583,
+  "text": "Her son was sent to the foundling home across the street.",
+  "motion": "pan",
+  "scene": "street",
+  "action": "a nun carrying a swaddled baby across the street to a building marked FOUNDLING HOME",
+  "image": "images/beat_112.png"
+ },
+ {
+  "beat": 113,
+  "start": 396.2,
+  "dur": 5.0,
+  "text": "You keep the certificate in your desk drawer. You don't know why.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} placing the folded certificate into a desk drawer",
+  "image": "images/beat_113.png"
+ },
+ {
+  "beat": 114,
+  "start": 401.2,
+  "dur": 2.083,
+  "text": "The senior doctors have explanations.",
+  "motion": "pull",
+  "scene": "corridor",
+  "action": "a group of senior doctors talking importantly in a corridor",
+  "image": "images/beat_114.png"
+ },
+ {
+  "beat": 115,
+  "start": 403.283,
+  "dur": 5.0,
+  "text": "Miasma, bad air drifting in from the city. Overcrowding. The women's fear.",
+  "motion": "push",
+  "scene": "corridor",
+  "action": "an inset of a green fog drifting over Vienna labelled MIASMA, crowded wards, a frightened face",
+  "image": "images/beat_115.png"
+ },
+ {
+  "beat": 116,
+  "start": 408.283,
+  "dur": 4.167,
+  "text": "Their modesty, offended by male doctors. Cosmic influences. Atmospheric conditions.",
+  "motion": "push",
+  "scene": "corridor",
+  "action": "an inset of planets and stars labelled COSMIC INFLUENCES",
+  "image": "images/beat_116.png"
+ },
+ {
+  "beat": 117,
+  "start": 412.45,
+  "dur": 2.917,
+  "text": "Your boss, Professor Johann Klein, a stiff,",
+  "motion": "pan",
+  "scene": "corridor",
+  "action": "{KLEIN} standing stiffly in the corridor",
+  "image": "images/beat_117.png"
+ },
+ {
+  "beat": 118,
+  "start": 415.367,
+  "dur": 3.75,
+  "text": "careful man who has run the clinic for years,",
+  "motion": "push",
+  "scene": "corridor",
+  "action": "close-up of {KLEIN}'s stern face",
+  "image": "images/beat_118.png"
+ },
+ {
+  "beat": 119,
+  "start": 419.117,
+  "dur": 3.75,
+  "text": "tells you it's simply the nature of the place.",
+  "motion": "fade",
+  "scene": "corridor",
+  "action": "{KLEIN} waving a stick arm dismissively at {YOU}",
+  "image": "images/beat_119.png"
+ },
+ {
+  "beat": 120,
+  "start": 422.867,
+  "dur": 1.667,
+  "text": "Some clinics are unlucky.",
+  "motion": "shake",
+  "scene": "corridor",
+  "action": "{KLEIN} with a small shrug, a speech bubble with a horseshoe and a black cat",
+  "image": "images/beat_120.png"
+ },
+ {
+  "beat": 121,
+  "start": 424.534,
+  "dur": 3.75,
+  "text": "But the air is the same in both clinics.",
+  "motion": "shake",
+  "scene": "hospext",
+  "action": "a split view of both clinics under the same sky",
+  "image": "images/beat_121.png"
+ },
+ {
+  "beat": 122,
+  "start": 428.284,
+  "dur": 4.167,
+  "text": "The building is the same. The weather is the same.",
+  "motion": "pan",
+  "scene": "hospext",
+  "action": "identical weather symbols over both wings",
+  "image": "images/beat_122.png"
+ },
+ {
+  "beat": 123,
+  "start": 432.451,
+  "dur": 2.917,
+  "text": "The numbers don't lie. Something is different.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} tapping the bar chart with one stick finger",
+  "image": "images/beat_123.png"
+ },
+ {
+  "beat": 124,
+  "start": 435.368,
+  "dur": 4.167,
+  "text": "And you are going to find out what it is.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} rolling up his sleeves, jaw set",
+  "image": "images/beat_124.png"
+ },
+ {
+  "beat": 125,
+  "start": 439.535,
+  "dur": 4.167,
+  "text": "Your only real friend at the hospital is Jakob Kolletschka.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "{KOLL} humming in the morgue, music notes floating",
+  "image": "images/beat_125.png"
+ },
+ {
+  "beat": 126,
+  "start": 443.702,
+  "dur": 4.583,
+  "text": "He's a professor of forensic medicine, fifteen years older than you,",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "close-up of {KOLL} smiling, a name label KOLLETSCHKA",
+  "image": "images/beat_126.png"
+ },
+ {
+  "beat": 127,
+  "start": 448.285,
+  "dur": 1.25,
+  "text": "with a round,",
+  "motion": "pan",
+  "scene": "deadhouse",
+  "action": "{KOLL}'s round cheerful face",
+  "image": "images/beat_127.png"
+ },
+ {
+  "beat": 128,
+  "start": 449.535,
+  "dur": 4.583,
+  "text": "cheerful face and a habit of humming opera badly during autopsies.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "{KOLL} humming opera beside a sheet-covered table, wobbly off-key music notes",
+  "image": "images/beat_128.png"
+ },
+ {
+  "beat": 129,
+  "start": 454.118,
+  "dur": 3.75,
+  "text": "He's the only senior doctor who doesn't roll his",
+  "motion": "pull",
+  "scene": "corridor",
+  "action": "senior doctors rolling their eyes at {YOU}",
+  "image": "images/beat_129.png"
+ },
+ {
+  "beat": 130,
+  "start": 457.868,
+  "dur": 3.333,
+  "text": "eyes when you start talking about your numbers.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{KOLL} listening intently while {YOU} talks about numbers",
+  "image": "images/beat_130.png"
+ },
+ {
+  "beat": 131,
+  "start": 461.201,
+  "dur": 5.0,
+  "text": "Instead, he pours you a drink and tells you to talk slower.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{KOLL} pouring two small glasses of brandy, motioning {YOU} to slow down",
+  "image": "images/beat_131.png"
+ },
+ {
+  "beat": 132,
+  "start": 466.201,
+  "dur": 2.917,
+  "text": "He becomes your favourite person in Vienna.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} and {KOLL} clinking glasses",
+  "image": "images/beat_132.png"
+ },
+ {
+  "beat": 133,
+  "start": 469.118,
+  "dur": 2.917,
+  "text": "He's also the only person who can",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "{KOLL} and {YOU} sharing a grin across the morgue",
+  "image": "images/beat_133.png"
+ },
+ {
+  "beat": 134,
+  "start": 472.035,
+  "dur": 4.583,
+  "text": "make you laugh in the dead house. When a student faints,",
+  "motion": "pull",
+  "scene": "deadhouse",
+  "action": "a student fainting behind them",
+  "image": "images/beat_134.png"
+ },
+ {
+  "beat": 135,
+  "start": 476.618,
+  "dur": 4.583,
+  "text": "Kolletschka steps over him without missing a note of his opera.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "{KOLL} stepping over the fainted student, still humming",
+  "image": "images/beat_135.png"
+ },
+ {
+  "beat": 136,
+  "start": 481.201,
+  "dur": 3.75,
+  "text": "When Professor Klein gives a speech about atmospheric influences,",
+  "motion": "push",
+  "scene": "lecture",
+  "action": "{KLEIN} giving a pompous speech with a chart labelled ATMOSPHERIC INFLUENCES",
+  "image": "images/beat_136.png"
+ },
+ {
+  "beat": 137,
+  "start": 484.951,
+  "dur": 3.333,
+  "text": "Kolletschka leans over and whispers that the only",
+  "motion": "pan",
+  "scene": "lecture",
+  "action": "{KOLL} leaning over to whisper in {YOU}'s ear",
+  "image": "images/beat_137.png"
+ },
+ {
+  "beat": 138,
+  "start": 488.284,
+  "dur": 3.333,
+  "text": "atmospheric influence in this hospital is Klein's breath.",
+  "motion": "push",
+  "scene": "lecture",
+  "action": "an inset of wavy green breath lines coming from {KLEIN}'s mouth",
+  "image": "images/beat_138.png"
+ },
+ {
+  "beat": 139,
+  "start": 491.617,
+  "dur": 5.0,
+  "text": "You have to leave the room so no one sees your face.",
+  "motion": "pull",
+  "scene": "corridor",
+  "action": "{YOU} rushing out of the room, cheeks puffed, holding in laughter",
+  "image": "images/beat_139.png"
+ },
+ {
+  "beat": 140,
+  "start": 496.617,
+  "dur": 3.75,
+  "text": "Kolletschka teaches you how to read a body properly.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "{KOLL} pointing at an anatomical chart, {YOU} taking notes",
+  "image": "images/beat_140.png"
+ },
+ {
+  "beat": 141,
+  "start": 500.367,
+  "dur": 5.0,
+  "text": "How every organ tells a story if you're patient enough to listen.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "an inset of an anatomical chart with organs as open storybooks",
+  "image": "images/beat_141.png"
+ },
+ {
+  "beat": 142,
+  "start": 505.367,
+  "dur": 4.167,
+  "text": "In the evenings, the two of you walk along the",
+  "motion": "pan",
+  "scene": "canal",
+  "action": "{YOU} and {KOLL} walking along the Danube canal at dusk",
+  "image": "images/beat_142.png"
+ },
+ {
+  "beat": 143,
+  "start": 509.534,
+  "dur": 3.333,
+  "text": "Danube canal and argue about everything. Politics. Philosophy.",
+  "motion": "push",
+  "scene": "canal",
+  "action": "{YOU} and {KOLL} arguing with animated gestures, speech bubbles",
+  "image": "images/beat_143.png"
+ },
+ {
+  "beat": 144,
+  "start": 512.867,
+  "dur": 5.0,
+  "text": "Whether Viennese coffee is better than Hungarian coffee. He says it is.",
+  "motion": "pull",
+  "scene": "canal",
+  "action": "{KOLL} holding up a coffee cup with a Vienna flag, {YOU} one with a Hungarian flag",
+  "image": "images/beat_144.png"
+ },
+ {
+  "beat": 145,
+  "start": 517.867,
+  "dur": 5.0,
+  "text": "You tell him he's wrong. He says you think everyone is wrong.",
+  "motion": "push",
+  "scene": "canal",
+  "action": "{YOU} wagging a finger, {KOLL} laughing",
+  "image": "images/beat_145.png"
+ },
+ {
+  "beat": 146,
+  "start": 522.867,
+  "dur": 3.333,
+  "text": "You tell him that's because they usually are.",
+  "motion": "push",
+  "scene": "canal",
+  "action": "{YOU} with a smug deadpan expression",
+  "image": "images/beat_146.png"
+ },
+ {
+  "beat": 147,
+  "start": 526.2,
+  "dur": 5.0,
+  "text": "He laughs so hard he has to sit down on a bench.",
+  "motion": "pan",
+  "scene": "canal",
+  "action": "{KOLL} sitting on a bench, doubled over laughing",
+  "image": "images/beat_147.png"
+ },
+ {
+  "beat": 148,
+  "start": 531.2,
+  "dur": 4.167,
+  "text": "He tells you something one night that you never forget.",
+  "motion": "push",
+  "scene": "canal",
+  "action": "{KOLL} speaking seriously to {YOU} on the bench under lamplight",
+  "image": "images/beat_148.png"
+ },
+ {
+  "beat": 149,
+  "start": 535.367,
+  "dur": 2.917,
+  "text": "That a good doctor follows the evidence,",
+  "motion": "pull",
+  "scene": "canal",
+  "action": "close-up of {KOLL}'s earnest face",
+  "image": "images/beat_149.png"
+ },
+ {
+  "beat": 150,
+  "start": 538.284,
+  "dur": 3.333,
+  "text": "even when it leads somewhere ugly. Especially then.",
+  "motion": "push",
+  "scene": "canal",
+  "action": "{YOU} nodding slowly, lamplight in his eyes",
+  "image": "images/beat_150.png"
+ },
+ {
+  "beat": 151,
+  "start": 541.617,
+  "dur": 1.667,
+  "text": "You start testing everything.",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "{YOU} with a notebook, checklist floating beside him",
+  "image": "images/beat_151.png"
+ },
+ {
+  "beat": 152,
+  "start": 543.284,
+  "dur": 4.167,
+  "text": "You change the way women lie in bed during labour,",
+  "motion": "pan",
+  "scene": "ward1",
+  "action": "{YOU} rearranging pillows on a bed while a midwife looks on",
+  "image": "images/beat_152.png"
+ },
+ {
+  "beat": 153,
+  "start": 547.451,
+  "dur": 4.583,
+  "text": "to match the Second Clinic. Nothing changes. You improve ventilation. Nothing.",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "{YOU} opening a tall window, the ledger's red bar unchanged",
+  "image": "images/beat_153.png"
+ },
+ {
+  "beat": 154,
+  "start": 552.034,
+  "dur": 4.167,
+  "text": "You even convince the hospital priest to stop walking through",
+  "motion": "pull",
+  "scene": "corridor",
+  "action": "{PRIEST} walking through the ward ringing a small hand bell",
+  "image": "images/beat_154.png"
+ },
+ {
+  "beat": 155,
+  "start": 556.201,
+  "dur": 4.167,
+  "text": "your wards ringing his little bell before giving last rites,",
+  "motion": "push",
+  "scene": "corridor",
+  "action": "close-up of the small brass bell ringing, sound lines",
+  "image": "images/beat_155.png"
+ },
+ {
+  "beat": 156,
+  "start": 560.368,
+  "dur": 5.0,
+  "text": "in case the sound of it is frightening the mothers to death.",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "women in beds hiding under their blankets as the bell rings",
+  "image": "images/beat_156.png"
+ },
+ {
+  "beat": 157,
+  "start": 565.368,
+  "dur": 3.75,
+  "text": "He takes a different route. The women still die.",
+  "motion": "pan",
+  "scene": "corridor",
+  "action": "{PRIEST} taking a different corridor, a sign reading DETOUR; women still shivering in beds",
+  "image": "images/beat_157.png"
+ },
+ {
+  "beat": 158,
+  "start": 569.118,
+  "dur": 2.917,
+  "text": "Professor Klein starts watching you more closely.",
+  "motion": "push",
+  "scene": "corridor",
+  "action": "{KLEIN} watching {YOU} from a doorway, narrowed eyes",
+  "image": "images/beat_158.png"
+ },
+ {
+  "beat": 159,
+  "start": 572.035,
+  "dur": 4.167,
+  "text": "He doesn't like assistants who ask questions he can't answer.",
+  "motion": "pull",
+  "scene": "corridor",
+  "action": "close-up of {KLEIN}'s cold glare",
+  "image": "images/beat_159.png"
+ },
+ {
+  "beat": 160,
+  "start": 576.202,
+  "dur": 3.333,
+  "text": "In the spring of 1847, exhausted and frustrated,",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} slumped over ledgers, dark circles under his eyes, spring blossoms outside",
+  "image": "images/beat_160.png"
+ },
+ {
+  "beat": 161,
+  "start": 579.535,
+  "dur": 3.75,
+  "text": "you take a short holiday to Venice with friends.",
+  "motion": "push",
+  "scene": "venice",
+  "action": "{YOU} in a gondola on a Venice canal with two friends",
+  "image": "images/beat_161.png"
+ },
+ {
+  "beat": 162,
+  "start": 583.285,
+  "dur": 2.917,
+  "text": "You look at paintings. You eat well.",
+  "motion": "pan",
+  "scene": "venice",
+  "action": "{YOU} admiring a painting in a gallery, then eating at a caf\u00e9",
+  "image": "images/beat_162.png"
+ },
+ {
+  "beat": 163,
+  "start": 586.202,
+  "dur": 3.333,
+  "text": "You sleep for the first time in months.",
+  "motion": "push",
+  "scene": "venice",
+  "action": "{YOU} sleeping peacefully in an inn bed, a sleep symbol above",
+  "image": "images/beat_163.png"
+ },
+ {
+  "beat": 164,
+  "start": 589.535,
+  "dur": 4.167,
+  "text": "For three weeks, you almost forget the First Clinic exists.",
+  "motion": "pull",
+  "scene": "venice",
+  "action": "{YOU} laughing on a bridge in Venice, a calendar showing three weeks",
+  "image": "images/beat_164.png"
+ },
+ {
+  "beat": 165,
+  "start": 593.702,
+  "dur": 4.583,
+  "text": "Then you come home, and someone meets you at the hospital",
+  "motion": "push",
+  "scene": "hospext",
+  "action": "{YOU} returning through the hospital gate with a suitcase, a grim colleague waiting",
+  "image": "images/beat_165.png"
+ },
+ {
+  "beat": 166,
+  "start": 598.285,
+  "dur": 2.5,
+  "text": "with a face you'll never forget.",
+  "motion": "push",
+  "scene": "hospext",
+  "action": "close-up of the colleague's pale, grief-stricken face",
+  "image": "images/beat_166.png"
+ },
+ {
+  "beat": 167,
+  "start": 600.785,
+  "dur": 1.25,
+  "text": "Kolletschka is dead.",
+  "motion": "pan",
+  "scene": "hospext",
+  "action": "close-up of {YOU}'s face frozen, suitcase dropping",
+  "image": "images/beat_167.png"
+ },
+ {
+  "beat": 168,
+  "start": 602.035,
+  "dur": 2.5,
+  "text": "It happened while you were gone.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "a flashback frame with a sepia tint of the morgue",
+  "image": "images/beat_168.png"
+ },
+ {
+  "beat": 169,
+  "start": 604.535,
+  "dur": 5.0,
+  "text": "During a routine autopsy, a student's scalpel slipped and nicked Kolletschka's finger.",
+  "motion": "pull",
+  "scene": "deadhouse",
+  "action": "a student's scalpel slipping, {KOLL} flinching and pulling back one stick arm",
+  "image": "images/beat_169.png"
+ },
+ {
+  "beat": 170,
+  "start": 609.535,
+  "dur": 2.917,
+  "text": "A tiny cut. Barely worth a bandage.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "{KOLL} looking at a tiny bandage on the end of his stick arm, shrugging it off",
+  "image": "images/beat_170.png"
+ },
+ {
+  "beat": 171,
+  "start": 612.452,
+  "dur": 5.0,
+  "text": "Within days, he had a fever. The chills. The swelling. The pain.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "{KOLL} shivering in bed under blankets, sweat drops",
+  "image": "images/beat_171.png"
+ },
+ {
+  "beat": 172,
+  "start": 617.452,
+  "dur": 2.917,
+  "text": "And within a week, he was gone.",
+  "motion": "pan",
+  "scene": "deadhouse",
+  "action": "{KOLL}'s empty bed, a closed coffin beside it",
+  "image": "images/beat_172.png"
+ },
+ {
+  "beat": 173,
+  "start": 620.369,
+  "dur": 4.583,
+  "text": "You don't cry at first. You do what he taught you.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} with dry, blank eyes, no tears",
+  "image": "images/beat_173.png"
+ },
+ {
+  "beat": 174,
+  "start": 624.952,
+  "dur": 2.083,
+  "text": "You read his autopsy report.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} unfolding an autopsy report at his desk",
+  "image": "images/beat_174.png"
+ },
+ {
+  "beat": 175,
+  "start": 627.035,
+  "dur": 4.167,
+  "text": "And there it is, on the page, in plain ink.",
+  "motion": "push",
+  "scene": "office",
+  "action": "close-up of a handwritten autopsy report with neat columns of ink",
+  "image": "images/beat_175.png"
+ },
+ {
+  "beat": 176,
+  "start": 631.202,
+  "dur": 5.0,
+  "text": "The inflamed tissue. The swelling. The pus. The damage to his organs.",
+  "motion": "push",
+  "scene": "office",
+  "action": "an inset of medical diagram icons labelled INFLAMMATION and SWELLING",
+  "image": "images/beat_176.png"
+ },
+ {
+  "beat": 177,
+  "start": 636.202,
+  "dur": 2.917,
+  "text": "You've seen it hundreds of times before.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} staring at the report, eyes widening",
+  "image": "images/beat_177.png"
+ },
+ {
+  "beat": 178,
+  "start": 639.119,
+  "dur": 2.917,
+  "text": "On the table in the dead house.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "a flash of sheet-covered tables in the morgue",
+  "image": "images/beat_178.png"
+ },
+ {
+  "beat": 179,
+  "start": 642.036,
+  "dur": 3.75,
+  "text": "In the bodies of the mothers from your clinic.",
+  "motion": "shake",
+  "scene": "ward1",
+  "action": "a flash of empty beds in the First Clinic",
+  "image": "images/beat_179.png"
+ },
+ {
+  "beat": 180,
+  "start": 645.786,
+  "dur": 4.583,
+  "text": "Your friend, a grown man who never gave birth to anything,",
+  "motion": "push",
+  "scene": "office",
+  "action": "an inset of {KOLL}'s portrait next to a mother's portrait with an equals sign between them",
+  "image": "images/beat_180.png"
+ },
+ {
+  "beat": 181,
+  "start": 650.369,
+  "dur": 5.0,
+  "text": "died of the exact same disease as the women in your wards.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU}'s face going pale, sweat drop",
+  "image": "images/beat_181.png"
+ },
+ {
+  "beat": 182,
+  "start": 655.369,
+  "dur": 2.5,
+  "text": "Something cold settles in your stomach.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} with a cold blue tint spreading over him",
+  "image": "images/beat_182.png"
+ },
+ {
+  "beat": 183,
+  "start": 657.869,
+  "dur": 3.75,
+  "text": "The knife that killed Kolletschka came from a corpse.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "extreme close-up of a scalpel on a tray beside a sheet-covered table",
+  "image": "images/beat_183.png"
+ },
+ {
+  "beat": 184,
+  "start": 661.619,
+  "dur": 4.583,
+  "text": "It carried something from the dead body into his living one.",
+  "motion": "pull",
+  "scene": "deadhouse",
+  "action": "glowing green specks drifting from the sheet-covered table toward the scalpel",
+  "image": "images/beat_184.png"
+ },
+ {
+  "beat": 185,
+  "start": 666.202,
+  "dur": 4.167,
+  "text": "Something invisible. Something deadly. And you think about your mornings.",
+  "motion": "push",
+  "scene": "office",
+  "action": "an inset of microscopic glowing specks with question marks",
+  "image": "images/beat_185.png"
+ },
+ {
+  "beat": 186,
+  "start": 670.369,
+  "dur": 2.083,
+  "text": "The dead house at dawn.",
+  "motion": "push",
+  "scene": "deadhouse",
+  "action": "the morgue at dawn, lanterns glowing",
+  "image": "images/beat_186.png"
+ },
+ {
+  "beat": 187,
+  "start": 672.452,
+  "dur": 3.75,
+  "text": "Your hands inside the bodies of the dead women.",
+  "motion": "pan",
+  "scene": "deadhouse",
+  "action": "{YOU} at a sheet-covered table, glowing green specks clinging to his stick hands",
+  "image": "images/beat_187.png"
+ },
+ {
+  "beat": 188,
+  "start": 676.202,
+  "dur": 5.0,
+  "text": "Then the walk upstairs. Your hands, still unwashed, examining the living ones.",
+  "motion": "push",
+  "scene": "stairs",
+  "action": "{YOU} climbing the stairs with glowing green specks trailing from his hands into the ward",
+  "image": "images/beat_188.png"
+ },
+ {
+  "beat": 189,
+  "start": 681.202,
+  "dur": 3.75,
+  "text": "The midwives in the Second Clinic don't do autopsies.",
+  "motion": "pull",
+  "scene": "ward2",
+  "action": "midwives in the Second Clinic tending women, no green specks anywhere",
+  "image": "images/beat_189.png"
+ },
+ {
+  "beat": 190,
+  "start": 684.952,
+  "dur": 2.917,
+  "text": "The women who give birth in the",
+  "motion": "push",
+  "scene": "street",
+  "action": "a mother in a doorway with her baby, no doctors and no green specks",
+  "image": "images/beat_190.png"
+ },
+ {
+  "beat": 191,
+  "start": 687.869,
+  "dur": 2.917,
+  "text": "street never see a doctor at all.",
+  "motion": "push",
+  "scene": "street",
+  "action": "the healthy mother smiling at her baby",
+  "image": "images/beat_191.png"
+ },
+ {
+  "beat": 192,
+  "start": 690.786,
+  "dur": 3.333,
+  "text": "You sit very still for a long time.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} sitting motionless at his desk, candle burning down",
+  "image": "images/beat_192.png"
+ },
+ {
+  "beat": 193,
+  "start": 694.119,
+  "dur": 5.0,
+  "text": "It isn't the air. It isn't fear. It isn't the priest's bell.",
+  "motion": "push",
+  "scene": "office",
+  "action": "insets of the green fog, the planets and the priest's bell, each crossed out",
+  "image": "images/beat_193.png"
+ },
+ {
+  "beat": 194,
+  "start": 699.119,
+  "dur": 1.2,
+  "text": "It's you.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} slowly looking down at his own stick hands",
+  "image": "images/beat_194.png"
+ },
+ {
+  "beat": 195,
+  "start": 700.319,
+  "dur": 3.75,
+  "text": "It's your hands. The doctors' hands. The students' hands.",
+  "motion": "push",
+  "scene": "office",
+  "action": "extreme close-up of his stick hands glowing faintly green",
+  "image": "images/beat_195.png"
+ },
+ {
+  "beat": 196,
+  "start": 704.069,
+  "dur": 4.583,
+  "text": "Every morning, you have been carrying death up the stairs on",
+  "motion": "push",
+  "scene": "stairs",
+  "action": "a ghostly procession of doctors and students carrying green glowing hands up the stairs",
+  "image": "images/beat_196.png"
+ },
+ {
+  "beat": 197,
+  "start": 708.652,
+  "dur": 3.75,
+  "text": "your fingers and delivering it to the mothers yourself.",
+  "motion": "pan",
+  "scene": "ward1",
+  "action": "{YOU}'s glowing hand reaching toward a mother in a bed",
+  "image": "images/beat_197.png"
+ },
+ {
+  "beat": 198,
+  "start": 712.402,
+  "dur": 4.167,
+  "text": "You've examined hundreds of them. How many did you kill?",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "a long row of beds stretching into the distance",
+  "image": "images/beat_198.png"
+ },
+ {
+  "beat": 199,
+  "start": 716.569,
+  "dur": 3.333,
+  "text": "You try to count, and then you stop,",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} counting on his stick fingers, then stopping",
+  "image": "images/beat_199.png"
+ },
+ {
+  "beat": 200,
+  "start": 719.902,
+  "dur": 2.5,
+  "text": "because you can't bear the number.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} covering his face, shoulders shaking",
+  "image": "images/beat_200.png"
+ },
+ {
+  "beat": 201,
+  "start": 722.402,
+  "dur": 1.667,
+  "text": "The numbers don't lie.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} lowering his arms, eyes hard and determined",
+  "image": "images/beat_201.png"
+ },
+ {
+  "beat": 202,
+  "start": 724.069,
+  "dur": 1.25,
+  "text": "In May 1847,",
+  "motion": "pan",
+  "scene": "corridor",
+  "action": "a calendar showing MAY 1847",
+  "image": "images/beat_202.png"
+ },
+ {
+  "beat": 203,
+  "start": 725.319,
+  "dur": 4.167,
+  "text": "you put a basin by the entrance to the wards.",
+  "motion": "push",
+  "scene": "basin",
+  "action": "{YOU} setting down a large basin at the entrance to the ward",
+  "image": "images/beat_203.png"
+ },
+ {
+  "beat": 204,
+  "start": 729.486,
+  "dur": 2.083,
+  "text": "It's filled with chlorinated lime,",
+  "motion": "pull",
+  "scene": "basin",
+  "action": "close-up of the basin filled with cloudy chlorinated lime, a jar labelled CHLORINE",
+  "image": "images/beat_204.png"
+ },
+ {
+  "beat": 205,
+  "start": 731.569,
+  "dur": 3.333,
+  "text": "a bleach solution you chose because it destroys",
+  "motion": "push",
+  "scene": "basin",
+  "action": "{YOU} pouring the solution into the basin",
+  "image": "images/beat_205.png"
+ },
+ {
+  "beat": 206,
+  "start": 734.902,
+  "dur": 2.917,
+  "text": "the smell of the dead house completely.",
+  "motion": "push",
+  "scene": "basin",
+  "action": "green smell lines from the morgue vanishing as they touch the basin",
+  "image": "images/beat_206.png"
+ },
+ {
+  "beat": 207,
+  "start": 737.819,
+  "dur": 2.917,
+  "text": "If it kills the smell, you reason,",
+  "motion": "pan",
+  "scene": "basin",
+  "action": "an inset diagram: STINK \u2192 BLEACH \u2192 no stink",
+  "image": "images/beat_207.png"
+ },
+ {
+  "beat": 208,
+  "start": 740.736,
+  "dur": 5.0,
+  "text": "it might kill whatever is causing it. You announce a new rule.",
+  "motion": "fade",
+  "scene": "basin",
+  "action": "{YOU} nailing a sign above the basin reading WASH BEFORE ENTERING",
+  "image": "images/beat_208.png"
+ },
+ {
+  "beat": 209,
+  "start": 745.736,
+  "dur": 4.167,
+  "text": "Every doctor and every student, before touching a single patient,",
+  "motion": "pull",
+  "scene": "basin",
+  "action": "a line of doctors and students queuing at the basin",
+  "image": "images/beat_209.png"
+ },
+ {
+  "beat": 210,
+  "start": 749.903,
+  "dur": 2.917,
+  "text": "scrubs their hands in the basin until",
+  "motion": "push",
+  "scene": "basin",
+  "action": "a student scrubbing his stick hands in the basin",
+  "image": "images/beat_210.png"
+ },
+ {
+  "beat": 211,
+  "start": 752.82,
+  "dur": 2.5,
+  "text": "the smell of corpses is gone.",
+  "motion": "push",
+  "scene": "basin",
+  "action": "a student sniffing his stick hands, green smell lines gone",
+  "image": "images/beat_211.png"
+ },
+ {
+  "beat": 212,
+  "start": 755.32,
+  "dur": 2.917,
+  "text": "The students hate it. The chlorine stings.",
+  "motion": "pan",
+  "scene": "basin",
+  "action": "students grimacing and shaking out stinging hands",
+  "image": "images/beat_212.png"
+ },
+ {
+  "beat": 213,
+  "start": 758.237,
+  "dur": 4.583,
+  "text": "It cracks their skin and turns their knuckles raw. They mutter.",
+  "motion": "push",
+  "scene": "basin",
+  "action": "an inset of cracked, red, raw knuckles",
+  "image": "images/beat_213.png"
+ },
+ {
+  "beat": 214,
+  "start": 762.82,
+  "dur": 3.75,
+  "text": "They complain. Some of them try to sneak past.",
+  "motion": "pull",
+  "scene": "basin",
+  "action": "students muttering, one tiptoeing past the basin",
+  "image": "images/beat_214.png"
+ },
+ {
+  "beat": 215,
+  "start": 766.57,
+  "dur": 5.0,
+  "text": "You stand by the basin and you make them do it anyway.",
+  "motion": "push",
+  "scene": "basin",
+  "action": "{YOU} standing beside the basin with crossed stick arms",
+  "image": "images/beat_215.png"
+ },
+ {
+  "beat": 216,
+  "start": 771.57,
+  "dur": 1.25,
+  "text": "Every single time.",
+  "motion": "push",
+  "scene": "basin",
+  "action": "close-up of {YOU}'s unblinking stare",
+  "image": "images/beat_216.png"
+ },
+ {
+  "beat": 217,
+  "start": 772.82,
+  "dur": 4.583,
+  "text": "One morning, a student comes straight up from the dead house,",
+  "motion": "pan",
+  "scene": "basin",
+  "action": "{STUDENT} hurrying up the stairs, green smell lines trailing behind him",
+  "image": "images/beat_217.png"
+ },
+ {
+  "beat": 218,
+  "start": 777.403,
+  "dur": 1.667,
+  "text": "still smelling of corpses,",
+  "motion": "push",
+  "scene": "basin",
+  "action": "close-up of {STUDENT} sniffing his own stick arm, green smell lines curling",
+  "image": "images/beat_218.png"
+ },
+ {
+  "beat": 219,
+  "start": 779.07,
+  "dur": 4.167,
+  "text": "and walks right past you toward a woman in labour.",
+  "motion": "fade",
+  "scene": "basin",
+  "action": "{STUDENT} walking past the basin toward a ward door",
+  "image": "images/beat_219.png"
+ },
+ {
+  "beat": 220,
+  "start": 783.237,
+  "dur": 3.333,
+  "text": "You grab his arm so hard he yelps.",
+  "motion": "push",
+  "scene": "basin",
+  "action": "{YOU} grabbing {STUDENT}'s stick arm, {STUDENT} yelping",
+  "image": "images/beat_220.png"
+ },
+ {
+  "beat": 221,
+  "start": 786.57,
+  "dur": 4.583,
+  "text": "You march him back to the basin and hold his hands",
+  "motion": "push",
+  "scene": "basin",
+  "action": "{YOU} holding {STUDENT}'s stick hands in the basin",
+  "image": "images/beat_221.png"
+ },
+ {
+  "beat": 222,
+  "start": 791.153,
+  "dur": 4.583,
+  "text": "in the chlorine until he swears he'll never skip it again.",
+  "motion": "pan",
+  "scene": "basin",
+  "action": "{STUDENT} nodding furiously, swearing an oath",
+  "image": "images/beat_222.png"
+ },
+ {
+  "beat": 223,
+  "start": 795.736,
+  "dur": 4.167,
+  "text": "By lunchtime, the whole hospital is calling you a tyrant.",
+  "motion": "push",
+  "scene": "corridor",
+  "action": "nurses and students whispering in the corridor, a speech bubble reading TYRANT",
+  "image": "images/beat_223.png"
+ },
+ {
+  "beat": 224,
+  "start": 799.903,
+  "dur": 2.917,
+  "text": "You decide you can live with that.",
+  "motion": "pull",
+  "scene": "corridor",
+  "action": "{YOU} with a satisfied deadpan shrug",
+  "image": "images/beat_224.png"
+ },
+ {
+  "beat": 225,
+  "start": 802.82,
+  "dur": 2.083,
+  "text": "And then, the numbers change.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} opening a new ledger",
+  "image": "images/beat_225.png"
+ },
+ {
+  "beat": 226,
+  "start": 804.903,
+  "dur": 2.083,
+  "text": "In April, before the basin,",
+  "motion": "push",
+  "scene": "office",
+  "action": "an inset of a ledger page labelled APRIL with many crosses",
+  "image": "images/beat_226.png"
+ },
+ {
+  "beat": 227,
+  "start": 806.986,
+  "dur": 3.75,
+  "text": "almost one in five mothers in your clinic died.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "an inset of five small figures, one greyed out",
+  "image": "images/beat_227.png"
+ },
+ {
+  "beat": 228,
+  "start": 810.736,
+  "dur": 4.583,
+  "text": "By June, it's about one in fifty. By the following year,",
+  "motion": "push",
+  "scene": "office",
+  "action": "an inset of a ledger page labelled JUNE with very few crosses",
+  "image": "images/beat_228.png"
+ },
+ {
+  "beat": 229,
+  "start": 815.319,
+  "dur": 3.75,
+  "text": "there are entire months where not a single mother",
+  "motion": "pull",
+  "scene": "office",
+  "action": "an inset of a ledger page with an entire empty column",
+  "image": "images/beat_229.png"
+ },
+ {
+  "beat": 230,
+  "start": 819.069,
+  "dur": 3.333,
+  "text": "in the First Clinic dies of childbed fever.",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "a full ward of mothers holding swaddled babies, all smiling",
+  "image": "images/beat_230.png"
+ },
+ {
+  "beat": 231,
+  "start": 822.402,
+  "dur": 1.2,
+  "text": "Not one.",
+  "motion": "push",
+  "scene": "office",
+  "action": "extreme close-up of a big zero written in the ledger",
+  "image": "images/beat_231.png"
+ },
+ {
+  "beat": 232,
+  "start": 823.602,
+  "dur": 2.917,
+  "text": "The midwives from the Second Clinic come",
+  "motion": "fade",
+  "scene": "office",
+  "action": "midwives from the Second Clinic peering over {YOU}'s shoulder at the ledgers",
+  "image": "images/beat_232.png"
+ },
+ {
+  "beat": 233,
+  "start": 826.519,
+  "dur": 2.5,
+  "text": "over to look at your ledgers.",
+  "motion": "push",
+  "scene": "office",
+  "action": "a midwife with eyebrows raised, impressed",
+  "image": "images/beat_233.png"
+ },
+ {
+  "beat": 234,
+  "start": 829.019,
+  "dur": 2.917,
+  "text": "Even the porter at the gate notices.",
+  "motion": "pull",
+  "scene": "gate",
+  "action": "{PORTER} at the gate scratching his head, a smiling mother walking past",
+  "image": "images/beat_234.png"
+ },
+ {
+  "beat": 235,
+  "start": 831.936,
+  "dur": 2.5,
+  "text": "For the first time in years,",
+  "motion": "push",
+  "scene": "gate",
+  "action": "women walking through the First Clinic door calmly",
+  "image": "images/beat_235.png"
+ },
+ {
+  "beat": 236,
+  "start": 834.436,
+  "dur": 5.0,
+  "text": "women assigned to the First Clinic walk through the doors without crying.",
+  "motion": "push",
+  "scene": "gate",
+  "action": "a woman smiling at the First Clinic sign",
+  "image": "images/beat_236.png"
+ },
+ {
+  "beat": 237,
+  "start": 839.436,
+  "dur": 4.167,
+  "text": "You've just found a way to save thousands of lives.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} sitting back in his chair, stunned by the numbers",
+  "image": "images/beat_237.png"
+ },
+ {
+  "beat": 238,
+  "start": 843.603,
+  "dur": 5.0,
+  "text": "With soap and a bucket. You sit in your room with your",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} laughing then crying at his desk, tears and laughter lines",
+  "image": "images/beat_238.png"
+ },
+ {
+  "beat": 239,
+  "start": 848.603,
+  "dur": 5.0,
+  "text": "ledgers and you laugh until you cry, and then you just cry.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} wiping tears, the ledger glowing",
+  "image": "images/beat_239.png"
+ },
+ {
+  "beat": 240,
+  "start": 853.603,
+  "dur": 4.583,
+  "text": "You think about Kolletschka. You wish he could see these numbers.",
+  "motion": "shake",
+  "scene": "office",
+  "action": "a faint ghostly {KOLL} smiling over {YOU}'s shoulder",
+  "image": "images/beat_240.png"
+ },
+ {
+  "beat": 241,
+  "start": 858.186,
+  "dur": 4.167,
+  "text": "You assume the medical world is about to celebrate you.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} imagining a crowd of doctors cheering in a thought bubble",
+  "image": "images/beat_241.png"
+ },
+ {
+  "beat": 242,
+  "start": 862.353,
+  "dur": 1.25,
+  "text": "You assume wrong.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "the thought bubble popping, {YOU}'s deadpan face",
+  "image": "images/beat_242.png"
+ },
+ {
+  "beat": 243,
+  "start": 863.603,
+  "dur": 2.917,
+  "text": "Because what you're actually telling the most",
+  "motion": "push",
+  "scene": "university",
+  "action": "{YOU} presenting to a hall of senior doctors in frock coats",
+  "image": "images/beat_243.png"
+ },
+ {
+  "beat": 244,
+  "start": 866.52,
+  "dur": 5.0,
+  "text": "respected doctors in Europe is this. Gentlemen, you've been killing your patients.",
+  "motion": "pull",
+  "scene": "university",
+  "action": "an inset of a speech bubble reading YOU'VE BEEN KILLING YOUR PATIENTS",
+  "image": "images/beat_244.png"
+ },
+ {
+  "beat": 245,
+  "start": 871.52,
+  "dur": 2.5,
+  "text": "With your own hands. For years.",
+  "motion": "push",
+  "scene": "university",
+  "action": "the senior doctors staring at their own stick hands in horror",
+  "image": "images/beat_245.png"
+ },
+ {
+  "beat": 246,
+  "start": 874.02,
+  "dur": 2.5,
+  "text": "They do not take it well.",
+  "motion": "push",
+  "scene": "university",
+  "action": "the senior doctors standing up, red-faced, shouting",
+  "image": "images/beat_246.png"
+ },
+ {
+  "beat": 247,
+  "start": 876.52,
+  "dur": 3.75,
+  "text": "Doctors in 1847 are gentlemen. Educated, respectable, important men.",
+  "motion": "pan",
+  "scene": "university",
+  "action": "rows of senior doctors puffing out their chests",
+  "image": "images/beat_247.png"
+ },
+ {
+  "beat": 248,
+  "start": 880.27,
+  "dur": 3.333,
+  "text": "And a gentleman's hands, they insist, are clean.",
+  "motion": "push",
+  "scene": "university",
+  "action": "a senior doctor holding up his stick hand with a sparkle effect",
+  "image": "images/beat_248.png"
+ },
+ {
+  "beat": 249,
+  "start": 883.603,
+  "dur": 2.917,
+  "text": "The idea that they themselves have been",
+  "motion": "pull",
+  "scene": "university",
+  "action": "doctors with offended faces, steam lines from their ears",
+  "image": "images/beat_249.png"
+ },
+ {
+  "beat": 250,
+  "start": 886.52,
+  "dur": 3.333,
+  "text": "spreading death is not just wrong, it's insulting.",
+  "motion": "push",
+  "scene": "university",
+  "action": "a doctor slamming a book shut",
+  "image": "images/beat_250.png"
+ },
+ {
+  "beat": 251,
+  "start": 889.853,
+  "dur": 5.0,
+  "text": "Some of them say your theory is nonsense. Others say it's unscientific,",
+  "motion": "push",
+  "scene": "university",
+  "action": "a doctor pointing at {YOU} with a speech bubble reading NONSENSE",
+  "image": "images/beat_251.png"
+ },
+ {
+  "beat": 252,
+  "start": 894.853,
+  "dur": 4.167,
+  "text": "since you can't explain exactly what these invisible particles are.",
+  "motion": "pan",
+  "scene": "university",
+  "action": "an inset of a magnifying glass over an empty hand, a question mark",
+  "image": "images/beat_252.png"
+ },
+ {
+  "beat": 253,
+  "start": 899.02,
+  "dur": 3.75,
+  "text": "You can't even see them. You just have numbers.",
+  "motion": "push",
+  "scene": "university",
+  "action": "{YOU} holding up a ledger, the doctors ignoring it",
+  "image": "images/beat_253.png"
+ },
+ {
+  "beat": 254,
+  "start": 902.77,
+  "dur": 2.083,
+  "text": "And your personality isn't helping.",
+  "motion": "pull",
+  "scene": "university",
+  "action": "{YOU} pointing furiously at the doctors",
+  "image": "images/beat_254.png"
+ },
+ {
+  "beat": 255,
+  "start": 904.853,
+  "dur": 4.167,
+  "text": "You're still the loud fifth child from the grocery shop.",
+  "motion": "push",
+  "scene": "university",
+  "action": "an inset of {YOU6} shouting on a chair, from his childhood",
+  "image": "images/beat_255.png"
+ },
+ {
+  "beat": 256,
+  "start": 909.02,
+  "dur": 2.917,
+  "text": "You don't persuade people. You correct them.",
+  "motion": "push",
+  "scene": "university",
+  "action": "{YOU} wagging a finger at a red-faced senior doctor",
+  "image": "images/beat_256.png"
+ },
+ {
+  "beat": 257,
+  "start": 911.937,
+  "dur": 1.667,
+  "text": "Professor Klein is furious.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{KLEIN} storming into {YOU}'s office, red-faced",
+  "image": "images/beat_257.png"
+ },
+ {
+  "beat": 258,
+  "start": 913.604,
+  "dur": 3.75,
+  "text": "Your success makes his clinic look like a slaughterhouse,",
+  "motion": "push",
+  "scene": "office",
+  "action": "an inset of a butcher's shop sign over the First Clinic door",
+  "image": "images/beat_258.png"
+ },
+ {
+  "beat": 259,
+  "start": 917.354,
+  "dur": 2.917,
+  "text": "and makes him look like the butcher.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{KLEIN}'s face reflected as a butcher in a mirror, horrified",
+  "image": "images/beat_259.png"
+ },
+ {
+  "beat": 260,
+  "start": 920.271,
+  "dur": 3.75,
+  "text": "In 1849, when your contract comes up for renewal,",
+  "motion": "push",
+  "scene": "office",
+  "action": "{KLEIN} holding a contract labelled 1849",
+  "image": "images/beat_260.png"
+ },
+ {
+  "beat": 261,
+  "start": 924.021,
+  "dur": 2.083,
+  "text": "he simply doesn't renew it.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{KLEIN} tearing the contract in half",
+  "image": "images/beat_261.png"
+ },
+ {
+  "beat": 262,
+  "start": 926.104,
+  "dur": 2.083,
+  "text": "Just like that, you're out.",
+  "motion": "pan",
+  "scene": "corridor",
+  "action": "{YOU} carrying a box of belongings down the corridor",
+  "image": "images/beat_262.png"
+ },
+ {
+  "beat": 263,
+  "start": 928.187,
+  "dur": 4.583,
+  "text": "Without you there, standing by the basin, the students stop washing.",
+  "motion": "push",
+  "scene": "basin",
+  "action": "the basin sitting dry and dusty, students walking past it",
+  "image": "images/beat_263.png"
+ },
+ {
+  "beat": 264,
+  "start": 932.77,
+  "dur": 5.0,
+  "text": "They always hated it anyway. You hear the numbers start climbing again,",
+  "motion": "pull",
+  "scene": "office",
+  "action": "an inset of a ledger with crosses climbing again",
+  "image": "images/beat_264.png"
+ },
+ {
+  "beat": 265,
+  "start": 937.77,
+  "dur": 3.333,
+  "text": "and there's nothing you can do about it.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} staring at the ledger, helpless",
+  "image": "images/beat_265.png"
+ },
+ {
+  "beat": 266,
+  "start": 941.103,
+  "dur": 3.75,
+  "text": "In 1850, after a final humiliation at the university,",
+  "motion": "push",
+  "scene": "university",
+  "action": "{YOU} standing alone in an empty lecture hall",
+  "image": "images/beat_266.png"
+ },
+ {
+  "beat": 267,
+  "start": 944.853,
+  "dur": 5.0,
+  "text": "you pack your bags and leave Vienna without saying goodbye to anyone.",
+  "motion": "pan",
+  "scene": "vienna",
+  "action": "{YOU} carrying a suitcase alone to a coach at dawn",
+  "image": "images/beat_267.png"
+ },
+ {
+  "beat": 268,
+  "start": 949.853,
+  "dur": 2.5,
+  "text": "Not even your few remaining friends.",
+  "motion": "push",
+  "scene": "vienna",
+  "action": "{YOU} glancing back at the city, no one waving",
+  "image": "images/beat_268.png"
+ },
+ {
+  "beat": 269,
+  "start": 952.353,
+  "dur": 2.083,
+  "text": "You go home to Hungary.",
+  "motion": "pull",
+  "scene": "pest_street",
+  "action": "a coach rolling over a road into Pest, the Danube beside it",
+  "image": "images/beat_269.png"
+ },
+ {
+  "beat": 270,
+  "start": 954.436,
+  "dur": 4.167,
+  "text": "In Pest, you take an unpaid position at a small,",
+  "motion": "push",
+  "scene": "pest_hosp",
+  "action": "a small, run-down hospital with peeling walls and a crooked sign reading ST. ROCHUS",
+  "image": "images/beat_270.png"
+ },
+ {
+  "beat": 271,
+  "start": 958.603,
+  "dur": 5.0,
+  "text": "run down hospital called St. Rochus. Its maternity ward is a disaster.",
+  "motion": "push",
+  "scene": "pest_hosp",
+  "action": "a crowded, dirty maternity ward with cracked windows",
+  "image": "images/beat_271.png"
+ },
+ {
+  "beat": 272,
+  "start": 963.603,
+  "dur": 5.0,
+  "text": "You introduce your basin. The death rate collapses again, to almost nothing.",
+  "motion": "pan",
+  "scene": "pest_hosp",
+  "action": "{YOU} setting down a basin at the ward door, the ledger crosses vanishing",
+  "image": "images/beat_272.png"
+ },
+ {
+  "beat": 273,
+  "start": 968.603,
+  "dur": 5.0,
+  "text": "Later, you become a professor of obstetrics at the University of Pest.",
+  "motion": "push",
+  "scene": "pest_hosp",
+  "action": "{YOU} lecturing a class of students at the University of Pest",
+  "image": "images/beat_273.png"
+ },
+ {
+  "beat": 274,
+  "start": 973.603,
+  "dur": 2.083,
+  "text": "You marry. You have children.",
+  "motion": "pull",
+  "scene": "pest_home",
+  "action": "{YOU} and {WIFE} at a modest wedding photo-style portrait, two small children beside them",
+  "image": "images/beat_274.png"
+ },
+ {
+  "beat": 275,
+  "start": 975.686,
+  "dur": 3.333,
+  "text": "For a few years, life is almost good.",
+  "motion": "push",
+  "scene": "pest_home",
+  "action": "{YOU} at a cozy family dinner table, {WIFE} and the children smiling",
+  "image": "images/beat_275.png"
+ },
+ {
+  "beat": 276,
+  "start": 979.019,
+  "dur": 2.5,
+  "text": "You teach your students to wash.",
+  "motion": "shake",
+  "scene": "pest_hosp",
+  "action": "{YOU} watching students wash their hands at a basin",
+  "image": "images/beat_276.png"
+ },
+ {
+  "beat": 277,
+  "start": 981.519,
+  "dur": 2.917,
+  "text": "You walk your children along the Danube,",
+  "motion": "pan",
+  "scene": "pest_river",
+  "action": "{YOU} walking with {CHILDREN} along the Danube promenade at dusk",
+  "image": "images/beat_277.png"
+ },
+ {
+  "beat": 278,
+  "start": 984.436,
+  "dur": 2.917,
+  "text": "the way you once walked with Kolletschka.",
+  "motion": "push",
+  "scene": "pest_river",
+  "action": "{YOU} glancing at an empty bench by the river",
+  "image": "images/beat_278.png"
+ },
+ {
+  "beat": 279,
+  "start": 987.353,
+  "dur": 4.167,
+  "text": "Some evenings you even forget to talk about childbed fever.",
+  "motion": "pull",
+  "scene": "pest_home",
+  "action": "{YOU} relaxing in an armchair reading a book",
+  "image": "images/beat_279.png"
+ },
+ {
+  "beat": 280,
+  "start": 991.52,
+  "dur": 1.2,
+  "text": "Some evenings.",
+  "motion": "push",
+  "scene": "pest_home",
+  "action": "{YOU} glancing at a pile of ledgers in the corner",
+  "image": "images/beat_280.png"
+ },
+ {
+  "beat": 281,
+  "start": 992.72,
+  "dur": 2.5,
+  "text": "But you can't let it go.",
+  "motion": "shake",
+  "scene": "pest_home",
+  "action": "{YOU} staring at the ledgers, jaw tightening",
+  "image": "images/beat_281.png"
+ },
+ {
+  "beat": 282,
+  "start": 995.22,
+  "dur": 2.917,
+  "text": "You know thousands of women are still",
+  "motion": "pan",
+  "scene": "pest_home",
+  "action": "an inset map of Europe with red crosses blooming over hospital cities",
+  "image": "images/beat_282.png"
+ },
+ {
+  "beat": 283,
+  "start": 998.137,
+  "dur": 2.917,
+  "text": "dying every year in hospitals across Europe,",
+  "motion": "push",
+  "scene": "pest_home",
+  "action": "an inset of hospital wards across Europe with empty beds",
+  "image": "images/beat_283.png"
+ },
+ {
+  "beat": 284,
+  "start": 1001.054,
+  "dur": 4.583,
+  "text": "from something that could be stopped with a bucket of bleach.",
+  "motion": "pull",
+  "scene": "pest_home",
+  "action": "an inset of a simple bucket of bleach glowing with a halo",
+  "image": "images/beat_284.png"
+ },
+ {
+  "beat": 285,
+  "start": 1005.637,
+  "dur": 1.667,
+  "text": "And nobody is listening.",
+  "motion": "push",
+  "scene": "pest_home",
+  "action": "an inset of a crowd of doctors with their fingers in their ears",
+  "image": "images/beat_285.png"
+ },
+ {
+  "beat": 286,
+  "start": 1007.304,
+  "dur": 5.0,
+  "text": "In 1861, you finally publish your book. Five hundred pages of evidence.",
+  "motion": "push",
+  "scene": "desk_pest",
+  "action": "{YOU} holding up a thick published book with 1861 on the cover",
+  "image": "images/beat_286.png"
+ },
+ {
+  "beat": 287,
+  "start": 1012.304,
+  "dur": 2.083,
+  "text": "Tables. Charts. Years of numbers.",
+  "motion": "pan",
+  "scene": "desk_pest",
+  "action": "an inset of the book's pages full of tables and charts",
+  "image": "images/beat_287.png"
+ },
+ {
+  "beat": 288,
+  "start": 1014.387,
+  "dur": 1.667,
+  "text": "The reviews are savage.",
+  "motion": "push",
+  "scene": "desk_pest",
+  "action": "{YOU} reading newspaper reviews, his face falling",
+  "image": "images/beat_288.png"
+ },
+ {
+  "beat": 289,
+  "start": 1016.054,
+  "dur": 4.583,
+  "text": "Doctors across Europe dismiss it, ignore it, or laugh at it.",
+  "motion": "pull",
+  "scene": "desk_pest",
+  "action": "an inset of doctors laughing and tossing the book in a bin",
+  "image": "images/beat_289.png"
+ },
+ {
+  "beat": 290,
+  "start": 1020.637,
+  "dur": 2.083,
+  "text": "So you start writing letters.",
+  "motion": "push",
+  "scene": "desk_pest",
+  "action": "{YOU} dipping a quill and writing furiously",
+  "image": "images/beat_290.png"
+ },
+ {
+  "beat": 291,
+  "start": 1022.72,
+  "dur": 3.75,
+  "text": "Open letters, to the most famous obstetricians in Europe,",
+  "motion": "shake",
+  "scene": "desk_pest",
+  "action": "stacks of letters addressed to famous doctors across Europe",
+  "image": "images/beat_291.png"
+ },
+ {
+  "beat": 292,
+  "start": 1026.47,
+  "dur": 4.167,
+  "text": "published for the public to read. You stop being polite.",
+  "motion": "pan",
+  "scene": "desk_pest",
+  "action": "an inset of a newspaper printing an OPEN LETTER",
+  "image": "images/beat_292.png"
+ },
+ {
+  "beat": 293,
+  "start": 1030.637,
+  "dur": 3.333,
+  "text": "You call them ignorant. You call them irresponsible.",
+  "motion": "push",
+  "scene": "desk_pest",
+  "action": "close-up of the letter with the words IGNORANT and IRRESPONSIBLE underlined",
+  "image": "images/beat_293.png"
+ },
+ {
+  "beat": 294,
+  "start": 1033.97,
+  "dur": 2.083,
+  "text": "Then you call them murderers.",
+  "motion": "pull",
+  "scene": "desk_pest",
+  "action": "extreme close-up of the word MURDERERS written in bold ink",
+  "image": "images/beat_294.png"
+ },
+ {
+  "beat": 295,
+  "start": 1036.053,
+  "dur": 2.5,
+  "text": "Your wife notices the change first.",
+  "motion": "shake",
+  "scene": "pest_home",
+  "action": "{WIFE} watching {YOU} with concern across the room",
+  "image": "images/beat_295.png"
+ },
+ {
+  "beat": 296,
+  "start": 1038.553,
+  "dur": 2.917,
+  "text": "You talk about childbed fever at dinner.",
+  "motion": "push",
+  "scene": "pest_home",
+  "action": "{YOU} lecturing at the dinner table, the children staring at their plates",
+  "image": "images/beat_296.png"
+ },
+ {
+  "beat": 297,
+  "start": 1041.47,
+  "dur": 2.5,
+  "text": "You talk about it at parties.",
+  "motion": "pan",
+  "scene": "party",
+  "action": "{YOU} lecturing guests at a party, guests edging away",
+  "image": "images/beat_297.png"
+ },
+ {
+  "beat": 298,
+  "start": 1043.97,
+  "dur": 5.0,
+  "text": "You talk about it to strangers in the street. You can't sleep.",
+  "motion": "push",
+  "scene": "pest_street",
+  "action": "{YOU} lecturing a confused stranger in the street",
+  "image": "images/beat_298.png"
+ },
+ {
+  "beat": 299,
+  "start": 1048.97,
+  "dur": 4.167,
+  "text": "You can't stop. You start drinking. You start forgetting things.",
+  "motion": "pull",
+  "scene": "pest_home",
+  "action": "{YOU47} pacing at night with a glass of wine, papers scattered",
+  "image": "images/beat_299.png"
+ },
+ {
+  "beat": 300,
+  "start": 1053.137,
+  "dur": 3.333,
+  "text": "Your colleagues at the university begin to whisper.",
+  "motion": "push",
+  "scene": "university",
+  "action": "colleagues whispering behind their hands in a corridor",
+  "image": "images/beat_300.png"
+ },
+ {
+  "beat": 301,
+  "start": 1056.47,
+  "dur": 5.0,
+  "text": "You still have the numbers. But nobody wants to hear them anymore.",
+  "motion": "fade",
+  "scene": "desk_pest",
+  "action": "{YOU47} clutching his ledgers alone, candle burning low",
+  "image": "images/beat_301.png"
+ },
+ {
+  "beat": 302,
+  "start": 1061.47,
+  "dur": 4.167,
+  "text": "In the summer of 1865, an old colleague from Vienna,",
+  "motion": "pan",
+  "scene": "pest_home",
+  "action": "{COLLEAGUE} arriving at the door with a warm smile, summer sun outside",
+  "image": "images/beat_302.png"
+ },
+ {
+  "beat": 303,
+  "start": 1065.637,
+  "dur": 2.5,
+  "text": "a respected doctor you once trusted,",
+  "motion": "push",
+  "scene": "pest_home",
+  "action": "close-up of {COLLEAGUE}'s smooth, confident smile",
+  "image": "images/beat_303.png"
+ },
+ {
+  "beat": 304,
+  "start": 1068.137,
+  "dur": 2.917,
+  "text": "invites you to visit a new medical",
+  "motion": "pull",
+  "scene": "pest_home",
+  "action": "{COLLEAGUE} handing {YOU47} an invitation card reading NEW INSTITUTE",
+  "image": "images/beat_304.png"
+ },
+ {
+  "beat": 305,
+  "start": 1071.054,
+  "dur": 4.583,
+  "text": "institute he wants to show you. Your wife comes with you.",
+  "motion": "push",
+  "scene": "carriage",
+  "action": "{YOU47} and {WIFE} sitting in a carriage beside {COLLEAGUE}",
+  "image": "images/beat_305.png"
+ },
+ {
+  "beat": 306,
+  "start": 1075.637,
+  "dur": 3.333,
+  "text": "It's a long journey. You're tired. You're curious.",
+  "motion": "push",
+  "scene": "carriage",
+  "action": "a carriage rolling down a long country road, {YOU47} dozing",
+  "image": "images/beat_306.png"
+ },
+ {
+  "beat": 307,
+  "start": 1078.97,
+  "dur": 4.167,
+  "text": "You've just turned 47 when you walk through the gates.",
+  "motion": "pan",
+  "scene": "asylum_ext",
+  "action": "{YOU47} stepping out at tall iron gates in front of a grim building",
+  "image": "images/beat_307.png"
+ },
+ {
+  "beat": 308,
+  "start": 1083.137,
+  "dur": 3.333,
+  "text": "It isn't a medical institute. It's an asylum.",
+  "motion": "push",
+  "scene": "asylum_ext",
+  "action": "a low-angle view of a sign over the gates reading ASYLUM",
+  "image": "images/beat_308.png"
+ },
+ {
+  "beat": 309,
+  "start": 1086.47,
+  "dur": 4.167,
+  "text": "You realize it the moment the doors close behind you.",
+  "motion": "pull",
+  "scene": "asylum_ext",
+  "action": "heavy doors slamming shut behind {YOU47}",
+  "image": "images/beat_309.png"
+ },
+ {
+  "beat": 310,
+  "start": 1090.637,
+  "dur": 3.333,
+  "text": "You turn around. Your colleague is already leaving.",
+  "motion": "fade",
+  "scene": "asylum_ext",
+  "action": "{YOU47} turning to see {COLLEAGUE} walking away through the gate",
+  "image": "images/beat_310.png"
+ },
+ {
+  "beat": 311,
+  "start": 1093.97,
+  "dur": 4.583,
+  "text": "You try to follow him. Attendants grab your arms. You fight.",
+  "motion": "push",
+  "scene": "asylum_ext",
+  "action": "{GUARDS} grabbing {YOU47}'s stick arms as he lunges toward the gate",
+  "image": "images/beat_311.png"
+ },
+ {
+  "beat": 312,
+  "start": 1098.553,
+  "dur": 3.75,
+  "text": "You've always fought. You've fought Klein. You've fought Vienna.",
+  "motion": "pan",
+  "scene": "asylum_ext",
+  "action": "close-up of {YOU47}'s furious face, insets of {KLEIN} and the senior doctors behind him",
+  "image": "images/beat_312.png"
+ },
+ {
+  "beat": 313,
+  "start": 1102.303,
+  "dur": 2.083,
+  "text": "You've fought all of Europe.",
+  "motion": "push",
+  "scene": "asylum_ext",
+  "action": "an inset map of Europe with {YOU47} shaking his fist at it",
+  "image": "images/beat_313.png"
+ },
+ {
+  "beat": 314,
+  "start": 1104.386,
+  "dur": 2.083,
+  "text": "But this time, you lose.",
+  "motion": "pull",
+  "scene": "asylum_ext",
+  "action": "{YOU47}'s stick arms pinned by {GUARDS}, his face falling",
+  "image": "images/beat_314.png"
+ },
+ {
+  "beat": 315,
+  "start": 1106.469,
+  "dur": 2.917,
+  "text": "The guards beat you. They kick you.",
+  "motion": "push",
+  "scene": "asylum_cell",
+  "action": "shadows of {GUARDS} looming over a fallen figure on a stone floor, impact lines only",
+  "image": "images/beat_315.png"
+ },
+ {
+  "beat": 316,
+  "start": 1109.386,
+  "dur": 2.917,
+  "text": "They force you into a straitjacket and",
+  "motion": "push",
+  "scene": "asylum_cell",
+  "action": "{YOU47} bound in a straitjacket in a dark stone cell",
+  "image": "images/beat_316.png"
+ },
+ {
+  "beat": 317,
+  "start": 1112.303,
+  "dur": 5.0,
+  "text": "lock you in a dark cell. Somewhere in the struggle, you're injured.",
+  "motion": "pan",
+  "scene": "asylum_cell",
+  "action": "a heavy cell door closing, a small barred window above",
+  "image": "images/beat_317.png"
+ },
+ {
+  "beat": 318,
+  "start": 1117.303,
+  "dur": 4.583,
+  "text": "A wound on your hand. You barely notice it at first.",
+  "motion": "push",
+  "scene": "asylum_cell",
+  "action": "close-up of a small bandage on the end of {YOU47}'s stick arm",
+  "image": "images/beat_318.png"
+ },
+ {
+  "beat": 319,
+  "start": 1121.886,
+  "dur": 2.083,
+  "text": "Within days, the fever comes.",
+  "motion": "pull",
+  "scene": "asylum_cell",
+  "action": "{YOU47} shivering in the corner of the cell, sweat drops",
+  "image": "images/beat_319.png"
+ },
+ {
+  "beat": 320,
+  "start": 1123.969,
+  "dur": 2.5,
+  "text": "The chills. The swelling. The pain.",
+  "motion": "push",
+  "scene": "asylum_cell",
+  "action": "{YOU47}'s flushed face with sweat drops and chattering teeth",
+  "image": "images/beat_320.png"
+ },
+ {
+  "beat": 321,
+  "start": 1126.469,
+  "dur": 5.0,
+  "text": "You know exactly what it is. You've seen it a thousand times.",
+  "motion": "push",
+  "scene": "asylum_cell",
+  "action": "{YOU47}'s eyes widening in recognition",
+  "image": "images/beat_321.png"
+ },
+ {
+  "beat": 322,
+  "start": 1131.469,
+  "dur": 2.917,
+  "text": "On the table in the dead house.",
+  "motion": "pan",
+  "scene": "deadhouse",
+  "action": "a ghostly memory of the morgue with sheet-covered tables",
+  "image": "images/beat_322.png"
+ },
+ {
+  "beat": 323,
+  "start": 1134.386,
+  "dur": 2.5,
+  "text": "In the bodies of the mothers.",
+  "motion": "push",
+  "scene": "ward1",
+  "action": "a ghostly memory of empty beds in the First Clinic",
+  "image": "images/beat_323.png"
+ },
+ {
+  "beat": 324,
+  "start": 1136.886,
+  "dur": 2.917,
+  "text": "In the autopsy report of your friend.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "a ghostly memory of {KOLL}'s autopsy report",
+  "image": "images/beat_324.png"
+ },
+ {
+  "beat": 325,
+  "start": 1139.803,
+  "dur": 2.917,
+  "text": "Nobody in that asylum washes their hands.",
+  "motion": "push",
+  "scene": "asylum_cell",
+  "action": "{GUARDS} walking past a dry, dusty washbasin",
+  "image": "images/beat_325.png"
+ },
+ {
+  "beat": 326,
+  "start": 1142.72,
+  "dur": 3.75,
+  "text": "Two weeks after you arrive, on August 13th, 1865,",
+  "motion": "push",
+  "scene": "asylum_cell",
+  "action": "a calendar on the wall reading AUGUST 13, 1865",
+  "image": "images/beat_326.png"
+ },
+ {
+  "beat": 327,
+  "start": 1146.47,
+  "dur": 5.0,
+  "text": "you die of an infected wound. Childbed fever in everything but name.",
+  "motion": "pan",
+  "scene": "asylum_cell",
+  "action": "{YOU47} lying still on a cot with soft X-eyes, peaceful face, moonlight through the bars",
+  "image": "images/beat_327.png"
+ },
+ {
+  "beat": 328,
+  "start": 1151.47,
+  "dur": 3.333,
+  "text": "The same disease you spent your life fighting.",
+  "motion": "push",
+  "scene": "asylum_cell",
+  "action": "an inset of the green glowing specks drifting through the cell",
+  "image": "images/beat_328.png"
+ },
+ {
+  "beat": 329,
+  "start": 1154.803,
+  "dur": 2.5,
+  "text": "Killed by the same dirty hands.",
+  "motion": "pull",
+  "scene": "asylum_cell",
+  "action": "an inset of a dirty pair of stick hands",
+  "image": "images/beat_329.png"
+ },
+ {
+  "beat": 330,
+  "start": 1157.303,
+  "dur": 2.917,
+  "text": "Very few people come to your funeral.",
+  "motion": "push",
+  "scene": "cemetery",
+  "action": "a small funeral at a grave with only three mourners in the rain",
+  "image": "images/beat_330.png"
+ },
+ {
+  "beat": 331,
+  "start": 1160.22,
+  "dur": 2.5,
+  "text": "The medical societies barely mention it.",
+  "motion": "push",
+  "scene": "cemetery",
+  "action": "a medical journal page with a tiny obituary notice in the corner",
+  "image": "images/beat_331.png"
+ },
+ {
+  "beat": 332,
+  "start": 1162.72,
+  "dur": 5.0,
+  "text": "When your family clears out your desk, they find years of letters,",
+  "motion": "fade",
+  "scene": "desk_pest",
+  "action": "{WIFE} sorting through stacks of letters and ledgers at the empty desk",
+  "image": "images/beat_332.png"
+ },
+ {
+  "beat": 333,
+  "start": 1167.72,
+  "dur": 1.25,
+  "text": "tables, and ledgers.",
+  "motion": "push",
+  "scene": "desk_pest",
+  "action": "piles of ledgers and tables on the floor",
+  "image": "images/beat_333.png"
+ },
+ {
+  "beat": 334,
+  "start": 1168.97,
+  "dur": 4.583,
+  "text": "And at the very back of a drawer, folded and yellowed,",
+  "motion": "pull",
+  "scene": "desk_pest",
+  "action": "{WIFE} pulling a yellowed folded paper from the back of a drawer",
+  "image": "images/beat_334.png"
+ },
+ {
+  "beat": 335,
+  "start": 1173.553,
+  "dur": 5.0,
+  "text": "an old death certificate from the First Clinic. A laundress named Anna.",
+  "motion": "push",
+  "scene": "desk_pest",
+  "action": "extreme close-up of an old death certificate reading ANNA, LAUNDRESS",
+  "image": "images/beat_335.png"
+ },
+ {
+  "beat": 336,
+  "start": 1178.553,
+  "dur": 3.333,
+  "text": "Twenty years old. Cause of death, childbed fever.",
+  "motion": "push",
+  "scene": "desk_pest",
+  "action": "close-up of the certificate text: AGE 20, CHILDBED FEVER",
+  "image": "images/beat_336.png"
+ },
+ {
+  "beat": 337,
+  "start": 1181.886,
+  "dur": 3.333,
+  "text": "Nobody knows why you kept it. Nobody asks.",
+  "motion": "pan",
+  "scene": "desk_pest",
+  "action": "{WIFE} looking at the certificate with a puzzled, sad face",
+  "image": "images/beat_337.png"
+ },
+ {
+  "beat": 338,
+  "start": 1185.219,
+  "dur": 2.917,
+  "text": "And here's the part nobody tells you.",
+  "motion": "fade",
+  "scene": "lister",
+  "action": "a bright establishing view of a Scottish infirmary in 1867",
+  "image": "images/beat_338.png"
+ },
+ {
+  "beat": 339,
+  "start": 1188.136,
+  "dur": 2.5,
+  "text": "Within two years of your death,",
+  "motion": "pull",
+  "scene": "lister",
+  "action": "a calendar flipping from 1865 to 1867",
+  "image": "images/beat_339.png"
+ },
+ {
+  "beat": 340,
+  "start": 1190.636,
+  "dur": 3.333,
+  "text": "a surgeon in Scotland named Joseph Lister begins",
+  "motion": "push",
+  "scene": "lister",
+  "action": "{LISTER} spraying a fine mist of carbolic over an operating table",
+  "image": "images/beat_340.png"
+ },
+ {
+  "beat": 341,
+  "start": 1193.969,
+  "dur": 5.0,
+  "text": "cleaning his wounds and instruments with chemicals, and his patients stop dying.",
+  "motion": "push",
+  "scene": "lister",
+  "action": "{LISTER} cleaning surgical instruments in a basin, patients recovering in beds",
+  "image": "images/beat_341.png"
+ },
+ {
+  "beat": 342,
+  "start": 1198.969,
+  "dur": 5.0,
+  "text": "In France, a chemist named Louis Pasteur proves that invisible living organisms,",
+  "motion": "pan",
+  "scene": "pasteur",
+  "action": "{PASTEUR} peering into a microscope in a laboratory full of flasks",
+  "image": "images/beat_342.png"
+ },
+ {
+  "beat": 343,
+  "start": 1203.969,
+  "dur": 4.167,
+  "text": "germs, cause disease. The particles you couldn't see were real.",
+  "motion": "push",
+  "scene": "pasteur",
+  "action": "an inset of microscopic germs labelled GERMS, the same green specks from earlier",
+  "image": "images/beat_343.png"
+ },
+ {
+  "beat": 344,
+  "start": 1208.136,
+  "dur": 2.917,
+  "text": "Every number you ever wrote was right.",
+  "motion": "pull",
+  "scene": "pasteur",
+  "action": "an inset of {YOU}'s old ledger with a glowing tick mark",
+  "image": "images/beat_344.png"
+ },
+ {
+  "beat": 345,
+  "start": 1211.053,
+  "dur": 1.667,
+  "text": "Within a few decades,",
+  "motion": "push",
+  "scene": "modern",
+  "action": "a calendar flipping forward rapidly through the decades",
+  "image": "images/beat_345.png"
+ },
+ {
+  "beat": 346,
+  "start": 1212.72,
+  "dur": 4.583,
+  "text": "every hospital in the world requires doctors to wash their hands.",
+  "motion": "push",
+  "scene": "modern",
+  "action": "modern hospital staff washing their hands at a row of steel sinks",
+  "image": "images/beat_346.png"
+ },
+ {
+  "beat": 347,
+  "start": 1217.303,
+  "dur": 3.333,
+  "text": "Today, a university in Budapest carries your name.",
+  "motion": "pan",
+  "scene": "uni_today",
+  "action": "a grand university building in Budapest with the name SEMMELWEIS UNIVERSITY over the entrance",
+  "image": "images/beat_347.png"
+ },
+ {
+  "beat": 348,
+  "start": 1220.636,
+  "dur": 4.167,
+  "text": "Scientists even named a reflex after you. The Semmelweis reflex.",
+  "motion": "push",
+  "scene": "uni_today",
+  "action": "an inset of a textbook page titled THE SEMMELWEIS REFLEX",
+  "image": "images/beat_348.png"
+ },
+ {
+  "beat": 349,
+  "start": 1224.803,
+  "dur": 3.333,
+  "text": "It describes the instinct to reject new evidence",
+  "motion": "pull",
+  "scene": "uni_today",
+  "action": "an inset of a man covering his ears while a scientist shows him a chart",
+  "image": "images/beat_349.png"
+ },
+ {
+  "beat": 350,
+  "start": 1228.136,
+  "dur": 2.917,
+  "text": "because it contradicts what everyone already believes.",
+  "motion": "push",
+  "scene": "uni_today",
+  "action": "an inset of a crowd shaking their heads at new evidence",
+  "image": "images/beat_350.png"
+ },
+ {
+  "beat": 351,
+  "start": 1231.053,
+  "dur": 5.0,
+  "text": "They named the stubbornness after you. Not the doctors who were stubborn.",
+  "motion": "push",
+  "scene": "uni_today",
+  "action": "an inset of a portrait of {YOU} beside the word STUBBORN",
+  "image": "images/beat_351.png"
+ },
+ {
+  "beat": 352,
+  "start": 1236.053,
+  "dur": 1.2,
+  "text": "You.",
+  "motion": "pan",
+  "scene": "uni_today",
+  "action": "close-up of {YOU} raising one eyebrow",
+  "image": "images/beat_352.png"
+ },
+ {
+  "beat": 353,
+  "start": 1237.253,
+  "dur": 2.083,
+  "text": "Your name is Ignaz Semmelweis.",
+  "motion": "push",
+  "scene": "uni_today",
+  "action": "a framed engraved portrait of {YOU} with a brass plaque reading IGNAZ SEMMELWEIS",
+  "image": "images/beat_353.png"
+ },
+ {
+  "beat": 354,
+  "start": 1239.336,
+  "dur": 4.167,
+  "text": "And the next time you stand at a sink and",
+  "motion": "pull",
+  "scene": "modern",
+  "action": "{MODERN} standing at a modern bathroom sink",
+  "image": "images/beat_354.png"
+ },
+ {
+  "beat": 355,
+  "start": 1243.503,
+  "dur": 4.167,
+  "text": "wash your hands for twenty seconds without thinking about it,",
+  "motion": "push",
+  "scene": "modern",
+  "action": "close-up of soapy stick hands under a running tap, a 20-second timer",
+  "image": "images/beat_355.png"
+ },
+ {
+  "beat": 356,
+  "start": 1247.67,
+  "dur": 5.0,
+  "text": "remember that someone once lost everything for asking you to do it.",
+  "motion": "push",
+  "scene": "modern",
+  "action": "{MODERN} glancing up at the mirror, a faint reflection of {YOU47} looking back",
+  "image": "images/beat_356.png"
+ },
+ {
+  "beat": 357,
+  "start": 1252.67,
+  "dur": 1.667,
+  "text": "The numbers never lied.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "an inset of the old ledger with the zero glowing",
+  "image": "images/beat_357.png"
+ },
+ {
+  "beat": 358,
+  "start": 1254.337,
+  "dur": 4.167,
+  "text": "They just took the world fifty years to read them.",
+  "motion": "push",
+  "scene": "modern",
+  "action": "the modern sink with the old ledger resting on the counter, water still running",
+  "image": "images/beat_358.png"
+ }
+]

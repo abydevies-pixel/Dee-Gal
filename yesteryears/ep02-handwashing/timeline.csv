@@ -1,0 +1,359 @@
+beat,start,end,duration_s,motion,scene,image,script_segment
+1,00:00:00.000,00:00:04.167,4.167,push,buda,images/beat_001.png,"The year is 1818 and you are born in Buda,"
+2,00:00:04.167,00:00:07.084,2.917,pan,buda,images/beat_002.png,"on the hilly side of the Danube,"
+3,00:00:07.084,00:00:10.001,2.917,push,buda,images/beat_003.png,in what will one day become Budapest.
+4,00:00:10.001,00:00:14.584,4.583,pull,buda,images/beat_004.png,"Your home sits above a grocery shop called The White Elephant,"
+5,00:00:14.584,00:00:19.167,4.583,push,shop,images/beat_005.png,"and it smells of coffee beans, dried fruit, and floor polish."
+6,00:00:19.167,00:00:22.917,3.75,push,shop,images/beat_006.png,"Your father owns the shop. He is a careful,"
+7,00:00:22.917,00:00:27.084,4.167,pan,shop,images/beat_007.png,prosperous man who counts every coin twice and believes that
+8,00:00:27.084,00:00:30.834,3.75,push,shop,images/beat_008.png,a son's job is to make his father proud.
+9,00:00:30.834,00:00:34.167,3.333,pull,home,images/beat_009.png,Your mother runs the household and its ten
+10,00:00:34.167,00:00:38.750,4.583,push,home,images/beat_010.png,children with the calm of a general. You are number five.
+11,00:00:38.750,00:00:42.083,3.333,push,home,images/beat_011.png,Being number five teaches you one thing early.
+12,00:00:42.083,00:00:46.666,4.583,fade,home,images/beat_012.png,"If you want to be heard, you have to be loud."
+13,00:00:46.666,00:00:47.916,1.25,push,home,images/beat_013.png,You are loud.
+14,00:00:47.916,00:00:51.666,3.75,pull,shop,images/beat_014.png,"By age 6, you are correcting the customers' arithmetic."
+15,00:00:51.666,00:00:56.249,4.583,push,home,images/beat_015.png,"By age 9, you are correcting your tutors. By age 12,"
+16,00:00:56.249,00:00:59.166,2.917,push,home,images/beat_016.png,you have learned that being right and
+17,00:00:59.166,00:01:02.083,2.917,pan,home,images/beat_017.png,"being liked are two completely different things,"
+18,00:01:02.083,00:01:04.583,2.5,push,home,images/beat_018.png,and you have chosen being right.
+19,00:01:04.583,00:01:07.500,2.917,pull,home,images/beat_019.png,Your mother tells you that one day
+20,00:01:07.500,00:01:10.417,2.917,push,home,images/beat_020.png,your mouth will cost you something important.
+21,00:01:10.417,00:01:15.000,4.583,push,home,images/beat_021.png,You tell her that one day she'll be wrong. She laughs.
+22,00:01:15.000,00:01:16.200,1.2,pan,home,images/beat_022.png,You don't.
+23,00:01:16.200,00:01:19.117,2.917,push,shop,images/beat_023.png,Your father has a plan for you.
+24,00:01:19.117,00:01:22.867,3.75,pull,shop,images/beat_024.png,"You will become a lawyer, a respectable Austrian lawyer,"
+25,00:01:22.867,00:01:25.784,2.917,push,shop,images/beat_025.png,with a respectable office and respectable clients
+26,00:01:25.784,00:01:28.284,2.5,fade,shop,images/beat_026.png,who pay their bills on time.
+27,00:01:28.284,00:01:32.867,4.583,pan,vienna,images/beat_027.png,"So in 1837, at age 19, he sends you to Vienna,"
+28,00:01:32.867,00:01:36.617,3.75,push,vienna,images/beat_028.png,"the capital of the Austrian Empire, to study law."
+29,00:01:36.617,00:01:38.700,2.083,pull,vienna,images/beat_029.png,You last about a year.
+30,00:01:38.700,00:01:41.617,2.917,push,vienna,images/beat_030.png,"One afternoon, a friend drags you into"
+31,00:01:41.617,00:01:44.534,2.917,push,lecture,images/beat_031.png,a lecture hall at the medical school.
+32,00:01:44.534,00:01:47.034,2.5,pan,lecture,images/beat_032.png,There's a body on the table.
+33,00:01:47.034,00:01:50.784,3.75,push,lecture,images/beat_033.png,"A professor is taking it apart, piece by piece,"
+34,00:01:50.784,00:01:55.784,5.0,pull,lecture,images/beat_034.png,explaining how each part failed. The room smells of vinegar and rot.
+35,00:01:55.784,00:01:58.701,2.917,push,lecture,images/beat_035.png,Students are fainting in the back rows.
+36,00:01:58.701,00:02:01.201,2.5,fade,lecture,images/beat_036.png,You don't faint. You lean forward.
+37,00:02:01.201,00:02:04.118,2.917,pan,lecture,images/beat_037.png,"For the first time in your life,"
+38,00:02:04.118,00:02:07.451,3.333,push,lecture,images/beat_038.png,you're looking at something that can't argue back.
+39,00:02:07.451,00:02:12.451,5.0,pull,lecture,images/beat_039.png,The body doesn't have opinions. It just has evidence. Causes and effects.
+40,00:02:12.451,00:02:16.618,4.167,shake,vienna,images/beat_040.png,Questions with answers. You walk out of that room and
+41,00:02:16.618,00:02:19.118,2.5,push,vienna,images/beat_041.png,never go back to law school.
+42,00:02:19.118,00:02:24.118,5.0,pan,shop,images/beat_042.png,Your father is not thrilled. But you're the fifth child of ten.
+43,00:02:24.118,00:02:27.451,3.333,shake,shop,images/beat_043.png,He has other sons to be proud of.
+44,00:02:27.451,00:02:31.618,4.167,pull,lecture,images/beat_044.png,"Years pass, and in 1844, you earn your medical degree."
+45,00:02:31.618,00:02:35.785,4.167,shake,hospext,images/beat_045.png,"Two years later, you land the job of your dreams."
+46,00:02:35.785,00:02:40.785,5.0,push,hospext,images/beat_046.png,Assistant physician at the First Obstetric Clinic of the Vienna General Hospital.
+47,00:02:40.785,00:02:43.702,2.917,pan,hospext,images/beat_047.png,The biggest maternity hospital in the world.
+48,00:02:43.702,00:02:47.869,4.167,push,corridor,images/beat_048.png,The first month is disorienting in the best possible way.
+49,00:02:47.869,00:02:51.619,3.75,shake,hospext,images/beat_049.png,"The hospital is enormous, a city within a city,"
+50,00:02:51.619,00:02:56.619,5.0,push,office,images/beat_050.png,with courtyards and chapels and thousands of beds. You have a salary.
+51,00:02:56.619,00:03:01.619,5.0,push,office,images/beat_051.png,You have a title. You have a room in the hospital itself.
+52,00:03:01.619,00:03:04.952,3.333,pan,corridor,images/beat_052.png,Students follow you down the corridors taking notes.
+53,00:03:04.952,00:03:08.285,3.333,push,office,images/beat_053.png,Your mother writes to tell you the whole
+54,00:03:08.285,00:03:11.202,2.917,pull,buda,images/beat_054.png,neighbourhood back home is talking about you.
+55,00:03:11.202,00:03:15.369,4.167,push,office,images/beat_055.png,You decide that this was absolutely worth disappointing your father.
+56,00:03:15.369,00:03:17.452,2.083,push,office,images/beat_056.png,Your days have a rhythm.
+57,00:03:17.452,00:03:22.452,5.0,pan,stairs,images/beat_057.png,"In the morning, before dawn, you go down to the dead house,"
+58,00:03:22.452,00:03:27.035,4.583,push,deadhouse,images/beat_058.png,"the hospital morgue, where you and the students perform autopsies on"
+59,00:03:27.035,00:03:31.618,4.583,pull,deadhouse,images/beat_059.png,the women who died the day before. You study their organs.
+60,00:03:31.618,00:03:34.951,3.333,push,deadhouse,images/beat_060.png,"You take notes. You learn. Then, around nine,"
+61,00:03:34.951,00:03:38.284,3.333,push,stairs,images/beat_061.png,you walk upstairs to the maternity wards to
+62,00:03:38.284,00:03:41.201,2.917,pan,ward1,images/beat_062.png,examine the women who are still alive.
+63,00:03:41.201,00:03:46.201,5.0,push,ward1,images/beat_063.png,You don't wash your hands in between. Nobody does. Why would you?
+64,00:03:46.201,00:03:47.868,1.667,pull,ward1,images/beat_064.png,There's no reason to.
+65,00:03:47.868,00:03:52.451,4.583,push,ward1,images/beat_065.png,"You wipe them on your coat, like every doctor in Europe."
+66,00:03:52.451,00:03:57.451,5.0,push,stairs,images/beat_066.png,"You don't know it yet, but that walk up the stairs is"
+67,00:03:57.451,00:03:59.951,2.5,pan,stairs,images/beat_067.png,the most dangerous walk in Vienna.
+68,00:03:59.951,00:04:02.034,2.083,push,gate,images/beat_068.png,Then the women start begging.
+69,00:04:02.034,00:04:04.534,2.5,pull,gate,images/beat_069.png,It happens on your second week.
+70,00:04:04.534,00:04:08.701,4.167,push,gate,images/beat_070.png,"A young woman arrives at the hospital gate in labour,"
+71,00:04:08.701,00:04:12.868,4.167,push,gate,images/beat_071.png,"holding her belly, and when the porter tells her she's"
+72,00:04:12.868,00:04:15.368,2.5,pan,gate,images/beat_072.png,"been assigned to the First Clinic,"
+73,00:04:15.368,00:04:19.951,4.583,fade,gate,images/beat_073.png,"your clinic, she drops to her knees. She grabs your coat."
+74,00:04:19.951,00:04:24.951,5.0,pull,gate,images/beat_074.png,She cries and pleads and begs you to send her anywhere else.
+75,00:04:24.951,00:04:27.451,2.5,push,gate,images/beat_075.png,The Second Clinic. The street. Anywhere.
+76,00:04:27.451,00:04:32.451,5.0,push,gate,images/beat_076.png,You're confused. You ask the porter what's wrong with her. He shrugs.
+77,00:04:32.451,00:04:34.951,2.5,pan,gate,images/beat_077.png,"They all do that, he says."
+78,00:04:34.951,00:04:37.451,2.5,push,office,images/beat_078.png,You find out why that night.
+79,00:04:37.451,00:04:42.034,4.583,pull,hospext,images/beat_079.png,"The Vienna General Hospital has two maternity clinics, side by side,"
+80,00:04:42.034,00:04:45.367,3.333,push,hospext,images/beat_080.png,sharing the same building and the same entrance.
+81,00:04:45.367,00:04:48.700,3.333,push,gate,images/beat_081.png,Women are admitted to them on alternate days.
+82,00:04:48.700,00:04:52.033,3.333,pan,ward2,images/beat_082.png,The only real difference is who works there.
+83,00:04:52.033,00:04:54.950,2.917,push,ward2,images/beat_083.png,The Second Clinic is run by midwives.
+84,00:04:54.950,00:04:59.950,5.0,pull,ward1,images/beat_084.png,"The First Clinic, your clinic, is run by doctors and medical students."
+85,00:04:59.950,00:05:02.867,2.917,shake,ward1,images/beat_085.png,"And in your clinic, the mothers die."
+86,00:05:02.867,00:05:06.200,3.333,push,office,images/beat_086.png,"Not a few of them. In some months,"
+87,00:05:06.200,00:05:09.533,3.333,pan,office,images/beat_087.png,one in every ten women who gives birth
+88,00:05:09.533,00:05:12.450,2.917,push,ward1,images/beat_088.png,in your wards dies of childbed fever.
+89,00:05:12.450,00:05:15.783,3.333,pull,office,images/beat_089.png,"Some months, it's closer to one in three."
+90,00:05:15.783,00:05:19.116,3.333,push,ward1,images/beat_090.png,"They give birth to healthy babies, and then,"
+91,00:05:19.116,00:05:24.116,5.0,push,ward1,images/beat_091.png,"a day or two later, the fever comes. The chills. The swelling."
+92,00:05:24.116,00:05:27.449,3.333,pan,ward1,images/beat_092.png,"The pain. And within a week, they're gone."
+93,00:05:27.449,00:05:32.032,4.583,push,ward2,images/beat_093.png,"In the Second Clinic, run by midwives with half your training,"
+94,00:05:32.032,00:05:35.365,3.333,pull,office,images/beat_094.png,the death rate is a fraction of yours.
+95,00:05:35.365,00:05:37.448,2.083,push,vienna,images/beat_095.png,Everyone in Vienna knows this.
+96,00:05:37.448,00:05:42.448,5.0,push,vienna,images/beat_096.png,The poor women know it best of all. That's why they beg.
+97,00:05:42.448,00:05:46.198,3.75,pan,street,images/beat_097.png,Some of them deliberately give birth in the street
+98,00:05:46.198,00:05:49.948,3.75,push,street,images/beat_098.png,"outside, in carriages, in doorways, so they can arrive"
+99,00:05:49.948,00:05:54.948,5.0,pull,street,images/beat_099.png,with a baby already in their arms. And here's the strange part.
+100,00:05:54.948,00:05:57.865,2.917,push,street,images/beat_100.png,Even the women who give birth in
+101,00:05:57.865,00:06:00.782,2.917,push,office,images/beat_101.png,the gutter almost never catch the fever.
+102,00:06:00.782,00:06:03.282,2.5,pan,office,images/beat_102.png,You can't stop thinking about it.
+103,00:06:03.282,00:06:06.199,2.917,push,office,images/beat_103.png,You think about the woman who grabbed
+104,00:06:06.199,00:06:10.366,4.167,pull,gate,images/beat_104.png,your coat on your second week. Her name was Anna.
+105,00:06:10.366,00:06:13.283,2.917,push,ward1,images/beat_105.png,"She was a laundress, twenty years old,"
+106,00:06:13.283,00:06:17.450,4.167,push,ward1,images/beat_106.png,"and she had a healthy baby boy, loud and red-faced."
+107,00:06:17.450,00:06:19.117,1.667,pan,ward1,images/beat_107.png,You delivered him yourself.
+108,00:06:19.117,00:06:23.284,4.167,push,ward1,images/beat_108.png,"She smiled at you afterward, as if to say, see,"
+109,00:06:23.284,00:06:25.367,2.083,pull,ward1,images/beat_109.png,I was worried for nothing.
+110,00:06:25.367,00:06:28.284,2.917,push,ward1,images/beat_110.png,"Three days later, she had the fever."
+111,00:06:28.284,00:06:31.617,3.333,push,office,images/beat_111.png,"Five days later, you signed her death certificate."
+112,00:06:31.617,00:06:36.200,4.583,pan,street,images/beat_112.png,Her son was sent to the foundling home across the street.
+113,00:06:36.200,00:06:41.200,5.0,push,office,images/beat_113.png,You keep the certificate in your desk drawer. You don't know why.
+114,00:06:41.200,00:06:43.283,2.083,pull,corridor,images/beat_114.png,The senior doctors have explanations.
+115,00:06:43.283,00:06:48.283,5.0,push,corridor,images/beat_115.png,"Miasma, bad air drifting in from the city. Overcrowding. The women's fear."
+116,00:06:48.283,00:06:52.450,4.167,push,corridor,images/beat_116.png,"Their modesty, offended by male doctors. Cosmic influences. Atmospheric conditions."
+117,00:06:52.450,00:06:55.367,2.917,pan,corridor,images/beat_117.png,"Your boss, Professor Johann Klein, a stiff,"
+118,00:06:55.367,00:06:59.117,3.75,push,corridor,images/beat_118.png,"careful man who has run the clinic for years,"
+119,00:06:59.117,00:07:02.867,3.75,fade,corridor,images/beat_119.png,tells you it's simply the nature of the place.
+120,00:07:02.867,00:07:04.534,1.667,shake,corridor,images/beat_120.png,Some clinics are unlucky.
+121,00:07:04.534,00:07:08.284,3.75,shake,hospext,images/beat_121.png,But the air is the same in both clinics.
+122,00:07:08.284,00:07:12.451,4.167,pan,hospext,images/beat_122.png,The building is the same. The weather is the same.
+123,00:07:12.451,00:07:15.368,2.917,push,office,images/beat_123.png,The numbers don't lie. Something is different.
+124,00:07:15.368,00:07:19.535,4.167,pull,office,images/beat_124.png,And you are going to find out what it is.
+125,00:07:19.535,00:07:23.702,4.167,push,deadhouse,images/beat_125.png,Your only real friend at the hospital is Jakob Kolletschka.
+126,00:07:23.702,00:07:28.285,4.583,push,deadhouse,images/beat_126.png,"He's a professor of forensic medicine, fifteen years older than you,"
+127,00:07:28.285,00:07:29.535,1.25,pan,deadhouse,images/beat_127.png,"with a round,"
+128,00:07:29.535,00:07:34.118,4.583,push,deadhouse,images/beat_128.png,cheerful face and a habit of humming opera badly during autopsies.
+129,00:07:34.118,00:07:37.868,3.75,pull,corridor,images/beat_129.png,He's the only senior doctor who doesn't roll his
+130,00:07:37.868,00:07:41.201,3.333,push,office,images/beat_130.png,eyes when you start talking about your numbers.
+131,00:07:41.201,00:07:46.201,5.0,push,office,images/beat_131.png,"Instead, he pours you a drink and tells you to talk slower."
+132,00:07:46.201,00:07:49.118,2.917,pan,office,images/beat_132.png,He becomes your favourite person in Vienna.
+133,00:07:49.118,00:07:52.035,2.917,push,deadhouse,images/beat_133.png,He's also the only person who can
+134,00:07:52.035,00:07:56.618,4.583,pull,deadhouse,images/beat_134.png,"make you laugh in the dead house. When a student faints,"
+135,00:07:56.618,00:08:01.201,4.583,push,deadhouse,images/beat_135.png,Kolletschka steps over him without missing a note of his opera.
+136,00:08:01.201,00:08:04.951,3.75,push,lecture,images/beat_136.png,"When Professor Klein gives a speech about atmospheric influences,"
+137,00:08:04.951,00:08:08.284,3.333,pan,lecture,images/beat_137.png,Kolletschka leans over and whispers that the only
+138,00:08:08.284,00:08:11.617,3.333,push,lecture,images/beat_138.png,atmospheric influence in this hospital is Klein's breath.
+139,00:08:11.617,00:08:16.617,5.0,pull,corridor,images/beat_139.png,You have to leave the room so no one sees your face.
+140,00:08:16.617,00:08:20.367,3.75,push,deadhouse,images/beat_140.png,Kolletschka teaches you how to read a body properly.
+141,00:08:20.367,00:08:25.367,5.0,push,deadhouse,images/beat_141.png,How every organ tells a story if you're patient enough to listen.
+142,00:08:25.367,00:08:29.534,4.167,pan,canal,images/beat_142.png,"In the evenings, the two of you walk along the"
+143,00:08:29.534,00:08:32.867,3.333,push,canal,images/beat_143.png,Danube canal and argue about everything. Politics. Philosophy.
+144,00:08:32.867,00:08:37.867,5.0,pull,canal,images/beat_144.png,Whether Viennese coffee is better than Hungarian coffee. He says it is.
+145,00:08:37.867,00:08:42.867,5.0,push,canal,images/beat_145.png,You tell him he's wrong. He says you think everyone is wrong.
+146,00:08:42.867,00:08:46.200,3.333,push,canal,images/beat_146.png,You tell him that's because they usually are.
+147,00:08:46.200,00:08:51.200,5.0,pan,canal,images/beat_147.png,He laughs so hard he has to sit down on a bench.
+148,00:08:51.200,00:08:55.367,4.167,push,canal,images/beat_148.png,He tells you something one night that you never forget.
+149,00:08:55.367,00:08:58.284,2.917,pull,canal,images/beat_149.png,"That a good doctor follows the evidence,"
+150,00:08:58.284,00:09:01.617,3.333,push,canal,images/beat_150.png,even when it leads somewhere ugly. Especially then.
+151,00:09:01.617,00:09:03.284,1.667,push,ward1,images/beat_151.png,You start testing everything.
+152,00:09:03.284,00:09:07.451,4.167,pan,ward1,images/beat_152.png,"You change the way women lie in bed during labour,"
+153,00:09:07.451,00:09:12.034,4.583,push,ward1,images/beat_153.png,to match the Second Clinic. Nothing changes. You improve ventilation. Nothing.
+154,00:09:12.034,00:09:16.201,4.167,pull,corridor,images/beat_154.png,You even convince the hospital priest to stop walking through
+155,00:09:16.201,00:09:20.368,4.167,push,corridor,images/beat_155.png,"your wards ringing his little bell before giving last rites,"
+156,00:09:20.368,00:09:25.368,5.0,push,ward1,images/beat_156.png,in case the sound of it is frightening the mothers to death.
+157,00:09:25.368,00:09:29.118,3.75,pan,corridor,images/beat_157.png,He takes a different route. The women still die.
+158,00:09:29.118,00:09:32.035,2.917,push,corridor,images/beat_158.png,Professor Klein starts watching you more closely.
+159,00:09:32.035,00:09:36.202,4.167,pull,corridor,images/beat_159.png,He doesn't like assistants who ask questions he can't answer.
+160,00:09:36.202,00:09:39.535,3.333,push,office,images/beat_160.png,"In the spring of 1847, exhausted and frustrated,"
+161,00:09:39.535,00:09:43.285,3.75,push,venice,images/beat_161.png,you take a short holiday to Venice with friends.
+162,00:09:43.285,00:09:46.202,2.917,pan,venice,images/beat_162.png,You look at paintings. You eat well.
+163,00:09:46.202,00:09:49.535,3.333,push,venice,images/beat_163.png,You sleep for the first time in months.
+164,00:09:49.535,00:09:53.702,4.167,pull,venice,images/beat_164.png,"For three weeks, you almost forget the First Clinic exists."
+165,00:09:53.702,00:09:58.285,4.583,push,hospext,images/beat_165.png,"Then you come home, and someone meets you at the hospital"
+166,00:09:58.285,00:10:00.785,2.5,push,hospext,images/beat_166.png,with a face you'll never forget.
+167,00:10:00.785,00:10:02.035,1.25,pan,hospext,images/beat_167.png,Kolletschka is dead.
+168,00:10:02.035,00:10:04.535,2.5,push,deadhouse,images/beat_168.png,It happened while you were gone.
+169,00:10:04.535,00:10:09.535,5.0,pull,deadhouse,images/beat_169.png,"During a routine autopsy, a student's scalpel slipped and nicked Kolletschka's finger."
+170,00:10:09.535,00:10:12.452,2.917,push,deadhouse,images/beat_170.png,A tiny cut. Barely worth a bandage.
+171,00:10:12.452,00:10:17.452,5.0,push,deadhouse,images/beat_171.png,"Within days, he had a fever. The chills. The swelling. The pain."
+172,00:10:17.452,00:10:20.369,2.917,pan,deadhouse,images/beat_172.png,"And within a week, he was gone."
+173,00:10:20.369,00:10:24.952,4.583,push,office,images/beat_173.png,You don't cry at first. You do what he taught you.
+174,00:10:24.952,00:10:27.035,2.083,pull,office,images/beat_174.png,You read his autopsy report.
+175,00:10:27.035,00:10:31.202,4.167,push,office,images/beat_175.png,"And there it is, on the page, in plain ink."
+176,00:10:31.202,00:10:36.202,5.0,push,office,images/beat_176.png,The inflamed tissue. The swelling. The pus. The damage to his organs.
+177,00:10:36.202,00:10:39.119,2.917,pan,office,images/beat_177.png,You've seen it hundreds of times before.
+178,00:10:39.119,00:10:42.036,2.917,push,deadhouse,images/beat_178.png,On the table in the dead house.
+179,00:10:42.036,00:10:45.786,3.75,shake,ward1,images/beat_179.png,In the bodies of the mothers from your clinic.
+180,00:10:45.786,00:10:50.369,4.583,push,office,images/beat_180.png,"Your friend, a grown man who never gave birth to anything,"
+181,00:10:50.369,00:10:55.369,5.0,push,office,images/beat_181.png,died of the exact same disease as the women in your wards.
+182,00:10:55.369,00:10:57.869,2.5,pan,office,images/beat_182.png,Something cold settles in your stomach.
+183,00:10:57.869,00:11:01.619,3.75,push,deadhouse,images/beat_183.png,The knife that killed Kolletschka came from a corpse.
+184,00:11:01.619,00:11:06.202,4.583,pull,deadhouse,images/beat_184.png,It carried something from the dead body into his living one.
+185,00:11:06.202,00:11:10.369,4.167,push,office,images/beat_185.png,Something invisible. Something deadly. And you think about your mornings.
+186,00:11:10.369,00:11:12.452,2.083,push,deadhouse,images/beat_186.png,The dead house at dawn.
+187,00:11:12.452,00:11:16.202,3.75,pan,deadhouse,images/beat_187.png,Your hands inside the bodies of the dead women.
+188,00:11:16.202,00:11:21.202,5.0,push,stairs,images/beat_188.png,"Then the walk upstairs. Your hands, still unwashed, examining the living ones."
+189,00:11:21.202,00:11:24.952,3.75,pull,ward2,images/beat_189.png,The midwives in the Second Clinic don't do autopsies.
+190,00:11:24.952,00:11:27.869,2.917,push,street,images/beat_190.png,The women who give birth in the
+191,00:11:27.869,00:11:30.786,2.917,push,street,images/beat_191.png,street never see a doctor at all.
+192,00:11:30.786,00:11:34.119,3.333,pan,office,images/beat_192.png,You sit very still for a long time.
+193,00:11:34.119,00:11:39.119,5.0,push,office,images/beat_193.png,It isn't the air. It isn't fear. It isn't the priest's bell.
+194,00:11:39.119,00:11:40.319,1.2,pull,office,images/beat_194.png,It's you.
+195,00:11:40.319,00:11:44.069,3.75,push,office,images/beat_195.png,It's your hands. The doctors' hands. The students' hands.
+196,00:11:44.069,00:11:48.652,4.583,push,stairs,images/beat_196.png,"Every morning, you have been carrying death up the stairs on"
+197,00:11:48.652,00:11:52.402,3.75,pan,ward1,images/beat_197.png,your fingers and delivering it to the mothers yourself.
+198,00:11:52.402,00:11:56.569,4.167,push,ward1,images/beat_198.png,You've examined hundreds of them. How many did you kill?
+199,00:11:56.569,00:11:59.902,3.333,pull,office,images/beat_199.png,"You try to count, and then you stop,"
+200,00:11:59.902,00:12:02.402,2.5,push,office,images/beat_200.png,because you can't bear the number.
+201,00:12:02.402,00:12:04.069,1.667,push,office,images/beat_201.png,The numbers don't lie.
+202,00:12:04.069,00:12:05.319,1.25,pan,corridor,images/beat_202.png,"In May 1847,"
+203,00:12:05.319,00:12:09.486,4.167,push,basin,images/beat_203.png,you put a basin by the entrance to the wards.
+204,00:12:09.486,00:12:11.569,2.083,pull,basin,images/beat_204.png,"It's filled with chlorinated lime,"
+205,00:12:11.569,00:12:14.902,3.333,push,basin,images/beat_205.png,a bleach solution you chose because it destroys
+206,00:12:14.902,00:12:17.819,2.917,push,basin,images/beat_206.png,the smell of the dead house completely.
+207,00:12:17.819,00:12:20.736,2.917,pan,basin,images/beat_207.png,"If it kills the smell, you reason,"
+208,00:12:20.736,00:12:25.736,5.0,fade,basin,images/beat_208.png,it might kill whatever is causing it. You announce a new rule.
+209,00:12:25.736,00:12:29.903,4.167,pull,basin,images/beat_209.png,"Every doctor and every student, before touching a single patient,"
+210,00:12:29.903,00:12:32.820,2.917,push,basin,images/beat_210.png,scrubs their hands in the basin until
+211,00:12:32.820,00:12:35.320,2.5,push,basin,images/beat_211.png,the smell of corpses is gone.
+212,00:12:35.320,00:12:38.237,2.917,pan,basin,images/beat_212.png,The students hate it. The chlorine stings.
+213,00:12:38.237,00:12:42.820,4.583,push,basin,images/beat_213.png,It cracks their skin and turns their knuckles raw. They mutter.
+214,00:12:42.820,00:12:46.570,3.75,pull,basin,images/beat_214.png,They complain. Some of them try to sneak past.
+215,00:12:46.570,00:12:51.570,5.0,push,basin,images/beat_215.png,You stand by the basin and you make them do it anyway.
+216,00:12:51.570,00:12:52.820,1.25,push,basin,images/beat_216.png,Every single time.
+217,00:12:52.820,00:12:57.403,4.583,pan,basin,images/beat_217.png,"One morning, a student comes straight up from the dead house,"
+218,00:12:57.403,00:12:59.070,1.667,push,basin,images/beat_218.png,"still smelling of corpses,"
+219,00:12:59.070,00:13:03.237,4.167,fade,basin,images/beat_219.png,and walks right past you toward a woman in labour.
+220,00:13:03.237,00:13:06.570,3.333,push,basin,images/beat_220.png,You grab his arm so hard he yelps.
+221,00:13:06.570,00:13:11.153,4.583,push,basin,images/beat_221.png,You march him back to the basin and hold his hands
+222,00:13:11.153,00:13:15.736,4.583,pan,basin,images/beat_222.png,in the chlorine until he swears he'll never skip it again.
+223,00:13:15.736,00:13:19.903,4.167,push,corridor,images/beat_223.png,"By lunchtime, the whole hospital is calling you a tyrant."
+224,00:13:19.903,00:13:22.820,2.917,pull,corridor,images/beat_224.png,You decide you can live with that.
+225,00:13:22.820,00:13:24.903,2.083,push,office,images/beat_225.png,"And then, the numbers change."
+226,00:13:24.903,00:13:26.986,2.083,push,office,images/beat_226.png,"In April, before the basin,"
+227,00:13:26.986,00:13:30.736,3.75,pan,office,images/beat_227.png,almost one in five mothers in your clinic died.
+228,00:13:30.736,00:13:35.319,4.583,push,office,images/beat_228.png,"By June, it's about one in fifty. By the following year,"
+229,00:13:35.319,00:13:39.069,3.75,pull,office,images/beat_229.png,there are entire months where not a single mother
+230,00:13:39.069,00:13:42.402,3.333,push,ward1,images/beat_230.png,in the First Clinic dies of childbed fever.
+231,00:13:42.402,00:13:43.602,1.2,push,office,images/beat_231.png,Not one.
+232,00:13:43.602,00:13:46.519,2.917,fade,office,images/beat_232.png,The midwives from the Second Clinic come
+233,00:13:46.519,00:13:49.019,2.5,push,office,images/beat_233.png,over to look at your ledgers.
+234,00:13:49.019,00:13:51.936,2.917,pull,gate,images/beat_234.png,Even the porter at the gate notices.
+235,00:13:51.936,00:13:54.436,2.5,push,gate,images/beat_235.png,"For the first time in years,"
+236,00:13:54.436,00:13:59.436,5.0,push,gate,images/beat_236.png,women assigned to the First Clinic walk through the doors without crying.
+237,00:13:59.436,00:14:03.603,4.167,pan,office,images/beat_237.png,You've just found a way to save thousands of lives.
+238,00:14:03.603,00:14:08.603,5.0,push,office,images/beat_238.png,With soap and a bucket. You sit in your room with your
+239,00:14:08.603,00:14:13.603,5.0,pull,office,images/beat_239.png,"ledgers and you laugh until you cry, and then you just cry."
+240,00:14:13.603,00:14:18.186,4.583,shake,office,images/beat_240.png,You think about Kolletschka. You wish he could see these numbers.
+241,00:14:18.186,00:14:22.353,4.167,push,office,images/beat_241.png,You assume the medical world is about to celebrate you.
+242,00:14:22.353,00:14:23.603,1.25,pan,office,images/beat_242.png,You assume wrong.
+243,00:14:23.603,00:14:26.520,2.917,push,university,images/beat_243.png,Because what you're actually telling the most
+244,00:14:26.520,00:14:31.520,5.0,pull,university,images/beat_244.png,"respected doctors in Europe is this. Gentlemen, you've been killing your patients."
+245,00:14:31.520,00:14:34.020,2.5,push,university,images/beat_245.png,With your own hands. For years.
+246,00:14:34.020,00:14:36.520,2.5,push,university,images/beat_246.png,They do not take it well.
+247,00:14:36.520,00:14:40.270,3.75,pan,university,images/beat_247.png,"Doctors in 1847 are gentlemen. Educated, respectable, important men."
+248,00:14:40.270,00:14:43.603,3.333,push,university,images/beat_248.png,"And a gentleman's hands, they insist, are clean."
+249,00:14:43.603,00:14:46.520,2.917,pull,university,images/beat_249.png,The idea that they themselves have been
+250,00:14:46.520,00:14:49.853,3.333,push,university,images/beat_250.png,"spreading death is not just wrong, it's insulting."
+251,00:14:49.853,00:14:54.853,5.0,push,university,images/beat_251.png,"Some of them say your theory is nonsense. Others say it's unscientific,"
+252,00:14:54.853,00:14:59.020,4.167,pan,university,images/beat_252.png,since you can't explain exactly what these invisible particles are.
+253,00:14:59.020,00:15:02.770,3.75,push,university,images/beat_253.png,You can't even see them. You just have numbers.
+254,00:15:02.770,00:15:04.853,2.083,pull,university,images/beat_254.png,And your personality isn't helping.
+255,00:15:04.853,00:15:09.020,4.167,push,university,images/beat_255.png,You're still the loud fifth child from the grocery shop.
+256,00:15:09.020,00:15:11.937,2.917,push,university,images/beat_256.png,You don't persuade people. You correct them.
+257,00:15:11.937,00:15:13.604,1.667,pan,office,images/beat_257.png,Professor Klein is furious.
+258,00:15:13.604,00:15:17.354,3.75,push,office,images/beat_258.png,"Your success makes his clinic look like a slaughterhouse,"
+259,00:15:17.354,00:15:20.271,2.917,pull,office,images/beat_259.png,and makes him look like the butcher.
+260,00:15:20.271,00:15:24.021,3.75,push,office,images/beat_260.png,"In 1849, when your contract comes up for renewal,"
+261,00:15:24.021,00:15:26.104,2.083,push,office,images/beat_261.png,he simply doesn't renew it.
+262,00:15:26.104,00:15:28.187,2.083,pan,corridor,images/beat_262.png,"Just like that, you're out."
+263,00:15:28.187,00:15:32.770,4.583,push,basin,images/beat_263.png,"Without you there, standing by the basin, the students stop washing."
+264,00:15:32.770,00:15:37.770,5.0,pull,office,images/beat_264.png,"They always hated it anyway. You hear the numbers start climbing again,"
+265,00:15:37.770,00:15:41.103,3.333,push,office,images/beat_265.png,and there's nothing you can do about it.
+266,00:15:41.103,00:15:44.853,3.75,push,university,images/beat_266.png,"In 1850, after a final humiliation at the university,"
+267,00:15:44.853,00:15:49.853,5.0,pan,vienna,images/beat_267.png,you pack your bags and leave Vienna without saying goodbye to anyone.
+268,00:15:49.853,00:15:52.353,2.5,push,vienna,images/beat_268.png,Not even your few remaining friends.
+269,00:15:52.353,00:15:54.436,2.083,pull,pest_street,images/beat_269.png,You go home to Hungary.
+270,00:15:54.436,00:15:58.603,4.167,push,pest_hosp,images/beat_270.png,"In Pest, you take an unpaid position at a small,"
+271,00:15:58.603,00:16:03.603,5.0,push,pest_hosp,images/beat_271.png,run down hospital called St. Rochus. Its maternity ward is a disaster.
+272,00:16:03.603,00:16:08.603,5.0,pan,pest_hosp,images/beat_272.png,"You introduce your basin. The death rate collapses again, to almost nothing."
+273,00:16:08.603,00:16:13.603,5.0,push,pest_hosp,images/beat_273.png,"Later, you become a professor of obstetrics at the University of Pest."
+274,00:16:13.603,00:16:15.686,2.083,pull,pest_home,images/beat_274.png,You marry. You have children.
+275,00:16:15.686,00:16:19.019,3.333,push,pest_home,images/beat_275.png,"For a few years, life is almost good."
+276,00:16:19.019,00:16:21.519,2.5,shake,pest_hosp,images/beat_276.png,You teach your students to wash.
+277,00:16:21.519,00:16:24.436,2.917,pan,pest_river,images/beat_277.png,"You walk your children along the Danube,"
+278,00:16:24.436,00:16:27.353,2.917,push,pest_river,images/beat_278.png,the way you once walked with Kolletschka.
+279,00:16:27.353,00:16:31.520,4.167,pull,pest_home,images/beat_279.png,Some evenings you even forget to talk about childbed fever.
+280,00:16:31.520,00:16:32.720,1.2,push,pest_home,images/beat_280.png,Some evenings.
+281,00:16:32.720,00:16:35.220,2.5,shake,pest_home,images/beat_281.png,But you can't let it go.
+282,00:16:35.220,00:16:38.137,2.917,pan,pest_home,images/beat_282.png,You know thousands of women are still
+283,00:16:38.137,00:16:41.054,2.917,push,pest_home,images/beat_283.png,"dying every year in hospitals across Europe,"
+284,00:16:41.054,00:16:45.637,4.583,pull,pest_home,images/beat_284.png,from something that could be stopped with a bucket of bleach.
+285,00:16:45.637,00:16:47.304,1.667,push,pest_home,images/beat_285.png,And nobody is listening.
+286,00:16:47.304,00:16:52.304,5.0,push,desk_pest,images/beat_286.png,"In 1861, you finally publish your book. Five hundred pages of evidence."
+287,00:16:52.304,00:16:54.387,2.083,pan,desk_pest,images/beat_287.png,Tables. Charts. Years of numbers.
+288,00:16:54.387,00:16:56.054,1.667,push,desk_pest,images/beat_288.png,The reviews are savage.
+289,00:16:56.054,00:17:00.637,4.583,pull,desk_pest,images/beat_289.png,"Doctors across Europe dismiss it, ignore it, or laugh at it."
+290,00:17:00.637,00:17:02.720,2.083,push,desk_pest,images/beat_290.png,So you start writing letters.
+291,00:17:02.720,00:17:06.470,3.75,shake,desk_pest,images/beat_291.png,"Open letters, to the most famous obstetricians in Europe,"
+292,00:17:06.470,00:17:10.637,4.167,pan,desk_pest,images/beat_292.png,published for the public to read. You stop being polite.
+293,00:17:10.637,00:17:13.970,3.333,push,desk_pest,images/beat_293.png,You call them ignorant. You call them irresponsible.
+294,00:17:13.970,00:17:16.053,2.083,pull,desk_pest,images/beat_294.png,Then you call them murderers.
+295,00:17:16.053,00:17:18.553,2.5,shake,pest_home,images/beat_295.png,Your wife notices the change first.
+296,00:17:18.553,00:17:21.470,2.917,push,pest_home,images/beat_296.png,You talk about childbed fever at dinner.
+297,00:17:21.470,00:17:23.970,2.5,pan,party,images/beat_297.png,You talk about it at parties.
+298,00:17:23.970,00:17:28.970,5.0,push,pest_street,images/beat_298.png,You talk about it to strangers in the street. You can't sleep.
+299,00:17:28.970,00:17:33.137,4.167,pull,pest_home,images/beat_299.png,You can't stop. You start drinking. You start forgetting things.
+300,00:17:33.137,00:17:36.470,3.333,push,university,images/beat_300.png,Your colleagues at the university begin to whisper.
+301,00:17:36.470,00:17:41.470,5.0,fade,desk_pest,images/beat_301.png,You still have the numbers. But nobody wants to hear them anymore.
+302,00:17:41.470,00:17:45.637,4.167,pan,pest_home,images/beat_302.png,"In the summer of 1865, an old colleague from Vienna,"
+303,00:17:45.637,00:17:48.137,2.5,push,pest_home,images/beat_303.png,"a respected doctor you once trusted,"
+304,00:17:48.137,00:17:51.054,2.917,pull,pest_home,images/beat_304.png,invites you to visit a new medical
+305,00:17:51.054,00:17:55.637,4.583,push,carriage,images/beat_305.png,institute he wants to show you. Your wife comes with you.
+306,00:17:55.637,00:17:58.970,3.333,push,carriage,images/beat_306.png,It's a long journey. You're tired. You're curious.
+307,00:17:58.970,00:18:03.137,4.167,pan,asylum_ext,images/beat_307.png,You've just turned 47 when you walk through the gates.
+308,00:18:03.137,00:18:06.470,3.333,push,asylum_ext,images/beat_308.png,It isn't a medical institute. It's an asylum.
+309,00:18:06.470,00:18:10.637,4.167,pull,asylum_ext,images/beat_309.png,You realize it the moment the doors close behind you.
+310,00:18:10.637,00:18:13.970,3.333,fade,asylum_ext,images/beat_310.png,You turn around. Your colleague is already leaving.
+311,00:18:13.970,00:18:18.553,4.583,push,asylum_ext,images/beat_311.png,You try to follow him. Attendants grab your arms. You fight.
+312,00:18:18.553,00:18:22.303,3.75,pan,asylum_ext,images/beat_312.png,You've always fought. You've fought Klein. You've fought Vienna.
+313,00:18:22.303,00:18:24.386,2.083,push,asylum_ext,images/beat_313.png,You've fought all of Europe.
+314,00:18:24.386,00:18:26.469,2.083,pull,asylum_ext,images/beat_314.png,"But this time, you lose."
+315,00:18:26.469,00:18:29.386,2.917,push,asylum_cell,images/beat_315.png,The guards beat you. They kick you.
+316,00:18:29.386,00:18:32.303,2.917,push,asylum_cell,images/beat_316.png,They force you into a straitjacket and
+317,00:18:32.303,00:18:37.303,5.0,pan,asylum_cell,images/beat_317.png,"lock you in a dark cell. Somewhere in the struggle, you're injured."
+318,00:18:37.303,00:18:41.886,4.583,push,asylum_cell,images/beat_318.png,A wound on your hand. You barely notice it at first.
+319,00:18:41.886,00:18:43.969,2.083,pull,asylum_cell,images/beat_319.png,"Within days, the fever comes."
+320,00:18:43.969,00:18:46.469,2.5,push,asylum_cell,images/beat_320.png,The chills. The swelling. The pain.
+321,00:18:46.469,00:18:51.469,5.0,push,asylum_cell,images/beat_321.png,You know exactly what it is. You've seen it a thousand times.
+322,00:18:51.469,00:18:54.386,2.917,pan,deadhouse,images/beat_322.png,On the table in the dead house.
+323,00:18:54.386,00:18:56.886,2.5,push,ward1,images/beat_323.png,In the bodies of the mothers.
+324,00:18:56.886,00:18:59.803,2.917,pull,office,images/beat_324.png,In the autopsy report of your friend.
+325,00:18:59.803,00:19:02.720,2.917,push,asylum_cell,images/beat_325.png,Nobody in that asylum washes their hands.
+326,00:19:02.720,00:19:06.470,3.75,push,asylum_cell,images/beat_326.png,"Two weeks after you arrive, on August 13th, 1865,"
+327,00:19:06.470,00:19:11.470,5.0,pan,asylum_cell,images/beat_327.png,you die of an infected wound. Childbed fever in everything but name.
+328,00:19:11.470,00:19:14.803,3.333,push,asylum_cell,images/beat_328.png,The same disease you spent your life fighting.
+329,00:19:14.803,00:19:17.303,2.5,pull,asylum_cell,images/beat_329.png,Killed by the same dirty hands.
+330,00:19:17.303,00:19:20.220,2.917,push,cemetery,images/beat_330.png,Very few people come to your funeral.
+331,00:19:20.220,00:19:22.720,2.5,push,cemetery,images/beat_331.png,The medical societies barely mention it.
+332,00:19:22.720,00:19:27.720,5.0,fade,desk_pest,images/beat_332.png,"When your family clears out your desk, they find years of letters,"
+333,00:19:27.720,00:19:28.970,1.25,push,desk_pest,images/beat_333.png,"tables, and ledgers."
+334,00:19:28.970,00:19:33.553,4.583,pull,desk_pest,images/beat_334.png,"And at the very back of a drawer, folded and yellowed,"
+335,00:19:33.553,00:19:38.553,5.0,push,desk_pest,images/beat_335.png,an old death certificate from the First Clinic. A laundress named Anna.
+336,00:19:38.553,00:19:41.886,3.333,push,desk_pest,images/beat_336.png,"Twenty years old. Cause of death, childbed fever."
+337,00:19:41.886,00:19:45.219,3.333,pan,desk_pest,images/beat_337.png,Nobody knows why you kept it. Nobody asks.
+338,00:19:45.219,00:19:48.136,2.917,fade,lister,images/beat_338.png,And here's the part nobody tells you.
+339,00:19:48.136,00:19:50.636,2.5,pull,lister,images/beat_339.png,"Within two years of your death,"
+340,00:19:50.636,00:19:53.969,3.333,push,lister,images/beat_340.png,a surgeon in Scotland named Joseph Lister begins
+341,00:19:53.969,00:19:58.969,5.0,push,lister,images/beat_341.png,"cleaning his wounds and instruments with chemicals, and his patients stop dying."
+342,00:19:58.969,00:20:03.969,5.0,pan,pasteur,images/beat_342.png,"In France, a chemist named Louis Pasteur proves that invisible living organisms,"
+343,00:20:03.969,00:20:08.136,4.167,push,pasteur,images/beat_343.png,"germs, cause disease. The particles you couldn't see were real."
+344,00:20:08.136,00:20:11.053,2.917,pull,pasteur,images/beat_344.png,Every number you ever wrote was right.
+345,00:20:11.053,00:20:12.720,1.667,push,modern,images/beat_345.png,"Within a few decades,"
+346,00:20:12.720,00:20:17.303,4.583,push,modern,images/beat_346.png,every hospital in the world requires doctors to wash their hands.
+347,00:20:17.303,00:20:20.636,3.333,pan,uni_today,images/beat_347.png,"Today, a university in Budapest carries your name."
+348,00:20:20.636,00:20:24.803,4.167,push,uni_today,images/beat_348.png,Scientists even named a reflex after you. The Semmelweis reflex.
+349,00:20:24.803,00:20:28.136,3.333,pull,uni_today,images/beat_349.png,It describes the instinct to reject new evidence
+350,00:20:28.136,00:20:31.053,2.917,push,uni_today,images/beat_350.png,because it contradicts what everyone already believes.
+351,00:20:31.053,00:20:36.053,5.0,push,uni_today,images/beat_351.png,They named the stubbornness after you. Not the doctors who were stubborn.
+352,00:20:36.053,00:20:37.253,1.2,pan,uni_today,images/beat_352.png,You.
+353,00:20:37.253,00:20:39.336,2.083,push,uni_today,images/beat_353.png,Your name is Ignaz Semmelweis.
+354,00:20:39.336,00:20:43.503,4.167,pull,modern,images/beat_354.png,And the next time you stand at a sink and
+355,00:20:43.503,00:20:47.670,4.167,push,modern,images/beat_355.png,"wash your hands for twenty seconds without thinking about it,"
+356,00:20:47.670,00:20:52.670,5.0,push,modern,images/beat_356.png,remember that someone once lost everything for asking you to do it.
+357,00:20:52.670,00:20:54.337,1.667,pan,office,images/beat_357.png,The numbers never lied.
+358,00:20:54.337,00:20:58.504,4.167,push,modern,images/beat_358.png,They just took the world fifty years to read them.

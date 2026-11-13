@@ -1,0 +1,358 @@
+1|buda|W|warm, establishing|{MOTHER} holding {BABY} in a bundle at an upstairs window above a grocery shop, a Buda street below
+2|buda|W|scenic|the hilly Buda riverside with the Danube below and the castle on the hill
+3|buda|W|historical|a split view: the old hilly town of Buda on one bank, flat Pest on the other, a ghostly faint modern skyline outline above
+4|buda|M|cozy|the grocery shopfront with a painted sign showing a white elephant, barrels and sacks outside
+5|shop|M|cozy|the grocery interior with coffee sacks, jars of dried fruit and a gleaming polished wooden floor
+6|shop|M|precise|{FATHER} standing behind the counter weighing coffee beans on brass scales
+7|shop|C|meticulous|{FATHER} counting coins twice into a ledger, one stick arm hovering over the stacks
+8|shop|C|proud, expectant|{FATHER} gazing at a framed family portrait with a hopeful expression
+9|home|W|busy household|{MOTHER} standing calmly in the middle of a busy dining room full of ten children of different sizes
+10|home|M|comic|the ten children lined up by height, {YOU6} fifth in line, a large number 5 floating above him
+11|home|M|comic|{YOU6} squeezed in the middle of a noisy dinner table, nobody looking at him
+12|home|C|comic|{YOU6} standing on a chair shouting, speech lines bursting from his mouth
+13|home|W|comic|the whole family flinching and covering their ears as {YOU6} shouts
+14|shop|M|comic|{YOU6} standing on a stool pointing at a customer's receipt, the customer embarrassed
+15|home|M|comic|{YOU9} correcting a tutor's chalkboard sum, the tutor frowning
+16|home|M|reflective|{YOU12} sitting alone at a desk with a book
+17|home|C|reflective|an inset of two signposts, one reading RIGHT, one reading LIKED
+18|home|C|stubborn|{YOU12} firmly pointing at the RIGHT signpost, arms crossed
+19|home|M|warm|{MOTHER} wagging a finger at {YOU12} in the kitchen
+20|home|C|foreshadowing|close-up of {MOTHER}'s gentle, knowing face
+21|home|M|warm, comic|{YOU12} answering back, {MOTHER} laughing
+22|home|C|deadpan|{YOU12} with a perfectly straight face, not laughing
+23|shop|M|ambitious|{FATHER} unrolling a plan on the shop counter, {YOU12} beside him
+24|shop|C|ambitious|a thought bubble above {FATHER} showing a stern lawyer in a white wig at a grand desk
+25|shop|C|comic|an inset of a tidy law office with clients bowing and paying coins
+26|shop|C|comic|an inset of a neat ledger stamped PAID IN FULL
+27|vienna|W|journey|{YOU19} arriving in Vienna on a coach, St Stephen's Cathedral spire on the skyline
+28|vienna|W|grand|a grand Vienna boulevard in the 1830s with palaces and carriages
+29|vienna|M|comic|{YOU19} yawning over a thick law book, a calendar flipping one year
+30|vienna|M|curious|a friend tugging {YOU19} by the arm through a university doorway
+31|lecture|W|ominous|a steep tiered anatomy lecture theatre with students on wooden benches
+32|lecture|M|grim, non-graphic|a shape under a white sheet on a dissection table in the centre
+33|lecture|M|clinical|an old professor lecturing beside the sheet-covered table, pointing at an anatomical chart
+34|lecture|M|grim|the professor gesturing at a chart labelled CAUSE, students holding noses, green smell lines
+35|lecture|W|comic|students in the back rows fainting one by one like dominoes
+36|lecture|C|fascinated|{YOU19} leaning forward eagerly in the front row, eyes wide
+37|lecture|C|revelation|close-up of {YOU19}'s face lit with a sudden idea
+38|lecture|M|revelation|{YOU19} staring at the chart while the professor talks, a thought bubble of a body diagram
+39|lecture|C|logical|an inset of a chart with arrows from CAUSE to EFFECT
+40|vienna|M|decisive|{YOU19} striding out of the lecture hall, tossing a law book over his shoulder
+41|vienna|W|comic|a law school door behind him, the law book landing in a puddle
+42|shop|M|disappointed|{FATHER} reading a letter, his face falling
+43|shop|C|wry|{FATHER} glancing at a family portrait of his other sons, sighing
+44|lecture|M|proud|{YOU} receiving a rolled diploma in a lecture hall, 1844 written on a banner
+45|hospext|W|triumphant|{YOU} standing at the gate of the vast Vienna General Hospital, chest puffed
+46|hospext|M|prestige|a brass plaque reading FIRST OBSTETRIC CLINIC beside a doorway, {YOU} admiring it
+47|hospext|W|grand|a high-angle view of the enormous hospital with many courtyards and buildings
+48|corridor|M|delight|{YOU} walking through a long hospital corridor, grinning
+49|hospext|W|grand|courtyards, a chapel and rows of windows, tiny figures everywhere
+50|office|M|comic delight|{YOU} counting a small purse of coins at a desk
+51|office|M|delight|{YOU} admiring a nameplate on his own small room door
+52|corridor|M|comic|a line of students following {YOU} down the corridor, scribbling notes
+53|office|M|warm|{YOU} reading a letter from home, smiling
+54|buda|M|warm|an inset of neighbours gossiping excitedly outside the grocery shop
+55|office|C|smug|{YOU} leaning back in his chair, hands behind his head, satisfied
+56|office|M|routine|a wall clock and a daily schedule pinned to the wall
+57|stairs|M|eerie|{YOU} carrying a lantern down dark stone steps before dawn
+58|deadhouse|W|grim, non-graphic|the hospital morgue: stone tables with shapes under white sheets, students gathered, lanterns
+59|deadhouse|M|grim, non-graphic|{YOU} and students around a sheet-covered table, a medical chart held up
+60|deadhouse|M|studious|{YOU} writing in a notebook by lantern light
+61|stairs|M|ominous|{YOU} climbing the staircase from the morgue, a clock showing nine
+62|ward1|W|ominous|{YOU} entering the maternity ward with rows of iron beds and women under grey blankets, cradles beside them
+63|ward1|C|ominous|close-up of {YOU} wiping his stick hands on his dark coat
+64|ward1|M|ignorant|a group of doctors shrugging at the idea of a washbasin
+65|ward1|M|grim|every doctor in the ward wiping their hands on their coats
+66|stairs|LA|ominous|a low-angle view of the staircase from the morgue to the wards glowing faintly red
+67|stairs|C|ominous|an inset of the staircase labelled THE MOST DANGEROUS WALK IN VIENNA
+68|gate|W|tense|women in labour arriving at the hospital gate, faces frightened
+69|gate|M|routine|a calendar showing week two beside the hospital gate
+70|gate|M|desperate|{ANNA} at the gate, holding her belly, looking terrified
+71|gate|M|bureaucratic|{PORTER} pointing toward a door marked FIRST CLINIC
+72|gate|M|dread|a doorway sign reading FIRST CLINIC, the shadow of {ANNA} falling across it
+73|gate|M|desperate|{ANNA} on her knees clutching {YOU}'s coat
+74|gate|C|desperate|close-up of {ANNA} crying and pleading
+75|gate|M|desperate|{ANNA} pointing frantically toward a door marked SECOND CLINIC and the street
+76|gate|C|confused|{YOU} glancing at {PORTER}, who shrugs
+77|gate|C|deadpan|{PORTER} with a bored shrug
+78|office|M|curious|{YOU} at his desk at night with a candle, opening ledgers
+79|hospext|W|explanatory|a cutaway diagram of the hospital building with two wings labelled FIRST CLINIC and SECOND CLINIC
+80|hospext|M|explanatory|a shared entrance with two arrows splitting left and right
+81|gate|M|explanatory|an inset of a calendar with alternating days coloured red and blue
+82|ward2|M|explanatory|a split frame: midwives on one side, doctors on the other
+83|ward2|W|calm|the Second Clinic ward with calm midwives tending women in beds
+84|ward1|W|ominous|the First Clinic ward with doctors and students crowding around beds
+85|ward1|W|grim|empty beds with sheets pulled up in the First Clinic, flowers left on a pillow
+86|office|C|grim|an inset of a ledger page with a growing column of crosses
+87|office|C|grim|an inset of ten small figures, one greyed out
+88|ward1|M|grim|an inset bar labelled CHILDBED FEVER beside a ward of beds
+89|office|C|shocking|an inset of three small figures, one greyed out
+90|ward1|M|bittersweet|a mother in bed holding a swaddled healthy baby, smiling
+91|ward1|M|ominous|the same mother shivering under blankets, sweat drops
+92|ward1|M|tragic|the same bed empty, the baby in a cradle alone, a nurse standing by
+93|ward2|M|ironic|a midwife calmly tending a smiling mother in the Second Clinic
+94|office|C|shocking|an inset bar chart: a tall red bar for First Clinic, a short blue bar for Second Clinic
+95|vienna|W|gossip|Viennese townsfolk whispering in the street, pointing toward the hospital
+96|vienna|M|desperate|poor women in shawls whispering fearfully together
+97|street|M|desperate|a woman sitting in a doorway outside the hospital holding a newborn bundle
+98|street|M|desperate|a woman in a carriage holding a swaddled baby, the carriage parked at the hospital gate
+99|street|M|strange|a woman walking through the gate already holding her baby, {PORTER} raising an eyebrow
+100|street|M|puzzling|women with babies in the street looking healthy and rosy
+101|office|C|puzzled|an inset of a ledger column labelled STREET BIRTHS with almost no crosses
+102|office|C|obsessive|{YOU} staring at the ledgers, eyes wide, candle burning low
+103|office|M|memory|{YOU} remembering, a thought bubble of {ANNA} clutching his coat
+104|gate|C|memory|close-up of {ANNA}'s face, a name label ANNA
+105|ward1|M|warm|{ANNA} in bed holding a swaddled baby boy
+106|ward1|C|warm|a red-faced baby boy crying loudly in a cradle
+107|ward1|M|proud|{YOU} handing the swaddled baby to {ANNA}
+108|ward1|C|relieved|{ANNA} smiling up at {YOU}
+109|ward1|C|bittersweet|{ANNA} giving a small relieved laugh
+110|ward1|M|ominous|{ANNA} shivering in bed, sweat drops, the baby crying in the cradle
+111|office|C|tragic|{YOU} signing a death certificate at his desk, quill trembling
+112|street|W|tragic|a nun carrying a swaddled baby across the street to a building marked FOUNDLING HOME
+113|office|C|haunting|{YOU} placing the folded certificate into a desk drawer
+114|corridor|M|pompous|a group of senior doctors talking importantly in a corridor
+115|corridor|M|absurd|an inset of a green fog drifting over Vienna labelled MIASMA, crowded wards, a frightened face
+116|corridor|M|absurd|an inset of planets and stars labelled COSMIC INFLUENCES
+117|corridor|M|character intro|{KLEIN} standing stiffly in the corridor
+118|corridor|C|character intro|close-up of {KLEIN}'s stern face
+119|corridor|M|dismissive|{KLEIN} waving a stick arm dismissively at {YOU}
+120|corridor|C|dismissive|{KLEIN} with a small shrug, a speech bubble with a horseshoe and a black cat
+121|hospext|W|logical|a split view of both clinics under the same sky
+122|hospext|M|logical|identical weather symbols over both wings
+123|office|C|determined|{YOU} tapping the bar chart with one stick finger
+124|office|C|determined|{YOU} rolling up his sleeves, jaw set
+125|deadhouse|M|character intro|{KOLL} humming in the morgue, music notes floating
+126|deadhouse|C|character intro|close-up of {KOLL} smiling, a name label KOLLETSCHKA
+127|deadhouse|C|cheerful|{KOLL}'s round cheerful face
+128|deadhouse|M|comic|{KOLL} humming opera beside a sheet-covered table, wobbly off-key music notes
+129|corridor|M|contrast|senior doctors rolling their eyes at {YOU}
+130|office|M|warm|{KOLL} listening intently while {YOU} talks about numbers
+131|office|M|warm|{KOLL} pouring two small glasses of brandy, motioning {YOU} to slow down
+132|office|M|warm|{YOU} and {KOLL} clinking glasses
+133|deadhouse|M|comic|{KOLL} and {YOU} sharing a grin across the morgue
+134|deadhouse|M|comic|a student fainting behind them
+135|deadhouse|M|comic|{KOLL} stepping over the fainted student, still humming
+136|lecture|M|comic|{KLEIN} giving a pompous speech with a chart labelled ATMOSPHERIC INFLUENCES
+137|lecture|C|comic|{KOLL} leaning over to whisper in {YOU}'s ear
+138|lecture|C|comic|an inset of wavy green breath lines coming from {KLEIN}'s mouth
+139|corridor|M|comic|{YOU} rushing out of the room, cheeks puffed, holding in laughter
+140|deadhouse|M|educational|{KOLL} pointing at an anatomical chart, {YOU} taking notes
+141|deadhouse|C|educational|an inset of an anatomical chart with organs as open storybooks
+142|canal|W|warm|{YOU} and {KOLL} walking along the Danube canal at dusk
+143|canal|M|lively|{YOU} and {KOLL} arguing with animated gestures, speech bubbles
+144|canal|M|comic|{KOLL} holding up a coffee cup with a Vienna flag, {YOU} one with a Hungarian flag
+145|canal|C|comic|{YOU} wagging a finger, {KOLL} laughing
+146|canal|C|deadpan|{YOU} with a smug deadpan expression
+147|canal|M|warm|{KOLL} sitting on a bench, doubled over laughing
+148|canal|M|tender|{KOLL} speaking seriously to {YOU} on the bench under lamplight
+149|canal|C|wise|close-up of {KOLL}'s earnest face
+150|canal|C|inspired|{YOU} nodding slowly, lamplight in his eyes
+151|ward1|M|determined|{YOU} with a notebook, checklist floating beside him
+152|ward1|M|experimental|{YOU} rearranging pillows on a bed while a midwife looks on
+153|ward1|M|futile|{YOU} opening a tall window, the ledger's red bar unchanged
+154|corridor|M|comic|{PRIEST} walking through the ward ringing a small hand bell
+155|corridor|C|eerie|close-up of the small brass bell ringing, sound lines
+156|ward1|M|fearful|women in beds hiding under their blankets as the bell rings
+157|corridor|M|futile|{PRIEST} taking a different corridor, a sign reading DETOUR; women still shivering in beds
+158|corridor|M|suspicious|{KLEIN} watching {YOU} from a doorway, narrowed eyes
+159|corridor|C|cold|close-up of {KLEIN}'s cold glare
+160|office|M|exhausted|{YOU} slumped over ledgers, dark circles under his eyes, spring blossoms outside
+161|venice|W|relief|{YOU} in a gondola on a Venice canal with two friends
+162|venice|M|relaxed|{YOU} admiring a painting in a gallery, then eating at a café
+163|venice|M|peaceful|{YOU} sleeping peacefully in an inn bed, a sleep symbol above
+164|venice|W|carefree|{YOU} laughing on a bridge in Venice, a calendar showing three weeks
+165|hospext|M|ominous|{YOU} returning through the hospital gate with a suitcase, a grim colleague waiting
+166|hospext|C|ominous|close-up of the colleague's pale, grief-stricken face
+167|hospext|C|devastating|close-up of {YOU}'s face frozen, suitcase dropping
+168|deadhouse|M|flashback|a flashback frame with a sepia tint of the morgue
+169|deadhouse|M|flashback, non-graphic|a student's scalpel slipping, {KOLL} flinching and pulling back one stick arm
+170|deadhouse|C|flashback|{KOLL} looking at a tiny bandage on the end of his stick arm, shrugging it off
+171|deadhouse|M|flashback, grim|{KOLL} shivering in bed under blankets, sweat drops
+172|deadhouse|M|flashback, tragic|{KOLL}'s empty bed, a closed coffin beside it
+173|office|C|numb|{YOU} with dry, blank eyes, no tears
+174|office|M|numb|{YOU} unfolding an autopsy report at his desk
+175|office|C|grim|close-up of a handwritten autopsy report with neat columns of ink
+176|office|C|grim, non-graphic|an inset of medical diagram icons labelled INFLAMMATION and SWELLING
+177|office|C|haunted|{YOU} staring at the report, eyes widening
+178|deadhouse|M|haunted|a flash of sheet-covered tables in the morgue
+179|ward1|M|haunted|a flash of empty beds in the First Clinic
+180|office|C|realisation|an inset of {KOLL}'s portrait next to a mother's portrait with an equals sign between them
+181|office|C|shock|{YOU}'s face going pale, sweat drop
+182|office|C|dread|{YOU} with a cold blue tint spreading over him
+183|deadhouse|ECU|ominous|extreme close-up of a scalpel on a tray beside a sheet-covered table
+184|deadhouse|M|ominous|glowing green specks drifting from the sheet-covered table toward the scalpel
+185|office|C|ominous|an inset of microscopic glowing specks with question marks
+186|deadhouse|W|ominous|the morgue at dawn, lanterns glowing
+187|deadhouse|M|grim, non-graphic|{YOU} at a sheet-covered table, glowing green specks clinging to his stick hands
+188|stairs|M|horror|{YOU} climbing the stairs with glowing green specks trailing from his hands into the ward
+189|ward2|M|realisation|midwives in the Second Clinic tending women, no green specks anywhere
+190|street|M|realisation|a mother in a doorway with her baby, no doctors and no green specks
+191|street|C|realisation|the healthy mother smiling at her baby
+192|office|M|stunned|{YOU} sitting motionless at his desk, candle burning down
+193|office|C|realisation|insets of the green fog, the planets and the priest's bell, each crossed out
+194|office|C|devastating|{YOU} slowly looking down at his own stick hands
+195|office|ECU|devastating|extreme close-up of his stick hands glowing faintly green
+196|stairs|M|horror|a ghostly procession of doctors and students carrying green glowing hands up the stairs
+197|ward1|M|horror|{YOU}'s glowing hand reaching toward a mother in a bed
+198|ward1|W|guilt|a long row of beds stretching into the distance
+199|office|C|guilt|{YOU} counting on his stick fingers, then stopping
+200|office|C|guilt|{YOU} covering his face, shoulders shaking
+201|office|C|resolve|{YOU} lowering his arms, eyes hard and determined
+202|corridor|M|historical|a calendar showing MAY 1847
+203|basin|M|hopeful|{YOU} setting down a large basin at the entrance to the ward
+204|basin|C|clinical|close-up of the basin filled with cloudy chlorinated lime, a jar labelled CHLORINE
+205|basin|M|clinical|{YOU} pouring the solution into the basin
+206|basin|M|logical|green smell lines from the morgue vanishing as they touch the basin
+207|basin|C|logical|an inset diagram: STINK → BLEACH → no stink
+208|basin|M|authoritative|{YOU} nailing a sign above the basin reading WASH BEFORE ENTERING
+209|basin|M|authoritative|a line of doctors and students queuing at the basin
+210|basin|M|routine|a student scrubbing his stick hands in the basin
+211|basin|M|routine|a student sniffing his stick hands, green smell lines gone
+212|basin|M|comic|students grimacing and shaking out stinging hands
+213|basin|C|comic|an inset of cracked, red, raw knuckles
+214|basin|M|comic|students muttering, one tiptoeing past the basin
+215|basin|M|stern|{YOU} standing beside the basin with crossed stick arms
+216|basin|C|stern|close-up of {YOU}'s unblinking stare
+217|basin|M|tense|{STUDENT} hurrying up the stairs, green smell lines trailing behind him
+218|basin|C|comic|close-up of {STUDENT} sniffing his own stick arm, green smell lines curling
+219|basin|M|tense|{STUDENT} walking past the basin toward a ward door
+220|basin|M|dramatic|{YOU} grabbing {STUDENT}'s stick arm, {STUDENT} yelping
+221|basin|M|comic|{YOU} holding {STUDENT}'s stick hands in the basin
+222|basin|C|comic|{STUDENT} nodding furiously, swearing an oath
+223|corridor|W|comic|nurses and students whispering in the corridor, a speech bubble reading TYRANT
+224|corridor|C|deadpan|{YOU} with a satisfied deadpan shrug
+225|office|M|hopeful|{YOU} opening a new ledger
+226|office|C|grim|an inset of a ledger page labelled APRIL with many crosses
+227|office|C|grim|an inset of five small figures, one greyed out
+228|office|C|hopeful|an inset of a ledger page labelled JUNE with very few crosses
+229|office|C|triumphant|an inset of a ledger page with an entire empty column
+230|ward1|W|joyful|a full ward of mothers holding swaddled babies, all smiling
+231|office|ECU|triumphant|extreme close-up of a big zero written in the ledger
+232|office|M|curious|midwives from the Second Clinic peering over {YOU}'s shoulder at the ledgers
+233|office|C|impressed|a midwife with eyebrows raised, impressed
+234|gate|M|surprised|{PORTER} at the gate scratching his head, a smiling mother walking past
+235|gate|W|hopeful|women walking through the First Clinic door calmly
+236|gate|C|hopeful|a woman smiling at the First Clinic sign
+237|office|M|overwhelmed|{YOU} sitting back in his chair, stunned by the numbers
+238|office|M|emotional|{YOU} laughing then crying at his desk, tears and laughter lines
+239|office|C|emotional|{YOU} wiping tears, the ledger glowing
+240|office|C|bittersweet|a faint ghostly {KOLL} smiling over {YOU}'s shoulder
+241|office|M|hopeful|{YOU} imagining a crowd of doctors cheering in a thought bubble
+242|office|C|deadpan|the thought bubble popping, {YOU}'s deadpan face
+243|university|W|tense|{YOU} presenting to a hall of senior doctors in frock coats
+244|university|C|shocking|an inset of a speech bubble reading YOU'VE BEEN KILLING YOUR PATIENTS
+245|university|M|shocking|the senior doctors staring at their own stick hands in horror
+246|university|M|outrage|the senior doctors standing up, red-faced, shouting
+247|university|W|pompous|rows of senior doctors puffing out their chests
+248|university|C|pompous|a senior doctor holding up his stick hand with a sparkle effect
+249|university|M|outrage|doctors with offended faces, steam lines from their ears
+250|university|M|outrage|a doctor slamming a book shut
+251|university|M|skeptical|a doctor pointing at {YOU} with a speech bubble reading NONSENSE
+252|university|C|skeptical|an inset of a magnifying glass over an empty hand, a question mark
+253|university|C|frustrated|{YOU} holding up a ledger, the doctors ignoring it
+254|university|M|tense|{YOU} pointing furiously at the doctors
+255|university|C|comic|an inset of {YOU6} shouting on a chair, from his childhood
+256|university|M|tense|{YOU} wagging a finger at a red-faced senior doctor
+257|office|M|furious|{KLEIN} storming into {YOU}'s office, red-faced
+258|office|C|bitter|an inset of a butcher's shop sign over the First Clinic door
+259|office|C|bitter|{KLEIN}'s face reflected as a butcher in a mirror, horrified
+260|office|M|cold|{KLEIN} holding a contract labelled 1849
+261|office|C|cold|{KLEIN} tearing the contract in half
+262|corridor|M|defeated|{YOU} carrying a box of belongings down the corridor
+263|basin|M|grim|the basin sitting dry and dusty, students walking past it
+264|office|C|grim|an inset of a ledger with crosses climbing again
+265|office|C|helpless|{YOU} staring at the ledger, helpless
+266|university|M|humiliated|{YOU} standing alone in an empty lecture hall
+267|vienna|M|lonely|{YOU} carrying a suitcase alone to a coach at dawn
+268|vienna|C|lonely|{YOU} glancing back at the city, no one waving
+269|pest_street|W|homecoming|a coach rolling over a road into Pest, the Danube beside it
+270|pest_hosp|W|grim|a small, run-down hospital with peeling walls and a crooked sign reading ST. ROCHUS
+271|pest_hosp|M|grim|a crowded, dirty maternity ward with cracked windows
+272|pest_hosp|M|hopeful|{YOU} setting down a basin at the ward door, the ledger crosses vanishing
+273|pest_hosp|M|proud|{YOU} lecturing a class of students at the University of Pest
+274|pest_home|M|warm|{YOU} and {WIFE} at a modest wedding photo-style portrait, two small children beside them
+275|pest_home|M|warm|{YOU} at a cozy family dinner table, {WIFE} and the children smiling
+276|pest_hosp|M|warm|{YOU} watching students wash their hands at a basin
+277|pest_river|W|warm|{YOU} walking with {CHILDREN} along the Danube promenade at dusk
+278|pest_river|C|bittersweet|{YOU} glancing at an empty bench by the river
+279|pest_home|M|peaceful|{YOU} relaxing in an armchair reading a book
+280|pest_home|C|ominous|{YOU} glancing at a pile of ledgers in the corner
+281|pest_home|C|obsessive|{YOU} staring at the ledgers, jaw tightening
+282|pest_home|W|grim|an inset map of Europe with red crosses blooming over hospital cities
+283|pest_home|M|grim|an inset of hospital wards across Europe with empty beds
+284|pest_home|C|bitter|an inset of a simple bucket of bleach glowing with a halo
+285|pest_home|C|frustrated|an inset of a crowd of doctors with their fingers in their ears
+286|desk_pest|M|hopeful|{YOU} holding up a thick published book with 1861 on the cover
+287|desk_pest|C|proud|an inset of the book's pages full of tables and charts
+288|desk_pest|M|grim|{YOU} reading newspaper reviews, his face falling
+289|desk_pest|C|grim|an inset of doctors laughing and tossing the book in a bin
+290|desk_pest|M|angry|{YOU} dipping a quill and writing furiously
+291|desk_pest|M|angry|stacks of letters addressed to famous doctors across Europe
+292|desk_pest|C|angry|an inset of a newspaper printing an OPEN LETTER
+293|desk_pest|C|angry|close-up of the letter with the words IGNORANT and IRRESPONSIBLE underlined
+294|desk_pest|ECU|shocking|extreme close-up of the word MURDERERS written in bold ink
+295|pest_home|M|worried|{WIFE} watching {YOU} with concern across the room
+296|pest_home|M|awkward|{YOU} lecturing at the dinner table, the children staring at their plates
+297|party|M|awkward|{YOU} lecturing guests at a party, guests edging away
+298|pest_street|M|awkward|{YOU} lecturing a confused stranger in the street
+299|pest_home|M|unravelling|{YOU47} pacing at night with a glass of wine, papers scattered
+300|university|M|gossip|colleagues whispering behind their hands in a corridor
+301|desk_pest|C|lonely|{YOU47} clutching his ledgers alone, candle burning low
+302|pest_home|M|ominous|{COLLEAGUE} arriving at the door with a warm smile, summer sun outside
+303|pest_home|C|ominous|close-up of {COLLEAGUE}'s smooth, confident smile
+304|pest_home|M|ominous|{COLLEAGUE} handing {YOU47} an invitation card reading NEW INSTITUTE
+305|carriage|M|ominous|{YOU47} and {WIFE} sitting in a carriage beside {COLLEAGUE}
+306|carriage|W|ominous|a carriage rolling down a long country road, {YOU47} dozing
+307|asylum_ext|W|ominous|{YOU47} stepping out at tall iron gates in front of a grim building
+308|asylum_ext|LA|ominous|a low-angle view of a sign over the gates reading ASYLUM
+309|asylum_ext|M|horror|heavy doors slamming shut behind {YOU47}
+310|asylum_ext|M|betrayal|{YOU47} turning to see {COLLEAGUE} walking away through the gate
+311|asylum_ext|M|struggle|{GUARDS} grabbing {YOU47}'s stick arms as he lunges toward the gate
+312|asylum_ext|C|defiant|close-up of {YOU47}'s furious face, insets of {KLEIN} and the senior doctors behind him
+313|asylum_ext|C|defiant|an inset map of Europe with {YOU47} shaking his fist at it
+314|asylum_ext|M|defeat|{YOU47}'s stick arms pinned by {GUARDS}, his face falling
+315|asylum_cell|M|violent, non-graphic|shadows of {GUARDS} looming over a fallen figure on a stone floor, impact lines only
+316|asylum_cell|M|grim|{YOU47} bound in a straitjacket in a dark stone cell
+317|asylum_cell|C|grim|a heavy cell door closing, a small barred window above
+318|asylum_cell|C|ominous|close-up of a small bandage on the end of {YOU47}'s stick arm
+319|asylum_cell|M|feverish|{YOU47} shivering in the corner of the cell, sweat drops
+320|asylum_cell|C|feverish|{YOU47}'s flushed face with sweat drops and chattering teeth
+321|asylum_cell|C|grim realisation|{YOU47}'s eyes widening in recognition
+322|deadhouse|M|haunting|a ghostly memory of the morgue with sheet-covered tables
+323|ward1|M|haunting|a ghostly memory of empty beds in the First Clinic
+324|office|C|haunting|a ghostly memory of {KOLL}'s autopsy report
+325|asylum_cell|M|bitter irony|{GUARDS} walking past a dry, dusty washbasin
+326|asylum_cell|M|tragic|a calendar on the wall reading AUGUST 13, 1865
+327|asylum_cell|C|peaceful, tragic|{YOU47} lying still on a cot with soft X-eyes, peaceful face, moonlight through the bars
+328|asylum_cell|C|bitter irony|an inset of the green glowing specks drifting through the cell
+329|asylum_cell|C|bitter irony|an inset of a dirty pair of stick hands
+330|cemetery|W|lonely|a small funeral at a grave with only three mourners in the rain
+331|cemetery|M|cold|a medical journal page with a tiny obituary notice in the corner
+332|desk_pest|M|melancholy|{WIFE} sorting through stacks of letters and ledgers at the empty desk
+333|desk_pest|M|melancholy|piles of ledgers and tables on the floor
+334|desk_pest|C|revealing|{WIFE} pulling a yellowed folded paper from the back of a drawer
+335|desk_pest|ECU|devastating|extreme close-up of an old death certificate reading ANNA, LAUNDRESS
+336|desk_pest|ECU|devastating|close-up of the certificate text: AGE 20, CHILDBED FEVER
+337|desk_pest|C|quiet|{WIFE} looking at the certificate with a puzzled, sad face
+338|lister|W|ironic reveal|a bright establishing view of a Scottish infirmary in 1867
+339|lister|M|historical|a calendar flipping from 1865 to 1867
+340|lister|M|historical|{LISTER} spraying a fine mist of carbolic over an operating table
+341|lister|M|historical|{LISTER} cleaning surgical instruments in a basin, patients recovering in beds
+342|pasteur|M|historical|{PASTEUR} peering into a microscope in a laboratory full of flasks
+343|pasteur|C|vindication|an inset of microscopic germs labelled GERMS, the same green specks from earlier
+344|pasteur|C|vindication|an inset of {YOU}'s old ledger with a glowing tick mark
+345|modern|M|historical|a calendar flipping forward rapidly through the decades
+346|modern|W|historical|modern hospital staff washing their hands at a row of steel sinks
+347|uni_today|W|tribute|a grand university building in Budapest with the name SEMMELWEIS UNIVERSITY over the entrance
+348|uni_today|C|tribute|an inset of a textbook page titled THE SEMMELWEIS REFLEX
+349|uni_today|M|explanatory|an inset of a man covering his ears while a scientist shows him a chart
+350|uni_today|C|explanatory|an inset of a crowd shaking their heads at new evidence
+351|uni_today|C|ironic|an inset of a portrait of {YOU} beside the word STUBBORN
+352|uni_today|C|ironic|close-up of {YOU} raising one eyebrow
+353|uni_today|W|reveal|a framed engraved portrait of {YOU} with a brass plaque reading IGNAZ SEMMELWEIS
+354|modern|M|present day|{MODERN} standing at a modern bathroom sink
+355|modern|C|present day|close-up of soapy stick hands under a running tap, a 20-second timer
+356|modern|C|reflective|{MODERN} glancing up at the mirror, a faint reflection of {YOU47} looking back
+357|office|C|bittersweet|an inset of the old ledger with the zero glowing
+358|modern|W|bittersweet|the modern sink with the old ledger resting on the counter, water still running
