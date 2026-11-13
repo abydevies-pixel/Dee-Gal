@@ -1,0 +1,3772 @@
+[
+ {
+  "beat": 1,
+  "start": 0.0,
+  "dur": 4.583,
+  "text": "The year is 1824 and you are born in Southwark, London,",
+  "motion": "push",
+  "scene": "river",
+  "action": "{BABY} wrapped in a grey cloth bundle held up by {MOTHER} at a cottage doorway, brewery chimneys smoking behind",
+  "image": "images/beat_001.png"
+ },
+ {
+  "beat": 2,
+  "start": 4.583,
+  "dur": 2.917,
+  "text": "on the wrong side of the river.",
+  "motion": "pan",
+  "scene": "river",
+  "action": "a split view of the Thames: grimy Southwark bank in the foreground, grand St Paul's dome far across the water",
+  "image": "images/beat_002.png"
+ },
+ {
+  "beat": 3,
+  "start": 7.5,
+  "dur": 2.917,
+  "text": "Your home smells of tar, wet wool,",
+  "motion": "push",
+  "scene": "home",
+  "action": "{MOTHER} rocking {BABY} beside a steaming washtub, tar buckets and wet wool hanging on lines",
+  "image": "images/beat_003.png"
+ },
+ {
+  "beat": 4,
+  "start": 10.417,
+  "dur": 4.583,
+  "text": "and the Thames at low tide. Your father is a cooper.",
+  "motion": "pull",
+  "scene": "home",
+  "action": "{FATHER} in his workshop corner hammering an iron hoop onto an oak barrel, mudflats visible through the small window",
+  "image": "images/beat_004.png"
+ },
+ {
+  "beat": 5,
+  "start": 15.0,
+  "dur": 5.0,
+  "text": "He bends oak staves into barrels for the breweries along the bank.",
+  "motion": "push",
+  "scene": "workshop",
+  "action": "{FATHER} bending a curved oak stave over a fire, finished barrels stamped with a brewery mark stacked behind",
+  "image": "images/beat_005.png"
+ },
+ {
+  "beat": 6,
+  "start": 20.0,
+  "dur": 5.0,
+  "text": "He is a broad, silent man who believes any problem can be",
+  "motion": "push",
+  "scene": "workshop",
+  "action": "close-up of {FATHER}'s broad deadpan face, heavy brows, a hammer resting on his shoulder",
+  "image": "images/beat_006.png"
+ },
+ {
+  "beat": 7,
+  "start": 25.0,
+  "dur": 5.0,
+  "text": "solved with a hammer and enough patience. Your mother takes in washing.",
+  "motion": "pan",
+  "scene": "home",
+  "action": "{MOTHER} scrubbing laundry in a wooden washtub, a mountain of other people's washing piled beside her",
+  "image": "images/beat_007.png"
+ },
+ {
+  "beat": 8,
+  "start": 30.0,
+  "dur": 4.167,
+  "text": "Her hands are always red, always cracked, and always moving.",
+  "motion": "push",
+  "scene": "home",
+  "action": "close-up of {MOTHER} wringing a sheet, her red cracked knuckles visible at the stick-arm ends, steam rising",
+  "image": "images/beat_008.png"
+ },
+ {
+  "beat": 9,
+  "start": 34.167,
+  "dur": 4.583,
+  "text": "She has one saying, and she says it every single day.",
+  "motion": "pull",
+  "scene": "home",
+  "action": "{MOTHER} pointing a finger at {YOU4} who stands by the doorway, speech emphasis lines around her",
+  "image": "images/beat_009.png"
+ },
+ {
+  "beat": 10,
+  "start": 38.75,
+  "dur": 3.75,
+  "text": "Keep moving, love. Standing still is for the dead.",
+  "motion": "push",
+  "scene": "home",
+  "action": "close-up of {MOTHER}'s kind lined face mid-sentence, a single candle and a faded religious print behind her",
+  "image": "images/beat_010.png"
+ },
+ {
+  "beat": 11,
+  "start": 42.5,
+  "dur": 2.917,
+  "text": "You take her seriously. Maybe too seriously.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{YOU4} nodding very seriously with exaggerated wide eyes, already in a running pose",
+  "image": "images/beat_011.png"
+ },
+ {
+  "beat": 12,
+  "start": 45.417,
+  "dur": 3.333,
+  "text": "By age 4, you can outrun the dog.",
+  "motion": "fade",
+  "scene": "lane",
+  "action": "{YOU4} sprinting down the cobbled lane ahead of a shaggy brown dog, the dog's tongue out, speed lines behind",
+  "image": "images/beat_012.png"
+ },
+ {
+  "beat": 13,
+  "start": 48.75,
+  "dur": 4.583,
+  "text": "By age 7, you can outrun the boys twice your age.",
+  "motion": "push",
+  "scene": "bridge",
+  "action": "{YOU7} racing far ahead of three bigger boys across London Bridge, all stick legs mid-stride",
+  "image": "images/beat_013.png"
+ },
+ {
+  "beat": 14,
+  "start": 53.333,
+  "dur": 3.75,
+  "text": "You race them across London Bridge, dodging carts, horses,",
+  "motion": "pull",
+  "scene": "bridge",
+  "action": "{YOU7} ducking between a horse-drawn cart and a startled horse, a carter shouting",
+  "image": "images/beat_014.png"
+ },
+ {
+  "beat": 15,
+  "start": 57.083,
+  "dur": 5.0,
+  "text": "and old women with baskets of eels. You lose a shoe once.",
+  "motion": "push",
+  "scene": "bridge",
+  "action": "{YOU7} leaping past an angry old woman carrying a basket of wriggling eels, one small shoe flying off behind him",
+  "image": "images/beat_015.png"
+ },
+ {
+  "beat": 16,
+  "start": 62.083,
+  "dur": 2.5,
+  "text": "You win anyway. By age 10,",
+  "motion": "push",
+  "scene": "bridge",
+  "action": "{YOU7} crossing a chalk finish line with one bare foot, arms raised, the older boys panting behind",
+  "image": "images/beat_016.png"
+ },
+ {
+  "beat": 17,
+  "start": 64.583,
+  "dur": 2.917,
+  "text": "the local shopkeepers pay you a penny",
+  "motion": "pan",
+  "scene": "lane",
+  "action": "a shopkeeper in an apron handing a copper penny and a folded note to {YOU10} at a shop door",
+  "image": "images/beat_017.png"
+ },
+ {
+  "beat": 18,
+  "start": 67.5,
+  "dur": 2.5,
+  "text": "to run messages across the river,",
+  "motion": "push",
+  "scene": "bridge",
+  "action": "{YOU10} sprinting across London Bridge clutching a sealed letter, the river and ships behind",
+  "image": "images/beat_018.png"
+ },
+ {
+  "beat": 19,
+  "start": 70.0,
+  "dur": 3.333,
+  "text": "because you get there before the ink dries.",
+  "motion": "pull",
+  "scene": "lane",
+  "action": "a gentleman holding a letter with the ink still glistening wet, staring in disbelief at {YOU10} panting at his door",
+  "image": "images/beat_019.png"
+ },
+ {
+  "beat": 20,
+  "start": 73.333,
+  "dur": 4.583,
+  "text": "Your father watches you sprint down the lane one evening and",
+  "motion": "push",
+  "scene": "lane",
+  "action": "{FATHER} leaning in his workshop doorway watching {YOU10} sprint down the lane in the evening glow",
+  "image": "images/beat_020.png"
+ },
+ {
+  "beat": 21,
+  "start": 77.916,
+  "dur": 4.167,
+  "text": "says the only compliment you will ever hear from him.",
+  "motion": "push",
+  "scene": "lane",
+  "action": "close-up of {FATHER}'s gruff face with the faintest proud smile under his beard",
+  "image": "images/beat_021.png"
+ },
+ {
+  "beat": 22,
+  "start": 82.083,
+  "dur": 4.167,
+  "text": "That boy's legs are worth more than my whole workshop.",
+  "motion": "pan",
+  "scene": "lane",
+  "action": "{FATHER} gesturing from {YOU10}'s fast stick legs toward his humble barrel workshop",
+  "image": "images/beat_022.png"
+ },
+ {
+  "beat": 23,
+  "start": 86.25,
+  "dur": 1.2,
+  "text": "He's right.",
+  "motion": "push",
+  "scene": "lane",
+  "action": "close-up of {YOU10} grinning, flat cap askew, as the lane darkens",
+  "image": "images/beat_023.png"
+ },
+ {
+  "beat": 24,
+  "start": 87.45,
+  "dur": 5.0,
+  "text": "In a city like London, a poor boy only owns two things.",
+  "motion": "pull",
+  "scene": "lane",
+  "action": "wide view of a poor Southwark street at dusk: ragged children, beggars, soot-stained terraces",
+  "image": "images/beat_024.png"
+ },
+ {
+  "beat": 25,
+  "start": 92.45,
+  "dur": 3.75,
+  "text": "His back and his legs. And yours are excellent.",
+  "motion": "push",
+  "scene": "lane",
+  "action": "{YOU10} standing in a confident pose, glowing outline around his stick back and stick legs as the only things he owns",
+  "image": "images/beat_025.png"
+ },
+ {
+  "beat": 26,
+  "start": 96.2,
+  "dur": 2.5,
+  "text": "Years pass and you turn 16.",
+  "motion": "fade",
+  "scene": "billingsgate",
+  "action": "{YOU16} walking through the misty Billingsgate market gate at dawn, flat cap on, gas lamps glowing",
+  "image": "images/beat_026.png"
+ },
+ {
+  "beat": 27,
+  "start": 98.7,
+  "dur": 2.917,
+  "text": "You become a porter at Billingsgate Market.",
+  "motion": "pan",
+  "scene": "billingsgate",
+  "action": "{YOU16} being handed a wicker fish basket by a fishmonger, his worn flat cap on his head",
+  "image": "images/beat_027.png"
+ },
+ {
+  "beat": 28,
+  "start": 101.617,
+  "dur": 5.0,
+  "text": "Every morning before dawn, you carry baskets of fish on your head,",
+  "motion": "push",
+  "scene": "billingsgate",
+  "action": "{YOU16} carrying a wicker basket of silver fish balanced on his head through the dark market",
+  "image": "images/beat_028.png"
+ },
+ {
+  "beat": 29,
+  "start": 106.617,
+  "dur": 1.25,
+  "text": "stacked three high,",
+  "motion": "pull",
+  "scene": "billingsgate",
+  "action": "{YOU16} with three fish baskets stacked impossibly high on his head, eyes crossed with effort",
+  "image": "images/beat_029.png"
+ },
+ {
+  "beat": 30,
+  "start": 107.867,
+  "dur": 4.167,
+  "text": "through crowds so thick you could walk on their shoulders.",
+  "motion": "push",
+  "scene": "billingsgate",
+  "action": "high-angle view of {YOU16} weaving through a dense sea of heads and worn flat caps, baskets on his head",
+  "image": "images/beat_030.png"
+ },
+ {
+  "beat": 31,
+  "start": 112.034,
+  "dur": 3.333,
+  "text": "It's brutal work, but you're fast. The fastest.",
+  "motion": "push",
+  "scene": "billingsgate",
+  "action": "{YOU16} overtaking other slow porters, speed lines behind him, fish flying from their baskets",
+  "image": "images/beat_031.png"
+ },
+ {
+  "beat": 32,
+  "start": 115.367,
+  "dur": 2.083,
+  "text": "The fishmongers fight over you.",
+  "motion": "pan",
+  "scene": "billingsgate",
+  "action": "two red-faced fishmongers tugging {YOU16} by each stick arm, both shouting",
+  "image": "images/beat_032.png"
+ },
+ {
+  "beat": 33,
+  "start": 117.45,
+  "dur": 4.167,
+  "text": "You earn enough to give your mother half your wages.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{YOU16} pouring copper coins into {MOTHER}'s apron at the cottage table",
+  "image": "images/beat_033.png"
+ },
+ {
+  "beat": 34,
+  "start": 121.617,
+  "dur": 5.0,
+  "text": "She stops taking in so much washing. Her hands begin to heal.",
+  "motion": "pull",
+  "scene": "home",
+  "action": "{MOTHER} drying her hands, a smaller laundry pile beside her, her face softening into a smile",
+  "image": "images/beat_034.png"
+ },
+ {
+  "beat": 35,
+  "start": 126.617,
+  "dur": 5.0,
+  "text": "For the first time in your family's history, things are getting better.",
+  "motion": "push",
+  "scene": "home",
+  "action": "the family eating supper together at a small table, {FATHER}, {MOTHER} and {YOU16} smiling, a modest meat pie in the middle",
+  "image": "images/beat_035.png"
+ },
+ {
+  "beat": 36,
+  "start": 131.617,
+  "dur": 2.5,
+  "text": "Then comes the autumn of 1846.",
+  "motion": "fade",
+  "scene": "docks",
+  "action": "the London Docks under a grey autumn sky, dead leaves blowing across the cobbles, 1846 painted on a warehouse",
+  "image": "images/beat_036.png"
+ },
+ {
+  "beat": 37,
+  "start": 134.117,
+  "dur": 1.25,
+  "text": "It's a Tuesday.",
+  "motion": "pan",
+  "scene": "docks",
+  "action": "{YOU} walking briskly, flat cap pulled low, a dock clock behind showing early morning",
+  "image": "images/beat_037.png"
+ },
+ {
+  "beat": 38,
+  "start": 135.367,
+  "dur": 5.0,
+  "text": "You're cutting through the docks to save time, as you always do.",
+  "motion": "push",
+  "scene": "docks",
+  "action": "{YOU} cutting between warehouses and stacked barrels, a shortcut sign pointing through the docks",
+  "image": "images/beat_038.png"
+ },
+ {
+  "beat": 39,
+  "start": 140.367,
+  "dur": 2.917,
+  "text": "Above you, a crane swings a crate",
+  "motion": "pull",
+  "scene": "docks",
+  "action": "low-angle view of a timber crane swinging a heavy wooden crate high overhead",
+  "image": "images/beat_039.png"
+ },
+ {
+  "beat": 40,
+  "start": 143.284,
+  "dur": 4.583,
+  "text": "of Portuguese wine off a ship. You hear a rope snap.",
+  "motion": "shake",
+  "scene": "docks",
+  "action": "extreme close-up of a fraying rope snapping, fibres bursting outward, a crate stencilled VINHO PORTO",
+  "image": "images/beat_040.png"
+ },
+ {
+  "beat": 41,
+  "start": 147.867,
+  "dur": 2.083,
+  "text": "Someone shouts. You look up.",
+  "motion": "push",
+  "scene": "docks",
+  "action": "a dockworker pointing upward and shouting, {YOU} looking up with wide eyes",
+  "image": "images/beat_041.png"
+ },
+ {
+  "beat": 42,
+  "start": 149.95,
+  "dur": 1.2,
+  "text": "Big mistake.",
+  "motion": "pan",
+  "scene": "docks",
+  "action": "close-up of {YOU}'s face looking straight up, eyes wide, the crate's shadow growing over him",
+  "image": "images/beat_042.png"
+ },
+ {
+  "beat": 43,
+  "start": 151.15,
+  "dur": 4.583,
+  "text": "The crate lands on your right leg just below the knee.",
+  "motion": "shake",
+  "scene": "docks",
+  "action": "the wine crate slamming onto the cobbles, {YOU} pinned underneath at the knee, wine splashing, dust cloud",
+  "image": "images/beat_043.png"
+ },
+ {
+  "beat": 44,
+  "start": 155.733,
+  "dur": 4.167,
+  "text": "You don't feel it at first. You just hear it.",
+  "motion": "pull",
+  "scene": "docks",
+  "action": "close-up of {YOU}'s blank stunned face, sound-effect lines around his ear",
+  "image": "images/beat_044.png"
+ },
+ {
+  "beat": 45,
+  "start": 159.9,
+  "dur": 4.583,
+  "text": "A wet crack, like a barrel stave splitting in the cold.",
+  "motion": "shake",
+  "scene": "workshop",
+  "action": "an inset of a barrel stave snapping in frost, splinters flying, a crack sound-effect symbol",
+  "image": "images/beat_045.png"
+ },
+ {
+  "beat": 46,
+  "start": 164.483,
+  "dur": 2.917,
+  "text": "Then you look down and see something",
+  "motion": "push",
+  "scene": "docks",
+  "action": "{YOU}'s point of view looking down at his trapped stick leg, the injury hidden behind a torn trouser rag",
+  "image": "images/beat_046.png"
+ },
+ {
+  "beat": 47,
+  "start": 167.4,
+  "dur": 2.5,
+  "text": "white sticking out of your shin.",
+  "motion": "pan",
+  "scene": "docks",
+  "action": "{YOU}'s eyes going huge and pupils shrinking as he stares down off-frame",
+  "image": "images/beat_047.png"
+ },
+ {
+  "beat": 48,
+  "start": 169.9,
+  "dur": 4.167,
+  "text": "It takes you a moment to understand it's your bone.",
+  "motion": "push",
+  "scene": "docks",
+  "action": "close-up of {YOU}'s face turning pale green, a sweat drop sliding down",
+  "image": "images/beat_048.png"
+ },
+ {
+  "beat": 49,
+  "start": 174.067,
+  "dur": 1.667,
+  "text": "Then you feel it.",
+  "motion": "shake",
+  "scene": "docks",
+  "action": "{YOU} screaming with his mouth wide open, tears streaming, cartoon pain lines radiating",
+  "image": "images/beat_049.png"
+ },
+ {
+  "beat": 50,
+  "start": 175.734,
+  "dur": 2.917,
+  "text": "The dockworkers lift the crate off you.",
+  "motion": "push",
+  "scene": "docks",
+  "action": "three dockworkers straining to lift the wine crate off {YOU}",
+  "image": "images/beat_050.png"
+ },
+ {
+  "beat": 51,
+  "start": 178.651,
+  "dur": 2.917,
+  "text": "One of them takes one look at",
+  "motion": "push",
+  "scene": "docks",
+  "action": "a dockworker glancing down then turning away green-faced, hand over his mouth",
+  "image": "images/beat_051.png"
+ },
+ {
+  "beat": 52,
+  "start": 181.568,
+  "dur": 2.917,
+  "text": "your leg and turns away to vomit.",
+  "motion": "pan",
+  "scene": "docks",
+  "action": "the dockworker bent over vomiting behind a barrel, a puddle on the cobbles",
+  "image": "images/beat_052.png"
+ },
+ {
+  "beat": 53,
+  "start": 184.485,
+  "dur": 2.917,
+  "text": "Another ties his neckerchief around your thigh.",
+  "motion": "push",
+  "scene": "docks",
+  "action": "a dockworker tying a red neckerchief tight around {YOU}'s stick thigh",
+  "image": "images/beat_053.png"
+ },
+ {
+  "beat": 54,
+  "start": 187.402,
+  "dur": 3.75,
+  "text": "They put you on a cart and someone says",
+  "motion": "pull",
+  "scene": "cart",
+  "action": "dockworkers lifting {YOU} onto a wooden handcart, one shouting",
+  "image": "images/beat_054.png"
+ },
+ {
+  "beat": 55,
+  "start": 191.152,
+  "dur": 3.333,
+  "text": "the word you have heard all your life,",
+  "motion": "push",
+  "scene": "cart",
+  "action": "close-up of {YOU}'s pale face lying on the cart, staring at the grey sky",
+  "image": "images/beat_055.png"
+ },
+ {
+  "beat": 56,
+  "start": 194.485,
+  "dur": 4.167,
+  "text": "the word every poor Londoner fears more than prison. Hospital.",
+  "motion": "push",
+  "scene": "hospext",
+  "action": "the word HOSPITAL carved in stone over a grand looming building, crowds of poor people kept outside the railings",
+  "image": "images/beat_056.png"
+ },
+ {
+  "beat": 57,
+  "start": 198.652,
+  "dur": 3.75,
+  "text": "In 1846, hospitals are not for people like you.",
+  "motion": "pan",
+  "scene": "hospext",
+  "action": "a uniformed porter barring the hospital gate against ragged poor families",
+  "image": "images/beat_057.png"
+ },
+ {
+  "beat": 58,
+  "start": 202.402,
+  "dur": 2.5,
+  "text": "Not unless someone important says so.",
+  "motion": "push",
+  "scene": "hospext",
+  "action": "a well-dressed gentleman in a top hat strolling through the gate while the poor wait",
+  "image": "images/beat_058.png"
+ },
+ {
+  "beat": 59,
+  "start": 204.902,
+  "dur": 2.917,
+  "text": "To be admitted as a charity patient,",
+  "motion": "pull",
+  "scene": "hospext",
+  "action": "a stern clerk at a desk pointing at an admission rules board",
+  "image": "images/beat_059.png"
+ },
+ {
+  "beat": 60,
+  "start": 207.819,
+  "dur": 2.917,
+  "text": "you need a letter from a subscriber,",
+  "motion": "push",
+  "scene": "hospext",
+  "action": "a close-up of a formal letter of recommendation with a wax seal and signature",
+  "image": "images/beat_060.png"
+ },
+ {
+  "beat": 61,
+  "start": 210.736,
+  "dur": 5.0,
+  "text": "a wealthy donor who pays for the right to recommend the poor.",
+  "motion": "push",
+  "scene": "hospext",
+  "action": "{BREWER} handing a letter down to a bowing ragged mother",
+  "image": "images/beat_061.png"
+ },
+ {
+  "beat": 62,
+  "start": 215.736,
+  "dur": 3.333,
+  "text": "Without that letter, the hospital owes you nothing.",
+  "motion": "pan",
+  "scene": "hospext",
+  "action": "the clerk shutting a ledger in the face of a poor man with no letter",
+  "image": "images/beat_062.png"
+ },
+ {
+  "beat": 63,
+  "start": 219.069,
+  "dur": 3.75,
+  "text": "Your father runs. You've never seen him run before.",
+  "motion": "push",
+  "scene": "lane",
+  "action": "{FATHER} running down the cobbled lane, flat cap flying off, speed lines behind",
+  "image": "images/beat_063.png"
+ },
+ {
+  "beat": 64,
+  "start": 222.819,
+  "dur": 4.167,
+  "text": "He goes to the brewery owner he's made barrels for",
+  "motion": "pull",
+  "scene": "lane",
+  "action": "{YOU} propped on the cart watching with shocked wide eyes as his father runs",
+  "image": "images/beat_064.png"
+ },
+ {
+  "beat": 65,
+  "start": 226.986,
+  "dur": 4.167,
+  "text": "these past twenty years and stands in the man's doorway,",
+  "motion": "push",
+  "scene": "brewerdoor",
+  "action": "{FATHER} arriving at the grand black door of a Georgian townhouse, brewery chimney behind",
+  "image": "images/beat_065.png"
+ },
+ {
+  "beat": 66,
+  "start": 231.153,
+  "dur": 5.0,
+  "text": "hat in hand, until he gets the letter. It takes four hours.",
+  "motion": "push",
+  "scene": "brewerdoor",
+  "action": "{FATHER} standing in the doorway, cap clutched to his chest, a butler blocking the way",
+  "image": "images/beat_066.png"
+ },
+ {
+  "beat": 67,
+  "start": 236.153,
+  "dur": 4.167,
+  "text": "You spend those hours on the kitchen table at home,",
+  "motion": "pan",
+  "scene": "brewerdoor",
+  "action": "{BREWER} finally handing {FATHER} a sealed letter, a clock in the hall showing four hours later",
+  "image": "images/beat_067.png"
+ },
+ {
+  "beat": 68,
+  "start": 240.32,
+  "dur": 3.333,
+  "text": "biting a wooden spoon while your mother holds",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "{YOU} lying on the kitchen table, {MOTHER} beside him, candlelight",
+  "image": "images/beat_068.png"
+ },
+ {
+  "beat": 69,
+  "start": 243.653,
+  "dur": 3.333,
+  "text": "your hand and tells you to keep breathing.",
+  "motion": "pull",
+  "scene": "kitchen",
+  "action": "close-up of {YOU} biting a wooden spoon, sweat drops, {MOTHER} holding his stick hand",
+  "image": "images/beat_069.png"
+ },
+ {
+  "beat": 70,
+  "start": 246.986,
+  "dur": 2.083,
+  "text": "She doesn't say keep moving.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "close-up of {MOTHER}'s worried face, lips pressed tight, eyes wet",
+  "image": "images/beat_070.png"
+ },
+ {
+  "beat": 71,
+  "start": 249.069,
+  "dur": 3.333,
+  "text": "For the first time, she doesn't say it.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "{MOTHER} looking down silently, a tear rolling down, the candle flickering low",
+  "image": "images/beat_071.png"
+ },
+ {
+  "beat": 72,
+  "start": 252.402,
+  "dur": 3.333,
+  "text": "By nightfall, you're admitted to University College Hospital.",
+  "motion": "pan",
+  "scene": "hospext",
+  "action": "University College Hospital at nightfall, gas lamps lit, {FATHER} carrying {YOU} up the stone steps",
+  "image": "images/beat_072.png"
+ },
+ {
+  "beat": 73,
+  "start": 255.735,
+  "dur": 4.167,
+  "text": "The first week is disorienting in the best possible way.",
+  "motion": "fade",
+  "scene": "ward",
+  "action": "the long whitewashed ward with rows of iron beds, {YOU} in a clean bed, splinted leg under the blanket",
+  "image": "images/beat_073.png"
+ },
+ {
+  "beat": 74,
+  "start": 259.902,
+  "dur": 3.75,
+  "text": "You have a bed. An entire bed, to yourself.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{YOU} stretching out alone in a bed with an amazed grin, arms spread wide",
+  "image": "images/beat_074.png"
+ },
+ {
+  "beat": 75,
+  "start": 263.652,
+  "dur": 2.083,
+  "text": "The sheets are clean, mostly.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of a slightly stained sheet, {YOU} squinting at a small brown mark on it",
+  "image": "images/beat_075.png"
+ },
+ {
+  "beat": 76,
+  "start": 265.735,
+  "dur": 3.333,
+  "text": "A nurse brings you beef tea every morning",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{NURSE} handing {YOU} a steaming bowl of beef tea in the morning light",
+  "image": "images/beat_076.png"
+ },
+ {
+  "beat": 77,
+  "start": 269.068,
+  "dur": 5.0,
+  "text": "and a pint of porter beer every evening. A pint of beer.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{NURSE} handing {YOU} a frothy pewter pint of porter beer",
+  "image": "images/beat_077.png"
+ },
+ {
+  "beat": 78,
+  "start": 274.068,
+  "dur": 4.583,
+  "text": "In a hospital. Doctors prescribe it to keep your strength up.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of {YOU} holding the pint, jaw dropped, a doctor's prescription note tied to the mug",
+  "image": "images/beat_078.png"
+ },
+ {
+  "beat": 79,
+  "start": 278.651,
+  "dur": 3.75,
+  "text": "You decide that whoever invented hospitals was a genius.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{YOU} sipping the beer contentedly, eyes closed, little hearts floating up",
+  "image": "images/beat_079.png"
+ },
+ {
+  "beat": 80,
+  "start": 282.401,
+  "dur": 2.917,
+  "text": "A young house surgeon examines your leg.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{HS} leaning over {YOU}'s bed to examine the swollen leg under the blanket",
+  "image": "images/beat_080.png"
+ },
+ {
+  "beat": 81,
+  "start": 285.318,
+  "dur": 4.583,
+  "text": "He presses on the swelling and says it's a compound fracture,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{HS} pressing lightly on the bandaged shin, {YOU} wincing",
+  "image": "images/beat_081.png"
+ },
+ {
+  "beat": 82,
+  "start": 289.901,
+  "dur": 3.333,
+  "text": "which means the bone broke through the skin.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "an inset anatomical cartoon of a simple broken shin bone, labelled COMPOUND FRACTURE",
+  "image": "images/beat_082.png"
+ },
+ {
+  "beat": 83,
+  "start": 293.234,
+  "dur": 4.167,
+  "text": "He says some surgeons would take the leg off immediately,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{HS} gesturing to a rack of saws on the wall, then shaking his head",
+  "image": "images/beat_083.png"
+ },
+ {
+  "beat": 84,
+  "start": 297.401,
+  "dur": 5.0,
+  "text": "but he'd like to try to save it. He sets the bone.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{HS} pulling the leg straight with both stick arms, {YOU} gripping the bedframe",
+  "image": "images/beat_084.png"
+ },
+ {
+  "beat": 85,
+  "start": 302.401,
+  "dur": 3.75,
+  "text": "You scream so loudly the whole ward goes silent.",
+  "motion": "shake",
+  "scene": "ward",
+  "action": "{YOU} screaming in bed while every other patient in the ward turns to stare in silence",
+  "image": "images/beat_085.png"
+ },
+ {
+  "beat": 86,
+  "start": 306.151,
+  "dur": 4.167,
+  "text": "Then he splints it, bandages it, and pats your shoulder.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{HS} tying a wooden splint and white bandage around {YOU}'s stick leg, patting his shoulder",
+  "image": "images/beat_086.png"
+ },
+ {
+  "beat": 87,
+  "start": 310.318,
+  "dur": 2.5,
+  "text": "You'll keep it, he says. Probably.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "close-up of {HS} giving a weak smile and a so-so hand wobble",
+  "image": "images/beat_087.png"
+ },
+ {
+  "beat": 88,
+  "start": 312.818,
+  "dur": 3.333,
+  "text": "You hold onto that word for days. Probably.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} staring at the ceiling, the word PROBABLY floating above his head in a thought bubble",
+  "image": "images/beat_088.png"
+ },
+ {
+  "beat": 89,
+  "start": 316.151,
+  "dur": 4.583,
+  "text": "The man in the bed next to you is called Silas.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{YOU} turning to look at the next bed where {SILAS} lies propped on pillows",
+  "image": "images/beat_089.png"
+ },
+ {
+  "beat": 90,
+  "start": 320.734,
+  "dur": 2.083,
+  "text": "He's old, at least sixty,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of {SILAS} grinning, chewing tobacco",
+  "image": "images/beat_090.png"
+ },
+ {
+  "beat": 91,
+  "start": 322.817,
+  "dur": 3.75,
+  "text": "with white whiskers and a face like a walnut.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "extreme detail on {SILAS}'s white mutton-chop whiskers, spectacles and deeply lined face",
+  "image": "images/beat_091.png"
+ },
+ {
+  "beat": 92,
+  "start": 326.567,
+  "dur": 4.167,
+  "text": "He is missing his left leg from the knee down.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{SILAS} sitting up in bed, his left stick leg ending in a bandaged stump at the knee",
+  "image": "images/beat_092.png"
+ },
+ {
+  "beat": 93,
+  "start": 330.734,
+  "dur": 4.167,
+  "text": "He lost it at Trafalgar in 1805, he tells you,",
+  "motion": "push",
+  "scene": "trafalgar",
+  "action": "{SILASYOUNG} loading a cannon on the smoky gun deck, 1805",
+  "image": "images/beat_093.png"
+ },
+ {
+  "beat": 94,
+  "start": 334.901,
+  "dur": 3.333,
+  "text": "to a French cannonball that came through the",
+  "motion": "pull",
+  "scene": "trafalgar",
+  "action": "a cannonball smashing through the hull, splinters flying, sailors diving",
+  "image": "images/beat_094.png"
+ },
+ {
+  "beat": 95,
+  "start": 338.234,
+  "dur": 2.917,
+  "text": "gun deck while he was loading powder.",
+  "motion": "push",
+  "scene": "trafalgar",
+  "action": "{SILASYOUNG} on the deck with X-eyes for a moment, powder keg rolling, smoke everywhere",
+  "image": "images/beat_095.png"
+ },
+ {
+  "beat": 96,
+  "start": 341.151,
+  "dur": 2.917,
+  "text": "He's back now because the stump has",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} pointing at his bandaged stump, the bandage slightly yellowed",
+  "image": "images/beat_096.png"
+ },
+ {
+  "beat": 97,
+  "start": 344.068,
+  "dur": 2.5,
+  "text": "opened up again after forty years,",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{SILAS} holding up four stick fingers for forty years, a calendar of years flipping beside him",
+  "image": "images/beat_097.png"
+ },
+ {
+  "beat": 98,
+  "start": 346.568,
+  "dur": 2.917,
+  "text": "and the surgeons want to trim it.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "two surgeons in black coats eyeing {SILAS}'s stump from the end of the bed, one holding garden shears",
+  "image": "images/beat_098.png"
+ },
+ {
+  "beat": 99,
+  "start": 349.485,
+  "dur": 3.333,
+  "text": "Trim it, he says, like it's a hedge.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{SILAS} rolling his eyes, an inset of a hedge being trimmed into shape",
+  "image": "images/beat_099.png"
+ },
+ {
+  "beat": 100,
+  "start": 352.818,
+  "dur": 2.083,
+  "text": "Silas has opinions about everything.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} lecturing with one finger raised, speech lines around him, {YOU} listening",
+  "image": "images/beat_100.png"
+ },
+ {
+  "beat": 101,
+  "start": 354.901,
+  "dur": 3.75,
+  "text": "He says the beef tea is boiled boot leather.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} grimacing at a bowl of beef tea, an old leather boot floating in it",
+  "image": "images/beat_101.png"
+ },
+ {
+  "beat": 102,
+  "start": 358.651,
+  "dur": 2.917,
+  "text": "He says the house surgeon is too",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{SILAS} pointing across the ward at {HS}",
+  "image": "images/beat_102.png"
+ },
+ {
+  "beat": 103,
+  "start": 361.568,
+  "dur": 2.5,
+  "text": "young to grow a proper beard,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of {HS}'s smooth baby-faced chin, a single lonely whisker",
+  "image": "images/beat_103.png"
+ },
+ {
+  "beat": 104,
+  "start": 364.068,
+  "dur": 2.917,
+  "text": "and a man who can't grow a",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{SILAS} miming a sawing motion with a skeptical scowl",
+  "image": "images/beat_104.png"
+ },
+ {
+  "beat": 105,
+  "start": 366.985,
+  "dur": 2.917,
+  "text": "beard shouldn't be trusted with a saw.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{HS} holding a saw nervously with trembling stick arms, shake lines",
+  "image": "images/beat_105.png"
+ },
+ {
+  "beat": 106,
+  "start": 369.902,
+  "dur": 2.917,
+  "text": "He says the porter beer is the",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} raising his pint of porter like a toast",
+  "image": "images/beat_106.png"
+ },
+ {
+  "beat": 107,
+  "start": 372.819,
+  "dur": 2.5,
+  "text": "only honest thing in the building.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{SILAS} with a halo drawn above his beer mug",
+  "image": "images/beat_107.png"
+ },
+ {
+  "beat": 108,
+  "start": 375.319,
+  "dur": 3.75,
+  "text": "Then he asks if you're going to finish yours.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} leaning toward {YOU}'s untouched pint with greedy eyes",
+  "image": "images/beat_108.png"
+ },
+ {
+  "beat": 109,
+  "start": 379.069,
+  "dur": 1.2,
+  "text": "You laugh.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{YOU} laughing out loud in bed, head tilted back",
+  "image": "images/beat_109.png"
+ },
+ {
+  "beat": 110,
+  "start": 380.269,
+  "dur": 4.583,
+  "text": "You hadn't realized how long it had been since you laughed.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of {YOU} smiling, a small tear of relief",
+  "image": "images/beat_110.png"
+ },
+ {
+  "beat": 111,
+  "start": 384.852,
+  "dur": 4.583,
+  "text": "He tells you stories at night when the ward is dark.",
+  "motion": "push",
+  "scene": "wardnight",
+  "action": "{SILAS} whispering a story to {YOU} in the dark ward lit by one oil lamp",
+  "image": "images/beat_111.png"
+ },
+ {
+  "beat": 112,
+  "start": 389.435,
+  "dur": 1.667,
+  "text": "About sailing past Gibraltar.",
+  "motion": "pan",
+  "scene": "gibraltar",
+  "action": "a sailing ship gliding past the huge Rock of Gibraltar under blue sky",
+  "image": "images/beat_112.png"
+ },
+ {
+  "beat": 113,
+  "start": 391.102,
+  "dur": 5.0,
+  "text": "About eating ship's biscuits so full of weevils that the crew would",
+  "motion": "push",
+  "scene": "galley",
+  "action": "sailors at a mess table tapping ship's biscuits as wriggling weevils crawl out",
+  "image": "images/beat_113.png"
+ },
+ {
+  "beat": 114,
+  "start": 396.102,
+  "dur": 5.0,
+  "text": "tap them on the table and race the bugs that crawled out.",
+  "motion": "pull",
+  "scene": "galley",
+  "action": "weevils racing across the wooden table with tiny numbers on them, sailors cheering",
+  "image": "images/beat_114.png"
+ },
+ {
+  "beat": 115,
+  "start": 401.102,
+  "dur": 4.167,
+  "text": "About Admiral Nelson, who got seasick every single voyage of",
+  "motion": "push",
+  "scene": "nelson",
+  "action": "Admiral Nelson with one empty sleeve, green-faced and seasick, leaning over the ship's rail",
+  "image": "images/beat_115.png"
+ },
+ {
+  "beat": 116,
+  "start": 405.269,
+  "dur": 5.0,
+  "text": "his career and still won every battle. Silas says that's the lesson.",
+  "motion": "push",
+  "scene": "nelson",
+  "action": "Nelson standing victorious on the quarterdeck, still green-faced, enemy ships burning behind",
+  "image": "images/beat_116.png"
+ },
+ {
+  "beat": 117,
+  "start": 410.269,
+  "dur": 4.167,
+  "text": "You can be sick, scared, and miserable, and still win.",
+  "motion": "pan",
+  "scene": "wardnight",
+  "action": "close-up of {SILAS} tapping his temple wisely in lamplight",
+  "image": "images/beat_117.png"
+ },
+ {
+  "beat": 118,
+  "start": 414.436,
+  "dur": 1.25,
+  "text": "You believe him.",
+  "motion": "push",
+  "scene": "wardnight",
+  "action": "close-up of {YOU} nodding, eyes shining with belief",
+  "image": "images/beat_118.png"
+ },
+ {
+  "beat": 119,
+  "start": 415.686,
+  "dur": 3.75,
+  "text": "Then, in your second week, you hear the bell.",
+  "motion": "fade",
+  "scene": "ward",
+  "action": "{YOU} jolting upright in bed, eyes wide",
+  "image": "images/beat_119.png"
+ },
+ {
+  "beat": 120,
+  "start": 419.436,
+  "dur": 3.333,
+  "text": "It rings from the top of the building,",
+  "motion": "shake",
+  "scene": "ward",
+  "action": "low-angle view of a brass bell swinging in a small tower on the hospital roof",
+  "image": "images/beat_120.png"
+ },
+ {
+  "beat": 121,
+  "start": 422.769,
+  "dur": 4.167,
+  "text": "a sharp bright clang that cuts through the whole ward.",
+  "motion": "shake",
+  "scene": "ward",
+  "action": "ringing sound-effect lines filling the whole ward, patients flinching",
+  "image": "images/beat_121.png"
+ },
+ {
+  "beat": 122,
+  "start": 426.936,
+  "dur": 2.5,
+  "text": "The nurses stop what they're doing.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{NURSE} freezing mid-step with a tray, a spoon falling",
+  "image": "images/beat_122.png"
+ },
+ {
+  "beat": 123,
+  "start": 429.436,
+  "dur": 2.917,
+  "text": "The men in the beds stop talking.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "every patient in the ward silent and staring at the ceiling",
+  "image": "images/beat_123.png"
+ },
+ {
+  "beat": 124,
+  "start": 432.353,
+  "dur": 2.5,
+  "text": "Someone near the window crosses himself.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "a gaunt patient by the window making the sign of the cross",
+  "image": "images/beat_124.png"
+ },
+ {
+  "beat": 125,
+  "start": 434.853,
+  "dur": 4.583,
+  "text": "Silas doesn't look up from his beer. Operating day, he says.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} calmly sipping his beer, not looking up",
+  "image": "images/beat_125.png"
+ },
+ {
+  "beat": 126,
+  "start": 439.436,
+  "dur": 2.917,
+  "text": "A few minutes later, you hear it.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} looking up at the ceiling, listening, sweat drop",
+  "image": "images/beat_126.png"
+ },
+ {
+  "beat": 127,
+  "start": 442.353,
+  "dur": 3.75,
+  "text": "Faintly, through two floors of brick, a man screaming.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "a cutaway of the hospital floors, faint jagged scream lines rising from the top floor",
+  "image": "images/beat_127.png"
+ },
+ {
+  "beat": 128,
+  "start": 446.103,
+  "dur": 4.583,
+  "text": "It goes on for what feels like forever. Then it stops.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of {YOU} staring at a wall clock, hands frozen",
+  "image": "images/beat_128.png"
+ },
+ {
+  "beat": 129,
+  "start": 450.686,
+  "dur": 3.75,
+  "text": "Not fades, but stops. Silas finally takes a sip.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{SILAS} finally taking a calm sip of porter as the silence falls",
+  "image": "images/beat_129.png"
+ },
+ {
+  "beat": 130,
+  "start": 454.436,
+  "dur": 4.583,
+  "text": "You ask him if the man died. He says, probably not.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} whispering a question to {SILAS}",
+  "image": "images/beat_130.png"
+ },
+ {
+  "beat": 131,
+  "start": 459.019,
+  "dur": 2.5,
+  "text": "Usually it just means they're finished.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} shrugging with a casual so-so face",
+  "image": "images/beat_131.png"
+ },
+ {
+  "beat": 132,
+  "start": 461.519,
+  "dur": 3.75,
+  "text": "You lie awake that night staring at the ceiling,",
+  "motion": "pan",
+  "scene": "wardnight",
+  "action": "{YOU} lying awake in the dark ward, eyes open, moonlight through the window",
+  "image": "images/beat_132.png"
+ },
+ {
+  "beat": 133,
+  "start": 465.269,
+  "dur": 5.0,
+  "text": "listening to your own heartbeat. You're not thinking about the man upstairs.",
+  "motion": "push",
+  "scene": "wardnight",
+  "action": "close-up of {YOU}'s face, a heartbeat symbol drawn over his chest",
+  "image": "images/beat_133.png"
+ },
+ {
+  "beat": 134,
+  "start": 470.269,
+  "dur": 2.083,
+  "text": "You're thinking about your leg.",
+  "motion": "pull",
+  "scene": "wardnight",
+  "action": "{YOU} slowly looking down toward his bandaged leg under the blanket",
+  "image": "images/beat_134.png"
+ },
+ {
+  "beat": 135,
+  "start": 472.352,
+  "dur": 2.083,
+  "text": "Because the smell has started.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "wavy green smell lines rising from {YOU}'s bandaged leg",
+  "image": "images/beat_135.png"
+ },
+ {
+  "beat": 136,
+  "start": 474.435,
+  "dur": 1.667,
+  "text": "It's faint at first.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of {YOU} sniffing the air, confused",
+  "image": "images/beat_136.png"
+ },
+ {
+  "beat": 137,
+  "start": 476.102,
+  "dur": 3.75,
+  "text": "Sweet and rotten, like fruit left in the sun.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "a fly circling {YOU}'s bed, an inset of rotting fruit in sunshine",
+  "image": "images/beat_137.png"
+ },
+ {
+  "beat": 138,
+  "start": 479.852,
+  "dur": 3.75,
+  "text": "The nurse changes your dressings and doesn't say anything,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{NURSE} unwrapping {YOU}'s bandage with a blank expression",
+  "image": "images/beat_138.png"
+ },
+ {
+  "beat": 139,
+  "start": 483.602,
+  "dur": 3.333,
+  "text": "but you notice she breathes through her mouth.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "close-up of {NURSE} breathing through her mouth, cheeks puffed, eyes watering",
+  "image": "images/beat_139.png"
+ },
+ {
+  "beat": 140,
+  "start": 486.935,
+  "dur": 2.917,
+  "text": "The swelling spreads up past your knee.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "the bandaged stick leg drawn thicker and swollen up past the knee",
+  "image": "images/beat_140.png"
+ },
+ {
+  "beat": 141,
+  "start": 489.852,
+  "dur": 4.583,
+  "text": "The skin around the wound turns from red to purple to",
+  "motion": "push",
+  "scene": "ward",
+  "action": "an inset colour-swatch chart going from red to purple to grey beside the covered leg",
+  "image": "images/beat_141.png"
+ },
+ {
+  "beat": 142,
+  "start": 494.435,
+  "dur": 4.167,
+  "text": "a shade of grey that doesn't belong on anything alive.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{YOU} glancing at his leg, worried, grey tint creeping into the frame edge",
+  "image": "images/beat_142.png"
+ },
+ {
+  "beat": 143,
+  "start": 498.602,
+  "dur": 4.167,
+  "text": "Your fever arrives on the twelfth day and doesn't leave.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} sweating in bed with a wet cloth on his head, a thermometer-style squiggle above him",
+  "image": "images/beat_143.png"
+ },
+ {
+  "beat": 144,
+  "start": 502.769,
+  "dur": 5.0,
+  "text": "The house surgeon comes back. He doesn't press on anything this time.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{HS} standing at the bed, arms by his sides, not touching anything",
+  "image": "images/beat_144.png"
+ },
+ {
+  "beat": 145,
+  "start": 507.769,
+  "dur": 4.583,
+  "text": "He just looks. Then he says he'll speak to Mr. Liston.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{HS} looking down silently, spectacles reflecting, then turning away",
+  "image": "images/beat_145.png"
+ },
+ {
+  "beat": 146,
+  "start": 512.352,
+  "dur": 1.667,
+  "text": "Silas goes very still.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} freezing with the beer halfway to his mouth",
+  "image": "images/beat_146.png"
+ },
+ {
+  "beat": 147,
+  "start": 514.019,
+  "dur": 5.0,
+  "text": "Robert Liston, he tells you, is the most famous surgeon in London.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{SILAS} leaning in to whisper, a framed portrait of {LISTON} drawn as an inset bubble",
+  "image": "images/beat_147.png"
+ },
+ {
+  "beat": 148,
+  "start": 519.019,
+  "dur": 1.25,
+  "text": "Possibly the world.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "an inset map of Europe with {LISTON}'s head on it",
+  "image": "images/beat_148.png"
+ },
+ {
+  "beat": 149,
+  "start": 520.269,
+  "dur": 5.0,
+  "text": "Six foot two, hands like shovels, and the fastest knife in Britain.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "low-angle view of {LISTON} towering, a gleaming knife in his stick hand",
+  "image": "images/beat_149.png"
+ },
+ {
+  "beat": 150,
+  "start": 525.269,
+  "dur": 2.917,
+  "text": "Silas has heard he once took off",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} holding up a pocket watch showing under thirty seconds",
+  "image": "images/beat_150.png"
+ },
+ {
+  "beat": 151,
+  "start": 528.186,
+  "dur": 2.5,
+  "text": "a leg in under thirty seconds.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "an inset of a stopwatch with the hand racing",
+  "image": "images/beat_151.png"
+ },
+ {
+  "beat": 152,
+  "start": 530.686,
+  "dur": 2.917,
+  "text": "He says students come from all over",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "crowds of foreign students in different hats queuing outside a theatre door",
+  "image": "images/beat_152.png"
+ },
+ {
+  "beat": 153,
+  "start": 533.603,
+  "dur": 2.5,
+  "text": "Europe just to watch him work.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "students crammed shoulder to shoulder craning to watch",
+  "image": "images/beat_153.png"
+ },
+ {
+  "beat": 154,
+  "start": 536.103,
+  "dur": 2.917,
+  "text": "He says it like it's good news.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{SILAS} smiling with a forced, crooked smile",
+  "image": "images/beat_154.png"
+ },
+ {
+  "beat": 155,
+  "start": 539.02,
+  "dur": 4.167,
+  "text": "You ask him why it doesn't sound like good news.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} squinting skeptically at {SILAS}",
+  "image": "images/beat_155.png"
+ },
+ {
+  "beat": 156,
+  "start": 543.187,
+  "dur": 2.5,
+  "text": "Silas thinks for a long time.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} staring into the distance, smile gone",
+  "image": "images/beat_156.png"
+ },
+ {
+  "beat": 157,
+  "start": 545.687,
+  "dur": 3.333,
+  "text": "Then he tells you about the operating theatre.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{SILAS} sketching a round theatre with his finger in the air, dotted outline above him",
+  "image": "images/beat_157.png"
+ },
+ {
+  "beat": 158,
+  "start": 549.02,
+  "dur": 2.917,
+  "text": "In 1846, there is no way to",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "an empty circular operating theatre with steep standing tiers, light falling from the skylight",
+  "image": "images/beat_158.png"
+ },
+ {
+  "beat": 159,
+  "start": 551.937,
+  "dur": 2.917,
+  "text": "put a person to sleep for surgery.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "an empty operating table with leather straps and no pillow",
+  "image": "images/beat_159.png"
+ },
+ {
+  "beat": 160,
+  "start": 554.854,
+  "dur": 4.583,
+  "text": "No gas, no injection, no anything. You are awake. Completely awake.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "an inset of crossed-out symbols: a gas mask, a syringe, a sleeping face",
+  "image": "images/beat_160.png"
+ },
+ {
+  "beat": 161,
+  "start": 559.437,
+  "dur": 3.75,
+  "text": "The only mercy a surgeon can offer is speed.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "extreme close-up of a wide-awake eye, pupil tiny",
+  "image": "images/beat_161.png"
+ },
+ {
+  "beat": 162,
+  "start": 563.187,
+  "dur": 3.333,
+  "text": "The faster he cuts, the less you feel,",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "an inset of a stopwatch beside a surgeon's knife",
+  "image": "images/beat_162.png"
+ },
+ {
+  "beat": 163,
+  "start": 566.52,
+  "dur": 5.0,
+  "text": "the less blood you lose, and the less likely you are to",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} counting points on his stick fingers",
+  "image": "images/beat_163.png"
+ },
+ {
+  "beat": 164,
+  "start": 571.52,
+  "dur": 2.5,
+  "text": "die of shock on the table.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "an inset bar chart with a falling arrow labelled BLOOD next to a stopwatch",
+  "image": "images/beat_164.png"
+ },
+ {
+  "beat": 165,
+  "start": 574.02,
+  "dur": 2.917,
+  "text": "So when Silas says Liston is fast,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "an inset of a pale patient on a table with X-eyes and a SHOCK caption",
+  "image": "images/beat_165.png"
+ },
+ {
+  "beat": 166,
+  "start": 576.937,
+  "dur": 4.583,
+  "text": "what he means is that Liston is the best thing that",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} gesturing toward an imaginary fast figure",
+  "image": "images/beat_166.png"
+ },
+ {
+  "beat": 167,
+  "start": 581.52,
+  "dur": 4.167,
+  "text": "can happen to you in the worst room in London.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "an inset of {LISTON} as a tiny glowing figure inside a dark, grim room",
+  "image": "images/beat_167.png"
+ },
+ {
+  "beat": 168,
+  "start": 585.687,
+  "dur": 4.167,
+  "text": "He gives you advice. Drink all the brandy they offer.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} leaning close, one stick finger raised",
+  "image": "images/beat_168.png"
+ },
+ {
+  "beat": 169,
+  "start": 589.854,
+  "dur": 4.583,
+  "text": "Bite down on the leather and don't let go of it,",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{SILAS} miming gulping brandy from a bottle",
+  "image": "images/beat_169.png"
+ },
+ {
+  "beat": 170,
+  "start": 594.437,
+  "dur": 3.333,
+  "text": "because men have bitten through their own tongues.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} biting down on a leather strap, demonstrating",
+  "image": "images/beat_170.png"
+ },
+ {
+  "beat": 171,
+  "start": 597.77,
+  "dur": 2.083,
+  "text": "Don't look at the saw.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "an inset of a pained man with his tongue sticking out and bandaged",
+  "image": "images/beat_171.png"
+ },
+ {
+  "beat": 172,
+  "start": 599.853,
+  "dur": 3.75,
+  "text": "Look at a spot on the ceiling and count.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{SILAS} covering his eyes with one stick hand",
+  "image": "images/beat_172.png"
+ },
+ {
+  "beat": 173,
+  "start": 603.603,
+  "dur": 2.917,
+  "text": "And whatever happens, don't fight the dressers,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} pointing at a spot on the ward ceiling, a number 1 floating beside it",
+  "image": "images/beat_173.png"
+ },
+ {
+  "beat": 174,
+  "start": 606.52,
+  "dur": 2.5,
+  "text": "the students who hold you down.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{SILAS} holding his stick arms out as if being restrained",
+  "image": "images/beat_174.png"
+ },
+ {
+  "beat": 175,
+  "start": 609.02,
+  "dur": 4.583,
+  "text": "They're stronger than you, and fighting only makes it last longer.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "an inset of four young students pinning a patient's stick limbs to a table",
+  "image": "images/beat_175.png"
+ },
+ {
+  "beat": 176,
+  "start": 613.603,
+  "dur": 4.167,
+  "text": "You nod. You've never been told anything that sounded more",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} shaking his head slowly",
+  "image": "images/beat_176.png"
+ },
+ {
+  "beat": 177,
+  "start": 617.77,
+  "dur": 2.917,
+  "text": "like a death sentence in your life.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "close-up of {YOU} nodding weakly, face pale",
+  "image": "images/beat_177.png"
+ },
+ {
+  "beat": 178,
+  "start": 620.687,
+  "dur": 2.917,
+  "text": "That Thursday, the bell rings for Silas.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} swallowing hard, a gulp symbol, the ward suddenly darker around him",
+  "image": "images/beat_178.png"
+ },
+ {
+  "beat": 179,
+  "start": 623.604,
+  "dur": 1.667,
+  "text": "He's in good spirits.",
+  "motion": "shake",
+  "scene": "ward",
+  "action": "the brass bell ringing again on the roof tower",
+  "image": "images/beat_179.png"
+ },
+ {
+  "beat": 180,
+  "start": 625.271,
+  "dur": 4.167,
+  "text": "He tells the nurse she looks lovely, which she doesn't,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} grinning and waving as two dressers approach",
+  "image": "images/beat_180.png"
+ },
+ {
+  "beat": 181,
+  "start": 629.438,
+  "dur": 4.583,
+  "text": "and tells you to save him a beer, which you will.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} winking at {NURSE}, who rolls her eyes",
+  "image": "images/beat_181.png"
+ },
+ {
+  "beat": 182,
+  "start": 634.021,
+  "dur": 2.917,
+  "text": "Two dressers help him onto a stretcher.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{SILAS} pointing at his pint and then at {YOU}, {YOU} giving a thumbs up",
+  "image": "images/beat_182.png"
+ },
+ {
+  "beat": 183,
+  "start": 636.938,
+  "dur": 4.583,
+  "text": "At the doorway, he turns around and gives you a salute,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "two young dressers lifting {SILAS} onto a canvas stretcher",
+  "image": "images/beat_183.png"
+ },
+ {
+  "beat": 184,
+  "start": 641.521,
+  "dur": 2.917,
+  "text": "the proper naval kind, sharp and crisp.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{SILAS} at the doorway on the stretcher, raising a crisp naval salute",
+  "image": "images/beat_184.png"
+ },
+ {
+  "beat": 185,
+  "start": 644.438,
+  "dur": 5.0,
+  "text": "Keep moving, sailor, he says. You never told him your mother's saying.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of {SILAS}'s sharp salute, one eye winking",
+  "image": "images/beat_185.png"
+ },
+ {
+  "beat": 186,
+  "start": 649.438,
+  "dur": 1.667,
+  "text": "He just said it.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} mouthing the words, a speech bubble with KEEP MOVING",
+  "image": "images/beat_186.png"
+ },
+ {
+  "beat": 187,
+  "start": 651.105,
+  "dur": 4.583,
+  "text": "You hear him upstairs. Not for long. He's an old sailor.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "close-up of {YOU}, eyes wide and wet, stunned",
+  "image": "images/beat_187.png"
+ },
+ {
+  "beat": 188,
+  "start": 655.688,
+  "dur": 1.667,
+  "text": "He's done this before.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} staring up at the ceiling, faint scream lines from above",
+  "image": "images/beat_188.png"
+ },
+ {
+  "beat": 189,
+  "start": 657.355,
+  "dur": 5.0,
+  "text": "They bring him back an hour later, grey and sweating, but alive.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{YOU} glancing at the clock, only a minute has passed",
+  "image": "images/beat_189.png"
+ },
+ {
+  "beat": 190,
+  "start": 662.355,
+  "dur": 3.75,
+  "text": "He opens one eye and asks for his beer.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "dressers carrying {SILAS} back, grey-faced and sweating, a fresh bandage on his stump",
+  "image": "images/beat_190.png"
+ },
+ {
+  "beat": 191,
+  "start": 666.105,
+  "dur": 5.0,
+  "text": "You hand it over, and you both laugh, and for one evening,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS} opening one eye and holding out a stick hand for his beer",
+  "image": "images/beat_191.png"
+ },
+ {
+  "beat": 192,
+  "start": 671.105,
+  "dur": 1.25,
+  "text": "everything is fine.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{YOU} handing {SILAS} the pint, both laughing",
+  "image": "images/beat_192.png"
+ },
+ {
+  "beat": 193,
+  "start": 672.355,
+  "dur": 2.917,
+  "text": "Then the fever comes for him too.",
+  "motion": "push",
+  "scene": "wardnight",
+  "action": "the ward at dusk, both men asleep peacefully, lamp glowing",
+  "image": "images/beat_193.png"
+ },
+ {
+  "beat": 194,
+  "start": 675.272,
+  "dur": 2.917,
+  "text": "It isn't his stump. It's the hospital.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{SILAS} shivering under blankets, sweat drops, the lamp flickering",
+  "image": "images/beat_194.png"
+ },
+ {
+  "beat": 195,
+  "start": 678.189,
+  "dur": 2.917,
+  "text": "In 1846, nobody knows what germs are.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{SILAS}'s stump bandage fine, but the bed sheets dirty and stained",
+  "image": "images/beat_195.png"
+ },
+ {
+  "beat": 196,
+  "start": 681.106,
+  "dur": 3.75,
+  "text": "Surgeons wear the same frock coat for every operation,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "a surgeon holding a sign labelled GERMS? with a puzzled shrug",
+  "image": "images/beat_196.png"
+ },
+ {
+  "beat": 197,
+  "start": 684.856,
+  "dur": 3.333,
+  "text": "stiff and black with years of old blood,",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "a surgeon pulling on a stiff black frock coat stained dark brown",
+  "image": "images/beat_197.png"
+ },
+ {
+  "beat": 198,
+  "start": 688.189,
+  "dur": 3.333,
+  "text": "and they consider this a badge of honour.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "close-up of the black coat with crusted dark-brown stains, stiff like cardboard",
+  "image": "images/beat_198.png"
+ },
+ {
+  "beat": 199,
+  "start": 691.522,
+  "dur": 4.583,
+  "text": "The more blood on the coat, the more experienced the surgeon.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "two surgeons comparing their stained coats proudly, chests puffed",
+  "image": "images/beat_199.png"
+ },
+ {
+  "beat": 200,
+  "start": 696.105,
+  "dur": 1.667,
+  "text": "Nobody washes their hands.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "a surgeon admiring the stains on his coat in a mirror",
+  "image": "images/beat_200.png"
+ },
+ {
+  "beat": 201,
+  "start": 697.772,
+  "dur": 3.75,
+  "text": "The same sponges are used on wound after wound.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "a surgeon wiping his dirty stick hands on his coat, a clean washbasin ignored",
+  "image": "images/beat_201.png"
+ },
+ {
+  "beat": 202,
+  "start": 701.522,
+  "dur": 2.917,
+  "text": "Doctors call what happens next hospital fever,",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "a single grimy sponge dripping into a bucket of dirty water",
+  "image": "images/beat_202.png"
+ },
+ {
+  "beat": 203,
+  "start": 704.439,
+  "dur": 4.167,
+  "text": "and they accept it the way they accept the weather.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "doctors shrugging with an inset of a FEVER rain cloud over the ward",
+  "image": "images/beat_203.png"
+ },
+ {
+  "beat": 204,
+  "start": 708.606,
+  "dur": 2.083,
+  "text": "Silas burns for six days.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "a doctor opening an umbrella under the fever cloud, deadpan",
+  "image": "images/beat_204.png"
+ },
+ {
+  "beat": 205,
+  "start": 710.689,
+  "dur": 4.583,
+  "text": "On the fifth night, he talks to people who aren't there.",
+  "motion": "push",
+  "scene": "wardnight",
+  "action": "{SILAS} burning with fever, sweat drops, cheeks flushed red",
+  "image": "images/beat_205.png"
+ },
+ {
+  "beat": 206,
+  "start": 715.272,
+  "dur": 4.167,
+  "text": "He gives orders to men who drowned forty years ago.",
+  "motion": "push",
+  "scene": "wardnight",
+  "action": "{SILAS} talking to translucent ghostly sailors gathered around his bed",
+  "image": "images/beat_206.png"
+ },
+ {
+  "beat": 207,
+  "start": 719.439,
+  "dur": 1.667,
+  "text": "On the sixth morning,",
+  "motion": "pan",
+  "scene": "wardnight",
+  "action": "close-up of {SILAS}'s feverish eyes, shouting an order, ghostly sails behind him",
+  "image": "images/beat_207.png"
+ },
+ {
+  "beat": 208,
+  "start": 721.106,
+  "dur": 4.167,
+  "text": "his bed is empty and the sheets have been changed,",
+  "motion": "fade",
+  "scene": "ward",
+  "action": "the morning ward in pale light, nurses moving quietly",
+  "image": "images/beat_208.png"
+ },
+ {
+  "beat": 209,
+  "start": 725.273,
+  "dur": 2.5,
+  "text": "and nobody says anything about it.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{SILAS}'s bed empty and freshly made, sheets crisp and white",
+  "image": "images/beat_209.png"
+ },
+ {
+  "beat": 210,
+  "start": 727.773,
+  "dur": 3.333,
+  "text": "His beer sits untouched on the shelf above",
+  "motion": "push",
+  "scene": "ward",
+  "action": "a nurse walking past the empty bed without looking",
+  "image": "images/beat_210.png"
+ },
+ {
+  "beat": 211,
+  "start": 731.106,
+  "dur": 3.333,
+  "text": "his bed until a nurse takes it away.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of {SILAS}'s untouched pint on the shelf above the empty bed",
+  "image": "images/beat_211.png"
+ },
+ {
+  "beat": 212,
+  "start": 734.439,
+  "dur": 2.5,
+  "text": "You don't cry. You've stopped crying.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{NURSE} quietly taking the pint away",
+  "image": "images/beat_212.png"
+ },
+ {
+  "beat": 213,
+  "start": 736.939,
+  "dur": 4.167,
+  "text": "The fever in your leg has climbed to your thigh,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of {YOU}'s dry, empty eyes, no tears",
+  "image": "images/beat_213.png"
+ },
+ {
+  "beat": 214,
+  "start": 741.106,
+  "dur": 2.5,
+  "text": "and you're too tired for grief.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{YOU} lying in bed, the swollen leg shape now thicker up to the thigh",
+  "image": "images/beat_214.png"
+ },
+ {
+  "beat": 215,
+  "start": 743.606,
+  "dur": 2.917,
+  "text": "You just stare at the empty bed",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} with heavy-lidded eyes, too tired, sweat drops",
+  "image": "images/beat_215.png"
+ },
+ {
+  "beat": 216,
+  "start": 746.523,
+  "dur": 2.5,
+  "text": "and think about what he said.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} staring at the empty bed beside him",
+  "image": "images/beat_216.png"
+ },
+ {
+  "beat": 217,
+  "start": 749.023,
+  "dur": 4.167,
+  "text": "You can be sick, scared, and miserable, and still win.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "a faint ghostly image of {SILAS} saluting above the empty bed",
+  "image": "images/beat_217.png"
+ },
+ {
+  "beat": 218,
+  "start": 753.19,
+  "dur": 4.167,
+  "text": "You decide to believe him. You don't have a choice.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "a faint speech bubble with {SILAS}'s words floating near the ceiling",
+  "image": "images/beat_218.png"
+ },
+ {
+  "beat": 219,
+  "start": 757.357,
+  "dur": 4.167,
+  "text": "The next Monday, Mr. Liston himself comes to see you.",
+  "motion": "fade",
+  "scene": "ward",
+  "action": "{YOU} clenching his jaw, eyes hardening",
+  "image": "images/beat_219.png"
+ },
+ {
+  "beat": 220,
+  "start": 761.524,
+  "dur": 4.167,
+  "text": "He's even bigger than Silas described. He fills the doorway.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{LISTON} stepping into the ward, everyone turning",
+  "image": "images/beat_220.png"
+ },
+ {
+  "beat": 221,
+  "start": 765.691,
+  "dur": 2.917,
+  "text": "He has a calm, almost bored expression,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "low-angle view of {LISTON} filling the doorway, head nearly touching the frame",
+  "image": "images/beat_221.png"
+ },
+ {
+  "beat": 222,
+  "start": 768.608,
+  "dur": 3.333,
+  "text": "like a man looking at a broken fence.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "close-up of {LISTON}'s calm, bored face",
+  "image": "images/beat_222.png"
+ },
+ {
+  "beat": 223,
+  "start": 771.941,
+  "dur": 4.583,
+  "text": "He peels back the dressing, sniffs once, and covers it again.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "an inset of a man staring blankly at a broken wooden fence",
+  "image": "images/beat_223.png"
+ },
+ {
+  "beat": 224,
+  "start": 776.524,
+  "dur": 2.917,
+  "text": "He tells you plainly that the leg",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{LISTON} peeling back the bandage, wrinkling his nose once",
+  "image": "images/beat_224.png"
+ },
+ {
+  "beat": 225,
+  "start": 779.441,
+  "dur": 4.583,
+  "text": "must come off above the knee, and that if it doesn't,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{LISTON} speaking flatly, a dotted line drawn across {YOU}'s stick thigh",
+  "image": "images/beat_225.png"
+ },
+ {
+  "beat": 226,
+  "start": 784.024,
+  "dur": 2.917,
+  "text": "the rot will reach your blood and",
+  "motion": "push",
+  "scene": "ward",
+  "action": "an inset of a calendar with seven days crossed off",
+  "image": "images/beat_226.png"
+ },
+ {
+  "beat": 227,
+  "start": 786.941,
+  "dur": 2.5,
+  "text": "you'll be dead within the week.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{YOU} with X-eyes in a thought bubble above his own head",
+  "image": "images/beat_227.png"
+ },
+ {
+  "beat": 228,
+  "start": 789.441,
+  "dur": 4.167,
+  "text": "Then he tells you the surgery will be on Wednesday,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{LISTON} tapping a calendar page that reads WEDNESDAY",
+  "image": "images/beat_228.png"
+ },
+ {
+  "beat": 229,
+  "start": 793.608,
+  "dur": 2.083,
+  "text": "in front of the students.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "an inset of tiered seats crowded with students",
+  "image": "images/beat_229.png"
+ },
+ {
+  "beat": 230,
+  "start": 795.691,
+  "dur": 5.0,
+  "text": "He says it like he's offering you a seat at the theatre.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{LISTON} handing {YOU} a theatre ticket stub",
+  "image": "images/beat_230.png"
+ },
+ {
+  "beat": 231,
+  "start": 800.691,
+  "dur": 1.667,
+  "text": "Which, technically, he is.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "close-up of the ticket stub reading THEATRE, ADMIT ONE",
+  "image": "images/beat_231.png"
+ },
+ {
+  "beat": 232,
+  "start": 802.358,
+  "dur": 4.167,
+  "text": "Your parents visit that night. Your mother holds your hand.",
+  "motion": "fade",
+  "scene": "wardnight",
+  "action": "{MOTHER} sitting by the bed holding {YOU}'s stick hand",
+  "image": "images/beat_232.png"
+ },
+ {
+  "beat": 233,
+  "start": 806.525,
+  "dur": 2.917,
+  "text": "Your father stares at your leg and",
+  "motion": "push",
+  "scene": "wardnight",
+  "action": "{FATHER} standing stiffly, staring at the leg, silent",
+  "image": "images/beat_233.png"
+ },
+ {
+  "beat": 234,
+  "start": 809.442,
+  "dur": 2.5,
+  "text": "says nothing for a long time.",
+  "motion": "pull",
+  "scene": "wardnight",
+  "action": "close-up of {FATHER}'s face, deep frown, eyes wet",
+  "image": "images/beat_234.png"
+ },
+ {
+  "beat": 235,
+  "start": 811.942,
+  "dur": 2.917,
+  "text": "Then he leans in and tells you",
+  "motion": "push",
+  "scene": "wardnight",
+  "action": "{FATHER} leaning in close to {YOU}",
+  "image": "images/beat_235.png"
+ },
+ {
+  "beat": 236,
+  "start": 814.859,
+  "dur": 5.0,
+  "text": "he'll make you a new one. Oak. The best oak in Southwark.",
+  "motion": "push",
+  "scene": "wardnight",
+  "action": "an inset of a beautiful carved oak leg glowing with sparkles",
+  "image": "images/beat_236.png"
+ },
+ {
+  "beat": 237,
+  "start": 819.859,
+  "dur": 3.75,
+  "text": "He says it'll be the finest leg in London.",
+  "motion": "pan",
+  "scene": "wardnight",
+  "action": "{FATHER} holding his stick hands apart as if measuring a leg",
+  "image": "images/beat_237.png"
+ },
+ {
+  "beat": 238,
+  "start": 823.609,
+  "dur": 2.917,
+  "text": "You laugh. He doesn't. He means it.",
+  "motion": "push",
+  "scene": "wardnight",
+  "action": "{YOU} laughing weakly while {FATHER} stares seriously",
+  "image": "images/beat_238.png"
+ },
+ {
+  "beat": 239,
+  "start": 826.526,
+  "dur": 4.167,
+  "text": "Your mother kisses your forehead and whispers, keep moving, love.",
+  "motion": "pull",
+  "scene": "wardnight",
+  "action": "{MOTHER} kissing {YOU}'s forehead, eyes closed",
+  "image": "images/beat_239.png"
+ },
+ {
+  "beat": 240,
+  "start": 830.693,
+  "dur": 2.5,
+  "text": "On Wednesday morning, the bell rings.",
+  "motion": "shake",
+  "scene": "ward",
+  "action": "the brass bell on the roof ringing, dawn sky behind",
+  "image": "images/beat_240.png"
+ },
+ {
+  "beat": 241,
+  "start": 833.193,
+  "dur": 4.167,
+  "text": "The nurse gives you a glass of brandy, then another.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{NURSE} handing {YOU} a glass of brandy, a second glass waiting on the tray",
+  "image": "images/beat_241.png"
+ },
+ {
+  "beat": 242,
+  "start": 837.36,
+  "dur": 5.0,
+  "text": "You drink both. The house surgeon gives you a dose of laudanum,",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{HS} spooning a dark laudanum dose into {YOU}'s mouth",
+  "image": "images/beat_242.png"
+ },
+ {
+  "beat": 243,
+  "start": 842.36,
+  "dur": 3.333,
+  "text": "which makes the ceiling soft at the edges,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU}'s point of view of the ceiling going soft and blurry at the edges",
+  "image": "images/beat_243.png"
+ },
+ {
+  "beat": 244,
+  "start": 845.693,
+  "dur": 2.5,
+  "text": "but does nothing for the dread.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "close-up of {YOU}'s face, glassy-eyed but still terrified",
+  "image": "images/beat_244.png"
+ },
+ {
+  "beat": 245,
+  "start": 848.193,
+  "dur": 2.917,
+  "text": "Two dressers lift you onto a stretcher",
+  "motion": "push",
+  "scene": "stairs",
+  "action": "two dressers carrying {YOU} on a stretcher up the narrow stone staircase",
+  "image": "images/beat_245.png"
+ },
+ {
+  "beat": 246,
+  "start": 851.11,
+  "dur": 4.583,
+  "text": "and carry you up the stairs. You count them. Forty-two steps.",
+  "motion": "push",
+  "scene": "stairs",
+  "action": "low-angle view of a long climb of stairs, step numbers floating, the number 42 at the top",
+  "image": "images/beat_246.png"
+ },
+ {
+  "beat": 247,
+  "start": 855.693,
+  "dur": 3.75,
+  "text": "The operating theatre is round, like a small arena.",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "the circular operating theatre seen from the doorway, tiered rails rising steeply",
+  "image": "images/beat_247.png"
+ },
+ {
+  "beat": 248,
+  "start": 859.443,
+  "dur": 5.0,
+  "text": "Wooden benches rise in steep tiers all the way to the skylight,",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "low-angle view up the steep tiers toward the glass skylight",
+  "image": "images/beat_248.png"
+ },
+ {
+  "beat": 249,
+  "start": 864.443,
+  "dur": 2.917,
+  "text": "and every one of them is full.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "every tier crammed with {STUDENTS}",
+  "image": "images/beat_249.png"
+ },
+ {
+  "beat": 250,
+  "start": 867.36,
+  "dur": 4.583,
+  "text": "Medical students, maybe two hundred of them, packed shoulder to shoulder.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "high-angle view over the packed rows of {STUDENTS}, shoulder to shoulder",
+  "image": "images/beat_250.png"
+ },
+ {
+  "beat": 251,
+  "start": 871.943,
+  "dur": 2.917,
+  "text": "Some are eating. Some are taking notes.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "a student eating a meat pie, another scribbling in a notebook",
+  "image": "images/beat_251.png"
+ },
+ {
+  "beat": 252,
+  "start": 874.86,
+  "dur": 2.917,
+  "text": "At the back, someone shouts heads, heads,",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "a student at the back cupping his mouth and shouting",
+  "image": "images/beat_252.png"
+ },
+ {
+  "beat": 253,
+  "start": 877.777,
+  "dur": 4.583,
+  "text": "and the front rows duck so the back rows can see.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "front-row students ducking their heads in unison",
+  "image": "images/beat_253.png"
+ },
+ {
+  "beat": 254,
+  "start": 882.36,
+  "dur": 3.75,
+  "text": "In the middle of it all is the table.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "the plain operating table alone in the centre of the theatre",
+  "image": "images/beat_254.png"
+ },
+ {
+  "beat": 255,
+  "start": 886.11,
+  "dur": 5.0,
+  "text": "Plain wood, stained dark. Beneath it, a wooden box filled with sawdust.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "close-up of the dark-stained table, a wooden box of sawdust underneath",
+  "image": "images/beat_255.png"
+ },
+ {
+  "beat": 256,
+  "start": 891.11,
+  "dur": 2.917,
+  "text": "You know what the sawdust is for.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{YOU} staring at the sawdust box, gulping, sweat drop",
+  "image": "images/beat_256.png"
+ },
+ {
+  "beat": 257,
+  "start": 894.027,
+  "dur": 1.667,
+  "text": "They strap you down.",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "dressers buckling leather straps over {YOU}",
+  "image": "images/beat_257.png"
+ },
+ {
+  "beat": 258,
+  "start": 895.694,
+  "dur": 3.75,
+  "text": "Leather across your chest, your arms, your good leg.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "top-down view of {YOU} strapped across the chest, stick arms and good leg",
+  "image": "images/beat_258.png"
+ },
+ {
+  "beat": 259,
+  "start": 899.444,
+  "dur": 3.333,
+  "text": "Four dressers take position, one at each limb.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "four dressers each holding one of {YOU}'s stick limbs",
+  "image": "images/beat_259.png"
+ },
+ {
+  "beat": 260,
+  "start": 902.777,
+  "dur": 4.583,
+  "text": "One of them slips a strip of leather between your teeth.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{DRESSER} pushing a leather strip between {YOU}'s teeth",
+  "image": "images/beat_260.png"
+ },
+ {
+  "beat": 261,
+  "start": 907.36,
+  "dur": 4.583,
+  "text": "He's young, barely older than you, and his hands are shaking.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "close-up of {DRESSER}'s pale young face, trembling shake lines",
+  "image": "images/beat_261.png"
+ },
+ {
+  "beat": 262,
+  "start": 911.943,
+  "dur": 3.75,
+  "text": "Then Mr. Liston walks in. The room goes silent.",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "{LISTON} striding into the theatre, the students falling silent",
+  "image": "images/beat_262.png"
+ },
+ {
+  "beat": 263,
+  "start": 915.693,
+  "dur": 4.583,
+  "text": "He takes off his jacket and puts on his operating coat,",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{LISTON} swapping his jacket for a stiff black operating coat",
+  "image": "images/beat_263.png"
+ },
+ {
+  "beat": 264,
+  "start": 920.276,
+  "dur": 2.5,
+  "text": "and it's exactly as Silas described.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "close-up of the coat, crusted dark-brown stains",
+  "image": "images/beat_264.png"
+ },
+ {
+  "beat": 265,
+  "start": 922.776,
+  "dur": 2.917,
+  "text": "Stiff, black, and crusted with the blood",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "an inset of ghostly faces of past patients reflected on the coat",
+  "image": "images/beat_265.png"
+ },
+ {
+  "beat": 266,
+  "start": 925.693,
+  "dur": 4.167,
+  "text": "of a thousand people before you. The students lean forward.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "the students all leaning forward, eyes wide",
+  "image": "images/beat_266.png"
+ },
+ {
+  "beat": 267,
+  "start": 929.86,
+  "dur": 1.667,
+  "text": "Liston selects a long,",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "{LISTON} opening an instrument case of gleaming knives",
+  "image": "images/beat_267.png"
+ },
+ {
+  "beat": 268,
+  "start": 931.527,
+  "dur": 4.167,
+  "text": "thin knife from his case and holds it between his",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{LISTON} holding a thin knife between his teeth like a pirate",
+  "image": "images/beat_268.png"
+ },
+ {
+  "beat": 269,
+  "start": 935.694,
+  "dur": 3.75,
+  "text": "teeth while he ties the tourniquet around your thigh.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "{LISTON} tying a tourniquet strap around {YOU}'s thigh, the knife still in his teeth",
+  "image": "images/beat_269.png"
+ },
+ {
+  "beat": 270,
+  "start": 939.444,
+  "dur": 4.583,
+  "text": "Then he turns to the benches and says, Time me, gentlemen.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{LISTON} turning to the tiers with one stick arm raised",
+  "image": "images/beat_270.png"
+ },
+ {
+  "beat": 271,
+  "start": 944.027,
+  "dur": 2.917,
+  "text": "The students pull out their pocket watches.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "dozens of students pulling out gold pocket watches in unison",
+  "image": "images/beat_271.png"
+ },
+ {
+  "beat": 272,
+  "start": 946.944,
+  "dur": 2.083,
+  "text": "You look at the ceiling.",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "{YOU}'s point of view of the skylight",
+  "image": "images/beat_272.png"
+ },
+ {
+  "beat": 273,
+  "start": 949.027,
+  "dur": 4.583,
+  "text": "You find a spot, a small brown stain near the skylight,",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "extreme close-up of a small brown stain on the ceiling near the skylight",
+  "image": "images/beat_273.png"
+ },
+ {
+  "beat": 274,
+  "start": 953.61,
+  "dur": 1.667,
+  "text": "and you start counting.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "{YOU} locking his eyes on the stain, lips moving",
+  "image": "images/beat_274.png"
+ },
+ {
+  "beat": 275,
+  "start": 955.277,
+  "dur": 1.2,
+  "text": "One.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "a large number 1 floating in the air",
+  "image": "images/beat_275.png"
+ },
+ {
+  "beat": 276,
+  "start": 956.477,
+  "dur": 1.667,
+  "text": "The knife goes in.",
+  "motion": "shake",
+  "scene": "theatre",
+  "action": "{YOU}'s face erupting in agony, eyes bulging, the surgery hidden off-frame below",
+  "image": "images/beat_276.png"
+ },
+ {
+  "beat": 277,
+  "start": 958.144,
+  "dur": 3.333,
+  "text": "There is no word in English or any",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "{YOU}'s face in extreme pain, swirling lines radiating",
+  "image": "images/beat_277.png"
+ },
+ {
+  "beat": 278,
+  "start": 961.477,
+  "dur": 2.917,
+  "text": "other language for what that feels like.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "an inset of every word in different languages crossed out",
+  "image": "images/beat_278.png"
+ },
+ {
+  "beat": 279,
+  "start": 964.394,
+  "dur": 4.167,
+  "text": "It's not pain the way a stubbed toe is pain.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "an inset of a man hopping over a stubbed toe, crossed out",
+  "image": "images/beat_279.png"
+ },
+ {
+  "beat": 280,
+  "start": 968.561,
+  "dur": 3.333,
+  "text": "It's the whole universe pouring into one place.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "the background dissolving into a swirling starry galaxy funnelling into {YOU}",
+  "image": "images/beat_280.png"
+ },
+ {
+  "beat": 281,
+  "start": 971.894,
+  "dur": 3.333,
+  "text": "Your back arches so hard the straps creak.",
+  "motion": "shake",
+  "scene": "theatre",
+  "action": "{YOU}'s back arching off the table, creak sound-effect marks at the straps",
+  "image": "images/beat_281.png"
+ },
+ {
+  "beat": 282,
+  "start": 975.227,
+  "dur": 3.75,
+  "text": "You bite down on the leather and taste blood.",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "{YOU} biting down hard on the leather, eyes squeezed shut, tears",
+  "image": "images/beat_282.png"
+ },
+ {
+  "beat": 283,
+  "start": 978.977,
+  "dur": 3.75,
+  "text": "The dressers lean on you with their full weight.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "four dressers leaning their full weight on {YOU}'s stick limbs",
+  "image": "images/beat_283.png"
+ },
+ {
+  "beat": 284,
+  "start": 982.727,
+  "dur": 1.25,
+  "text": "Two. Three. Four.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "the numbers 2, 3 and 4 floating in the air",
+  "image": "images/beat_284.png"
+ },
+ {
+  "beat": 285,
+  "start": 983.977,
+  "dur": 4.583,
+  "text": "You can hear it. That's the part nobody warns you about.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{YOU}'s eyes flicking sideways, an ear with sound lines",
+  "image": "images/beat_285.png"
+ },
+ {
+  "beat": 286,
+  "start": 988.56,
+  "dur": 3.333,
+  "text": "You can hear the knife moving through you.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "wavy sound-effect lines curling up from below the frame",
+  "image": "images/beat_286.png"
+ },
+ {
+  "beat": 287,
+  "start": 991.893,
+  "dur": 4.167,
+  "text": "A soft, wet sound, like your mother wringing out washing.",
+  "motion": "pan",
+  "scene": "home",
+  "action": "an inset of {MOTHER} wringing a sheet, water dripping",
+  "image": "images/beat_287.png"
+ },
+ {
+  "beat": 288,
+  "start": 996.06,
+  "dur": 1.2,
+  "text": "Seven. Eight.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "the numbers 7 and 8 floating",
+  "image": "images/beat_288.png"
+ },
+ {
+  "beat": 289,
+  "start": 997.26,
+  "dur": 4.167,
+  "text": "Liston calls for the saw. Somebody hands it to him.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "{LISTON} holding out a stick hand, a dresser passing him a bone saw",
+  "image": "images/beat_289.png"
+ },
+ {
+  "beat": 290,
+  "start": 1001.427,
+  "dur": 1.25,
+  "text": "You stop counting.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{YOU}'s counting numbers shattering",
+  "image": "images/beat_290.png"
+ },
+ {
+  "beat": 291,
+  "start": 1002.677,
+  "dur": 3.333,
+  "text": "The sound of the saw on your bone",
+  "motion": "shake",
+  "scene": "theatre",
+  "action": "huge jagged sound-effect lettering filling the frame",
+  "image": "images/beat_291.png"
+ },
+ {
+  "beat": 292,
+  "start": 1006.01,
+  "dur": 5.0,
+  "text": "is the loudest sound you have ever heard. Louder than the docks.",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "an inset of the docks",
+  "image": "images/beat_292.png"
+ },
+ {
+  "beat": 293,
+  "start": 1011.01,
+  "dur": 3.333,
+  "text": "Louder than the crane. Louder than the bell.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "insets of the crane and the bell",
+  "image": "images/beat_293.png"
+ },
+ {
+  "beat": 294,
+  "start": 1014.343,
+  "dur": 2.917,
+  "text": "It goes on and on and on,",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "a pocket watch with its hand spinning",
+  "image": "images/beat_294.png"
+ },
+ {
+  "beat": 295,
+  "start": 1017.26,
+  "dur": 4.583,
+  "text": "and then there's a thud in the sawdust beneath the table,",
+  "motion": "shake",
+  "scene": "theatre",
+  "action": "close-up of the sawdust box beneath the table, a dull thud effect, contents hidden in shadow",
+  "image": "images/beat_295.png"
+ },
+ {
+  "beat": 296,
+  "start": 1021.843,
+  "dur": 4.583,
+  "text": "and you understand the thing that thudded used to be you.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{YOU} staring blankly, all colour drained from his face",
+  "image": "images/beat_296.png"
+ },
+ {
+  "beat": 297,
+  "start": 1026.426,
+  "dur": 2.917,
+  "text": "Then the needle. The stitches. The bandages.",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "{LISTON} stitching rapidly, bandages wrapping in a blur",
+  "image": "images/beat_297.png"
+ },
+ {
+  "beat": 298,
+  "start": 1029.343,
+  "dur": 2.917,
+  "text": "And then a student calls out, from",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "a student at the top tier raising his pocket watch",
+  "image": "images/beat_298.png"
+ },
+ {
+  "beat": 299,
+  "start": 1032.26,
+  "dur": 3.333,
+  "text": "somewhere high above you, the number. Twenty-eight seconds.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "close-up of the pocket watch reading 28 seconds",
+  "image": "images/beat_299.png"
+ },
+ {
+  "beat": 300,
+  "start": 1035.593,
+  "dur": 1.25,
+  "text": "The room applauds.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "the whole theatre erupting in applause",
+  "image": "images/beat_300.png"
+ },
+ {
+  "beat": 301,
+  "start": 1036.843,
+  "dur": 1.25,
+  "text": "They are applauding.",
+  "motion": "fade",
+  "scene": "theatre",
+  "action": "{YOU} blinking at the applauding crowd",
+  "image": "images/beat_301.png"
+ },
+ {
+  "beat": 302,
+  "start": 1038.093,
+  "dur": 5.0,
+  "text": "You lie on the table, soaked in sweat and brandy and blood,",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "top-down view of {YOU} limp on the table, sweat-soaked, a brandy bottle tipped over",
+  "image": "images/beat_302.png"
+ },
+ {
+  "beat": 303,
+  "start": 1043.093,
+  "dur": 3.333,
+  "text": "while two hundred young men clap for the",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "wide view of students clapping and cheering",
+  "image": "images/beat_303.png"
+ },
+ {
+  "beat": 304,
+  "start": 1046.426,
+  "dur": 2.917,
+  "text": "man who just sawed off your leg.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "{LISTON} taking a small bow",
+  "image": "images/beat_304.png"
+ },
+ {
+  "beat": 305,
+  "start": 1049.343,
+  "dur": 4.583,
+  "text": "Liston gives a small nod, wipes his knife on his coat,",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{LISTON} wiping his knife on his coat",
+  "image": "images/beat_305.png"
+ },
+ {
+  "beat": 306,
+  "start": 1053.926,
+  "dur": 2.917,
+  "text": "and walks out without looking at you.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{LISTON} striding out the door without a glance back",
+  "image": "images/beat_306.png"
+ },
+ {
+  "beat": 307,
+  "start": 1056.843,
+  "dur": 4.583,
+  "text": "That's how they all remember him. The fastest knife in London.",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "a framed newspaper headline reading FASTEST KNIFE IN LONDON",
+  "image": "images/beat_307.png"
+ },
+ {
+  "beat": 308,
+  "start": 1061.426,
+  "dur": 3.333,
+  "text": "They carry you back down the forty-two stairs.",
+  "motion": "push",
+  "scene": "stairs",
+  "action": "dressers carrying {YOU} down the stone stairs on the stretcher",
+  "image": "images/beat_308.png"
+ },
+ {
+  "beat": 309,
+  "start": 1064.759,
+  "dur": 2.5,
+  "text": "You don't count them this time.",
+  "motion": "pull",
+  "scene": "stairs",
+  "action": "{YOU} staring blankly at the passing wall, no counting",
+  "image": "images/beat_309.png"
+ },
+ {
+  "beat": 310,
+  "start": 1067.259,
+  "dur": 4.583,
+  "text": "The first few days are almost hopeful. The stump is clean.",
+  "motion": "fade",
+  "scene": "ward",
+  "action": "{YOU} back in bed, a clean bandaged stump visible under the blanket, sunlight",
+  "image": "images/beat_310.png"
+ },
+ {
+  "beat": 311,
+  "start": 1071.842,
+  "dur": 1.25,
+  "text": "The fever drops.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} touching his cool forehead, a small smile",
+  "image": "images/beat_311.png"
+ },
+ {
+  "beat": 312,
+  "start": 1073.092,
+  "dur": 4.167,
+  "text": "The house surgeon says you're healing beautifully and the nurse",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{HS} giving a thumbs up at the bedside",
+  "image": "images/beat_312.png"
+ },
+ {
+  "beat": 313,
+  "start": 1077.259,
+  "dur": 3.75,
+  "text": "brings you two pints of porter instead of one.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{NURSE} setting down two pints of porter with a rare smile",
+  "image": "images/beat_313.png"
+ },
+ {
+  "beat": 314,
+  "start": 1081.009,
+  "dur": 4.167,
+  "text": "You start thinking about the oak leg your father promised.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{YOU} daydreaming, a thought bubble with a carved oak leg",
+  "image": "images/beat_314.png"
+ },
+ {
+  "beat": 315,
+  "start": 1085.176,
+  "dur": 5.0,
+  "text": "You picture yourself back at Billingsgate. Not running, not anymore, but walking.",
+  "motion": "push",
+  "scene": "billingsgate",
+  "action": "a thought bubble of {YOU} walking through Billingsgate with an oak leg and a fish basket on his head",
+  "image": "images/beat_315.png"
+ },
+ {
+  "beat": 316,
+  "start": 1090.176,
+  "dur": 1.2,
+  "text": "Working. Moving.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} smiling contentedly",
+  "image": "images/beat_316.png"
+ },
+ {
+  "beat": 317,
+  "start": 1091.376,
+  "dur": 5.0,
+  "text": "Your mother visits and laughs for the first time in a month.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "{MOTHER} at the bedside laughing, {YOU} grinning",
+  "image": "images/beat_317.png"
+ },
+ {
+  "beat": 318,
+  "start": 1096.376,
+  "dur": 3.75,
+  "text": "Then, on the ninth day, you feel the chill.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} shivering, eyes widening, frost lines in the air",
+  "image": "images/beat_318.png"
+ },
+ {
+  "beat": 319,
+  "start": 1100.126,
+  "dur": 3.75,
+  "text": "That deep, shaking cold, even with three blankets on.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "{YOU} buried under three grey blankets, shaking",
+  "image": "images/beat_319.png"
+ },
+ {
+  "beat": 320,
+  "start": 1103.876,
+  "dur": 2.083,
+  "text": "You know what it is.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} staring at the ceiling, the colour draining from his face",
+  "image": "images/beat_320.png"
+ },
+ {
+  "beat": 321,
+  "start": 1105.959,
+  "dur": 4.583,
+  "text": "You've watched it happen once already, in the bed beside you.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{YOU} glancing at the empty bed where {SILAS} once lay",
+  "image": "images/beat_321.png"
+ },
+ {
+  "beat": 322,
+  "start": 1110.542,
+  "dur": 4.583,
+  "text": "The fever comes for you the way it came for Silas.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "green smell lines and sweat drops returning around {YOU}",
+  "image": "images/beat_322.png"
+ },
+ {
+  "beat": 323,
+  "start": 1115.125,
+  "dur": 2.917,
+  "text": "Quietly at first, then all at once.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "the ward light dimming around his bed",
+  "image": "images/beat_323.png"
+ },
+ {
+  "beat": 324,
+  "start": 1118.042,
+  "dur": 4.583,
+  "text": "The stump turns hot and swollen and starts to smell sweet.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "wavy smell lines curling from the swollen bandaged stump under the blanket",
+  "image": "images/beat_324.png"
+ },
+ {
+  "beat": 325,
+  "start": 1122.625,
+  "dur": 3.333,
+  "text": "The nurse starts breathing through her mouth again.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "{NURSE} breathing through her mouth again, cheeks puffed",
+  "image": "images/beat_325.png"
+ },
+ {
+  "beat": 326,
+  "start": 1125.958,
+  "dur": 2.5,
+  "text": "The doctors try everything they know.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "two doctors at the bedside with a tray of remedies",
+  "image": "images/beat_326.png"
+ },
+ {
+  "beat": 327,
+  "start": 1128.458,
+  "dur": 2.917,
+  "text": "They bleed you, which makes you weaker.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "a doctor holding a small bowl and lancet at {YOU}'s stick arm, {YOU} paler",
+  "image": "images/beat_327.png"
+ },
+ {
+  "beat": 328,
+  "start": 1131.375,
+  "dur": 4.167,
+  "text": "They give you more brandy, more laudanum, more beef tea.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "bottles of brandy, laudanum and bowls of beef tea piling up on the shelf",
+  "image": "images/beat_328.png"
+ },
+ {
+  "beat": 329,
+  "start": 1135.542,
+  "dur": 1.25,
+  "text": "They're not cruel.",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "close-up of {HS}'s sad, sincere face",
+  "image": "images/beat_329.png"
+ },
+ {
+  "beat": 330,
+  "start": 1136.792,
+  "dur": 5.0,
+  "text": "They're just doing exactly what doctors have done for three hundred years,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "an inset of doctors through the centuries all doing the same bloodletting",
+  "image": "images/beat_330.png"
+ },
+ {
+  "beat": 331,
+  "start": 1141.792,
+  "dur": 3.75,
+  "text": "and none of it was ever going to work.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "a single candle burning down to nothing",
+  "image": "images/beat_331.png"
+ },
+ {
+  "beat": 332,
+  "start": 1145.542,
+  "dur": 2.917,
+  "text": "On the night of December 20th, 1846,",
+  "motion": "fade",
+  "scene": "wardnight",
+  "action": "the dark ward at night, a calendar on the wall showing DECEMBER 20 1846",
+  "image": "images/beat_332.png"
+ },
+ {
+  "beat": 333,
+  "start": 1148.459,
+  "dur": 2.917,
+  "text": "you dream that you're seven years old,",
+  "motion": "push",
+  "scene": "dream",
+  "action": "{YOU7} appearing in glowing hazy light",
+  "image": "images/beat_333.png"
+ },
+ {
+  "beat": 334,
+  "start": 1151.376,
+  "dur": 4.167,
+  "text": "racing across London Bridge with both your legs. You're winning.",
+  "motion": "pull",
+  "scene": "dream",
+  "action": "{YOU7} sprinting across a golden hazy London Bridge on both stick legs, arms wide",
+  "image": "images/beat_334.png"
+ },
+ {
+  "beat": 335,
+  "start": 1155.543,
+  "dur": 3.75,
+  "text": "You can hear your mother laughing somewhere behind you,",
+  "motion": "push",
+  "scene": "dream",
+  "action": "a faint glowing {MOTHER} laughing in the hazy distance behind him",
+  "image": "images/beat_335.png"
+ },
+ {
+  "beat": 336,
+  "start": 1159.293,
+  "dur": 2.083,
+  "text": "telling you to keep moving.",
+  "motion": "push",
+  "scene": "dream",
+  "action": "close-up of {YOU7}'s gap-toothed grin in golden light",
+  "image": "images/beat_336.png"
+ },
+ {
+  "beat": 337,
+  "start": 1161.376,
+  "dur": 1.667,
+  "text": "You don't wake up.",
+  "motion": "pan",
+  "scene": "wardnight",
+  "action": "{YOU} lying still in bed, eyes closed, soft X-eyes, peaceful face, moonlight",
+  "image": "images/beat_337.png"
+ },
+ {
+  "beat": 338,
+  "start": 1163.043,
+  "dur": 2.917,
+  "text": "And here's the part nobody tells you.",
+  "motion": "fade",
+  "scene": "theatre",
+  "action": "the empty operating theatre at dawn, a calendar reading DECEMBER 21 1846",
+  "image": "images/beat_338.png"
+ },
+ {
+  "beat": 339,
+  "start": 1165.96,
+  "dur": 4.583,
+  "text": "The very next morning, on December 21st, 1846, in that exact",
+  "motion": "pull",
+  "scene": "stairs",
+  "action": "the same forty-two stone steps, morning light",
+  "image": "images/beat_339.png"
+ },
+ {
+  "beat": 340,
+  "start": 1170.543,
+  "dur": 3.75,
+  "text": "same operating theatre, up those exact same forty-two stairs,",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "the same theatre filling with students again",
+  "image": "images/beat_340.png"
+ },
+ {
+  "beat": 341,
+  "start": 1174.293,
+  "dur": 5.0,
+  "text": "Mr. Liston takes off the leg of a butler named Frederick Churchill.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{LISTON} standing beside {CHURCHILL} on the operating table",
+  "image": "images/beat_341.png"
+ },
+ {
+  "beat": 342,
+  "start": 1179.293,
+  "dur": 2.917,
+  "text": "But this time, the patient doesn't scream.",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "close-up of {CHURCHILL}'s relaxed sleeping face",
+  "image": "images/beat_342.png"
+ },
+ {
+  "beat": 343,
+  "start": 1182.21,
+  "dur": 4.167,
+  "text": "Two months earlier, a dentist in Boston demonstrated something new.",
+  "motion": "push",
+  "scene": "boston",
+  "action": "the domed surgical amphitheatre in Boston, 1846, a dentist presenting to doctors",
+  "image": "images/beat_343.png"
+ },
+ {
+  "beat": 344,
+  "start": 1186.377,
+  "dur": 1.667,
+  "text": "A gas called ether.",
+  "motion": "pull",
+  "scene": "boston",
+  "action": "close-up of a glass ether inhaler jar with a tube, fumes swirling",
+  "image": "images/beat_344.png"
+ },
+ {
+  "beat": 345,
+  "start": 1188.044,
+  "dur": 4.583,
+  "text": "You breathe it through a glass jar, and you fall asleep,",
+  "motion": "push",
+  "scene": "boston",
+  "action": "a patient breathing through the glass jar, eyelids drooping",
+  "image": "images/beat_345.png"
+ },
+ {
+  "beat": 346,
+  "start": 1192.627,
+  "dur": 3.333,
+  "text": "and you don't wake up until it's over.",
+  "motion": "push",
+  "scene": "boston",
+  "action": "the patient fast asleep and smiling, a sleep symbol above his head",
+  "image": "images/beat_346.png"
+ },
+ {
+  "beat": 347,
+  "start": 1195.96,
+  "dur": 4.167,
+  "text": "The news took weeks to cross the Atlantic by ship.",
+  "motion": "pan",
+  "scene": "atlantic",
+  "action": "a sailing packet ship crossing a grey Atlantic, a sealed letter marked ETHER on the sails",
+  "image": "images/beat_347.png"
+ },
+ {
+  "beat": 348,
+  "start": 1200.127,
+  "dur": 2.917,
+  "text": "It arrived in London only days ago.",
+  "motion": "push",
+  "scene": "atlantic",
+  "action": "a ship docking in London, a messenger running down the gangplank with a letter",
+  "image": "images/beat_348.png"
+ },
+ {
+  "beat": 349,
+  "start": 1203.044,
+  "dur": 2.083,
+  "text": "Frederick Churchill breathes the ether,",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "{CHURCHILL} breathing through the glass jar",
+  "image": "images/beat_349.png"
+ },
+ {
+  "beat": 350,
+  "start": 1205.127,
+  "dur": 4.167,
+  "text": "falls asleep on the same table you were strapped to,",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "top-down view of {CHURCHILL} peacefully asleep on the same dark-stained table",
+  "image": "images/beat_350.png"
+ },
+ {
+  "beat": 351,
+  "start": 1209.294,
+  "dur": 3.333,
+  "text": "and feels absolutely nothing. When he wakes up,",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{CHURCHILL} waking up, blinking",
+  "image": "images/beat_351.png"
+ },
+ {
+  "beat": 352,
+  "start": 1212.627,
+  "dur": 5.0,
+  "text": "he asks when the operation is going to start. The students laugh.",
+  "motion": "pan",
+  "scene": "theatre",
+  "action": "{CHURCHILL} asking a question, students laughing",
+  "image": "images/beat_352.png"
+ },
+ {
+  "beat": 353,
+  "start": 1217.627,
+  "dur": 2.917,
+  "text": "Liston turns to them and says that",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "{LISTON} turning to the students with a rare grin",
+  "image": "images/beat_353.png"
+ },
+ {
+  "beat": 354,
+  "start": 1220.544,
+  "dur": 2.5,
+  "text": "this Yankee trick beats mesmerism hollow.",
+  "motion": "pull",
+  "scene": "theatre",
+  "action": "a speech bubble with an American flag and a spinning hypnotist's spiral crossed out",
+  "image": "images/beat_354.png"
+ },
+ {
+  "beat": 355,
+  "start": 1223.044,
+  "dur": 1.667,
+  "text": "The room applauds again.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "the whole theatre applauding again",
+  "image": "images/beat_355.png"
+ },
+ {
+  "beat": 356,
+  "start": 1224.711,
+  "dur": 2.5,
+  "text": "You missed it by one day.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "a calendar showing DECEMBER 20 and 21 side by side, a single gap between them",
+  "image": "images/beat_356.png"
+ },
+ {
+  "beat": 357,
+  "start": 1227.211,
+  "dur": 3.75,
+  "text": "If the crate had fallen a few weeks later,",
+  "motion": "pan",
+  "scene": "docks",
+  "action": "a ghostly translucent crate hanging still above the dock",
+  "image": "images/beat_357.png"
+ },
+ {
+  "beat": 358,
+  "start": 1230.961,
+  "dur": 3.333,
+  "text": "if the fever had arrived a little slower,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "a slow ghostly clock beside an empty bed",
+  "image": "images/beat_358.png"
+ },
+ {
+  "beat": 359,
+  "start": 1234.294,
+  "dur": 4.167,
+  "text": "if a ship had crossed the Atlantic a little faster,",
+  "motion": "pull",
+  "scene": "atlantic",
+  "action": "a ghostly ship racing faster across the Atlantic",
+  "image": "images/beat_359.png"
+ },
+ {
+  "beat": 360,
+  "start": 1238.461,
+  "dur": 3.333,
+  "text": "you would have slept through the whole thing.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "a ghostly vision of {YOU} sleeping peacefully on the operating table",
+  "image": "images/beat_360.png"
+ },
+ {
+  "beat": 361,
+  "start": 1241.794,
+  "dur": 4.167,
+  "text": "Within a year, ether is used in hospitals across Britain.",
+  "motion": "push",
+  "scene": "ward",
+  "action": "a montage map of Britain with hospital icons lighting up one by one",
+  "image": "images/beat_361.png"
+ },
+ {
+  "beat": 362,
+  "start": 1245.961,
+  "dur": 1.25,
+  "text": "Within twenty years,",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "a calendar flipping forward rapidly",
+  "image": "images/beat_362.png"
+ },
+ {
+  "beat": 363,
+  "start": 1247.211,
+  "dur": 5.0,
+  "text": "a surgeon named Joseph Lister convinces surgeons to finally clean their hands,",
+  "motion": "push",
+  "scene": "ward",
+  "action": "Joseph Lister spraying carbolic mist in an operating theatre",
+  "image": "images/beat_363.png"
+ },
+ {
+  "beat": 364,
+  "start": 1252.211,
+  "dur": 3.333,
+  "text": "their instruments, and their wounds. Within a century,",
+  "motion": "pull",
+  "scene": "ward",
+  "action": "a surgeon washing his hands in a basin, clean instruments gleaming",
+  "image": "images/beat_364.png"
+ },
+ {
+  "beat": 365,
+  "start": 1255.544,
+  "dur": 4.583,
+  "text": "nobody in London is ever strapped awake to that table again.",
+  "motion": "push",
+  "scene": "theatre",
+  "action": "the old wooden operating table abandoned in an empty theatre, straps hanging loose",
+  "image": "images/beat_365.png"
+ },
+ {
+  "beat": 366,
+  "start": 1260.127,
+  "dur": 2.917,
+  "text": "Historians will write about December 21st, 1846,",
+  "motion": "fade",
+  "scene": "ward",
+  "action": "a historian writing at a desk",
+  "image": "images/beat_366.png"
+ },
+ {
+  "beat": 367,
+  "start": 1263.044,
+  "dur": 3.75,
+  "text": "as one of the greatest days in medical history.",
+  "motion": "pan",
+  "scene": "ward",
+  "action": "an inset of a history book page titled THE GREATEST DAY",
+  "image": "images/beat_367.png"
+ },
+ {
+  "beat": 368,
+  "start": 1266.794,
+  "dur": 2.917,
+  "text": "They'll print Frederick Churchill's name in textbooks.",
+  "motion": "push",
+  "scene": "textbook",
+  "action": "an open textbook with an engraving of {CHURCHILL} and his name printed boldly",
+  "image": "images/beat_368.png"
+ },
+ {
+  "beat": 369,
+  "start": 1269.711,
+  "dur": 2.5,
+  "text": "They'll call Robert Liston a legend.",
+  "motion": "pull",
+  "scene": "textbook",
+  "action": "a page with a heroic engraved portrait of {LISTON} titled LEGEND",
+  "image": "images/beat_369.png"
+ },
+ {
+  "beat": 370,
+  "start": 1272.211,
+  "dur": 4.583,
+  "text": "They'll print his time on your leg as a fun fact.",
+  "motion": "push",
+  "scene": "textbook",
+  "action": "a FUN FACT box on a page with a small cartoon stopwatch",
+  "image": "images/beat_370.png"
+ },
+ {
+  "beat": 371,
+  "start": 1276.794,
+  "dur": 1.2,
+  "text": "Twenty-eight seconds.",
+  "motion": "push",
+  "scene": "textbook",
+  "action": "extreme close-up of the text 28 SECONDS on the page",
+  "image": "images/beat_371.png"
+ },
+ {
+  "beat": 372,
+  "start": 1277.994,
+  "dur": 2.5,
+  "text": "Nobody will write down your name.",
+  "motion": "pan",
+  "scene": "textbook",
+  "action": "a blank space on the page where a name should be, a faded patient silhouette",
+  "image": "images/beat_372.png"
+ },
+ {
+  "beat": 373,
+  "start": 1280.494,
+  "dur": 2.917,
+  "text": "But in a barrel workshop in Southwark,",
+  "motion": "fade",
+  "scene": "workshop",
+  "action": "the cooper's workshop in Southwark at dusk, lamplight in the window",
+  "image": "images/beat_373.png"
+ },
+ {
+  "beat": 374,
+  "start": 1283.411,
+  "dur": 4.583,
+  "text": "an old cooper finishes carving the finest oak leg in London.",
+  "motion": "pull",
+  "scene": "workshop",
+  "action": "an aged {FATHER} carving a beautiful oak leg at his workbench, shavings at his feet",
+  "image": "images/beat_374.png"
+ },
+ {
+  "beat": 375,
+  "start": 1287.994,
+  "dur": 2.5,
+  "text": "He sands it smooth for weeks.",
+  "motion": "push",
+  "scene": "workshop",
+  "action": "close-up of the oak leg being sanded smooth, a small cloth in his stick hand",
+  "image": "images/beat_375.png"
+ },
+ {
+  "beat": 376,
+  "start": 1290.494,
+  "dur": 3.75,
+  "text": "He never once lets it out of his sight.",
+  "motion": "push",
+  "scene": "workshop",
+  "action": "{FATHER} holding the leg close, sitting alone, the lamp glowing",
+  "image": "images/beat_376.png"
+ },
+ {
+  "beat": 377,
+  "start": 1294.244,
+  "dur": 3.75,
+  "text": "And he never tells anyone who it was for.",
+  "motion": "pan",
+  "scene": "workshop",
+  "action": "{FATHER} alone in the darkening workshop, the finished oak leg propped in a place of honour by the window",
+  "image": "images/beat_377.png"
+ }
+]

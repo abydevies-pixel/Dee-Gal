@@ -1,0 +1,377 @@
+1|river|W|quiet, gloomy|{BABY} wrapped in a grey cloth bundle held up by {MOTHER} at a cottage doorway, brewery chimneys smoking behind
+2|river|W|bleak, wry|a split view of the Thames: grimy Southwark bank in the foreground, grand St Paul's dome far across the water
+3|home|M|cozy, grimy|{MOTHER} rocking {BABY} beside a steaming washtub, tar buckets and wet wool hanging on lines
+4|home|M|steady, plain|{FATHER} in his workshop corner hammering an iron hoop onto an oak barrel, mudflats visible through the small window
+5|workshop|M|industrious|{FATHER} bending a curved oak stave over a fire, finished barrels stamped with a brewery mark stacked behind
+6|workshop|C|stoic|close-up of {FATHER}'s broad deadpan face, heavy brows, a hammer resting on his shoulder
+7|home|M|weary, devoted|{MOTHER} scrubbing laundry in a wooden washtub, a mountain of other people's washing piled beside her
+8|home|C|tender, harsh|close-up of {MOTHER} wringing a sheet, her red cracked knuckles visible at the stick-arm ends, steam rising
+9|home|M|warm, firm|{MOTHER} pointing a finger at {YOU4} who stands by the doorway, speech emphasis lines around her
+10|home|C|wise, ominous|close-up of {MOTHER}'s kind lined face mid-sentence, a single candle and a faded religious print behind her
+11|home|M|comic|{YOU4} nodding very seriously with exaggerated wide eyes, already in a running pose
+12|lane|W|playful|{YOU4} sprinting down the cobbled lane ahead of a shaggy brown dog, the dog's tongue out, speed lines behind
+13|bridge|W|triumphant|{YOU7} racing far ahead of three bigger boys across London Bridge, all stick legs mid-stride
+14|bridge|M|chaotic, fun|{YOU7} ducking between a horse-drawn cart and a startled horse, a carter shouting
+15|bridge|M|comic|{YOU7} leaping past an angry old woman carrying a basket of wriggling eels, one small shoe flying off behind him
+16|bridge|M|proud|{YOU7} crossing a chalk finish line with one bare foot, arms raised, the older boys panting behind
+17|lane|M|cheerful|a shopkeeper in an apron handing a copper penny and a folded note to {YOU10} at a shop door
+18|bridge|W|energetic|{YOU10} sprinting across London Bridge clutching a sealed letter, the river and ships behind
+19|lane|C|comic|a gentleman holding a letter with the ink still glistening wet, staring in disbelief at {YOU10} panting at his door
+20|lane|W|warm dusk|{FATHER} leaning in his workshop doorway watching {YOU10} sprint down the lane in the evening glow
+21|lane|C|rare warmth|close-up of {FATHER}'s gruff face with the faintest proud smile under his beard
+22|lane|M|proud, wry|{FATHER} gesturing from {YOU10}'s fast stick legs toward his humble barrel workshop
+23|lane|C|deadpan|close-up of {YOU10} grinning, flat cap askew, as the lane darkens
+24|lane|W|bleak|wide view of a poor Southwark street at dusk: ragged children, beggars, soot-stained terraces
+25|lane|M|grim pride|{YOU10} standing in a confident pose, glowing outline around his stick back and stick legs as the only things he owns
+26|billingsgate|W|transition|{YOU16} walking through the misty Billingsgate market gate at dawn, flat cap on, gas lamps glowing
+27|billingsgate|M|bustling|{YOU16} being handed a wicker fish basket by a fishmonger, his worn flat cap on his head
+28|billingsgate|M|strained|{YOU16} carrying a wicker basket of silver fish balanced on his head through the dark market
+29|billingsgate|C|comic strain|{YOU16} with three fish baskets stacked impossibly high on his head, eyes crossed with effort
+30|billingsgate|HA|crowded, chaotic|high-angle view of {YOU16} weaving through a dense sea of heads and worn flat caps, baskets on his head
+31|billingsgate|W|energetic|{YOU16} overtaking other slow porters, speed lines behind him, fish flying from their baskets
+32|billingsgate|M|comic|two red-faced fishmongers tugging {YOU16} by each stick arm, both shouting
+33|home|M|warm|{YOU16} pouring copper coins into {MOTHER}'s apron at the cottage table
+34|home|C|hopeful|{MOTHER} drying her hands, a smaller laundry pile beside her, her face softening into a smile
+35|home|W|hopeful|the family eating supper together at a small table, {FATHER}, {MOTHER} and {YOU16} smiling, a modest meat pie in the middle
+36|docks|W|ominous|the London Docks under a grey autumn sky, dead leaves blowing across the cobbles, 1846 painted on a warehouse
+37|docks|M|ordinary|{YOU} walking briskly, flat cap pulled low, a dock clock behind showing early morning
+38|docks|W|routine|{YOU} cutting between warehouses and stacked barrels, a shortcut sign pointing through the docks
+39|docks|LA|foreboding|low-angle view of a timber crane swinging a heavy wooden crate high overhead
+40|docks|ECU|tense|extreme close-up of a fraying rope snapping, fibres bursting outward, a crate stencilled VINHO PORTO
+41|docks|M|alarm|a dockworker pointing upward and shouting, {YOU} looking up with wide eyes
+42|docks|C|dark comedy|close-up of {YOU}'s face looking straight up, eyes wide, the crate's shadow growing over him
+43|docks|M|shock|the wine crate slamming onto the cobbles, {YOU} pinned underneath at the knee, wine splashing, dust cloud
+44|docks|C|stunned|close-up of {YOU}'s blank stunned face, sound-effect lines around his ear
+45|workshop|ECU|visceral, non-graphic|an inset of a barrel stave snapping in frost, splinters flying, a crack sound-effect symbol
+46|docks|POV|dread|{YOU}'s point of view looking down at his trapped stick leg, the injury hidden behind a torn trouser rag
+47|docks|C|horror|{YOU}'s eyes going huge and pupils shrinking as he stares down off-frame
+48|docks|C|realisation|close-up of {YOU}'s face turning pale green, a sweat drop sliding down
+49|docks|C|agony|{YOU} screaming with his mouth wide open, tears streaming, cartoon pain lines radiating
+50|docks|M|urgent|three dockworkers straining to lift the wine crate off {YOU}
+51|docks|M|dark comedy|a dockworker glancing down then turning away green-faced, hand over his mouth
+52|docks|M|grim|the dockworker bent over vomiting behind a barrel, a puddle on the cobbles
+53|docks|M|urgent|a dockworker tying a red neckerchief tight around {YOU}'s stick thigh
+54|cart|M|chaotic|dockworkers lifting {YOU} onto a wooden handcart, one shouting
+55|cart|C|dread|close-up of {YOU}'s pale face lying on the cart, staring at the grey sky
+56|hospext|W|ominous|the word HOSPITAL carved in stone over a grand looming building, crowds of poor people kept outside the railings
+57|hospext|W|unjust|a uniformed porter barring the hospital gate against ragged poor families
+58|hospext|M|unjust|a well-dressed gentleman in a top hat strolling through the gate while the poor wait
+59|hospext|M|bureaucratic|a stern clerk at a desk pointing at an admission rules board
+60|hospext|C|bureaucratic|a close-up of a formal letter of recommendation with a wax seal and signature
+61|hospext|M|class contrast|{BREWER} handing a letter down to a bowing ragged mother
+62|hospext|M|cold|the clerk shutting a ledger in the face of a poor man with no letter
+63|lane|W|urgent|{FATHER} running down the cobbled lane, flat cap flying off, speed lines behind
+64|lane|C|surprised|{YOU} propped on the cart watching with shocked wide eyes as his father runs
+65|brewerdoor|W|tense|{FATHER} arriving at the grand black door of a Georgian townhouse, brewery chimney behind
+66|brewerdoor|M|humble|{FATHER} standing in the doorway, cap clutched to his chest, a butler blocking the way
+67|brewerdoor|M|relief|{BREWER} finally handing {FATHER} a sealed letter, a clock in the hall showing four hours later
+68|kitchen|M|painful, tender|{YOU} lying on the kitchen table, {MOTHER} beside him, candlelight
+69|kitchen|C|agony|close-up of {YOU} biting a wooden spoon, sweat drops, {MOTHER} holding his stick hand
+70|kitchen|C|silent fear|close-up of {MOTHER}'s worried face, lips pressed tight, eyes wet
+71|kitchen|C|heartbreaking|{MOTHER} looking down silently, a tear rolling down, the candle flickering low
+72|hospext|W|night|University College Hospital at nightfall, gas lamps lit, {FATHER} carrying {YOU} up the stone steps
+73|ward|W|relief|the long whitewashed ward with rows of iron beds, {YOU} in a clean bed, splinted leg under the blanket
+74|ward|M|delight|{YOU} stretching out alone in a bed with an amazed grin, arms spread wide
+75|ward|C|comic|close-up of a slightly stained sheet, {YOU} squinting at a small brown mark on it
+76|ward|M|cozy|{NURSE} handing {YOU} a steaming bowl of beef tea in the morning light
+77|ward|M|comic delight|{NURSE} handing {YOU} a frothy pewter pint of porter beer
+78|ward|C|comic disbelief|close-up of {YOU} holding the pint, jaw dropped, a doctor's prescription note tied to the mug
+79|ward|C|comic bliss|{YOU} sipping the beer contentedly, eyes closed, little hearts floating up
+80|ward|M|clinical|{HS} leaning over {YOU}'s bed to examine the swollen leg under the blanket
+81|ward|C|clinical|{HS} pressing lightly on the bandaged shin, {YOU} wincing
+82|ward|C|educational|an inset anatomical cartoon of a simple broken shin bone, labelled COMPOUND FRACTURE
+83|ward|M|uneasy|{HS} gesturing to a rack of saws on the wall, then shaking his head
+84|ward|M|tense|{HS} pulling the leg straight with both stick arms, {YOU} gripping the bedframe
+85|ward|W|shock|{YOU} screaming in bed while every other patient in the ward turns to stare in silence
+86|ward|M|hopeful|{HS} tying a wooden splint and white bandage around {YOU}'s stick leg, patting his shoulder
+87|ward|C|uncertain|close-up of {HS} giving a weak smile and a so-so hand wobble
+88|ward|C|anxious|{YOU} staring at the ceiling, the word PROBABLY floating above his head in a thought bubble
+89|ward|M|introductory|{YOU} turning to look at the next bed where {SILAS} lies propped on pillows
+90|ward|C|character intro|close-up of {SILAS} grinning, chewing tobacco
+91|ward|C|character intro|extreme detail on {SILAS}'s white mutton-chop whiskers, spectacles and deeply lined face
+92|ward|M|matter-of-fact|{SILAS} sitting up in bed, his left stick leg ending in a bandaged stump at the knee
+93|trafalgar|M|flashback, dramatic|{SILASYOUNG} loading a cannon on the smoky gun deck, 1805
+94|trafalgar|W|chaotic|a cannonball smashing through the hull, splinters flying, sailors diving
+95|trafalgar|M|flashback, shock|{SILASYOUNG} on the deck with X-eyes for a moment, powder keg rolling, smoke everywhere
+96|ward|M|weary|{SILAS} pointing at his bandaged stump, the bandage slightly yellowed
+97|ward|C|ironic|{SILAS} holding up four stick fingers for forty years, a calendar of years flipping beside him
+98|ward|M|ominous|two surgeons in black coats eyeing {SILAS}'s stump from the end of the bed, one holding garden shears
+99|ward|C|comic|{SILAS} rolling his eyes, an inset of a hedge being trimmed into shape
+100|ward|M|comic|{SILAS} lecturing with one finger raised, speech lines around him, {YOU} listening
+101|ward|C|comic|{SILAS} grimacing at a bowl of beef tea, an old leather boot floating in it
+102|ward|M|comic|{SILAS} pointing across the ward at {HS}
+103|ward|C|comic|close-up of {HS}'s smooth baby-faced chin, a single lonely whisker
+104|ward|M|comic|{SILAS} miming a sawing motion with a skeptical scowl
+105|ward|C|comic|{HS} holding a saw nervously with trembling stick arms, shake lines
+106|ward|M|comic|{SILAS} raising his pint of porter like a toast
+107|ward|C|wry|{SILAS} with a halo drawn above his beer mug
+108|ward|M|comic|{SILAS} leaning toward {YOU}'s untouched pint with greedy eyes
+109|ward|M|warm|{YOU} laughing out loud in bed, head tilted back
+110|ward|C|bittersweet|close-up of {YOU} smiling, a small tear of relief
+111|wardnight|M|cozy night|{SILAS} whispering a story to {YOU} in the dark ward lit by one oil lamp
+112|gibraltar|W|adventurous|a sailing ship gliding past the huge Rock of Gibraltar under blue sky
+113|galley|M|comic, gross|sailors at a mess table tapping ship's biscuits as wriggling weevils crawl out
+114|galley|C|comic|weevils racing across the wooden table with tiny numbers on them, sailors cheering
+115|nelson|M|comic|Admiral Nelson with one empty sleeve, green-faced and seasick, leaning over the ship's rail
+116|nelson|W|triumphant|Nelson standing victorious on the quarterdeck, still green-faced, enemy ships burning behind
+117|wardnight|C|inspiring|close-up of {SILAS} tapping his temple wisely in lamplight
+118|wardnight|C|trusting|close-up of {YOU} nodding, eyes shining with belief
+119|ward|M|sudden tension|{YOU} jolting upright in bed, eyes wide
+120|ward|LA|ominous|low-angle view of a brass bell swinging in a small tower on the hospital roof
+121|ward|W|unease|ringing sound-effect lines filling the whole ward, patients flinching
+122|ward|M|frozen|{NURSE} freezing mid-step with a tray, a spoon falling
+123|ward|W|frozen|every patient in the ward silent and staring at the ceiling
+124|ward|M|dread|a gaunt patient by the window making the sign of the cross
+125|ward|M|deadpan|{SILAS} calmly sipping his beer, not looking up
+126|ward|C|dread|{YOU} looking up at the ceiling, listening, sweat drop
+127|ward|W|horror, muffled|a cutaway of the hospital floors, faint jagged scream lines rising from the top floor
+128|ward|C|endless dread|close-up of {YOU} staring at a wall clock, hands frozen
+129|ward|C|deadpan|{SILAS} finally taking a calm sip of porter as the silence falls
+130|ward|M|nervous|{YOU} whispering a question to {SILAS}
+131|ward|C|dark comedy|{SILAS} shrugging with a casual so-so face
+132|wardnight|M|sleepless|{YOU} lying awake in the dark ward, eyes open, moonlight through the window
+133|wardnight|C|anxious|close-up of {YOU}'s face, a heartbeat symbol drawn over his chest
+134|wardnight|C|creeping dread|{YOU} slowly looking down toward his bandaged leg under the blanket
+135|ward|M|unsettling|wavy green smell lines rising from {YOU}'s bandaged leg
+136|ward|C|subtle|close-up of {YOU} sniffing the air, confused
+137|ward|M|unsettling|a fly circling {YOU}'s bed, an inset of rotting fruit in sunshine
+138|ward|M|tense|{NURSE} unwrapping {YOU}'s bandage with a blank expression
+139|ward|C|dark comedy|close-up of {NURSE} breathing through her mouth, cheeks puffed, eyes watering
+140|ward|M|worsening|the bandaged stick leg drawn thicker and swollen up past the knee
+141|ward|C|non-graphic|an inset colour-swatch chart going from red to purple to grey beside the covered leg
+142|ward|C|ominous|{YOU} glancing at his leg, worried, grey tint creeping into the frame edge
+143|ward|M|feverish|{YOU} sweating in bed with a wet cloth on his head, a thermometer-style squiggle above him
+144|ward|M|grim|{HS} standing at the bed, arms by his sides, not touching anything
+145|ward|C|ominous|{HS} looking down silently, spectacles reflecting, then turning away
+146|ward|C|tense|{SILAS} freezing with the beer halfway to his mouth
+147|ward|M|storytelling|{SILAS} leaning in to whisper, a framed portrait of {LISTON} drawn as an inset bubble
+148|ward|C|awe|an inset map of Europe with {LISTON}'s head on it
+149|theatre|LA|imposing|low-angle view of {LISTON} towering, a gleaming knife in his stick hand
+150|ward|C|ominous|{SILAS} holding up a pocket watch showing under thirty seconds
+151|ward|C|ominous|an inset of a stopwatch with the hand racing
+152|theatre|W|ominous|crowds of foreign students in different hats queuing outside a theatre door
+153|theatre|M|ominous|students crammed shoulder to shoulder craning to watch
+154|ward|C|ironic|{SILAS} smiling with a forced, crooked smile
+155|ward|C|suspicious|{YOU} squinting skeptically at {SILAS}
+156|ward|C|reflective|{SILAS} staring into the distance, smile gone
+157|ward|M|storytelling|{SILAS} sketching a round theatre with his finger in the air, dotted outline above him
+158|theatre|W|historical|an empty circular operating theatre with steep standing tiers, light falling from the skylight
+159|theatre|C|grim|an empty operating table with leather straps and no pillow
+160|theatre|M|harsh|an inset of crossed-out symbols: a gas mask, a syringe, a sleeping face
+161|theatre|ECU|unsettling|extreme close-up of a wide-awake eye, pupil tiny
+162|theatre|M|grim|an inset of a stopwatch beside a surgeon's knife
+163|ward|M|explanatory|{SILAS} counting points on his stick fingers
+164|ward|M|explanatory|an inset bar chart with a falling arrow labelled BLOOD next to a stopwatch
+165|ward|C|grim|an inset of a pale patient on a table with X-eyes and a SHOCK caption
+166|ward|M|ironic|{SILAS} gesturing toward an imaginary fast figure
+167|ward|C|grim|an inset of {LISTON} as a tiny glowing figure inside a dark, grim room
+168|ward|M|serious|{SILAS} leaning close, one stick finger raised
+169|ward|M|instructional|{SILAS} miming gulping brandy from a bottle
+170|ward|C|instructional|{SILAS} biting down on a leather strap, demonstrating
+171|ward|C|grim|an inset of a pained man with his tongue sticking out and bandaged
+172|ward|M|instructional|{SILAS} covering his eyes with one stick hand
+173|ward|M|instructional|{SILAS} pointing at a spot on the ward ceiling, a number 1 floating beside it
+174|ward|M|instructional|{SILAS} holding his stick arms out as if being restrained
+175|ward|M|explanatory|an inset of four young students pinning a patient's stick limbs to a table
+176|ward|M|grim|{SILAS} shaking his head slowly
+177|ward|C|dread|close-up of {YOU} nodding weakly, face pale
+178|ward|C|dread|{YOU} swallowing hard, a gulp symbol, the ward suddenly darker around him
+179|ward|LA|ominous|the brass bell ringing again on the roof tower
+180|ward|M|cheerful|{SILAS} grinning and waving as two dressers approach
+181|ward|M|comic|{SILAS} winking at {NURSE}, who rolls her eyes
+182|ward|M|warm|{SILAS} pointing at his pint and then at {YOU}, {YOU} giving a thumbs up
+183|ward|M|bittersweet|two young dressers lifting {SILAS} onto a canvas stretcher
+184|ward|M|touching|{SILAS} at the doorway on the stretcher, raising a crisp naval salute
+185|ward|C|touching|close-up of {SILAS}'s sharp salute, one eye winking
+186|ward|C|emotional|{SILAS} mouthing the words, a speech bubble with KEEP MOVING
+187|ward|C|stunned|close-up of {YOU}, eyes wide and wet, stunned
+188|ward|M|tense|{YOU} staring up at the ceiling, faint scream lines from above
+189|ward|C|grim, wry|{YOU} glancing at the clock, only a minute has passed
+190|ward|M|relief|dressers carrying {SILAS} back, grey-faced and sweating, a fresh bandage on his stump
+191|ward|C|comic relief|{SILAS} opening one eye and holding out a stick hand for his beer
+192|ward|M|warm|{YOU} handing {SILAS} the pint, both laughing
+193|wardnight|W|peaceful|the ward at dusk, both men asleep peacefully, lamp glowing
+194|ward|M|ominous|{SILAS} shivering under blankets, sweat drops, the lamp flickering
+195|ward|C|grim|{SILAS}'s stump bandage fine, but the bed sheets dirty and stained
+196|ward|M|ignorant|a surgeon holding a sign labelled GERMS? with a puzzled shrug
+197|theatre|M|grim|a surgeon pulling on a stiff black frock coat stained dark brown
+198|theatre|C|grim|close-up of the black coat with crusted dark-brown stains, stiff like cardboard
+199|theatre|M|grim pride|two surgeons comparing their stained coats proudly, chests puffed
+200|theatre|M|dark comedy|a surgeon admiring the stains on his coat in a mirror
+201|theatre|C|grim|a surgeon wiping his dirty stick hands on his coat, a clean washbasin ignored
+202|theatre|C|grim|a single grimy sponge dripping into a bucket of dirty water
+203|ward|M|helpless|doctors shrugging with an inset of a FEVER rain cloud over the ward
+204|ward|M|resigned|a doctor opening an umbrella under the fever cloud, deadpan
+205|wardnight|M|feverish|{SILAS} burning with fever, sweat drops, cheeks flushed red
+206|wardnight|M|eerie|{SILAS} talking to translucent ghostly sailors gathered around his bed
+207|wardnight|C|haunting|close-up of {SILAS}'s feverish eyes, shouting an order, ghostly sails behind him
+208|ward|W|cold morning|the morning ward in pale light, nurses moving quietly
+209|ward|M|devastating|{SILAS}'s bed empty and freshly made, sheets crisp and white
+210|ward|M|cold|a nurse walking past the empty bed without looking
+211|ward|C|heartbreaking|close-up of {SILAS}'s untouched pint on the shelf above the empty bed
+212|ward|M|heartbreaking|{NURSE} quietly taking the pint away
+213|ward|C|numb|close-up of {YOU}'s dry, empty eyes, no tears
+214|ward|M|feverish|{YOU} lying in bed, the swollen leg shape now thicker up to the thigh
+215|ward|C|exhausted|{YOU} with heavy-lidded eyes, too tired, sweat drops
+216|ward|M|grief|{YOU} staring at the empty bed beside him
+217|ward|C|grief|a faint ghostly image of {SILAS} saluting above the empty bed
+218|ward|C|determined|a faint speech bubble with {SILAS}'s words floating near the ceiling
+219|ward|C|resolve|{YOU} clenching his jaw, eyes hardening
+220|ward|W|imposing|{LISTON} stepping into the ward, everyone turning
+221|ward|LA|imposing|low-angle view of {LISTON} filling the doorway, head nearly touching the frame
+222|ward|C|cold|close-up of {LISTON}'s calm, bored face
+223|ward|C|cold|an inset of a man staring blankly at a broken wooden fence
+224|ward|M|clinical|{LISTON} peeling back the bandage, wrinkling his nose once
+225|ward|C|cold|{LISTON} speaking flatly, a dotted line drawn across {YOU}'s stick thigh
+226|ward|C|ominous|an inset of a calendar with seven days crossed off
+227|ward|C|grim|{YOU} with X-eyes in a thought bubble above his own head
+228|ward|M|cold|{LISTON} tapping a calendar page that reads WEDNESDAY
+229|ward|C|ominous|an inset of tiered seats crowded with students
+230|ward|C|dark comedy|{LISTON} handing {YOU} a theatre ticket stub
+231|ward|C|deadpan|close-up of the ticket stub reading THEATRE, ADMIT ONE
+232|wardnight|M|tender|{MOTHER} sitting by the bed holding {YOU}'s stick hand
+233|wardnight|C|heavy|{FATHER} standing stiffly, staring at the leg, silent
+234|wardnight|C|silent|close-up of {FATHER}'s face, deep frown, eyes wet
+235|wardnight|M|tender|{FATHER} leaning in close to {YOU}
+236|wardnight|C|hopeful|an inset of a beautiful carved oak leg glowing with sparkles
+237|wardnight|C|proud|{FATHER} holding his stick hands apart as if measuring a leg
+238|wardnight|M|bittersweet|{YOU} laughing weakly while {FATHER} stares seriously
+239|wardnight|C|tender|{MOTHER} kissing {YOU}'s forehead, eyes closed
+240|ward|LA|ominous|the brass bell on the roof ringing, dawn sky behind
+241|ward|M|dread|{NURSE} handing {YOU} a glass of brandy, a second glass waiting on the tray
+242|ward|M|hazy|{HS} spooning a dark laudanum dose into {YOU}'s mouth
+243|ward|POV|hazy|{YOU}'s point of view of the ceiling going soft and blurry at the edges
+244|ward|C|dread|close-up of {YOU}'s face, glassy-eyed but still terrified
+245|stairs|M|procession|two dressers carrying {YOU} on a stretcher up the narrow stone staircase
+246|stairs|LA|dread|low-angle view of a long climb of stairs, step numbers floating, the number 42 at the top
+247|theatre|W|grand, ominous|the circular operating theatre seen from the doorway, tiered rails rising steeply
+248|theatre|LA|grand|low-angle view up the steep tiers toward the glass skylight
+249|theatre|W|packed|every tier crammed with {STUDENTS}
+250|theatre|HA|packed|high-angle view over the packed rows of {STUDENTS}, shoulder to shoulder
+251|theatre|M|dark comedy|a student eating a meat pie, another scribbling in a notebook
+252|theatre|M|comic|a student at the back cupping his mouth and shouting
+253|theatre|M|comic|front-row students ducking their heads in unison
+254|theatre|W|ominous|the plain operating table alone in the centre of the theatre
+255|theatre|C|grim|close-up of the dark-stained table, a wooden box of sawdust underneath
+256|theatre|C|dread|{YOU} staring at the sawdust box, gulping, sweat drop
+257|theatre|M|tense|dressers buckling leather straps over {YOU}
+258|theatre|TD|helpless|top-down view of {YOU} strapped across the chest, stick arms and good leg
+259|theatre|TD|tense|four dressers each holding one of {YOU}'s stick limbs
+260|theatre|C|tense|{DRESSER} pushing a leather strip between {YOU}'s teeth
+261|theatre|C|nervous|close-up of {DRESSER}'s pale young face, trembling shake lines
+262|theatre|W|dramatic silence|{LISTON} striding into the theatre, the students falling silent
+263|theatre|M|ritual|{LISTON} swapping his jacket for a stiff black operating coat
+264|theatre|C|grim|close-up of the coat, crusted dark-brown stains
+265|theatre|C|grim|an inset of ghostly faces of past patients reflected on the coat
+266|theatre|W|anticipation|the students all leaning forward, eyes wide
+267|theatre|M|clinical|{LISTON} opening an instrument case of gleaming knives
+268|theatre|M|chilling|{LISTON} holding a thin knife between his teeth like a pirate
+269|theatre|M|tense|{LISTON} tying a tourniquet strap around {YOU}'s thigh, the knife still in his teeth
+270|theatre|M|showman|{LISTON} turning to the tiers with one stick arm raised
+271|theatre|W|dark comedy|dozens of students pulling out gold pocket watches in unison
+272|theatre|POV|tense|{YOU}'s point of view of the skylight
+273|theatre|ECU|focused|extreme close-up of a small brown stain on the ceiling near the skylight
+274|theatre|C|tense|{YOU} locking his eyes on the stain, lips moving
+275|theatre|ECU|tense|a large number 1 floating in the air
+276|theatre|C|shock, non-graphic|{YOU}'s face erupting in agony, eyes bulging, the surgery hidden off-frame below
+277|theatre|C|overwhelming|{YOU}'s face in extreme pain, swirling lines radiating
+278|theatre|C|overwhelming|an inset of every word in different languages crossed out
+279|theatre|C|comic contrast|an inset of a man hopping over a stubbed toe, crossed out
+280|theatre|W|cosmic|the background dissolving into a swirling starry galaxy funnelling into {YOU}
+281|theatre|M|agony|{YOU}'s back arching off the table, creak sound-effect marks at the straps
+282|theatre|C|agony|{YOU} biting down hard on the leather, eyes squeezed shut, tears
+283|theatre|M|struggle|four dressers leaning their full weight on {YOU}'s stick limbs
+284|theatre|ECU|tense|the numbers 2, 3 and 4 floating in the air
+285|theatre|C|horror|{YOU}'s eyes flicking sideways, an ear with sound lines
+286|theatre|C|horror|wavy sound-effect lines curling up from below the frame
+287|home|M|eerie|an inset of {MOTHER} wringing a sheet, water dripping
+288|theatre|ECU|tense|the numbers 7 and 8 floating
+289|theatre|M|grim|{LISTON} holding out a stick hand, a dresser passing him a bone saw
+290|theatre|C|breaking|{YOU}'s counting numbers shattering
+291|theatre|C|overwhelming|huge jagged sound-effect lettering filling the frame
+292|theatre|M|overwhelming|an inset of the docks
+293|theatre|M|overwhelming|insets of the crane and the bell
+294|theatre|C|endless|a pocket watch with its hand spinning
+295|theatre|C|grim, non-graphic|close-up of the sawdust box beneath the table, a dull thud effect, contents hidden in shadow
+296|theatre|C|devastating|{YOU} staring blankly, all colour drained from his face
+297|theatre|M|clinical|{LISTON} stitching rapidly, bandages wrapping in a blur
+298|theatre|M|dramatic|a student at the top tier raising his pocket watch
+299|theatre|C|dark irony|close-up of the pocket watch reading 28 seconds
+300|theatre|W|grotesque irony|the whole theatre erupting in applause
+301|theatre|C|disbelief|{YOU} blinking at the applauding crowd
+302|theatre|TD|numb|top-down view of {YOU} limp on the table, sweat-soaked, a brandy bottle tipped over
+303|theatre|W|absurd|wide view of students clapping and cheering
+304|theatre|M|cold|{LISTON} taking a small bow
+305|theatre|M|cold|{LISTON} wiping his knife on his coat
+306|theatre|M|cold|{LISTON} striding out the door without a glance back
+307|theatre|C|bitter|a framed newspaper headline reading FASTEST KNIFE IN LONDON
+308|stairs|M|numb|dressers carrying {YOU} down the stone stairs on the stretcher
+309|stairs|C|numb|{YOU} staring blankly at the passing wall, no counting
+310|ward|M|hopeful|{YOU} back in bed, a clean bandaged stump visible under the blanket, sunlight
+311|ward|C|relief|{YOU} touching his cool forehead, a small smile
+312|ward|M|hopeful|{HS} giving a thumbs up at the bedside
+313|ward|M|comic|{NURSE} setting down two pints of porter with a rare smile
+314|ward|C|hopeful|{YOU} daydreaming, a thought bubble with a carved oak leg
+315|billingsgate|M|dreamlike|a thought bubble of {YOU} walking through Billingsgate with an oak leg and a fish basket on his head
+316|ward|C|hopeful|{YOU} smiling contentedly
+317|ward|M|warm|{MOTHER} at the bedside laughing, {YOU} grinning
+318|ward|C|ominous|{YOU} shivering, eyes widening, frost lines in the air
+319|ward|M|chilling|{YOU} buried under three grey blankets, shaking
+320|ward|C|dread|{YOU} staring at the ceiling, the colour draining from his face
+321|ward|C|haunting|{YOU} glancing at the empty bed where {SILAS} once lay
+322|ward|M|grim|green smell lines and sweat drops returning around {YOU}
+323|ward|M|creeping|the ward light dimming around his bed
+324|ward|C|grim|wavy smell lines curling from the swollen bandaged stump under the blanket
+325|ward|C|dark comedy|{NURSE} breathing through her mouth again, cheeks puffed
+326|ward|M|futile|two doctors at the bedside with a tray of remedies
+327|ward|M|grim|a doctor holding a small bowl and lancet at {YOU}'s stick arm, {YOU} paler
+328|ward|M|futile|bottles of brandy, laudanum and bowls of beef tea piling up on the shelf
+329|ward|C|sympathetic|close-up of {HS}'s sad, sincere face
+330|ward|M|historical irony|an inset of doctors through the centuries all doing the same bloodletting
+331|ward|C|hopeless|a single candle burning down to nothing
+332|wardnight|W|quiet|the dark ward at night, a calendar on the wall showing DECEMBER 20 1846
+333|dream|M|dreamlike|{YOU7} appearing in glowing hazy light
+334|dream|W|joyful|{YOU7} sprinting across a golden hazy London Bridge on both stick legs, arms wide
+335|dream|M|joyful|a faint glowing {MOTHER} laughing in the hazy distance behind him
+336|dream|C|bittersweet|close-up of {YOU7}'s gap-toothed grin in golden light
+337|wardnight|C|peaceful, tragic|{YOU} lying still in bed, eyes closed, soft X-eyes, peaceful face, moonlight
+338|theatre|W|ironic reveal|the empty operating theatre at dawn, a calendar reading DECEMBER 21 1846
+339|stairs|LA|ironic|the same forty-two stone steps, morning light
+340|theatre|W|ironic|the same theatre filling with students again
+341|theatre|M|ironic|{LISTON} standing beside {CHURCHILL} on the operating table
+342|theatre|C|calm|close-up of {CHURCHILL}'s relaxed sleeping face
+343|boston|W|historical|the domed surgical amphitheatre in Boston, 1846, a dentist presenting to doctors
+344|boston|C|historical|close-up of a glass ether inhaler jar with a tube, fumes swirling
+345|boston|M|historical|a patient breathing through the glass jar, eyelids drooping
+346|boston|M|historical|the patient fast asleep and smiling, a sleep symbol above his head
+347|atlantic|W|journey|a sailing packet ship crossing a grey Atlantic, a sealed letter marked ETHER on the sails
+348|atlantic|M|historical|a ship docking in London, a messenger running down the gangplank with a letter
+349|theatre|M|ironic|{CHURCHILL} breathing through the glass jar
+350|theatre|TD|ironic|top-down view of {CHURCHILL} peacefully asleep on the same dark-stained table
+351|theatre|C|ironic|{CHURCHILL} waking up, blinking
+352|theatre|M|comic irony|{CHURCHILL} asking a question, students laughing
+353|theatre|M|ironic|{LISTON} turning to the students with a rare grin
+354|theatre|C|ironic|a speech bubble with an American flag and a spinning hypnotist's spiral crossed out
+355|theatre|W|bitter irony|the whole theatre applauding again
+356|ward|C|tragic irony|a calendar showing DECEMBER 20 and 21 side by side, a single gap between them
+357|docks|M|what-if|a ghostly translucent crate hanging still above the dock
+358|ward|M|what-if|a slow ghostly clock beside an empty bed
+359|atlantic|W|what-if|a ghostly ship racing faster across the Atlantic
+360|theatre|C|tragic what-if|a ghostly vision of {YOU} sleeping peacefully on the operating table
+361|ward|W|historical|a montage map of Britain with hospital icons lighting up one by one
+362|ward|M|historical|a calendar flipping forward rapidly
+363|ward|M|historical|Joseph Lister spraying carbolic mist in an operating theatre
+364|ward|C|historical|a surgeon washing his hands in a basin, clean instruments gleaming
+365|theatre|W|haunting|the old wooden operating table abandoned in an empty theatre, straps hanging loose
+366|ward|M|historical|a historian writing at a desk
+367|ward|C|historical|an inset of a history book page titled THE GREATEST DAY
+368|textbook|C|bitter irony|an open textbook with an engraving of {CHURCHILL} and his name printed boldly
+369|textbook|C|bitter irony|a page with a heroic engraved portrait of {LISTON} titled LEGEND
+370|textbook|C|bitter irony|a FUN FACT box on a page with a small cartoon stopwatch
+371|textbook|ECU|devastating|extreme close-up of the text 28 SECONDS on the page
+372|textbook|C|devastating|a blank space on the page where a name should be, a faded patient silhouette
+373|workshop|W|melancholy|the cooper's workshop in Southwark at dusk, lamplight in the window
+374|workshop|M|tender|an aged {FATHER} carving a beautiful oak leg at his workbench, shavings at his feet
+375|workshop|C|tender|close-up of the oak leg being sanded smooth, a small cloth in his stick hand
+376|workshop|M|devoted|{FATHER} holding the leg close, sitting alone, the lamp glowing
+377|workshop|W|bittersweet|{FATHER} alone in the darkening workshop, the finished oak leg propped in a place of honour by the window
