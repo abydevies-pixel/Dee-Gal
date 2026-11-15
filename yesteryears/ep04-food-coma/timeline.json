@@ -1,0 +1,1672 @@
+[
+ {
+  "beat": 1,
+  "start": 0.0,
+  "dur": 3.75,
+  "text": "It's lunchtime and you just had a wonderful meal.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "{YOU} at a canteen table in front of an empty plate with a few grains of rice left, a wall clock reading 1:00",
+  "image": "images/beat_001.png"
+ },
+ {
+  "beat": 2,
+  "start": 3.75,
+  "dur": 3.333,
+  "text": "You're full, satisfied, and life feels great again.",
+  "motion": "pan",
+  "scene": "cafe",
+  "action": "{YOU} leaning back in the chair, belly line slightly rounded, a small happy sparkle beside the head",
+  "image": "images/beat_002.png"
+ },
+ {
+  "beat": 3,
+  "start": 7.083,
+  "dur": 2.917,
+  "text": "It's time to get back to work.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} strolling confidently back to a desk across the office",
+  "image": "images/beat_003.png"
+ },
+ {
+  "beat": 4,
+  "start": 10.0,
+  "dur": 1.2,
+  "text": "Except...",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} sitting down at the desk and freezing mid-motion, the office suddenly very still",
+  "image": "images/beat_004.png"
+ },
+ {
+  "beat": 5,
+  "start": 11.2,
+  "dur": 1.667,
+  "text": "Your eyes are closing.",
+  "motion": "push",
+  "scene": "office",
+  "action": "your half-lidded eyes drooping almost shut, heavy eyelids drawn like falling shutters",
+  "image": "images/beat_005.png"
+ },
+ {
+  "beat": 6,
+  "start": 12.867,
+  "dur": 4.167,
+  "text": "You try to concentrate, but your brain is not cooperating.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} staring hard at the laptop while a tiny cartoon brain floats above the head lying on a pillow",
+  "image": "images/beat_006.png"
+ },
+ {
+  "beat": 7,
+  "start": 17.034,
+  "dur": 2.917,
+  "text": "You read the same sentence three times,",
+  "motion": "pan",
+  "scene": "office",
+  "action": "the laptop screen with one sentence of grey placeholder lines highlighted three times in yellow, seen over your shoulder",
+  "image": "images/beat_007.png"
+ },
+ {
+  "beat": 8,
+  "start": 19.951,
+  "dur": 4.167,
+  "text": "and somehow, you still have no idea what it says.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} with a completely blank face and three small question marks floating above the head",
+  "image": "images/beat_008.png"
+ },
+ {
+  "beat": 9,
+  "start": 24.118,
+  "dur": 1.667,
+  "text": "But wait a minute\u2026",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} suddenly sitting upright, one eyebrow raised high, a finger-like stick arm raised",
+  "image": "images/beat_009.png"
+ },
+ {
+  "beat": 10,
+  "start": 25.785,
+  "dur": 2.5,
+  "text": "You were perfectly fine before eating.",
+  "motion": "push",
+  "scene": "office",
+  "action": "a thought bubble showing {YOU} wide awake and typing fast at the desk, a wall clock reading 11:00",
+  "image": "images/beat_010.png"
+ },
+ {
+  "beat": 11,
+  "start": 28.285,
+  "dur": 4.583,
+  "text": "In fact, you ate because you were hungry and needed energy.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "{YOU} at the canteen counter with a low red battery icon floating beside the head and a grumbling stomach line",
+  "image": "images/beat_011.png"
+ },
+ {
+  "beat": 12,
+  "start": 32.868,
+  "dur": 3.75,
+  "text": "So why is your body suddenly behaving like someone",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} slumped sideways in the desk chair, staring suspiciously at an empty lunch box",
+  "image": "images/beat_012.png"
+ },
+ {
+  "beat": 13,
+  "start": 36.618,
+  "dur": 2.917,
+  "text": "slipped a sleeping pill into your food?",
+  "motion": "shake",
+  "scene": "cafe",
+  "action": "a single white pill labelled \"zzz\" dropping into a bowl of rice, a shadowy stick arm reaching in from the frame edge",
+  "image": "images/beat_013.png"
+ },
+ {
+  "beat": 14,
+  "start": 39.535,
+  "dur": 2.083,
+  "text": "First, you're not imagining it.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} drowsy at the desk while a large green tick mark floats beside the head",
+  "image": "images/beat_014.png"
+ },
+ {
+  "beat": 15,
+  "start": 41.618,
+  "dur": 2.917,
+  "text": "That sleepy feeling has a medical name.",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "a doctor's clipboard with a blank form and a stethoscope lying across it",
+  "image": "images/beat_015.png"
+ },
+ {
+  "beat": 16,
+  "start": 44.535,
+  "dur": 1.2,
+  "text": "Postprandial somnolence.",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "a bold title card reading \"POSTPRANDIAL SOMNOLENCE\" in a neat serif font with a small sleeping-face icon",
+  "image": "images/beat_016.png"
+ },
+ {
+  "beat": 17,
+  "start": 45.735,
+  "dur": 2.5,
+  "text": "Which simply means sleepiness after eating.",
+  "motion": "pan",
+  "scene": "graphic",
+  "action": "a simple equation of icons: a plate, a plus sign, and a sleepy moon with \"zzz\"",
+  "image": "images/beat_017.png"
+ },
+ {
+  "beat": 18,
+  "start": 48.235,
+  "dur": 5.0,
+  "text": "Most people call it a food coma, so let's go with that.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} at the desk with a small sign above the head reading \"FOOD COMA\"",
+  "image": "images/beat_018.png"
+ },
+ {
+  "beat": 19,
+  "start": 53.235,
+  "dur": 3.333,
+  "text": "And no, you're not actually in a coma.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} at the desk, eyes half-closed, giving a tiny thumbs-up shape with a stick arm to show you're fine",
+  "image": "images/beat_019.png"
+ },
+ {
+  "beat": 20,
+  "start": 56.568,
+  "dur": 3.75,
+  "text": "You're still conscious. Just sleepy and struggling to concentrate.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} propping the oversized head up on a stick arm, eyes drooping, cursor blinking on the screen",
+  "image": "images/beat_020.png"
+ },
+ {
+  "beat": 21,
+  "start": 60.318,
+  "dur": 3.333,
+  "text": "It's actually a very common response after eating.",
+  "motion": "push",
+  "scene": "office",
+  "action": "the whole open-plan office after lunch with several coworkers yawning, slumped and blinking slowly at their screens",
+  "image": "images/beat_021.png"
+ },
+ {
+  "beat": 22,
+  "start": 63.651,
+  "dur": 5.0,
+  "text": "For years, people have offered some simple explanations for why this happens.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{COWORKER} leaning over the desk divider toward {YOU} with a know-it-all expression",
+  "image": "images/beat_022.png"
+ },
+ {
+  "beat": 23,
+  "start": 68.651,
+  "dur": 2.917,
+  "text": "Some say that after eating, blood rushes",
+  "motion": "push",
+  "scene": "body",
+  "action": "a cartoon torso diagram with red arrows rushing down from the head toward the stomach",
+  "image": "images/beat_023.png"
+ },
+ {
+  "beat": 24,
+  "start": 71.568,
+  "dur": 4.167,
+  "text": "from your brain to your stomach to help with digestion.",
+  "motion": "pull",
+  "scene": "body",
+  "action": "{STOMACH} greedily hugging a pile of red blood cells while {BRAIN} watches from above, looking pale",
+  "image": "images/beat_024.png"
+ },
+ {
+  "beat": 25,
+  "start": 75.735,
+  "dur": 3.75,
+  "text": "So your brain doesn't get enough blood or oxygen,",
+  "motion": "push",
+  "scene": "body",
+  "action": "{BRAIN} gasping with an empty oxygen tank labelled \"O2\" beside it",
+  "image": "images/beat_025.png"
+ },
+ {
+  "beat": 26,
+  "start": 79.485,
+  "dur": 2.5,
+  "text": "and that's why you feel sleepy.",
+  "motion": "shake",
+  "scene": "office",
+  "action": "{YOU} faceplanting gently onto the keyboard with small \"zzz\" letters rising",
+  "image": "images/beat_026.png"
+ },
+ {
+  "beat": 27,
+  "start": 81.985,
+  "dur": 1.25,
+  "text": "Heard that before?",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} looking straight at the viewer with a raised left eyebrow",
+  "image": "images/beat_027.png"
+ },
+ {
+  "beat": 28,
+  "start": 83.235,
+  "dur": 4.583,
+  "text": "Others say that the sleepiness is caused by your blood sugar",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "a simple line graph of blood sugar shooting up after a plate icon",
+  "image": "images/beat_028.png"
+ },
+ {
+  "beat": 29,
+  "start": 87.818,
+  "dur": 2.083,
+  "text": "suddenly crashing after a meal.",
+  "motion": "pull",
+  "scene": "graphic",
+  "action": "the same line graph plunging straight down off a cliff edge, a tiny cartoon sugar cube falling with it",
+  "image": "images/beat_029.png"
+ },
+ {
+  "beat": 30,
+  "start": 89.901,
+  "dur": 3.75,
+  "text": "But neither of these explains the usual food coma.",
+  "motion": "shake",
+  "scene": "graphic",
+  "action": "both myth diagrams stamped with a big red \"MYTH\" stamp",
+  "image": "images/beat_030.png"
+ },
+ {
+  "beat": 31,
+  "start": 93.651,
+  "dur": 4.167,
+  "text": "Yes, blood flow to your digestive organs increases after eating.",
+  "motion": "push",
+  "scene": "body",
+  "action": "a cartoon torso diagram with a gentle extra stream of red flowing toward the stomach and intestines",
+  "image": "images/beat_031.png"
+ },
+ {
+  "beat": 32,
+  "start": 97.818,
+  "dur": 5.0,
+  "text": "But your body doesn't simply abandon your brain to make that happen.",
+  "motion": "pan",
+  "scene": "body",
+  "action": "the same torso diagram with a steady, unchanged red stream still flowing up to {BRAIN}, who gives a calm nod",
+  "image": "images/beat_032.png"
+ },
+ {
+  "beat": 33,
+  "start": 102.818,
+  "dur": 3.75,
+  "text": "So no, your stomach hasn't stolen your brain's oxygen",
+  "motion": "push",
+  "scene": "body",
+  "action": "{STOMACH} holding its stick arms up innocently while {BRAIN} breathes easily beside it",
+  "image": "images/beat_033.png"
+ },
+ {
+  "beat": 34,
+  "start": 106.568,
+  "dur": 2.5,
+  "text": "because you ate too much rice.",
+  "motion": "pull",
+  "scene": "cafe",
+  "action": "a huge mound of white rice on a plate, steam rising, a spoon stuck in the top",
+  "image": "images/beat_034.png"
+ },
+ {
+  "beat": 35,
+  "start": 109.068,
+  "dur": 2.917,
+  "text": "And what about that blood sugar crash?",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "the falling blood sugar graph from before with a large question mark beside it",
+  "image": "images/beat_035.png"
+ },
+ {
+  "beat": 36,
+  "start": 111.985,
+  "dur": 4.583,
+  "text": "Well, after eating carbohydrates, your body breaks them down into glucose,",
+  "motion": "push",
+  "scene": "body",
+  "action": "a bowl of rice and a slice of bread breaking apart into many small glowing sugar cubes inside a cartoon stomach",
+  "image": "images/beat_036.png"
+ },
+ {
+  "beat": 37,
+  "start": 116.568,
+  "dur": 2.5,
+  "text": "causing your blood sugar to rise.",
+  "motion": "pan",
+  "scene": "blood",
+  "action": "small sugar cubes drifting along a blood vessel among round red blood cells, a gauge rising",
+  "image": "images/beat_037.png"
+ },
+ {
+  "beat": 38,
+  "start": 119.068,
+  "dur": 2.083,
+  "text": "Your pancreas then releases insulin",
+  "motion": "push",
+  "scene": "body",
+  "action": "{PANCREAS} releasing small golden key-shaped insulin icons into the bloodstream",
+  "image": "images/beat_038.png"
+ },
+ {
+  "beat": 39,
+  "start": 121.151,
+  "dur": 3.333,
+  "text": "to help move that glucose into your cells,",
+  "motion": "pull",
+  "scene": "blood",
+  "action": "golden key-shaped insulin icons unlocking small round doors on cartoon cells as sugar cubes move inside",
+  "image": "images/beat_039.png"
+ },
+ {
+  "beat": 40,
+  "start": 124.484,
+  "dur": 2.917,
+  "text": "where it can be used for energy.",
+  "motion": "push",
+  "scene": "blood",
+  "action": "a cartoon cell glowing warmly with a small full battery icon inside it",
+  "image": "images/beat_040.png"
+ },
+ {
+  "beat": 41,
+  "start": 127.401,
+  "dur": 3.75,
+  "text": "In most healthy people, this process is carefully regulated.",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "a smooth, gentle wavy blood sugar line staying inside a shaded green safe band",
+  "image": "images/beat_041.png"
+ },
+ {
+  "beat": 42,
+  "start": 131.151,
+  "dur": 3.75,
+  "text": "There is a real condition though called reactive hypoglycemia,",
+  "motion": "pan",
+  "scene": "graphic",
+  "action": "a title card reading \"REACTIVE HYPOGLYCEMIA\" with a small medical cross icon",
+  "image": "images/beat_042.png"
+ },
+ {
+  "beat": 43,
+  "start": 134.901,
+  "dur": 3.333,
+  "text": "where blood sugar falls too low after eating.",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "a blood sugar line dipping below a shaded green safe band into a pale red zone",
+  "image": "images/beat_043.png"
+ },
+ {
+  "beat": 44,
+  "start": 138.234,
+  "dur": 3.333,
+  "text": "But this is different from ordinary post-meal sleepiness",
+  "motion": "pull",
+  "scene": "graphic",
+  "action": "a split frame: left, a doctor's chart with a falling line; right, {YOU} simply yawning at a desk",
+  "image": "images/beat_044.png"
+ },
+ {
+  "beat": 45,
+  "start": 141.567,
+  "dur": 2.917,
+  "text": "and generally happens hours after a meal",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "a clock face with an arrow sweeping across several hours, a plate icon at the start",
+  "image": "images/beat_045.png"
+ },
+ {
+  "beat": 46,
+  "start": 144.484,
+  "dur": 3.75,
+  "text": "rather than a few minutes after you finish eating.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} yawning at the desk just after lunch, a wall clock reading 1:10",
+  "image": "images/beat_046.png"
+ },
+ {
+  "beat": 47,
+  "start": 148.234,
+  "dur": 3.75,
+  "text": "So if your brain isn't being deprived of oxygen,",
+  "motion": "pan",
+  "scene": "body",
+  "action": "{BRAIN} breathing easily, the empty oxygen tank from before crossed out",
+  "image": "images/beat_047.png"
+ },
+ {
+  "beat": 48,
+  "start": 151.984,
+  "dur": 2.917,
+  "text": "and your blood sugar hasn't necessarily crashed,",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "the steady blood sugar line inside the green band, the cliff graph crossed out",
+  "image": "images/beat_048.png"
+ },
+ {
+  "beat": 49,
+  "start": 154.901,
+  "dur": 2.083,
+  "text": "what's making you so sleepy?",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} with heavy eyelids and a large question mark looming behind the head",
+  "image": "images/beat_049.png"
+ },
+ {
+  "beat": 50,
+  "start": 156.984,
+  "dur": 3.333,
+  "text": "Okay, let's follow your lunch for a moment.",
+  "motion": "fade",
+  "scene": "cafe",
+  "action": "a forkful of rice and curry heading toward the camera, a dotted travel line drawn from it",
+  "image": "images/beat_050.png"
+ },
+ {
+  "beat": 51,
+  "start": 160.317,
+  "dur": 1.667,
+  "text": "You've just finished eating.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "{YOU} putting the spoon down onto an empty plate with satisfaction",
+  "image": "images/beat_051.png"
+ },
+ {
+  "beat": 52,
+  "start": 161.984,
+  "dur": 2.917,
+  "text": "The food travels down into your stomach,",
+  "motion": "pan",
+  "scene": "body",
+  "action": "a cartoon torso cutaway with a little lump of food sliding down the food pipe toward {STOMACH}",
+  "image": "images/beat_052.png"
+ },
+ {
+  "beat": 53,
+  "start": 164.901,
+  "dur": 4.583,
+  "text": "and as your stomach fills up, its walls begin to stretch.",
+  "motion": "push",
+  "scene": "body",
+  "action": "{STOMACH} puffing up like a balloon, small stretch lines on its walls",
+  "image": "images/beat_053.png"
+ },
+ {
+  "beat": 54,
+  "start": 169.484,
+  "dur": 3.75,
+  "text": "Now, your stomach doesn't just sit there holding food.",
+  "motion": "pull",
+  "scene": "body",
+  "action": "{STOMACH} rolling up invisible sleeves, ready to work, full of food",
+  "image": "images/beat_054.png"
+ },
+ {
+  "beat": 55,
+  "start": 173.234,
+  "dur": 2.917,
+  "text": "It starts sending messages to your brain.",
+  "motion": "push",
+  "scene": "body",
+  "action": "{STOMACH} sending small glowing envelope icons up a nerve line toward {BRAIN}",
+  "image": "images/beat_055.png"
+ },
+ {
+  "beat": 56,
+  "start": 176.151,
+  "dur": 5.0,
+  "text": "Basically telling it, \"Hey, food has arrived, we've got work to do.\"",
+  "motion": "push",
+  "scene": "brainhq",
+  "action": "{BRAIN} in the control room reading a message card that says \"FOOD HAS ARRIVED\" while an alert light blinks",
+  "image": "images/beat_056.png"
+ },
+ {
+  "beat": 57,
+  "start": 181.151,
+  "dur": 4.583,
+  "text": "And as that food moves into your intestines, more messages follow.",
+  "motion": "pan",
+  "scene": "body",
+  "action": "food moving from {STOMACH} into {GUT}, a second wave of glowing envelope icons rising toward the head",
+  "image": "images/beat_057.png"
+ },
+ {
+  "beat": 58,
+  "start": 185.734,
+  "dur": 4.167,
+  "text": "Your intestines begin breaking down the food further, absorbing nutrients,",
+  "motion": "push",
+  "scene": "body",
+  "action": "{GUT} busily sorting food into small coloured nutrient dots that float into nearby blood vessels",
+  "image": "images/beat_058.png"
+ },
+ {
+  "beat": 59,
+  "start": 189.901,
+  "dur": 4.167,
+  "text": "and releasing chemical messengers that help control digestion and appetite.",
+  "motion": "pull",
+  "scene": "body",
+  "action": "{GUT} releasing small coloured messenger droplets with tiny wings that fly up toward the head",
+  "image": "images/beat_059.png"
+ },
+ {
+  "beat": 60,
+  "start": 194.068,
+  "dur": 5.0,
+  "text": "But what does any of this have to do with feeling sleepy?",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} yawning widely at the desk, one eye on a floating diagram of a stomach",
+  "image": "images/beat_060.png"
+ },
+ {
+  "beat": 61,
+  "start": 199.068,
+  "dur": 2.917,
+  "text": "Well, your brain doesn't just control hunger.",
+  "motion": "push",
+  "scene": "brainhq",
+  "action": "{BRAIN} in the control room at a big dial labelled \"HUNGER\"",
+  "image": "images/beat_061.png"
+ },
+ {
+  "beat": 62,
+  "start": 201.985,
+  "dur": 3.75,
+  "text": "It also controls how awake and alert you feel.",
+  "motion": "pan",
+  "scene": "brainhq",
+  "action": "{BRAIN} turning to a second big gauge labelled \"ALERTNESS\" with its needle high",
+  "image": "images/beat_062.png"
+ },
+ {
+  "beat": 63,
+  "start": 205.735,
+  "dur": 3.333,
+  "text": "After eating, the messages coming from your gut,",
+  "motion": "push",
+  "scene": "brainhq",
+  "action": "glowing envelope icons arriving through a pipe into the control room",
+  "image": "images/beat_063.png"
+ },
+ {
+  "beat": 64,
+  "start": 209.068,
+  "dur": 3.333,
+  "text": "along with changes in nutrients in your blood,",
+  "motion": "pull",
+  "scene": "blood",
+  "action": "coloured nutrient dots and sugar cubes flowing through a blood vessel toward the head",
+  "image": "images/beat_064.png"
+ },
+ {
+  "beat": 65,
+  "start": 212.401,
+  "dur": 4.583,
+  "text": "can influence the parts of your brain that keep you awake.",
+  "motion": "push",
+  "scene": "brainhq",
+  "action": "the \"ALERTNESS\" gauge needle slowly drifting down while {BRAIN} yawns",
+  "image": "images/beat_065.png"
+ },
+ {
+  "beat": 66,
+  "start": 216.984,
+  "dur": 4.583,
+  "text": "Scientists are still studying exactly how these different signals work together.",
+  "motion": "push",
+  "scene": "lab",
+  "action": "{RESEARCHER} studying a whiteboard covered in arrows connecting a stomach, a brain and a moon icon",
+  "image": "images/beat_066.png"
+ },
+ {
+  "beat": 67,
+  "start": 221.567,
+  "dur": 2.083,
+  "text": "There's no single sleep button",
+  "motion": "pan",
+  "scene": "brainhq",
+  "action": "a big red button labelled \"SLEEP\" in the control room, crossed out with a red X",
+  "image": "images/beat_067.png"
+ },
+ {
+  "beat": 68,
+  "start": 223.65,
+  "dur": 3.333,
+  "text": "that your stomach presses every time you eat.",
+  "motion": "push",
+  "scene": "body",
+  "action": "{STOMACH} reaching toward a big red button, then shrugging because it isn't there",
+  "image": "images/beat_068.png"
+ },
+ {
+  "beat": 69,
+  "start": 226.983,
+  "dur": 3.75,
+  "text": "And these responses don't affect everyone the same way.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "three coworkers after the same lunch: one wide awake, one slightly drowsy, one fast asleep on the desk",
+  "image": "images/beat_069.png"
+ },
+ {
+  "beat": 70,
+  "start": 230.733,
+  "dur": 4.583,
+  "text": "You could eat the exact same meal for breakfast and lunch,",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "a split frame of two identical plates of rice and eggs, a rising sun above one and a midday sun above the other",
+  "image": "images/beat_070.png"
+ },
+ {
+  "beat": 71,
+  "start": 235.316,
+  "dur": 2.5,
+  "text": "yet feel much sleepier after lunch.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} wide awake in a small morning inset, and drooping heavily at the desk in the main frame",
+  "image": "images/beat_071.png"
+ },
+ {
+  "beat": 72,
+  "start": 237.816,
+  "dur": 1.2,
+  "text": "Why?",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} with heavy eyelids and one eyebrow raised",
+  "image": "images/beat_072.png"
+ },
+ {
+  "beat": 73,
+  "start": 239.016,
+  "dur": 3.75,
+  "text": "Because sometimes, it's not just about what you eat.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "a plate of food on the canteen table with a small ring of light around it",
+  "image": "images/beat_073.png"
+ },
+ {
+  "beat": 74,
+  "start": 242.766,
+  "dur": 2.083,
+  "text": "It's about when you eat.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "the office wall clock reading 1:00 with a soft spotlight on it",
+  "image": "images/beat_074.png"
+ },
+ {
+  "beat": 75,
+  "start": 244.849,
+  "dur": 2.083,
+  "text": "Think about your usual day.",
+  "motion": "fade",
+  "scene": "graphic",
+  "action": "a simple horizontal timeline of a day from sunrise to moonrise with small icons for breakfast, lunch and bed",
+  "image": "images/beat_075.png"
+ },
+ {
+  "beat": 76,
+  "start": 246.932,
+  "dur": 2.5,
+  "text": "You wake up and eat breakfast",
+  "motion": "push",
+  "scene": "breakfast",
+  "action": "{YOU} at a home kitchen table eating toast with a cup of coffee",
+  "image": "images/beat_076.png"
+ },
+ {
+  "beat": 77,
+  "start": 249.432,
+  "dur": 3.333,
+  "text": "and you most likely feel perfectly fine afterward.",
+  "motion": "pan",
+  "scene": "breakfast",
+  "action": "{YOU} heading out the door with a bright, alert face",
+  "image": "images/beat_077.png"
+ },
+ {
+  "beat": 78,
+  "start": 252.765,
+  "dur": 1.667,
+  "text": "Then you have lunch,",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "{YOU} eating lunch at the canteen table",
+  "image": "images/beat_078.png"
+ },
+ {
+  "beat": 79,
+  "start": 254.432,
+  "dur": 5.417,
+  "text": "and suddenly, you're fighting for your life to stay awake at your desk.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} at the desk propping both eyelids open with two small paper clips, eyes bloodshot",
+  "image": "images/beat_079.png"
+ },
+ {
+  "beat": 80,
+  "start": 259.849,
+  "dur": 1.2,
+  "text": "Why?",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} slumped with the head on one stick arm, staring at the viewer",
+  "image": "images/beat_080.png"
+ },
+ {
+  "beat": 81,
+  "start": 261.049,
+  "dur": 3.333,
+  "text": "Because your body has its own internal clock.",
+  "motion": "push",
+  "scene": "body",
+  "action": "a simple cartoon silhouette of a person with a small glowing clock inside the head",
+  "image": "images/beat_081.png"
+ },
+ {
+  "beat": 82,
+  "start": 264.382,
+  "dur": 2.083,
+  "text": "It's called your circadian rhythm.",
+  "motion": "pan",
+  "scene": "clockgfx",
+  "action": "a title card reading \"CIRCADIAN RHYTHM\" over a 24-hour clock with a sun and moon",
+  "image": "images/beat_082.png"
+ },
+ {
+  "beat": 83,
+  "start": 266.465,
+  "dur": 3.333,
+  "text": "This clock helps regulate when you feel awake,",
+  "motion": "push",
+  "scene": "clockgfx",
+  "action": "the 24-hour clock with a bright sun segment glowing on the morning side",
+  "image": "images/beat_083.png"
+ },
+ {
+  "beat": 84,
+  "start": 269.798,
+  "dur": 4.583,
+  "text": "when you become tired, and when your body prepares for sleep.",
+  "motion": "pull",
+  "scene": "clockgfx",
+  "action": "the 24-hour clock with the night segment glowing dark blue and a small moon and bed icon",
+  "image": "images/beat_084.png"
+ },
+ {
+  "beat": 85,
+  "start": 274.381,
+  "dur": 5.0,
+  "text": "But in the early afternoon, usually between 1 p.m. and 4 p.m.,",
+  "motion": "push",
+  "scene": "clockgfx",
+  "action": "the 24-hour clock with the slice between 1 p.m. and 4 p.m. highlighted in mustard yellow",
+  "image": "images/beat_085.png"
+ },
+ {
+  "beat": 86,
+  "start": 279.381,
+  "dur": 2.5,
+  "text": "your alertness naturally tends to dip.",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "a smooth alertness curve across the day with a gentle dip in the early afternoon",
+  "image": "images/beat_086.png"
+ },
+ {
+  "beat": 87,
+  "start": 281.881,
+  "dur": 3.75,
+  "text": "And this happens even if you haven't eaten lunch.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} at the desk with no food in sight, still yawning, an untouched lunch box closed beside the laptop",
+  "image": "images/beat_087.png"
+ },
+ {
+  "beat": 88,
+  "start": 285.631,
+  "dur": 1.667,
+  "text": "Now imagine eating lunch",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "{YOU} lifting a full spoon of rice toward the mouth",
+  "image": "images/beat_088.png"
+ },
+ {
+  "beat": 89,
+  "start": 287.298,
+  "dur": 3.75,
+  "text": "right when your body is already experiencing that dip.",
+  "motion": "shake",
+  "scene": "graphic",
+  "action": "a plate icon dropping exactly into the low point of the alertness curve with a heavy thud line",
+  "image": "images/beat_089.png"
+ },
+ {
+  "beat": 90,
+  "start": 291.048,
+  "dur": 4.167,
+  "text": "Of course you're going to have a harder time concentrating.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} staring at a blurred laptop screen, the text swimming",
+  "image": "images/beat_090.png"
+ },
+ {
+  "beat": 91,
+  "start": 295.215,
+  "dur": 3.75,
+  "text": "So is that all there is to it? Timing?",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} glancing up at the wall clock with suspicion",
+  "image": "images/beat_091.png"
+ },
+ {
+  "beat": 92,
+  "start": 298.965,
+  "dur": 4.167,
+  "text": "What about what we eat and how much we eat?",
+  "motion": "pan",
+  "scene": "cafe",
+  "action": "a canteen tray with a huge plate of pasta, fries and a small salad pushed to the side",
+  "image": "images/beat_092.png"
+ },
+ {
+  "beat": 93,
+  "start": 303.132,
+  "dur": 2.083,
+  "text": "Researchers actually conducted an experiment",
+  "motion": "fade",
+  "scene": "lab",
+  "action": "{RESEARCHER} in a research room with a clipboard, a stack of pizza boxes on the table",
+  "image": "images/beat_093.png"
+ },
+ {
+  "beat": 94,
+  "start": 305.215,
+  "dur": 3.333,
+  "text": "where men ate pizza on two different occasions.",
+  "motion": "pull",
+  "scene": "lab",
+  "action": "{MEN} seated at the lab table in front of open pizza boxes, with \"VISIT 1\" and \"VISIT 2\" signs on the wall",
+  "image": "images/beat_094.png"
+ },
+ {
+  "beat": 95,
+  "start": 308.548,
+  "dur": 4.167,
+  "text": "On one occasion, they stopped when they felt comfortably full.",
+  "motion": "push",
+  "scene": "lab",
+  "action": "{MEN} pushing back a few remaining slices with satisfied, relaxed faces",
+  "image": "images/beat_095.png"
+ },
+ {
+  "beat": 96,
+  "start": 312.715,
+  "dur": 5.0,
+  "text": "On the other, they kept eating until they couldn't manage another bite.",
+  "motion": "push",
+  "scene": "lab",
+  "action": "{MEN} surrounded by empty pizza boxes, cheeks puffed, staring at one last slice in defeat",
+  "image": "images/beat_096.png"
+ },
+ {
+  "beat": 97,
+  "start": 317.715,
+  "dur": 4.167,
+  "text": "And yes, apparently eating pizza was part of the experiment.",
+  "motion": "pan",
+  "scene": "lab",
+  "action": "{RESEARCHER} calmly ticking a box on the clipboard beside a giant stack of empty pizza boxes",
+  "image": "images/beat_097.png"
+ },
+ {
+  "beat": 98,
+  "start": 321.882,
+  "dur": 3.333,
+  "text": "The men reported feeling more tired and sluggish",
+  "motion": "push",
+  "scene": "lab",
+  "action": "{MEN} slumped in their chairs, eyes half-closed, filling in a questionnaire",
+  "image": "images/beat_098.png"
+ },
+ {
+  "beat": 99,
+  "start": 325.215,
+  "dur": 2.083,
+  "text": "after the much larger meal.",
+  "motion": "pull",
+  "scene": "lab",
+  "action": "a questionnaire with a tiredness scale, the highest box ticked",
+  "image": "images/beat_099.png"
+ },
+ {
+  "beat": 100,
+  "start": 327.298,
+  "dur": 3.333,
+  "text": "So sometimes, it's not just what you eat.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "a single normal-sized plate of food on the canteen table",
+  "image": "images/beat_100.png"
+ },
+ {
+  "beat": 101,
+  "start": 330.631,
+  "dur": 2.083,
+  "text": "It's how much you eat.",
+  "motion": "shake",
+  "scene": "cafe",
+  "action": "the same plate now piled impossibly high, towering over {YOU}",
+  "image": "images/beat_101.png"
+ },
+ {
+  "beat": 102,
+  "start": 332.714,
+  "dur": 2.917,
+  "text": "Food composition can also make a difference.",
+  "motion": "pan",
+  "scene": "graphic",
+  "action": "a plate divided into colourful sections of carbohydrates, protein, fat and vegetables",
+  "image": "images/beat_102.png"
+ },
+ {
+  "beat": 103,
+  "start": 335.631,
+  "dur": 3.75,
+  "text": "Large meals containing plenty of refined carbohydrates and fat",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "a canteen tray loaded with white bread, fries, creamy pasta and a sugary drink",
+  "image": "images/beat_103.png"
+ },
+ {
+  "beat": 104,
+  "start": 339.381,
+  "dur": 2.917,
+  "text": "may leave some people feeling especially sluggish.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} sinking slowly into the desk chair like it's quicksand",
+  "image": "images/beat_104.png"
+ },
+ {
+  "beat": 105,
+  "start": 342.298,
+  "dur": 4.583,
+  "text": "Now, I'm not saying you should stop eating rice or potatoes.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "{YOU} protectively hugging a bowl of rice and a bowl of potatoes",
+  "image": "images/beat_105.png"
+ },
+ {
+  "beat": 106,
+  "start": 346.881,
+  "dur": 2.917,
+  "text": "How much you eat, what you eat,",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "three simple icons in a row: a measuring scoop, a plate and a clock",
+  "image": "images/beat_106.png"
+ },
+ {
+  "beat": 107,
+  "start": 349.798,
+  "dur": 3.333,
+  "text": "and when you eat all play a part.",
+  "motion": "pan",
+  "scene": "graphic",
+  "action": "the three icons linked together into one triangle with a sleepy moon in the middle",
+  "image": "images/beat_107.png"
+ },
+ {
+  "beat": 108,
+  "start": 353.131,
+  "dur": 2.5,
+  "text": "Interestingly, people were making this connection",
+  "motion": "fade",
+  "scene": "ayurveda",
+  "action": "an ancient Indian courtyard at dawn with brass vessels, herbs drying and a small fire",
+  "image": "images/beat_108.png"
+ },
+ {
+  "beat": 109,
+  "start": 355.631,
+  "dur": 2.917,
+  "text": "long before modern scientists studied food comas.",
+  "motion": "pull",
+  "scene": "ayurveda",
+  "action": "old palm-leaf manuscripts laid out on a cloth beside a modern laboratory flask, contrasting eras",
+  "image": "images/beat_109.png"
+ },
+ {
+  "beat": 110,
+  "start": 358.548,
+  "dur": 2.917,
+  "text": "In Ayurveda, the traditional Indian medical system,",
+  "motion": "push",
+  "scene": "ayurveda",
+  "action": "{VAIDYA} seated cross-legged beside brass bowls of herbs and spices",
+  "image": "images/beat_110.png"
+ },
+ {
+  "beat": 111,
+  "start": 361.465,
+  "dur": 3.333,
+  "text": "there's a concept called Agni, or digestive fire.",
+  "motion": "push",
+  "scene": "ayurveda",
+  "action": "{VAIDYA} beside a small steady flame drawn inside a cartoon stomach outline, a label reading \"AGNI\"",
+  "image": "images/beat_111.png"
+ },
+ {
+  "beat": 112,
+  "start": 364.798,
+  "dur": 3.333,
+  "text": "Heavy eating was traditionally associated with sluggish digestion",
+  "motion": "pan",
+  "scene": "ayurveda",
+  "action": "a small flame smothered under a huge pile of food, burning low and smoky",
+  "image": "images/beat_112.png"
+ },
+ {
+  "beat": 113,
+  "start": 368.131,
+  "dur": 1.667,
+  "text": "and feelings of lethargy.",
+  "motion": "push",
+  "scene": "ayurveda",
+  "action": "a traveller with an oversized head dozing against a pillar after a big meal, empty brass plates beside him",
+  "image": "images/beat_113.png"
+ },
+ {
+  "beat": 114,
+  "start": 369.798,
+  "dur": 3.333,
+  "text": "It's a different way of explaining the experience,",
+  "motion": "pull",
+  "scene": "ayurveda",
+  "action": "a split frame: the palm-leaf manuscript on the left, a modern stomach-and-brain diagram on the right",
+  "image": "images/beat_114.png"
+ },
+ {
+  "beat": 115,
+  "start": 373.131,
+  "dur": 5.0,
+  "text": "but it shows how long people have been paying attention to it.",
+  "motion": "push",
+  "scene": "ayurveda",
+  "action": "a long timeline ribbon unrolling from the ancient courtyard toward a modern office in the distance",
+  "image": "images/beat_115.png"
+ },
+ {
+  "beat": 116,
+  "start": 378.131,
+  "dur": 5.0,
+  "text": "So, can we actually do anything to stop feeling sleepy after eating?",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} at the desk looking up with hope, a small light bulb flickering above the head",
+  "image": "images/beat_116.png"
+ },
+ {
+  "beat": 117,
+  "start": 383.131,
+  "dur": 3.333,
+  "text": "Or should you just accept that every afternoon",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} wearing a tiny boxing headband, facing a giant pair of cartoon eyelids",
+  "image": "images/beat_117.png"
+ },
+ {
+  "beat": 118,
+  "start": 386.464,
+  "dur": 3.75,
+  "text": "is going to be a battle against your eyelids?",
+  "motion": "push",
+  "scene": "office",
+  "action": "giant cartoon eyelids pressing down while {YOU} pushes back with both stick arms",
+  "image": "images/beat_118.png"
+ },
+ {
+  "beat": 119,
+  "start": 390.214,
+  "dur": 4.167,
+  "text": "The first thing to consider is how much you're eating.",
+  "motion": "pull",
+  "scene": "cafe",
+  "action": "{YOU} at the canteen counter looking at a plate with a portion-size ring drawn on it",
+  "image": "images/beat_119.png"
+ },
+ {
+  "beat": 120,
+  "start": 394.381,
+  "dur": 3.75,
+  "text": "You don't have to eat until you're completely stuffed.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "{YOU} with puffed cheeks and a belly line straining, crossed out with a red X",
+  "image": "images/beat_120.png"
+ },
+ {
+  "beat": 121,
+  "start": 398.131,
+  "dur": 2.5,
+  "text": "Try stopping when you're comfortably satisfied.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "{YOU} setting down the spoon with a little food left, looking pleased and relaxed",
+  "image": "images/beat_121.png"
+ },
+ {
+  "beat": 122,
+  "start": 400.631,
+  "dur": 3.333,
+  "text": "There's even a traditional eating principle called Mitahara,",
+  "motion": "pan",
+  "scene": "ayurveda",
+  "action": "a title card reading \"MITAHARA\" over a simple brass plate with a modest meal",
+  "image": "images/beat_122.png"
+ },
+ {
+  "beat": 123,
+  "start": 403.964,
+  "dur": 2.917,
+  "text": "which encourages moderation rather than stuffing yourself.",
+  "motion": "push",
+  "scene": "ayurveda",
+  "action": "a balanced brass scale with a modest plate on one side and a feather on the other",
+  "image": "images/beat_123.png"
+ },
+ {
+  "beat": 124,
+  "start": 406.881,
+  "dur": 2.5,
+  "text": "Next, let's look at your plate.",
+  "motion": "pull",
+  "scene": "cafe",
+  "action": "top-down view of an empty canteen plate on a tray",
+  "image": "images/beat_124.png"
+ },
+ {
+  "beat": 125,
+  "start": 409.381,
+  "dur": 4.167,
+  "text": "If you're eating rice, you don't need to remove it.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "top-down view of a plate with a neat scoop of rice in one section",
+  "image": "images/beat_125.png"
+ },
+ {
+  "beat": 126,
+  "start": 413.548,
+  "dur": 4.167,
+  "text": "Just consider the portion and add some protein and vegetables.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "top-down view of the plate with a smaller rice portion, grilled chicken, lentils and colourful vegetables",
+  "image": "images/beat_126.png"
+ },
+ {
+  "beat": 127,
+  "start": 417.715,
+  "dur": 1.2,
+  "text": "Another thing?",
+  "motion": "pan",
+  "scene": "cafe",
+  "action": "{YOU} holding up a spoon, one eyebrow raised",
+  "image": "images/beat_127.png"
+ },
+ {
+  "beat": 128,
+  "start": 418.915,
+  "dur": 1.2,
+  "text": "Slow down.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "a snail sitting next to a plate of food on the canteen table",
+  "image": "images/beat_128.png"
+ },
+ {
+  "beat": 129,
+  "start": 420.115,
+  "dur": 2.917,
+  "text": "Give yourself time to enjoy your food",
+  "motion": "pull",
+  "scene": "cafe",
+  "action": "{YOU} chewing slowly with eyes closed in enjoyment",
+  "image": "images/beat_129.png"
+ },
+ {
+  "beat": 130,
+  "start": 423.032,
+  "dur": 2.5,
+  "text": "and notice when you've had enough.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "a small fuel gauge floating beside {YOU} reaching \"FULL ENOUGH\"",
+  "image": "images/beat_130.png"
+ },
+ {
+  "beat": 131,
+  "start": 425.532,
+  "dur": 2.917,
+  "text": "And after eating, instead of immediately settling",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} hovering just above the desk chair, about to sink in",
+  "image": "images/beat_131.png"
+ },
+ {
+  "beat": 132,
+  "start": 428.449,
+  "dur": 3.333,
+  "text": "into a chair for the next three hours,",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} melted into the desk chair, a wall clock spinning fast as hours pass",
+  "image": "images/beat_132.png"
+ },
+ {
+  "beat": 133,
+  "start": 431.782,
+  "dur": 2.083,
+  "text": "consider taking a short walk.",
+  "motion": "push",
+  "scene": "park",
+  "action": "{YOU} strolling along a leafy park path beside the office building",
+  "image": "images/beat_133.png"
+ },
+ {
+  "beat": 134,
+  "start": 433.865,
+  "dur": 3.333,
+  "text": "Even 10 to 15 minutes of gentle movement",
+  "motion": "pull",
+  "scene": "park",
+  "action": "{YOU} walking with a small floating timer reading \"10\u201315 MIN\"",
+  "image": "images/beat_134.png"
+ },
+ {
+  "beat": 135,
+  "start": 437.198,
+  "dur": 2.5,
+  "text": "may leave you feeling more alert.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} back at the desk with brighter eyes, the \"ALERTNESS\" gauge floating beside the head rising a little",
+  "image": "images/beat_135.png"
+ },
+ {
+  "beat": 136,
+  "start": 439.698,
+  "dur": 3.333,
+  "text": "Still feeling sleepy even after trying all these?",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} next to a small salad and a pair of walking shoes, still yawning",
+  "image": "images/beat_136.png"
+ },
+ {
+  "beat": 137,
+  "start": 443.031,
+  "dur": 3.75,
+  "text": "Maybe your lunch isn't the main reason you're exhausted.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "{YOU} looking at an empty lunch box, then glancing sideways suspiciously",
+  "image": "images/beat_137.png"
+ },
+ {
+  "beat": 138,
+  "start": 446.781,
+  "dur": 3.333,
+  "text": "Maybe you've been sleeping four hours a night,",
+  "motion": "fade",
+  "scene": "bedroom",
+  "action": "{YOU} lying awake in bed lit by a glowing phone, the bedside clock reading 2:47",
+  "image": "images/beat_138.png"
+ },
+ {
+  "beat": 139,
+  "start": 450.114,
+  "dur": 2.917,
+  "text": "waking up early and working all day.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} at the desk at dawn with the window still dark and a tower of coffee cups growing",
+  "image": "images/beat_139.png"
+ },
+ {
+  "beat": 140,
+  "start": 453.031,
+  "dur": 2.917,
+  "text": "Poor sleep, dehydration, inactivity and ongoing stress",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "four simple icons in a row: an empty bed, an empty water glass, a still desk chair and a storm cloud",
+  "image": "images/beat_140.png"
+ },
+ {
+  "beat": 141,
+  "start": 455.948,
+  "dur": 2.5,
+  "text": "can all contribute to general tiredness.",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "the four icons pouring into a single large sleepy battery icon that is nearly empty",
+  "image": "images/beat_141.png"
+ },
+ {
+  "beat": 142,
+  "start": 458.448,
+  "dur": 4.583,
+  "text": "Then you eat a large lunch, your afternoon energy naturally dips,",
+  "motion": "pan",
+  "scene": "graphic",
+  "action": "the nearly empty battery icon, a large plate, and the dipping alertness curve stacked together",
+  "image": "images/beat_142.png"
+ },
+ {
+  "beat": 143,
+  "start": 463.031,
+  "dur": 3.333,
+  "text": "and suddenly you can't keep your eyes open.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} nodding off at the desk, head tipping forward toward the keyboard",
+  "image": "images/beat_143.png"
+ },
+ {
+  "beat": 144,
+  "start": 466.364,
+  "dur": 4.167,
+  "text": "And if you're genuinely tired and your schedule allows it,",
+  "motion": "pull",
+  "scene": "breakroom",
+  "action": "{YOU} looking longingly at a soft grey couch in the quiet break room",
+  "image": "images/beat_144.png"
+ },
+ {
+  "beat": 145,
+  "start": 470.531,
+  "dur": 1.25,
+  "text": "take that nap!",
+  "motion": "push",
+  "scene": "breakroom",
+  "action": "{YOU} curled up asleep on the break room couch with a cushion and a small \"zzz\"",
+  "image": "images/beat_145.png"
+ },
+ {
+  "beat": 146,
+  "start": 471.781,
+  "dur": 4.167,
+  "text": "There's no prize for forcing your eyes to stay open",
+  "motion": "push",
+  "scene": "office",
+  "action": "an empty winner's podium beside the desk with a dusty trophy labelled \"STAYED AWAKE\"",
+  "image": "images/beat_146.png"
+ },
+ {
+  "beat": 147,
+  "start": 475.948,
+  "dur": 2.083,
+  "text": "when your body needs rest.",
+  "motion": "pan",
+  "scene": "breakroom",
+  "action": "{YOU} sleeping peacefully on the couch, a calm smile on the face",
+  "image": "images/beat_147.png"
+ },
+ {
+  "beat": 148,
+  "start": 478.031,
+  "dur": 2.5,
+  "text": "But we need to look out.",
+  "motion": "push",
+  "scene": "clinic",
+  "action": "{YOU} sitting up straighter, a small caution sign floating beside the head",
+  "image": "images/beat_148.png"
+ },
+ {
+  "beat": 149,
+  "start": 480.531,
+  "dur": 2.917,
+  "text": "Occasionally feeling sleepy after eating is common.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} with a mild yawn at the desk, a green tick floating beside the head",
+  "image": "images/beat_149.png"
+ },
+ {
+  "beat": 150,
+  "start": 483.448,
+  "dur": 2.917,
+  "text": "Feeling overwhelmingly exhausted after almost every meal,",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} completely drained after a small meal, a row of plate icons each followed by an empty battery",
+  "image": "images/beat_150.png"
+ },
+ {
+  "beat": 151,
+  "start": 486.365,
+  "dur": 3.75,
+  "text": "or experiencing symptoms that interfere with your daily life,",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} struggling to get up from the desk while a calendar on the wall is covered in crossed-out plans",
+  "image": "images/beat_151.png"
+ },
+ {
+  "beat": 152,
+  "start": 490.115,
+  "dur": 3.333,
+  "text": "is something worth discussing with a healthcare professional.",
+  "motion": "pan",
+  "scene": "clinic",
+  "action": "{DOCTOR} listening attentively to {YOU} across a consulting-room desk",
+  "image": "images/beat_152.png"
+ },
+ {
+  "beat": 153,
+  "start": 493.448,
+  "dur": 2.917,
+  "text": "So, why does eating make you sleepy",
+  "motion": "fade",
+  "scene": "cafe",
+  "action": "{YOU} looking down at a plate of food with a thoughtful, drowsy expression",
+  "image": "images/beat_153.png"
+ },
+ {
+  "beat": 154,
+  "start": 496.365,
+  "dur": 3.333,
+  "text": "when food is supposed to give you energy?",
+  "motion": "pull",
+  "scene": "cafe",
+  "action": "a plate of food with a full battery icon floating above it",
+  "image": "images/beat_154.png"
+ },
+ {
+  "beat": 155,
+  "start": 499.698,
+  "dur": 4.583,
+  "text": "Because having energy available and feeling awake are two different things.",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "a split frame: a full battery icon on the left and a drooping eye icon on the right, with a \"\u2260\" sign between them",
+  "image": "images/beat_155.png"
+ },
+ {
+  "beat": 156,
+  "start": 504.281,
+  "dur": 3.333,
+  "text": "Your food is still giving your body energy.",
+  "motion": "push",
+  "scene": "body",
+  "action": "a cartoon torso cutaway with small glowing battery icons spreading through the body",
+  "image": "images/beat_156.png"
+ },
+ {
+  "beat": 157,
+  "start": 507.614,
+  "dur": 4.583,
+  "text": "But eating also affects the signals involved in digestion and alertness.",
+  "motion": "pan",
+  "scene": "brainhq",
+  "action": "{BRAIN} in the control room as envelope icons arrive and the \"ALERTNESS\" gauge dips",
+  "image": "images/beat_157.png"
+ },
+ {
+  "beat": 158,
+  "start": 512.197,
+  "dur": 2.5,
+  "text": "Add your body's natural afternoon slump,",
+  "motion": "push",
+  "scene": "clockgfx",
+  "action": "the 24-hour clock with the 1 p.m. to 4 p.m. slice glowing mustard yellow",
+  "image": "images/beat_158.png"
+ },
+ {
+  "beat": 159,
+  "start": 514.697,
+  "dur": 3.333,
+  "text": "a heavy meal, or a poor night's sleep,",
+  "motion": "pull",
+  "scene": "graphic",
+  "action": "a heavy plate icon and an empty bed icon dropping onto a balance scale",
+  "image": "images/beat_159.png"
+ },
+ {
+  "beat": 160,
+  "start": 518.03,
+  "dur": 3.75,
+  "text": "and suddenly, keeping your eyes open becomes a struggle.",
+  "motion": "push",
+  "scene": "office",
+  "action": "{YOU} again propping eyelids open with paper clips at the desk",
+  "image": "images/beat_160.png"
+ },
+ {
+  "beat": 161,
+  "start": 521.78,
+  "dur": 5.0,
+  "text": "The good news? You don't need to stop enjoying your favourite foods.",
+  "motion": "push",
+  "scene": "cafe",
+  "action": "{YOU} smiling at a plate of favourite foods: rice and curry, potatoes and a slice of pizza",
+  "image": "images/beat_161.png"
+ },
+ {
+  "beat": 162,
+  "start": 526.78,
+  "dur": 4.583,
+  "text": "Sometimes, changing how much you eat, what you eat alongside it,",
+  "motion": "pan",
+  "scene": "cafe",
+  "action": "top-down view of a balanced plate with a moderate rice portion, protein and vegetables",
+  "image": "images/beat_162.png"
+ },
+ {
+  "beat": 163,
+  "start": 531.363,
+  "dur": 3.75,
+  "text": "or what you do afterward can make a difference.",
+  "motion": "push",
+  "scene": "park",
+  "action": "{YOU} walking along the park path after lunch, alert and relaxed, sunlight through the trees",
+  "image": "images/beat_163.png"
+ },
+ {
+  "beat": 164,
+  "start": 535.113,
+  "dur": 1.25,
+  "text": "Now I'm curious.",
+  "motion": "pull",
+  "scene": "office",
+  "action": "{YOU} turning toward the viewer with an interested raised eyebrow",
+  "image": "images/beat_164.png"
+ },
+ {
+  "beat": 165,
+  "start": 536.363,
+  "dur": 5.0,
+  "text": "Which meal makes you the sleepiest, and what do you usually eat?",
+  "motion": "push",
+  "scene": "graphic",
+  "action": "three plates labelled \"BREAKFAST\", \"LUNCH\" and \"DINNER\" each with a small sleepy face and a question mark",
+  "image": "images/beat_165.png"
+ },
+ {
+  "beat": 166,
+  "start": 541.363,
+  "dur": 2.083,
+  "text": "Tell me in the comments.",
+  "motion": "push",
+  "scene": "phone",
+  "action": "a smartphone screen showing a video comment section with empty comment bubbles and a blinking cursor",
+  "image": "images/beat_166.png"
+ },
+ {
+  "beat": 167,
+  "start": 543.446,
+  "dur": 3.75,
+  "text": "Let's see if we all have the same problem.",
+  "motion": "pan",
+  "scene": "office",
+  "action": "the whole open-plan office after lunch with everyone, including {YOU} and {COWORKER}, yawning together",
+  "image": "images/beat_167.png"
+ }
+]

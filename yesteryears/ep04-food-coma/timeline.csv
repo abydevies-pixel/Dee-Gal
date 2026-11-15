@@ -1,0 +1,168 @@
+beat,start,end,duration_s,motion,scene,image,script_segment
+1,00:00:00.000,00:00:03.750,3.75,push,cafe,images/beat_001.png,It's lunchtime and you just had a wonderful meal.
+2,00:00:03.750,00:00:07.083,3.333,pan,cafe,images/beat_002.png,"You're full, satisfied, and life feels great again."
+3,00:00:07.083,00:00:10.000,2.917,push,office,images/beat_003.png,It's time to get back to work.
+4,00:00:10.000,00:00:11.200,1.2,pull,office,images/beat_004.png,Except...
+5,00:00:11.200,00:00:12.867,1.667,push,office,images/beat_005.png,Your eyes are closing.
+6,00:00:12.867,00:00:17.034,4.167,push,office,images/beat_006.png,"You try to concentrate, but your brain is not cooperating."
+7,00:00:17.034,00:00:19.951,2.917,pan,office,images/beat_007.png,"You read the same sentence three times,"
+8,00:00:19.951,00:00:24.118,4.167,push,office,images/beat_008.png,"and somehow, you still have no idea what it says."
+9,00:00:24.118,00:00:25.785,1.667,pull,office,images/beat_009.png,But wait a minute…
+10,00:00:25.785,00:00:28.285,2.5,push,office,images/beat_010.png,You were perfectly fine before eating.
+11,00:00:28.285,00:00:32.868,4.583,push,cafe,images/beat_011.png,"In fact, you ate because you were hungry and needed energy."
+12,00:00:32.868,00:00:36.618,3.75,pan,office,images/beat_012.png,So why is your body suddenly behaving like someone
+13,00:00:36.618,00:00:39.535,2.917,shake,cafe,images/beat_013.png,slipped a sleeping pill into your food?
+14,00:00:39.535,00:00:41.618,2.083,pull,office,images/beat_014.png,"First, you're not imagining it."
+15,00:00:41.618,00:00:44.535,2.917,push,graphic,images/beat_015.png,That sleepy feeling has a medical name.
+16,00:00:44.535,00:00:45.735,1.2,push,graphic,images/beat_016.png,Postprandial somnolence.
+17,00:00:45.735,00:00:48.235,2.5,pan,graphic,images/beat_017.png,Which simply means sleepiness after eating.
+18,00:00:48.235,00:00:53.235,5.0,push,office,images/beat_018.png,"Most people call it a food coma, so let's go with that."
+19,00:00:53.235,00:00:56.568,3.333,pull,office,images/beat_019.png,"And no, you're not actually in a coma."
+20,00:00:56.568,00:01:00.318,3.75,push,office,images/beat_020.png,You're still conscious. Just sleepy and struggling to concentrate.
+21,00:01:00.318,00:01:03.651,3.333,push,office,images/beat_021.png,It's actually a very common response after eating.
+22,00:01:03.651,00:01:08.651,5.0,pan,office,images/beat_022.png,"For years, people have offered some simple explanations for why this happens."
+23,00:01:08.651,00:01:11.568,2.917,push,body,images/beat_023.png,"Some say that after eating, blood rushes"
+24,00:01:11.568,00:01:15.735,4.167,pull,body,images/beat_024.png,from your brain to your stomach to help with digestion.
+25,00:01:15.735,00:01:19.485,3.75,push,body,images/beat_025.png,"So your brain doesn't get enough blood or oxygen,"
+26,00:01:19.485,00:01:21.985,2.5,shake,office,images/beat_026.png,and that's why you feel sleepy.
+27,00:01:21.985,00:01:23.235,1.25,pan,office,images/beat_027.png,Heard that before?
+28,00:01:23.235,00:01:27.818,4.583,push,graphic,images/beat_028.png,Others say that the sleepiness is caused by your blood sugar
+29,00:01:27.818,00:01:29.901,2.083,pull,graphic,images/beat_029.png,suddenly crashing after a meal.
+30,00:01:29.901,00:01:33.651,3.75,shake,graphic,images/beat_030.png,But neither of these explains the usual food coma.
+31,00:01:33.651,00:01:37.818,4.167,push,body,images/beat_031.png,"Yes, blood flow to your digestive organs increases after eating."
+32,00:01:37.818,00:01:42.818,5.0,pan,body,images/beat_032.png,But your body doesn't simply abandon your brain to make that happen.
+33,00:01:42.818,00:01:46.568,3.75,push,body,images/beat_033.png,"So no, your stomach hasn't stolen your brain's oxygen"
+34,00:01:46.568,00:01:49.068,2.5,pull,cafe,images/beat_034.png,because you ate too much rice.
+35,00:01:49.068,00:01:51.985,2.917,push,graphic,images/beat_035.png,And what about that blood sugar crash?
+36,00:01:51.985,00:01:56.568,4.583,push,body,images/beat_036.png,"Well, after eating carbohydrates, your body breaks them down into glucose,"
+37,00:01:56.568,00:01:59.068,2.5,pan,blood,images/beat_037.png,causing your blood sugar to rise.
+38,00:01:59.068,00:02:01.151,2.083,push,body,images/beat_038.png,Your pancreas then releases insulin
+39,00:02:01.151,00:02:04.484,3.333,pull,blood,images/beat_039.png,"to help move that glucose into your cells,"
+40,00:02:04.484,00:02:07.401,2.917,push,blood,images/beat_040.png,where it can be used for energy.
+41,00:02:07.401,00:02:11.151,3.75,push,graphic,images/beat_041.png,"In most healthy people, this process is carefully regulated."
+42,00:02:11.151,00:02:14.901,3.75,pan,graphic,images/beat_042.png,"There is a real condition though called reactive hypoglycemia,"
+43,00:02:14.901,00:02:18.234,3.333,push,graphic,images/beat_043.png,where blood sugar falls too low after eating.
+44,00:02:18.234,00:02:21.567,3.333,pull,graphic,images/beat_044.png,But this is different from ordinary post-meal sleepiness
+45,00:02:21.567,00:02:24.484,2.917,push,graphic,images/beat_045.png,and generally happens hours after a meal
+46,00:02:24.484,00:02:28.234,3.75,push,office,images/beat_046.png,rather than a few minutes after you finish eating.
+47,00:02:28.234,00:02:31.984,3.75,pan,body,images/beat_047.png,"So if your brain isn't being deprived of oxygen,"
+48,00:02:31.984,00:02:34.901,2.917,push,graphic,images/beat_048.png,"and your blood sugar hasn't necessarily crashed,"
+49,00:02:34.901,00:02:36.984,2.083,pull,office,images/beat_049.png,what's making you so sleepy?
+50,00:02:36.984,00:02:40.317,3.333,fade,cafe,images/beat_050.png,"Okay, let's follow your lunch for a moment."
+51,00:02:40.317,00:02:41.984,1.667,push,cafe,images/beat_051.png,You've just finished eating.
+52,00:02:41.984,00:02:44.901,2.917,pan,body,images/beat_052.png,"The food travels down into your stomach,"
+53,00:02:44.901,00:02:49.484,4.583,push,body,images/beat_053.png,"and as your stomach fills up, its walls begin to stretch."
+54,00:02:49.484,00:02:53.234,3.75,pull,body,images/beat_054.png,"Now, your stomach doesn't just sit there holding food."
+55,00:02:53.234,00:02:56.151,2.917,push,body,images/beat_055.png,It starts sending messages to your brain.
+56,00:02:56.151,00:03:01.151,5.0,push,brainhq,images/beat_056.png,"Basically telling it, ""Hey, food has arrived, we've got work to do."""
+57,00:03:01.151,00:03:05.734,4.583,pan,body,images/beat_057.png,"And as that food moves into your intestines, more messages follow."
+58,00:03:05.734,00:03:09.901,4.167,push,body,images/beat_058.png,"Your intestines begin breaking down the food further, absorbing nutrients,"
+59,00:03:09.901,00:03:14.068,4.167,pull,body,images/beat_059.png,and releasing chemical messengers that help control digestion and appetite.
+60,00:03:14.068,00:03:19.068,5.0,push,office,images/beat_060.png,But what does any of this have to do with feeling sleepy?
+61,00:03:19.068,00:03:21.985,2.917,push,brainhq,images/beat_061.png,"Well, your brain doesn't just control hunger."
+62,00:03:21.985,00:03:25.735,3.75,pan,brainhq,images/beat_062.png,It also controls how awake and alert you feel.
+63,00:03:25.735,00:03:29.068,3.333,push,brainhq,images/beat_063.png,"After eating, the messages coming from your gut,"
+64,00:03:29.068,00:03:32.401,3.333,pull,blood,images/beat_064.png,"along with changes in nutrients in your blood,"
+65,00:03:32.401,00:03:36.984,4.583,push,brainhq,images/beat_065.png,can influence the parts of your brain that keep you awake.
+66,00:03:36.984,00:03:41.567,4.583,push,lab,images/beat_066.png,Scientists are still studying exactly how these different signals work together.
+67,00:03:41.567,00:03:43.650,2.083,pan,brainhq,images/beat_067.png,There's no single sleep button
+68,00:03:43.650,00:03:46.983,3.333,push,body,images/beat_068.png,that your stomach presses every time you eat.
+69,00:03:46.983,00:03:50.733,3.75,pull,office,images/beat_069.png,And these responses don't affect everyone the same way.
+70,00:03:50.733,00:03:55.316,4.583,push,graphic,images/beat_070.png,"You could eat the exact same meal for breakfast and lunch,"
+71,00:03:55.316,00:03:57.816,2.5,push,office,images/beat_071.png,yet feel much sleepier after lunch.
+72,00:03:57.816,00:03:59.016,1.2,pan,office,images/beat_072.png,Why?
+73,00:03:59.016,00:04:02.766,3.75,push,cafe,images/beat_073.png,"Because sometimes, it's not just about what you eat."
+74,00:04:02.766,00:04:04.849,2.083,pull,office,images/beat_074.png,It's about when you eat.
+75,00:04:04.849,00:04:06.932,2.083,fade,graphic,images/beat_075.png,Think about your usual day.
+76,00:04:06.932,00:04:09.432,2.5,push,breakfast,images/beat_076.png,You wake up and eat breakfast
+77,00:04:09.432,00:04:12.765,3.333,pan,breakfast,images/beat_077.png,and you most likely feel perfectly fine afterward.
+78,00:04:12.765,00:04:14.432,1.667,push,cafe,images/beat_078.png,"Then you have lunch,"
+79,00:04:14.432,00:04:19.849,5.417,pull,office,images/beat_079.png,"and suddenly, you're fighting for your life to stay awake at your desk."
+80,00:04:19.849,00:04:21.049,1.2,push,office,images/beat_080.png,Why?
+81,00:04:21.049,00:04:24.382,3.333,push,body,images/beat_081.png,Because your body has its own internal clock.
+82,00:04:24.382,00:04:26.465,2.083,pan,clockgfx,images/beat_082.png,It's called your circadian rhythm.
+83,00:04:26.465,00:04:29.798,3.333,push,clockgfx,images/beat_083.png,"This clock helps regulate when you feel awake,"
+84,00:04:29.798,00:04:34.381,4.583,pull,clockgfx,images/beat_084.png,"when you become tired, and when your body prepares for sleep."
+85,00:04:34.381,00:04:39.381,5.0,push,clockgfx,images/beat_085.png,"But in the early afternoon, usually between 1 p.m. and 4 p.m.,"
+86,00:04:39.381,00:04:41.881,2.5,push,graphic,images/beat_086.png,your alertness naturally tends to dip.
+87,00:04:41.881,00:04:45.631,3.75,pan,office,images/beat_087.png,And this happens even if you haven't eaten lunch.
+88,00:04:45.631,00:04:47.298,1.667,push,cafe,images/beat_088.png,Now imagine eating lunch
+89,00:04:47.298,00:04:51.048,3.75,shake,graphic,images/beat_089.png,right when your body is already experiencing that dip.
+90,00:04:51.048,00:04:55.215,4.167,push,office,images/beat_090.png,Of course you're going to have a harder time concentrating.
+91,00:04:55.215,00:04:58.965,3.75,push,office,images/beat_091.png,So is that all there is to it? Timing?
+92,00:04:58.965,00:05:03.132,4.167,pan,cafe,images/beat_092.png,What about what we eat and how much we eat?
+93,00:05:03.132,00:05:05.215,2.083,fade,lab,images/beat_093.png,Researchers actually conducted an experiment
+94,00:05:05.215,00:05:08.548,3.333,pull,lab,images/beat_094.png,where men ate pizza on two different occasions.
+95,00:05:08.548,00:05:12.715,4.167,push,lab,images/beat_095.png,"On one occasion, they stopped when they felt comfortably full."
+96,00:05:12.715,00:05:17.715,5.0,push,lab,images/beat_096.png,"On the other, they kept eating until they couldn't manage another bite."
+97,00:05:17.715,00:05:21.882,4.167,pan,lab,images/beat_097.png,"And yes, apparently eating pizza was part of the experiment."
+98,00:05:21.882,00:05:25.215,3.333,push,lab,images/beat_098.png,The men reported feeling more tired and sluggish
+99,00:05:25.215,00:05:27.298,2.083,pull,lab,images/beat_099.png,after the much larger meal.
+100,00:05:27.298,00:05:30.631,3.333,push,cafe,images/beat_100.png,"So sometimes, it's not just what you eat."
+101,00:05:30.631,00:05:32.714,2.083,shake,cafe,images/beat_101.png,It's how much you eat.
+102,00:05:32.714,00:05:35.631,2.917,pan,graphic,images/beat_102.png,Food composition can also make a difference.
+103,00:05:35.631,00:05:39.381,3.75,push,cafe,images/beat_103.png,Large meals containing plenty of refined carbohydrates and fat
+104,00:05:39.381,00:05:42.298,2.917,pull,office,images/beat_104.png,may leave some people feeling especially sluggish.
+105,00:05:42.298,00:05:46.881,4.583,push,cafe,images/beat_105.png,"Now, I'm not saying you should stop eating rice or potatoes."
+106,00:05:46.881,00:05:49.798,2.917,push,graphic,images/beat_106.png,"How much you eat, what you eat,"
+107,00:05:49.798,00:05:53.131,3.333,pan,graphic,images/beat_107.png,and when you eat all play a part.
+108,00:05:53.131,00:05:55.631,2.5,fade,ayurveda,images/beat_108.png,"Interestingly, people were making this connection"
+109,00:05:55.631,00:05:58.548,2.917,pull,ayurveda,images/beat_109.png,long before modern scientists studied food comas.
+110,00:05:58.548,00:06:01.465,2.917,push,ayurveda,images/beat_110.png,"In Ayurveda, the traditional Indian medical system,"
+111,00:06:01.465,00:06:04.798,3.333,push,ayurveda,images/beat_111.png,"there's a concept called Agni, or digestive fire."
+112,00:06:04.798,00:06:08.131,3.333,pan,ayurveda,images/beat_112.png,Heavy eating was traditionally associated with sluggish digestion
+113,00:06:08.131,00:06:09.798,1.667,push,ayurveda,images/beat_113.png,and feelings of lethargy.
+114,00:06:09.798,00:06:13.131,3.333,pull,ayurveda,images/beat_114.png,"It's a different way of explaining the experience,"
+115,00:06:13.131,00:06:18.131,5.0,push,ayurveda,images/beat_115.png,but it shows how long people have been paying attention to it.
+116,00:06:18.131,00:06:23.131,5.0,push,office,images/beat_116.png,"So, can we actually do anything to stop feeling sleepy after eating?"
+117,00:06:23.131,00:06:26.464,3.333,pan,office,images/beat_117.png,Or should you just accept that every afternoon
+118,00:06:26.464,00:06:30.214,3.75,push,office,images/beat_118.png,is going to be a battle against your eyelids?
+119,00:06:30.214,00:06:34.381,4.167,pull,cafe,images/beat_119.png,The first thing to consider is how much you're eating.
+120,00:06:34.381,00:06:38.131,3.75,push,cafe,images/beat_120.png,You don't have to eat until you're completely stuffed.
+121,00:06:38.131,00:06:40.631,2.5,push,cafe,images/beat_121.png,Try stopping when you're comfortably satisfied.
+122,00:06:40.631,00:06:43.964,3.333,pan,ayurveda,images/beat_122.png,"There's even a traditional eating principle called Mitahara,"
+123,00:06:43.964,00:06:46.881,2.917,push,ayurveda,images/beat_123.png,which encourages moderation rather than stuffing yourself.
+124,00:06:46.881,00:06:49.381,2.5,pull,cafe,images/beat_124.png,"Next, let's look at your plate."
+125,00:06:49.381,00:06:53.548,4.167,push,cafe,images/beat_125.png,"If you're eating rice, you don't need to remove it."
+126,00:06:53.548,00:06:57.715,4.167,push,cafe,images/beat_126.png,Just consider the portion and add some protein and vegetables.
+127,00:06:57.715,00:06:58.915,1.2,pan,cafe,images/beat_127.png,Another thing?
+128,00:06:58.915,00:07:00.115,1.2,push,cafe,images/beat_128.png,Slow down.
+129,00:07:00.115,00:07:03.032,2.917,pull,cafe,images/beat_129.png,Give yourself time to enjoy your food
+130,00:07:03.032,00:07:05.532,2.5,push,cafe,images/beat_130.png,and notice when you've had enough.
+131,00:07:05.532,00:07:08.449,2.917,push,office,images/beat_131.png,"And after eating, instead of immediately settling"
+132,00:07:08.449,00:07:11.782,3.333,pan,office,images/beat_132.png,"into a chair for the next three hours,"
+133,00:07:11.782,00:07:13.865,2.083,push,park,images/beat_133.png,consider taking a short walk.
+134,00:07:13.865,00:07:17.198,3.333,pull,park,images/beat_134.png,Even 10 to 15 minutes of gentle movement
+135,00:07:17.198,00:07:19.698,2.5,push,office,images/beat_135.png,may leave you feeling more alert.
+136,00:07:19.698,00:07:23.031,3.333,push,office,images/beat_136.png,Still feeling sleepy even after trying all these?
+137,00:07:23.031,00:07:26.781,3.75,pan,office,images/beat_137.png,Maybe your lunch isn't the main reason you're exhausted.
+138,00:07:26.781,00:07:30.114,3.333,fade,bedroom,images/beat_138.png,"Maybe you've been sleeping four hours a night,"
+139,00:07:30.114,00:07:33.031,2.917,pull,office,images/beat_139.png,waking up early and working all day.
+140,00:07:33.031,00:07:35.948,2.917,push,graphic,images/beat_140.png,"Poor sleep, dehydration, inactivity and ongoing stress"
+141,00:07:35.948,00:07:38.448,2.5,push,graphic,images/beat_141.png,can all contribute to general tiredness.
+142,00:07:38.448,00:07:43.031,4.583,pan,graphic,images/beat_142.png,"Then you eat a large lunch, your afternoon energy naturally dips,"
+143,00:07:43.031,00:07:46.364,3.333,push,office,images/beat_143.png,and suddenly you can't keep your eyes open.
+144,00:07:46.364,00:07:50.531,4.167,pull,breakroom,images/beat_144.png,"And if you're genuinely tired and your schedule allows it,"
+145,00:07:50.531,00:07:51.781,1.25,push,breakroom,images/beat_145.png,take that nap!
+146,00:07:51.781,00:07:55.948,4.167,push,office,images/beat_146.png,There's no prize for forcing your eyes to stay open
+147,00:07:55.948,00:07:58.031,2.083,pan,breakroom,images/beat_147.png,when your body needs rest.
+148,00:07:58.031,00:08:00.531,2.5,push,clinic,images/beat_148.png,But we need to look out.
+149,00:08:00.531,00:08:03.448,2.917,pull,office,images/beat_149.png,Occasionally feeling sleepy after eating is common.
+150,00:08:03.448,00:08:06.365,2.917,push,office,images/beat_150.png,"Feeling overwhelmingly exhausted after almost every meal,"
+151,00:08:06.365,00:08:10.115,3.75,push,office,images/beat_151.png,"or experiencing symptoms that interfere with your daily life,"
+152,00:08:10.115,00:08:13.448,3.333,pan,clinic,images/beat_152.png,is something worth discussing with a healthcare professional.
+153,00:08:13.448,00:08:16.365,2.917,fade,cafe,images/beat_153.png,"So, why does eating make you sleepy"
+154,00:08:16.365,00:08:19.698,3.333,pull,cafe,images/beat_154.png,when food is supposed to give you energy?
+155,00:08:19.698,00:08:24.281,4.583,push,graphic,images/beat_155.png,Because having energy available and feeling awake are two different things.
+156,00:08:24.281,00:08:27.614,3.333,push,body,images/beat_156.png,Your food is still giving your body energy.
+157,00:08:27.614,00:08:32.197,4.583,pan,brainhq,images/beat_157.png,But eating also affects the signals involved in digestion and alertness.
+158,00:08:32.197,00:08:34.697,2.5,push,clockgfx,images/beat_158.png,"Add your body's natural afternoon slump,"
+159,00:08:34.697,00:08:38.030,3.333,pull,graphic,images/beat_159.png,"a heavy meal, or a poor night's sleep,"
+160,00:08:38.030,00:08:41.780,3.75,push,office,images/beat_160.png,"and suddenly, keeping your eyes open becomes a struggle."
+161,00:08:41.780,00:08:46.780,5.0,push,cafe,images/beat_161.png,The good news? You don't need to stop enjoying your favourite foods.
+162,00:08:46.780,00:08:51.363,4.583,pan,cafe,images/beat_162.png,"Sometimes, changing how much you eat, what you eat alongside it,"
+163,00:08:51.363,00:08:55.113,3.75,push,park,images/beat_163.png,or what you do afterward can make a difference.
+164,00:08:55.113,00:08:56.363,1.25,pull,office,images/beat_164.png,Now I'm curious.
+165,00:08:56.363,00:09:01.363,5.0,push,graphic,images/beat_165.png,"Which meal makes you the sleepiest, and what do you usually eat?"
+166,00:09:01.363,00:09:03.446,2.083,push,phone,images/beat_166.png,Tell me in the comments.
+167,00:09:03.446,00:09:07.196,3.75,pan,office,images/beat_167.png,Let's see if we all have the same problem.

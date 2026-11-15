@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Build the script + beats + image prompts PDF for an episode.
-Usage: python3 make_pdf.py EPISODE_DIR "Episode title" OUTPUT.pdf
+Usage: python3 make_pdf.py EPISODE_DIR "Episode title" OUTPUT.pdf ["Cover note"]
 Needs script.txt, timeline.json and prompts.json in EPISODE_DIR (and image_prompts.md for the rule notes)."""
 import json, html, os, re, sys, subprocess, tempfile
 ep, title, out = sys.argv[1], sys.argv[2], sys.argv[3]
+note = sys.argv[4] if len(sys.argv) > 4 else "Based on real history. Some characters are composites."
 rows = json.load(open(os.path.join(ep, "timeline.json")))
 P = json.load(open(os.path.join(ep, "prompts.json")))
 assert len(P) == len(rows)
@@ -23,7 +24,7 @@ th{background:#F2E8D5}td.n{width:34px;color:#4A0E0E;font-weight:bold}td.t{width:
 .f{font-size:9pt;color:#333}.f b{color:#4A0E0E}"""
 h = [f'<!doctype html><html><head><meta charset="utf-8"><style>{css}</style></head><body>']
 h.append(f'<div class="cover"><h1>yesteryears</h1><div class="sub">{e(title)}</div><div class="meta">Script · {len(rows)} Beats · Image Prompts<br>'
-         f'{words:,} words · about {sum(r["dur"] for r in rows)/60:.1f} minutes at 2.4 words per second<br><br>Based on real history. Some characters are composites.</div></div>')
+         f'{words:,} words · about {sum(r["dur"] for r in rows)/60:.1f} minutes at 2.4 words per second<br><br>{e(note)}</div></div>')
 h.append('<h2>1. Script</h2><div class="script">' + "".join(f"<p>{e(p)}</p>" for p in script) + "</div>")
 h.append('<h2>2. Beats</h2><table><tr><th>#</th><th>Start</th><th>Script segment</th></tr>' + "".join(
     f'<tr><td class="n">{r["beat"]:03d}</td><td class="t">{tm(r["start"])}</td><td>{e(r["text"])}</td></tr>' for r in rows) + "</table>")
