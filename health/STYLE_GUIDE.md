@@ -44,10 +44,9 @@ A lifestyle and health explainer channel: everyday body questions, health myths 
 
 ## 4. Visual style
 
-- **Look:** bright, high-key 2D explainer animation with flat vector shapes, clean dark-grey outlines and very light shading.
 - **Palette (channel theme):** clean white, warm cream, fresh mint, sky blue, sunny yellow, coral and leaf green. This is the default look of the channel, and episodes should feel bright overall.
 - **Darker scenes:** when a scene genuinely needs dark colours (night, a dark bedroom, a power cut, a gloomy mood beat), use them. Keep the characters clearly readable and go back to the bright theme in the next scene.
-- **Organs and anatomy:** always in their true natural colours, never recoloured to match the palette. When an organ acts as a character it gets a small friendly face and little arms, and keeps its real colour and shape.
+- **Organs and anatomy:** always in their true natural colours, never recoloured to match the palette. When an organ acts as a character it keeps its real colour and shape.
 
 | Organ | Colour |
 |---|---|
@@ -65,6 +64,9 @@ A lifestyle and health explainer channel: everyday body questions, health myths 
 | Fat tissue | pale yellow |
 
 - **Recurring devices:** a cutaway torso on white, a "brain control room" with labelled gauges, a 24-hour clock, simple line graphs, and a red "MYTH" stamp.
-- **People:** friendly cartoon adults with slightly large heads, expressive eyebrows and full bodies with hands. The main character ("you") is described exactly the same way in every prompt.
+- **Look:** bright 2D cartoon animation with chunky, rounded characters, thick clean outlines and soft gradient shading with gentle rim light, so it looks slightly glossy and 3D.
+- **People:** chunky rounded cartoon people with solid matte-black skin and faces, big round white eyes with small black pupils, and simple bold white brow and mouth lines for expression. Their heads are slightly large for their bodies, and they have **full arms, legs and mitten-like hands, never stick limbs**. They wear bold, brightly coloured clothes. Hair, glasses, beards and clothing tell characters apart.
+- **Main character ("you"):** short tufty black curly hair, a **mint-green hoodie** with the hood down, a coral lanyard, navy joggers and white sneakers. This is the channel's signature look, so keep it identical in every episode.
+- **Organ characters:** keep their natural colours and shape, plus big round white cartoon eyes and little arms.
 - **Never:** gore, open wounds, blood splatter, nudity, or shaming body imagery.
 - **Framing:** 16:9, bottom-right corner kept clear for the channel watermark, and only the words given in quotes appear on screen.

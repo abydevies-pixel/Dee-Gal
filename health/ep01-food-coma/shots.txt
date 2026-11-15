@@ -76,7 +76,7 @@
 76|breakfast|M|fresh|{YOU} at a home kitchen table eating toast with a cup of coffee
 77|breakfast|M|upbeat|{YOU} heading out the door with a bright, alert face
 78|cafe|M|neutral|{YOU} eating lunch at the canteen table
-79|office|M|comic|{YOU} at the desk propping both eyelids open with two small paper clips, eyes bloodshot
+79|office|M|comic|{YOU} at the desk propping both eyelids open with two small paper clips, the big white eyes streaked with thin red lines
 80|office|C|curious|{YOU} slumped with the head resting on one hand, staring at the viewer
 81|body|M|explanatory|a simple cartoon silhouette of a person with a small glowing clock inside the head
 82|clockgfx|M|explanatory|a title card reading "CIRCADIAN RHYTHM" over a 24-hour clock with a sun and moon
@@ -144,7 +144,7 @@
 144|breakroom|M|gentle|{YOU} looking longingly at a soft grey couch in the quiet break room
 145|breakroom|M|cozy|{YOU} curled up asleep on the break room couch with a cushion and a small "zzz"
 146|office|M|wry|an empty winner's podium beside the desk with a dusty trophy labelled "STAYED AWAKE"
-147|breakroom|C|peaceful|{YOU} sleeping peacefully on the couch, a calm smile on the face
+147|breakroom|C|peaceful|{YOU} sleeping peacefully on the couch, a calm white curved smile line on the face
 148|clinic|M|serious|{YOU} sitting up straighter, a small caution sign floating beside the head
 149|office|M|reassuring|{YOU} with a mild yawn at the desk, a green tick floating beside the head
 150|office|M|concerned|{YOU} completely drained after a small meal, a row of plate icons each followed by an empty battery

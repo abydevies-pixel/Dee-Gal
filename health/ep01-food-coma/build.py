@@ -7,25 +7,26 @@ TITLE = "Why Does Eating Make You Sleepy Instead of Giving You Energy?"
 PDF = "Food_Coma_Script_Beats_Prompts.pdf"
 WPS, MIN_DUR = 2.4, 1.2   # narration speed (words per second) and shortest beat on screen
 
-STYLE = ("bright, high-key 2D explainer animation still: flat vector illustration with clean, even dark-grey outlines, simple rounded shapes and very light cel shading; "
-         "friendly cartoon people with slightly large heads, expressive eyes and eyebrows, simple full bodies with hands and plain modern clothes; "
-         "airy, uncluttered present-day backgrounds with lots of white space and a few clear props; cheerful light channel palette of clean white, warm cream, "
-         "fresh mint, sky blue, sunny yellow, coral and leaf green as the default; darker colours used only where the scene itself calls for them, such as night or a dark room, with the characters still clear; "
-         "organs and body parts always shown in their true natural anatomical colours in a clean, friendly medical-illustration look, never recoloured; "
-         "no gore, open wounds, blood splatter or nudity; light, curious, gently comic tone; any on-screen words limited to the ones given in quotes; "
-         "static 16:9 frame; bottom-right corner kept clear")
+STYLE = ("bright 2D cartoon animation still in a chunky, rounded character style: people with smooth solid matte-black skin and faces, large round white eyes "
+         "with small black pupils, simple bold white brow and mouth lines for expression, rounded heads slightly large for the body, full proper arms, legs and "
+         "mitten-like hands (never stick limbs), wearing bold, brightly coloured clothes with simple soft folds; thick clean outlines, soft gradient shading and "
+         "gentle rim light giving a slightly glossy, 3D-like finish; detailed cartoon backgrounds with depth; cheerful light channel palette of clean white, warm cream, "
+         "fresh mint, sky blue, sunny yellow, coral and leaf green as the default; darker colours used only where the scene itself calls for them, such as night "
+         "or a dark room, with the characters still clear; organs and body parts always shown in their true natural anatomical colours in a clean, friendly "
+         "medical-illustration look, never recoloured; no gore, open wounds, blood splatter or nudity; light, curious, gently comic tone; any on-screen words "
+         "limited to the ones given in quotes; static 16:9 frame; bottom-right corner kept clear")
+FIG = "a chunky rounded cartoon person with solid matte-black skin and face, big round white eyes with small black pupils and full arms, legs and hands"
 C = {
- 'YOU': "you (the main character: a young adult office worker with short curly black hair, warm brown skin, round black glasses, "
-        "a mustard-yellow sweater over a white collar, navy trousers and a coral lanyard)",
- 'COWORKER': "your coworker (a woman in her thirties with a short auburn bob, freckles, a sage-green cardigan and a coral lanyard)",
- 'DOCTOR': "a friendly doctor, a middle-aged man with short grey hair, rectangular glasses, a white coat and a stethoscope",
- 'RESEARCHER': "a researcher, a woman with a neat dark bob, round glasses and a white lab coat, holding a clipboard",
- 'MEN': "two volunteer test subjects, a lanky man with a thin moustache in a blue T-shirt and a stocky bald man with a short beard in a green T-shirt",
- 'VAIDYA': "a traditional Ayurvedic physician, an elderly Indian man with a neat white beard, a sandalwood mark on the forehead and a white cotton kurta and shawl",
- 'STOMACH': "Stomach, a J-shaped stomach in its true natural colour, soft peachy pink with faint pinker folds, with a small simple friendly face and little cartoon arms",
- 'BRAIN': "Brain, a brain in its true natural colour, soft pinkish grey with clear folds, with small sleepy expressive eyes and little cartoon arms",
- 'PANCREAS': "Pancreas, a long, slightly lumpy pancreas in its true natural colour, pale creamy yellow-pink, with a calm small face and little cartoon arms",
- 'GUT': "Intestines, the coiled small intestine in its true natural salmon pink framed by the large intestine in a slightly deeper dusty pink, with a busy, focused small face and little cartoon arms",
+ 'YOU': f"you (the main character: {FIG}, short tufty black curly hair, a mint-green hoodie with the hood down, a coral lanyard, navy joggers and white sneakers)",
+ 'COWORKER': f"your coworker ({FIG}, auburn hair in a high round bun, a coral cardigan over a white top, a coral lanyard and grey trousers)",
+ 'DOCTOR': f"a friendly doctor ({FIG}, short grey hair, white rectangular glasses, a white coat over a sky-blue shirt and a silver stethoscope)",
+ 'RESEARCHER': f"a researcher ({FIG}, a neat dark-purple bob, round white glasses and a white lab coat, holding a clipboard)",
+ 'MEN': f"two volunteer test subjects (each {FIG}): a lanky man with a thin grey moustache in a sky-blue T-shirt, and a stocky bald man with a short grey beard in a leaf-green T-shirt",
+ 'VAIDYA': f"a traditional Ayurvedic physician ({FIG}, a neat white beard, a small saffron mark on the forehead and a white cotton kurta with a cream shawl)",
+ 'STOMACH': "Stomach, a J-shaped stomach in its true natural colour, soft peachy pink with faint pinker folds, with big round white cartoon eyes, a simple mouth and little cartoon arms",
+ 'BRAIN': "Brain, a brain in its true natural colour, soft pinkish grey with clear folds, with big round white cartoon eyes and little cartoon arms",
+ 'PANCREAS': "Pancreas, a long, slightly lumpy pancreas in its true natural colour, pale creamy yellow-pink, with big round white cartoon eyes, a calm mouth and little cartoon arms",
+ 'GUT': "Intestines, the coiled small intestine in its true natural salmon pink framed by the large intestine in a slightly deeper dusty pink, with big round white cartoon eyes, a busy expression and little cartoon arms",
 }
 SHORT = {'YOU': 'you', 'COWORKER': 'your coworker', 'DOCTOR': 'the doctor', 'RESEARCHER': 'the researcher', 'MEN': 'the two men',
          'VAIDYA': 'an Ayurvedic physician', 'STOMACH': 'Stomach', 'BRAIN': 'Brain', 'PANCREAS': 'Pancreas', 'GUT': 'Intestines'}
@@ -81,8 +82,8 @@ with open('timeline.csv', 'w', newline='') as f:
     for r in rows: w.writerow([r['n'], ts(r['start']), ts(r['start'] + r['dur']), r['dur'], r['motion'], r['scene'], r['image'], r['seg']])
 with open('beats.txt', 'w') as f:
     f.write(f"{TITLE.upper()} - {len(rows)} BEATS\n\n" + "".join(f"{r['n']:03d}  [{tm(r['start'])}]  {r['seg']}\n" for r in rows))
-LOCK = [("You", C['YOU'].split('(', 1)[1].rstrip(')')), ("Your coworker", C['COWORKER'].split('(', 1)[1].rstrip(')')),
-        ("Organ characters", "Stomach, Brain, Pancreas and Intestines: true natural organ colours, small friendly faces and little arms")]
+LOCK = [("All people", FIG), ("You", C['YOU'].split('(', 1)[1].rstrip(')')), ("Your coworker", C['COWORKER'].split('(', 1)[1].rstrip(')')),
+        ("Organ characters", "Stomach, Brain, Pancreas and Intestines: true natural organ colours, big round white cartoon eyes and little arms")]
 with open('image_prompts.md', 'w') as f:
     f.write(f"# {TITLE} — Image Prompts\n\n{len(rows)} beats · ~3–5 s each · one locked visual style · recurring characters described the same way in every prompt\n\n"
             f"**Visual style:** {STYLE}.\n\n**Character lock**\n\n| Character | Fixed description |\n|---|---|\n"
