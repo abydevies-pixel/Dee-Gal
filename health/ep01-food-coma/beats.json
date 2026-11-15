@@ -54,7 +54,11 @@
 "and as your stomach fills up, its walls begin to stretch.",
 "Now, your stomach doesn't just sit there holding food.",
 "It starts sending messages to your brain.",
-"Basically telling it, \"Hey, food has arrived, we've got work to do.\"",
+"Basically telling it,",
+{
+"text": "\"Hey, food has arrived, we've got work to do.\"",
+"voice": "STOMACH"
+},
 "And as that food moves into your intestines, more messages follow.",
 "Your intestines begin breaking down the food further, absorbing nutrients,",
 "and releasing chemical messengers that help control digestion and appetite.",

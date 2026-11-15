@@ -23,6 +23,8 @@ A lifestyle and health explainer channel: everyday body questions, health myths 
 
 **Myth-busting pattern.** Myth → "Heard that before?" → what's actually true → why the myth feels right.
 
+**Talking organs.** Organs sometimes speak a short line in their own voice, for example the Stomach in episode 1. The narration stays a voiceover, and organ lines are rare, short and subtle. See `VOICES.md` for the rules and the fixed voice of each organ.
+
 **Advice.** Give practical advice and don't ban foods: "You don't need to remove it. Just consider the portion." Always add a short safety line: when symptoms are frequent, severe or disrupt daily life, see a healthcare professional. The channel never diagnoses.
 
 ## 2. Episode structure (8–10 minutes, about 1,200–1,500 words at 2.4 words per second)

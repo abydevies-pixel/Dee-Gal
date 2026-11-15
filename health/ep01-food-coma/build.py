@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Build image prompts, timeline, beats list and PDF for this video.
 Usage: python3 build.py            (run from this folder; needs script.txt, beats.json, shots.txt)
-Writes prompts.json, image_prompts.md, timeline.json, timeline.csv, beats.txt and the PDF."""
+Writes prompts.json, image_prompts.md, timeline.json, timeline.csv, beats.txt, voiceover_script.txt and the PDF.
+A beat in beats.json is either narration (a plain string) or a line spoken by a character: {"text": "...", "voice": "STOMACH"}.
+Voices are defined in ../VOICES.md and must sound the same in every episode."""
 import json, re, csv, html, os, subprocess, tempfile
 TITLE = "Why Does Eating Make You Sleepy Instead of Giving You Energy?"
 PDF = "Food_Coma_Script_Beats_Prompts.pdf"
@@ -53,7 +55,11 @@ S = {
 CAM = {'W': 'Wide establishing shot, eye level', 'M': 'Medium shot, eye level', 'C': 'Close-up, eye level', 'ECU': 'Extreme close-up',
        'TD': 'Top-down overhead shot', 'OTS': 'Over-the-shoulder shot'}
 
-beats = json.load(open('beats.json'))
+raw = json.load(open('beats.json'))
+beats = [x if isinstance(x, str) else x['text'] for x in raw]
+voices = ['NARRATOR' if isinstance(x, str) else x['voice'] for x in raw]
+VOICE_NOTE = {v.split('|')[1].strip().strip('*'): v.split('|')[2].strip() for v in open('../VOICES.md') if v.startswith('| **')}
+assert all(v in VOICE_NOTE for v in voices), 'a voice in beats.json is missing from ../VOICES.md'
 script = [p.strip() for p in open('script.txt').read().split('\n') if p.strip()]
 assert ' '.join(beats).split() == ' '.join(script).split(), "beats.json does not match script.txt"
 def find(t): return next(i for i, s in enumerate(beats, 1) if s.startswith(t))
@@ -69,7 +75,7 @@ for line in open('shots.txt'):
     for k in C: a = a.replace('{' + k + '}', C[k].replace('__OUTFIT__', OUTFIT.get(sc, FORMAL))); short = short.replace('{' + k + '}', SHORT[k])
     env, light = S[sc]
     d = round(max(MIN_DUR, len(beats[n - 1].split()) / WPS), 3)
-    rows.append(dict(n=n, seg=beats[n - 1], start=round(t, 3), dur=d, motion=motion(n), scene=sc, image=f"images/beat_{n:03d}.png",
+    rows.append(dict(n=n, seg=beats[n - 1], voice=voices[n - 1], start=round(t, 3), dur=d, motion=motion(n), scene=sc, image=f"images/beat_{n:03d}.png",
                      prompt=f"{CAM[cam]} of {a}. Setting: {env}. Lighting: {light}. Mood: {mood}. Style: {STYLE}.",
                      cam=CAM[cam], light=light, mood=mood, action=short[0].upper() + short[1:]))
     t += d
@@ -78,13 +84,22 @@ assert [r['n'] for r in rows] == list(range(1, len(beats) + 1)), "shots.txt and 
 def tm(s): m, sec = divmod(s, 60); return f"{int(m):02d}:{sec:04.1f}"
 def ts(s): h, r = divmod(s, 3600); m, x = divmod(r, 60); return f"{int(h):02d}:{int(m):02d}:{x:06.3f}"
 json.dump([{k: r[k] for k in ('n', 'seg', 'prompt', 'cam', 'light', 'mood', 'action')} for r in rows], open('prompts.json', 'w'), indent=1, ensure_ascii=False)
-json.dump([dict(beat=r['n'], start=r['start'], dur=r['dur'], text=r['seg'], motion=r['motion'], scene=r['scene'], image=r['image']) for r in rows],
+json.dump([dict(beat=r['n'], start=r['start'], dur=r['dur'], text=r['seg'], voice=r['voice'], motion=r['motion'], scene=r['scene'], image=r['image']) for r in rows],
           open('timeline.json', 'w'), indent=1, ensure_ascii=False)
 with open('timeline.csv', 'w', newline='') as f:
-    w = csv.writer(f); w.writerow(["beat", "start", "end", "duration_s", "motion", "scene", "image", "script_segment"])
-    for r in rows: w.writerow([r['n'], ts(r['start']), ts(r['start'] + r['dur']), r['dur'], r['motion'], r['scene'], r['image'], r['seg']])
+    w = csv.writer(f); w.writerow(["beat", "start", "end", "duration_s", "voice", "motion", "scene", "image", "script_segment"])
+    for r in rows: w.writerow([r['n'], ts(r['start']), ts(r['start'] + r['dur']), r['dur'], r['voice'], r['motion'], r['scene'], r['image'], r['seg']])
 with open('beats.txt', 'w') as f:
-    f.write(f"{TITLE.upper()} - {len(rows)} BEATS\n\n" + "".join(f"{r['n']:03d}  [{tm(r['start'])}]  {r['seg']}\n" for r in rows))
+    f.write(f"{TITLE.upper()} - {len(rows)} BEATS\n\n" + "".join(f"{r['n']:03d}  [{tm(r['start'])}]  " + (f"[{r['voice']}] " if r['voice'] != 'NARRATOR' else '') + f"{r['seg']}\n" for r in rows))
+# Voiceover script: narration runs on; each character line is pulled out with its voice direction so it can be recorded or generated separately.
+with open('voiceover_script.txt', 'w') as f:
+    f.write(f"{TITLE} - VOICEOVER SCRIPT\nNarration is the default voice. Character lines are marked; keep each character's voice exactly as defined in ../VOICES.md.\n\n")
+    cur = []
+    for r in rows:
+        if r['voice'] == 'NARRATOR': cur.append(r['seg']); continue
+        if cur: f.write('NARRATOR:\n' + ' '.join(cur) + '\n\n'); cur = []
+        f.write(f"{r['voice']} (beat {r['n']:03d}) - {VOICE_NOTE[r['voice']]}\n{r['seg']}\n\n")
+    if cur: f.write('NARRATOR:\n' + ' '.join(cur) + '\n')
 LOCK = [("All people", FIG), ("You", "short tufty black curly hair; outfit fits the scenario: " + FORMAL + " at work, " + OUTFIT['bedroom'] + " in bed, jacket off and tie loosened for the break-room nap"), ("Your coworker", C['COWORKER'].split('(', 1)[1].rstrip(')')),
         ("Organ characters", "Stomach, Brain, Pancreas and Intestines: true natural organ colours, big round white cartoon eyes and little arms")]
 with open('image_prompts.md', 'w') as f:
@@ -92,7 +107,7 @@ with open('image_prompts.md', 'w') as f:
             f"**Visual style:** {STYLE}.\n\n**Character lock**\n\n| Character | Fixed description |\n|---|---|\n"
             + "".join(f"| {a} | {b} |\n" for a, b in LOCK) + "\n")
     for r in rows:
-        f.write(f"## Beat {r['n']}\n**[Script Segment]** \"{r['seg']}\"\n\n**Image Prompt:** {r['prompt']}\n\n- **Camera Angle:** {r['cam']}\n"
+        f.write(f"## Beat {r['n']}\n**[Script Segment]**" + (f" **[{r['voice']} speaks]**" if r['voice'] != 'NARRATOR' else '') + f" \"{r['seg']}\"\n\n**Image Prompt:** {r['prompt']}\n\n- **Camera Angle:** {r['cam']}\n"
                 f"- **Lighting:** {r['light']}\n- **Mood:** {r['mood']}\n- **Action:** {r['action']}\n\n")
 
 e = html.escape; words = sum(len(p.split()) for p in script)
@@ -108,10 +123,10 @@ h = [f'<!doctype html><html><head><meta charset="utf-8"><style>{css}</style></he
      '<br><br>Based on current research. Not medical advice.</div></div>',
      '<h2>1. Script</h2><div class="script">' + "".join(f"<p>{e(p)}</p>" for p in script) + "</div>",
      '<h2>2. Beats</h2><table><tr><th>#</th><th>Start</th><th>Script segment</th></tr>'
-     + "".join(f'<tr><td class="n">{r["n"]:03d}</td><td class="t">{tm(r["start"])}</td><td>{e(r["seg"])}</td></tr>' for r in rows) + "</table>",
+     + "".join(f'<tr><td class="n">{r["n"]:03d}</td><td class="t">{tm(r["start"])}</td><td>' + (f'<b>[{e(r["voice"])}]</b> ' if r['voice'] != 'NARRATOR' else '') + f'{e(r["seg"])}</td></tr>' for r in rows) + "</table>",
      f'<h2>3. Image Prompts</h2><p class="f"><b>Character lock:</b> ' + " · ".join(f"<b>{e(a)}:</b> {e(b)}" for a, b in LOCK) + "</p>"]
 for r in rows:
-    h.append(f'<div class="beat"><div class="bh">Beat {r["n"]:03d} · {tm(r["start"])}</div><div class="seg">"{e(r["seg"])}"</div>'
+    h.append(f'<div class="beat"><div class="bh">Beat {r["n"]:03d} · {tm(r["start"])}</div><div class="seg">' + (f'<b>[{e(r["voice"])} speaks]</b> ' if r['voice'] != 'NARRATOR' else '') + f'"{e(r["seg"])}"</div>'
              f'<div class="pr"><b>Image Prompt:</b> {e(r["prompt"])}</div><div class="f"><b>Camera:</b> {e(r["cam"])} · <b>Lighting:</b> {e(r["light"])} · '
              f'<b>Mood:</b> {e(r["mood"])}<br><b>Action:</b> {e(r["action"])}</div></div>')
 h.append("</body></html>")
@@ -121,4 +136,4 @@ await p.pdf({{path:{json.dumps(os.path.abspath(PDF))},format:'A4',printBackgroun
 footerTemplate:'<div style="font-size:8px;width:100%;text-align:center;color:#888">page <span class=pageNumber></span> of <span class=totalPages></span></div>',
 margin:{{top:'18mm',bottom:'18mm',left:'16mm',right:'16mm'}}}});await b.close();}})();"""
 subprocess.run(["node", "-e", js], check=True); os.unlink(tmp.name)
-print(f"{len(rows)} beats, {t/60:.1f} min; wrote prompts, timeline, beats.txt and {PDF}")
+print(f"{len(rows)} beats, {t/60:.1f} min; wrote prompts, timeline, beats.txt, voiceover_script.txt and {PDF}")

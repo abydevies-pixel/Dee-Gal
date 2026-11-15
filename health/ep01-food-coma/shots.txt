@@ -53,115 +53,116 @@
 53|body|C|explanatory|{STOMACH} puffing up like a balloon, small stretch lines on its walls
 54|body|M|playful|{STOMACH} rolling up invisible sleeves, ready to work, full of food
 55|body|M|explanatory|{STOMACH} sending small glowing envelope icons up a nerve line toward {BRAIN}
-56|brainhq|M|comic|{BRAIN} in the control room reading a message card that says "FOOD HAS ARRIVED" while an alert light blinks
-57|body|M|explanatory|food moving from {STOMACH} into {GUT}, a second wave of glowing envelope icons rising toward the head
-58|body|M|busy|{GUT} busily sorting food into small coloured nutrient dots that float into nearby blood vessels
-59|body|M|explanatory|{GUT} releasing small coloured messenger droplets with tiny wings that fly up toward the head
-60|office|M|curious|{YOU} yawning widely at the desk, one eye on a floating diagram of a stomach
-61|brainhq|M|explanatory|{BRAIN} in the control room at a big dial labelled "HUNGER"
-62|brainhq|M|explanatory|{BRAIN} turning to a second big gauge labelled "ALERTNESS" with its needle high
-63|brainhq|M|explanatory|glowing envelope icons arriving through a pipe into the control room
-64|blood|M|explanatory|coloured nutrient dots and sugar cubes flowing through a blood vessel toward the head
-65|brainhq|C|drowsy|the "ALERTNESS" gauge needle slowly drifting down while {BRAIN} yawns
-66|lab|M|curious|{RESEARCHER} studying a whiteboard covered in arrows connecting a stomach, a brain and a moon icon
-67|brainhq|M|myth-busting|a big red button labelled "SLEEP" in the control room, crossed out with a red X
-68|body|M|comic|{STOMACH} reaching toward a big red button, then shrugging because it isn't there
-69|office|W|relatable|three coworkers after the same lunch: one wide awake, one slightly drowsy, one fast asleep on the desk
-70|graphic|M|explanatory|a split frame of two identical plates of rice and eggs, a rising sun above one and a midday sun above the other
-71|office|M|drowsy|{YOU} wide awake in a small morning inset, and drooping heavily at the desk in the main frame
-72|office|C|curious|{YOU} with heavy eyelids and one eyebrow raised
-73|cafe|M|explanatory|a plate of food on the canteen table with a small ring of light around it
-74|office|C|reveal|the office wall clock reading 1:00 with a soft spotlight on it
-75|graphic|W|explanatory|a simple horizontal timeline of a day from sunrise to moonrise with small icons for breakfast, lunch and bed
-76|breakfast|M|fresh|{YOU} at a home kitchen table eating toast with a cup of coffee
-77|breakfast|M|upbeat|{YOU} heading out the door with a bright, alert face
-78|cafe|M|neutral|{YOU} eating lunch at the canteen table
-79|office|M|comic|{YOU} at the desk propping both eyelids open with two small paper clips, the big white eyes streaked with thin red lines
-80|office|C|curious|{YOU} slumped with the head resting on one hand, staring at the viewer
-81|body|M|explanatory|a simple cartoon silhouette of a person with a small glowing clock inside the head
-82|clockgfx|M|explanatory|a title card reading "CIRCADIAN RHYTHM" over a 24-hour clock with a sun and moon
-83|clockgfx|M|explanatory|the 24-hour clock with a bright sun segment glowing on the morning side
-84|clockgfx|M|calm|the 24-hour clock with the night segment glowing dark blue and a small moon and bed icon
-85|clockgfx|C|explanatory|the 24-hour clock with the slice between 1 p.m. and 4 p.m. highlighted in mustard yellow
-86|graphic|M|explanatory|a smooth alertness curve across the day with a gentle dip in the early afternoon
-87|office|M|explanatory|{YOU} at the desk with no food in sight, still yawning, an untouched lunch box closed beside the laptop
-88|cafe|M|anticipation|{YOU} lifting a full spoon of rice toward the mouth
-89|graphic|M|comic|a plate icon dropping exactly into the low point of the alertness curve with a heavy thud line
-90|office|M|drowsy|{YOU} staring at a blurred laptop screen, the text swimming
-91|office|C|curious|{YOU} glancing up at the wall clock with suspicion
-92|cafe|M|curious|a canteen tray with a huge plate of pasta, fries and a small salad pushed to the side
-93|lab|W|curious|{RESEARCHER} in a research room with a clipboard, a stack of pizza boxes on the table
-94|lab|M|comic|{MEN} seated at the lab table in front of open pizza boxes, with "VISIT 1" and "VISIT 2" signs on the wall
-95|lab|M|calm|{MEN} pushing back a few remaining slices with satisfied, relaxed faces
-96|lab|M|comic|{MEN} surrounded by empty pizza boxes, cheeks puffed, staring at one last slice in defeat
-97|lab|C|wry|{RESEARCHER} calmly ticking a box on the clipboard beside a giant stack of empty pizza boxes
-98|lab|M|drowsy|{MEN} slumped in their chairs, eyes half-closed, filling in a questionnaire
-99|lab|C|drowsy|a questionnaire with a tiredness scale, the highest box ticked
-100|cafe|M|explanatory|a single normal-sized plate of food on the canteen table
-101|cafe|M|comic|the same plate now piled impossibly high, towering over {YOU}
-102|graphic|M|explanatory|a plate divided into colourful sections of carbohydrates, protein, fat and vegetables
-103|cafe|M|heavy|a canteen tray loaded with white bread, fries, creamy pasta and a sugary drink
-104|office|M|sluggish|{YOU} sinking slowly into the desk chair like it's quicksand
-105|cafe|M|reassuring|{YOU} protectively hugging a bowl of rice and a bowl of potatoes
-106|graphic|M|explanatory|three simple icons in a row: a measuring scoop, a plate and a clock
-107|graphic|M|explanatory|the three icons linked together into one triangle with a sleepy moon in the middle
-108|ayurveda|W|historical|an ancient Indian courtyard at dawn with brass vessels, herbs drying and a small fire
-109|ayurveda|M|historical|old palm-leaf manuscripts laid out on a cloth beside a modern laboratory flask, contrasting eras
-110|ayurveda|M|respectful|{VAIDYA} seated cross-legged beside brass bowls of herbs and spices
-111|ayurveda|M|warm|{VAIDYA} beside a small steady flame drawn inside a cartoon stomach outline, a label reading "AGNI"
-112|ayurveda|M|explanatory|a small flame smothered under a huge pile of food, burning low and smoky
-113|ayurveda|M|drowsy|a traveller in a simple cotton kurta dozing against a pillar after a big meal, empty brass plates beside him
-114|ayurveda|M|thoughtful|a split frame: the palm-leaf manuscript on the left, a modern stomach-and-brain diagram on the right
-115|ayurveda|W|thoughtful|a long timeline ribbon unrolling from the ancient courtyard toward a modern office in the distance
-116|office|M|hopeful|{YOU} at the desk looking up with hope, a small light bulb flickering above the head
-117|office|M|comic|{YOU} wearing a tiny boxing headband, facing a giant pair of cartoon eyelids
-118|office|C|comic|giant cartoon eyelids pressing down while {YOU} push back with both hands
-119|cafe|M|explanatory|{YOU} at the canteen counter looking at a plate with a portion-size ring drawn on it
-120|cafe|M|comic|{YOU} with puffed cheeks and a belly line straining, crossed out with a red X
-121|cafe|M|content|{YOU} setting down the spoon with a little food left, looking pleased and relaxed
-122|ayurveda|M|calm|a title card reading "MITAHARA" over a simple brass plate with a modest meal
-123|ayurveda|M|calm|a balanced brass scale with a modest plate on one side and a feather on the other
-124|cafe|TD|explanatory|top-down view of an empty canteen plate on a tray
-125|cafe|TD|reassuring|top-down view of a plate with a neat scoop of rice in one section
-126|cafe|TD|healthy|top-down view of the plate with a smaller rice portion, grilled chicken, lentils and colourful vegetables
-127|cafe|C|curious|{YOU} holding up a spoon, one eyebrow raised
-128|cafe|M|calm|a snail sitting next to a plate of food on the canteen table
-129|cafe|M|calm|{YOU} chewing slowly with eyes closed in enjoyment
-130|cafe|C|calm|a small fuel gauge floating beside {YOU} reaching "FULL ENOUGH"
-131|office|M|comic|{YOU} hovering just above the desk chair, about to sink in
-132|office|M|comic|{YOU} melted into the desk chair, a wall clock spinning fast as hours pass
-133|park|W|fresh|{YOU} strolling along a leafy park path beside the office building
-134|park|M|fresh|{YOU} walking with a small floating timer reading "10–15 MIN"
-135|office|M|alert|{YOU} back at the desk with brighter eyes, the "ALERTNESS" gauge floating beside the head rising a little
-136|office|M|drowsy|{YOU} next to a small salad and a pair of walking shoes, still yawning
-137|office|C|thoughtful|{YOU} looking at an empty lunch box, then glancing sideways suspiciously
-138|bedroom|M|tired|{YOU} lying awake in bed lit by a glowing phone, the bedside clock reading 2:47
-139|office|W|tired|{YOU} at the desk at dawn with the window still dark and a tower of coffee cups growing
-140|graphic|M|explanatory|four simple icons in a row: an empty bed, an empty water glass, a still desk chair and a storm cloud
-141|graphic|M|explanatory|the four icons pouring into a single large sleepy battery icon that is nearly empty
-142|graphic|M|explanatory|the nearly empty battery icon, a large plate, and the dipping alertness curve stacked together
-143|office|C|drowsy|{YOU} nodding off at the desk, head tipping forward toward the keyboard
-144|breakroom|M|gentle|{YOU} looking longingly at a soft grey couch in the quiet break room
-145|breakroom|M|cozy|{YOU} curled up asleep on the break room couch with a cushion and a small "zzz"
-146|office|M|wry|an empty winner's podium beside the desk with a dusty trophy labelled "STAYED AWAKE"
-147|breakroom|C|peaceful|{YOU} sleeping peacefully on the couch, a calm white curved smile line on the face
-148|clinic|M|serious|{YOU} sitting up straighter, a small caution sign floating beside the head
-149|office|M|reassuring|{YOU} with a mild yawn at the desk, a green tick floating beside the head
-150|office|M|concerned|{YOU} completely drained after a small meal, a row of plate icons each followed by an empty battery
-151|office|M|concerned|{YOU} struggling to get up from the desk while a calendar on the wall is covered in crossed-out plans
-152|clinic|M|caring|{DOCTOR} listening attentively to {YOU} across a consulting-room desk
-153|cafe|M|reflective|{YOU} looking down at a plate of food with a thoughtful, drowsy expression
-154|cafe|C|reflective|a plate of food with a full battery icon floating above it
-155|graphic|M|reveal|a split frame: a full battery icon on the left and a drooping eye icon on the right, with a "≠" sign between them
-156|body|M|explanatory|a cartoon torso cutaway with small glowing battery icons spreading through the body
-157|brainhq|M|explanatory|{BRAIN} in the control room as envelope icons arrive and the "ALERTNESS" gauge dips
-158|clockgfx|M|explanatory|the 24-hour clock with the 1 p.m. to 4 p.m. slice glowing mustard yellow
-159|graphic|M|explanatory|a heavy plate icon and an empty bed icon dropping onto a balance scale
-160|office|C|comic|{YOU} again propping eyelids open with paper clips at the desk
-161|cafe|M|happy|{YOU} smiling at a plate of favourite foods: rice and curry, potatoes and a slice of pizza
-162|cafe|TD|healthy|top-down view of a balanced plate with a moderate rice portion, protein and vegetables
-163|park|W|uplifting|{YOU} walking along the park path after lunch, alert and relaxed, sunlight through the trees
-164|office|C|friendly|{YOU} turning toward the viewer with an interested raised eyebrow
-165|graphic|M|playful|three plates labelled "BREAKFAST", "LUNCH" and "DINNER" each with a small sleepy face and a question mark
-166|phone|C|inviting|a smartphone screen showing a video comment section with empty comment bubbles and a blinking cursor
-167|office|W|warm|the whole open-plan office after lunch with everyone, including {YOU} and {COWORKER}, yawning together
+56|body|M|playful|{STOMACH} cupping its little hands around its mouth and calling up a nerve line toward {BRAIN}, a glowing envelope icon zipping upward
+57|body|C|playful|{STOMACH} speaking up, mouth open mid-sentence, puffed up and full of food, looking proudly busy, while {BRAIN} at the top of the frame perks up to listen
+58|body|M|explanatory|food moving from {STOMACH} into {GUT}, a second wave of glowing envelope icons rising toward the head
+59|body|M|busy|{GUT} busily sorting food into small coloured nutrient dots that float into nearby blood vessels
+60|body|M|explanatory|{GUT} releasing small coloured messenger droplets with tiny wings that fly up toward the head
+61|office|M|curious|{YOU} yawning widely at the desk, one eye on a floating diagram of a stomach
+62|brainhq|M|explanatory|{BRAIN} in the control room at a big dial labelled "HUNGER"
+63|brainhq|M|explanatory|{BRAIN} turning to a second big gauge labelled "ALERTNESS" with its needle high
+64|brainhq|M|explanatory|glowing envelope icons arriving through a pipe into the control room
+65|blood|M|explanatory|coloured nutrient dots and sugar cubes flowing through a blood vessel toward the head
+66|brainhq|C|drowsy|the "ALERTNESS" gauge needle slowly drifting down while {BRAIN} yawns
+67|lab|M|curious|{RESEARCHER} studying a whiteboard covered in arrows connecting a stomach, a brain and a moon icon
+68|brainhq|M|myth-busting|a big red button labelled "SLEEP" in the control room, crossed out with a red X
+69|body|M|comic|{STOMACH} reaching toward a big red button, then shrugging because it isn't there
+70|office|W|relatable|three coworkers after the same lunch: one wide awake, one slightly drowsy, one fast asleep on the desk
+71|graphic|M|explanatory|a split frame of two identical plates of rice and eggs, a rising sun above one and a midday sun above the other
+72|office|M|drowsy|{YOU} wide awake in a small morning inset, and drooping heavily at the desk in the main frame
+73|office|C|curious|{YOU} with heavy eyelids and one eyebrow raised
+74|cafe|M|explanatory|a plate of food on the canteen table with a small ring of light around it
+75|office|C|reveal|the office wall clock reading 1:00 with a soft spotlight on it
+76|graphic|W|explanatory|a simple horizontal timeline of a day from sunrise to moonrise with small icons for breakfast, lunch and bed
+77|breakfast|M|fresh|{YOU} at a home kitchen table eating toast with a cup of coffee
+78|breakfast|M|upbeat|{YOU} heading out the door with a bright, alert face
+79|cafe|M|neutral|{YOU} eating lunch at the canteen table
+80|office|M|comic|{YOU} at the desk propping both eyelids open with two small paper clips, the big white eyes streaked with thin red lines
+81|office|C|curious|{YOU} slumped with the head resting on one hand, staring at the viewer
+82|body|M|explanatory|a simple cartoon silhouette of a person with a small glowing clock inside the head
+83|clockgfx|M|explanatory|a title card reading "CIRCADIAN RHYTHM" over a 24-hour clock with a sun and moon
+84|clockgfx|M|explanatory|the 24-hour clock with a bright sun segment glowing on the morning side
+85|clockgfx|M|calm|the 24-hour clock with the night segment glowing dark blue and a small moon and bed icon
+86|clockgfx|C|explanatory|the 24-hour clock with the slice between 1 p.m. and 4 p.m. highlighted in mustard yellow
+87|graphic|M|explanatory|a smooth alertness curve across the day with a gentle dip in the early afternoon
+88|office|M|explanatory|{YOU} at the desk with no food in sight, still yawning, an untouched lunch box closed beside the laptop
+89|cafe|M|anticipation|{YOU} lifting a full spoon of rice toward the mouth
+90|graphic|M|comic|a plate icon dropping exactly into the low point of the alertness curve with a heavy thud line
+91|office|M|drowsy|{YOU} staring at a blurred laptop screen, the text swimming
+92|office|C|curious|{YOU} glancing up at the wall clock with suspicion
+93|cafe|M|curious|a canteen tray with a huge plate of pasta, fries and a small salad pushed to the side
+94|lab|W|curious|{RESEARCHER} in a research room with a clipboard, a stack of pizza boxes on the table
+95|lab|M|comic|{MEN} seated at the lab table in front of open pizza boxes, with "VISIT 1" and "VISIT 2" signs on the wall
+96|lab|M|calm|{MEN} pushing back a few remaining slices with satisfied, relaxed faces
+97|lab|M|comic|{MEN} surrounded by empty pizza boxes, cheeks puffed, staring at one last slice in defeat
+98|lab|C|wry|{RESEARCHER} calmly ticking a box on the clipboard beside a giant stack of empty pizza boxes
+99|lab|M|drowsy|{MEN} slumped in their chairs, eyes half-closed, filling in a questionnaire
+100|lab|C|drowsy|a questionnaire with a tiredness scale, the highest box ticked
+101|cafe|M|explanatory|a single normal-sized plate of food on the canteen table
+102|cafe|M|comic|the same plate now piled impossibly high, towering over {YOU}
+103|graphic|M|explanatory|a plate divided into colourful sections of carbohydrates, protein, fat and vegetables
+104|cafe|M|heavy|a canteen tray loaded with white bread, fries, creamy pasta and a sugary drink
+105|office|M|sluggish|{YOU} sinking slowly into the desk chair like it's quicksand
+106|cafe|M|reassuring|{YOU} protectively hugging a bowl of rice and a bowl of potatoes
+107|graphic|M|explanatory|three simple icons in a row: a measuring scoop, a plate and a clock
+108|graphic|M|explanatory|the three icons linked together into one triangle with a sleepy moon in the middle
+109|ayurveda|W|historical|an ancient Indian courtyard at dawn with brass vessels, herbs drying and a small fire
+110|ayurveda|M|historical|old palm-leaf manuscripts laid out on a cloth beside a modern laboratory flask, contrasting eras
+111|ayurveda|M|respectful|{VAIDYA} seated cross-legged beside brass bowls of herbs and spices
+112|ayurveda|M|warm|{VAIDYA} beside a small steady flame drawn inside a cartoon stomach outline, a label reading "AGNI"
+113|ayurveda|M|explanatory|a small flame smothered under a huge pile of food, burning low and smoky
+114|ayurveda|M|drowsy|a traveller in a simple cotton kurta dozing against a pillar after a big meal, empty brass plates beside him
+115|ayurveda|M|thoughtful|a split frame: the palm-leaf manuscript on the left, a modern stomach-and-brain diagram on the right
+116|ayurveda|W|thoughtful|a long timeline ribbon unrolling from the ancient courtyard toward a modern office in the distance
+117|office|M|hopeful|{YOU} at the desk looking up with hope, a small light bulb flickering above the head
+118|office|M|comic|{YOU} wearing a tiny boxing headband, facing a giant pair of cartoon eyelids
+119|office|C|comic|giant cartoon eyelids pressing down while {YOU} push back with both hands
+120|cafe|M|explanatory|{YOU} at the canteen counter looking at a plate with a portion-size ring drawn on it
+121|cafe|M|comic|{YOU} with puffed cheeks and a belly line straining, crossed out with a red X
+122|cafe|M|content|{YOU} setting down the spoon with a little food left, looking pleased and relaxed
+123|ayurveda|M|calm|a title card reading "MITAHARA" over a simple brass plate with a modest meal
+124|ayurveda|M|calm|a balanced brass scale with a modest plate on one side and a feather on the other
+125|cafe|TD|explanatory|top-down view of an empty canteen plate on a tray
+126|cafe|TD|reassuring|top-down view of a plate with a neat scoop of rice in one section
+127|cafe|TD|healthy|top-down view of the plate with a smaller rice portion, grilled chicken, lentils and colourful vegetables
+128|cafe|C|curious|{YOU} holding up a spoon, one eyebrow raised
+129|cafe|M|calm|a snail sitting next to a plate of food on the canteen table
+130|cafe|M|calm|{YOU} chewing slowly with eyes closed in enjoyment
+131|cafe|C|calm|a small fuel gauge floating beside {YOU} reaching "FULL ENOUGH"
+132|office|M|comic|{YOU} hovering just above the desk chair, about to sink in
+133|office|M|comic|{YOU} melted into the desk chair, a wall clock spinning fast as hours pass
+134|park|W|fresh|{YOU} strolling along a leafy park path beside the office building
+135|park|M|fresh|{YOU} walking with a small floating timer reading "10–15 MIN"
+136|office|M|alert|{YOU} back at the desk with brighter eyes, the "ALERTNESS" gauge floating beside the head rising a little
+137|office|M|drowsy|{YOU} next to a small salad and a pair of walking shoes, still yawning
+138|office|C|thoughtful|{YOU} looking at an empty lunch box, then glancing sideways suspiciously
+139|bedroom|M|tired|{YOU} lying awake in bed lit by a glowing phone, the bedside clock reading 2:47
+140|office|W|tired|{YOU} at the desk at dawn with the window still dark and a tower of coffee cups growing
+141|graphic|M|explanatory|four simple icons in a row: an empty bed, an empty water glass, a still desk chair and a storm cloud
+142|graphic|M|explanatory|the four icons pouring into a single large sleepy battery icon that is nearly empty
+143|graphic|M|explanatory|the nearly empty battery icon, a large plate, and the dipping alertness curve stacked together
+144|office|C|drowsy|{YOU} nodding off at the desk, head tipping forward toward the keyboard
+145|breakroom|M|gentle|{YOU} looking longingly at a soft grey couch in the quiet break room
+146|breakroom|M|cozy|{YOU} curled up asleep on the break room couch with a cushion and a small "zzz"
+147|office|M|wry|an empty winner's podium beside the desk with a dusty trophy labelled "STAYED AWAKE"
+148|breakroom|C|peaceful|{YOU} sleeping peacefully on the couch, a calm white curved smile line on the face
+149|clinic|M|serious|{YOU} sitting up straighter, a small caution sign floating beside the head
+150|office|M|reassuring|{YOU} with a mild yawn at the desk, a green tick floating beside the head
+151|office|M|concerned|{YOU} completely drained after a small meal, a row of plate icons each followed by an empty battery
+152|office|M|concerned|{YOU} struggling to get up from the desk while a calendar on the wall is covered in crossed-out plans
+153|clinic|M|caring|{DOCTOR} listening attentively to {YOU} across a consulting-room desk
+154|cafe|M|reflective|{YOU} looking down at a plate of food with a thoughtful, drowsy expression
+155|cafe|C|reflective|a plate of food with a full battery icon floating above it
+156|graphic|M|reveal|a split frame: a full battery icon on the left and a drooping eye icon on the right, with a "≠" sign between them
+157|body|M|explanatory|a cartoon torso cutaway with small glowing battery icons spreading through the body
+158|brainhq|M|explanatory|{BRAIN} in the control room as envelope icons arrive and the "ALERTNESS" gauge dips
+159|clockgfx|M|explanatory|the 24-hour clock with the 1 p.m. to 4 p.m. slice glowing mustard yellow
+160|graphic|M|explanatory|a heavy plate icon and an empty bed icon dropping onto a balance scale
+161|office|C|comic|{YOU} again propping eyelids open with paper clips at the desk
+162|cafe|M|happy|{YOU} smiling at a plate of favourite foods: rice and curry, potatoes and a slice of pizza
+163|cafe|TD|healthy|top-down view of a balanced plate with a moderate rice portion, protein and vegetables
+164|park|W|uplifting|{YOU} walking along the park path after lunch, alert and relaxed, sunlight through the trees
+165|office|C|friendly|{YOU} turning toward the viewer with an interested raised eyebrow
+166|graphic|M|playful|three plates labelled "BREAKFAST", "LUNCH" and "DINNER" each with a small sleepy face and a question mark
+167|phone|C|inviting|a smartphone screen showing a video comment section with empty comment bubbles and a blinking cursor
+168|office|W|warm|the whole open-plan office after lunch with everyone, including {YOU} and {COWORKER}, yawning together
