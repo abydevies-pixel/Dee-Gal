@@ -6,18 +6,18 @@
 6|office|M|struggling|{YOU} staring hard at the laptop while a tiny cartoon brain floats above the head lying on a pillow
 7|office|OTS|tedious|the laptop screen with one sentence of grey placeholder lines highlighted three times in yellow, seen over your shoulder
 8|office|C|blank|{YOU} with a completely blank face and three small question marks floating above the head
-9|office|C|suspicious|{YOU} suddenly sitting upright, one eyebrow raised high, a finger-like stick arm raised
+9|office|C|suspicious|{YOU} suddenly sitting upright, one eyebrow raised high, one finger raised
 10|office|M|flashback|a thought bubble showing {YOU} wide awake and typing fast at the desk, a wall clock reading 11:00
 11|cafe|M|explanatory|{YOU} at the canteen counter with a low red battery icon floating beside the head and a grumbling stomach line
 12|office|M|puzzled|{YOU} slumped sideways in the desk chair, staring suspiciously at an empty lunch box
-13|cafe|C|comic-suspicious|a single white pill labelled "zzz" dropping into a bowl of rice, a shadowy stick arm reaching in from the frame edge
+13|cafe|C|comic-suspicious|a single white pill labelled "zzz" dropping into a bowl of rice, a shadowy hand reaching in from the frame edge
 14|office|M|reassuring|{YOU} drowsy at the desk while a large green tick mark floats beside the head
 15|graphic|M|explanatory|a doctor's clipboard with a blank form and a stethoscope lying across it
 16|graphic|M|mock-serious|a bold title card reading "POSTPRANDIAL SOMNOLENCE" in a neat serif font with a small sleeping-face icon
 17|graphic|M|explanatory|a simple equation of icons: a plate, a plus sign, and a sleepy moon with "zzz"
 18|office|M|wry|{YOU} at the desk with a small sign above the head reading "FOOD COMA"
-19|office|M|wry|{YOU} at the desk, eyes half-closed, giving a tiny thumbs-up shape with a stick arm to show you're fine
-20|office|C|drowsy|{YOU} propping the oversized head up on a stick arm, eyes drooping, cursor blinking on the screen
+19|office|M|wry|{YOU} at the desk, eyes half-closed, giving a tiny thumbs-up to show you're fine
+20|office|C|drowsy|{YOU} propping the head up on one hand, eyes drooping, cursor blinking on the screen
 21|office|W|relatable|the whole open-plan office after lunch with several coworkers yawning, slumped and blinking slowly at their screens
 22|office|M|curious|{COWORKER} leaning over the desk divider toward {YOU} with a know-it-all expression
 23|body|M|myth|a cartoon torso diagram with red arrows rushing down from the head toward the stomach
@@ -30,7 +30,7 @@
 30|graphic|M|myth-busting|both myth diagrams stamped with a big red "MYTH" stamp
 31|body|M|explanatory|a cartoon torso diagram with a gentle extra stream of red flowing toward the stomach and intestines
 32|body|M|reassuring|the same torso diagram with a steady, unchanged red stream still flowing up to {BRAIN}, who gives a calm nod
-33|body|M|comic|{STOMACH} holding its stick arms up innocently while {BRAIN} breathes easily beside it
+33|body|M|comic|{STOMACH} holding its little arms up innocently while {BRAIN} breathes easily beside it
 34|cafe|C|comic|a huge mound of white rice on a plate, steam rising, a spoon stuck in the top
 35|graphic|M|curious|the falling blood sugar graph from before with a large question mark beside it
 36|body|M|explanatory|a bowl of rice and a slice of bread breaking apart into many small glowing sugar cubes inside a cartoon stomach
@@ -77,7 +77,7 @@
 77|breakfast|M|upbeat|{YOU} heading out the door with a bright, alert face
 78|cafe|M|neutral|{YOU} eating lunch at the canteen table
 79|office|M|comic|{YOU} at the desk propping both eyelids open with two small paper clips, eyes bloodshot
-80|office|C|curious|{YOU} slumped with the head on one stick arm, staring at the viewer
+80|office|C|curious|{YOU} slumped with the head resting on one hand, staring at the viewer
 81|body|M|explanatory|a simple cartoon silhouette of a person with a small glowing clock inside the head
 82|clockgfx|M|explanatory|a title card reading "CIRCADIAN RHYTHM" over a 24-hour clock with a sun and moon
 83|clockgfx|M|explanatory|the 24-hour clock with a bright sun segment glowing on the morning side
@@ -110,12 +110,12 @@
 110|ayurveda|M|respectful|{VAIDYA} seated cross-legged beside brass bowls of herbs and spices
 111|ayurveda|M|warm|{VAIDYA} beside a small steady flame drawn inside a cartoon stomach outline, a label reading "AGNI"
 112|ayurveda|M|explanatory|a small flame smothered under a huge pile of food, burning low and smoky
-113|ayurveda|M|drowsy|a traveller with an oversized head dozing against a pillar after a big meal, empty brass plates beside him
+113|ayurveda|M|drowsy|a traveller in a simple cotton kurta dozing against a pillar after a big meal, empty brass plates beside him
 114|ayurveda|M|thoughtful|a split frame: the palm-leaf manuscript on the left, a modern stomach-and-brain diagram on the right
 115|ayurveda|W|thoughtful|a long timeline ribbon unrolling from the ancient courtyard toward a modern office in the distance
 116|office|M|hopeful|{YOU} at the desk looking up with hope, a small light bulb flickering above the head
 117|office|M|comic|{YOU} wearing a tiny boxing headband, facing a giant pair of cartoon eyelids
-118|office|C|comic|giant cartoon eyelids pressing down while {YOU} pushes back with both stick arms
+118|office|C|comic|giant cartoon eyelids pressing down while {YOU} push back with both hands
 119|cafe|M|explanatory|{YOU} at the canteen counter looking at a plate with a portion-size ring drawn on it
 120|cafe|M|comic|{YOU} with puffed cheeks and a belly line straining, crossed out with a red X
 121|cafe|M|content|{YOU} setting down the spoon with a little food left, looking pleased and relaxed
