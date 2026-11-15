@@ -45,7 +45,8 @@ A lifestyle and health explainer channel: everyday body questions, health myths 
 ## 4. Visual style
 
 - **Look:** bright, high-key 2D explainer animation with flat vector shapes, clean dark-grey outlines and very light shading.
-- **Palette:** clean white, warm cream, fresh mint, sky blue, sunny yellow, coral and leaf green. Never dark, muddy or desaturated. Even night scenes stay light (lavender and soft blue).
+- **Palette (channel theme):** clean white, warm cream, fresh mint, sky blue, sunny yellow, coral and leaf green. This is the default look of the channel, and episodes should feel bright overall.
+- **Darker scenes:** when a scene genuinely needs dark colours (night, a dark bedroom, a power cut, a gloomy mood beat), use them. Keep the characters clearly readable and go back to the bright theme in the next scene.
 - **Organs and anatomy:** always in their true natural colours, never recoloured to match the palette. When an organ acts as a character it gets a small friendly face and little arms, and keeps its real colour and shape.
 
 | Organ | Colour |

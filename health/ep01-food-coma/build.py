@@ -9,8 +9,8 @@ WPS, MIN_DUR = 2.4, 1.2   # narration speed (words per second) and shortest beat
 
 STYLE = ("bright, high-key 2D explainer animation still: flat vector illustration with clean, even dark-grey outlines, simple rounded shapes and very light cel shading; "
          "friendly cartoon people with slightly large heads, expressive eyes and eyebrows, simple full bodies with hands and plain modern clothes; "
-         "airy, uncluttered present-day backgrounds with lots of white space and a few clear props; cheerful light palette of clean white, warm cream, "
-         "fresh mint, sky blue, sunny yellow, coral and leaf green; no dark, muddy or desaturated tones, no heavy shadows, night scenes kept light and readable; "
+         "airy, uncluttered present-day backgrounds with lots of white space and a few clear props; cheerful light channel palette of clean white, warm cream, "
+         "fresh mint, sky blue, sunny yellow, coral and leaf green as the default; darker colours used only where the scene itself calls for them, such as night or a dark room, with the characters still clear; "
          "organs and body parts always shown in their true natural anatomical colours in a clean, friendly medical-illustration look, never recoloured; "
          "no gore, open wounds, blood splatter or nudity; light, curious, gently comic tone; any on-screen words limited to the ones given in quotes; "
          "static 16:9 frame; bottom-right corner kept clear")
@@ -41,7 +41,7 @@ S = {
  'lab': ("a bright modern university nutrition research room with a long table, pizza boxes, a scale, clipboards and a whiteboard", "bright even light, clean white"),
  'ayurveda': ("a traditional Indian courtyard with a brass oil lamp, a small cooking fire, brass vessels, herbs drying on a cloth and palm-leaf manuscripts", "warm daylight, saffron tint"),
  'park': ("a leafy city park path beside an office building, with benches and trees", "bright daylight, fresh green tint"),
- 'bedroom': ("a modern bedroom at night with a rumpled bed, a glowing phone and a bedside clock, drawn in light lavender and soft blue so it stays bright and readable", "soft lavender night tint with a warm phone glow, never dark"),
+ 'bedroom': ("a dark modern bedroom at night with a rumpled bed, a glowing phone and a bedside clock", "dark blue night light with a bright phone glow on the face"),
  'breakroom': ("a quiet office break room with a soft grey couch, a cushion, a water cooler and a window with blinds", "soft warm ambient light"),
  'clinic': ("a calm modern doctor's consulting room with a desk, a computer, an examination couch and a simple digestive-system poster", "soft even light, clean pale-blue tint"),
  'phone': ("a smartphone held in front of a softly blurred office background", "soft screen glow, white tint"),
