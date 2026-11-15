@@ -17,8 +17,8 @@ STYLE = ("bright 2D cartoon animation still in a chunky, rounded character style
          "limited to the ones given in quotes; static 16:9 frame; bottom-right corner kept clear")
 FIG = "a chunky rounded cartoon person with solid matte-black skin and face, big round white eyes with small black pupils and full arms, legs and hands"
 C = {
- 'YOU': f"you (the main character: {FIG}, short tufty black curly hair, a mint-green hoodie with the hood down, a coral lanyard, navy joggers and white sneakers)",
- 'COWORKER': f"your coworker ({FIG}, auburn hair in a high round bun, a coral cardigan over a white top, a coral lanyard and grey trousers)",
+ 'YOU': f"you (the main character: {FIG}, short tufty black curly hair, __OUTFIT__)",
+ 'COWORKER': f"your coworker ({FIG}, auburn hair in a high round bun, a tailored coral blazer over a crisp white blouse, slim grey trousers and black heels)",
  'DOCTOR': f"a friendly doctor ({FIG}, short grey hair, white rectangular glasses, a white coat over a sky-blue shirt and a silver stethoscope)",
  'RESEARCHER': f"a researcher ({FIG}, a neat dark-purple bob, round white glasses and a white lab coat, holding a clipboard)",
  'MEN': f"two volunteer test subjects (each {FIG}): a lanky man with a thin grey moustache in a sky-blue T-shirt, and a stocky bald man with a short grey beard in a leaf-green T-shirt",
@@ -28,6 +28,9 @@ C = {
  'PANCREAS': "Pancreas, a long, slightly lumpy pancreas in its true natural colour, pale creamy yellow-pink, with big round white cartoon eyes, a calm mouth and little cartoon arms",
  'GUT': "Intestines, the coiled small intestine in its true natural salmon pink framed by the large intestine in a slightly deeper dusty pink, with big round white cartoon eyes, a busy expression and little cartoon arms",
 }
+# The main character's look stays fixed (face, hair); the outfit fits the scenario. This episode is an office workday.
+FORMAL = "a formal work outfit: a fitted navy suit jacket and trousers, a crisp white shirt, a sky-blue tie and polished black shoes"
+OUTFIT = {'bedroom': "plain sky-blue pyjamas", 'breakroom': "the same formal work outfit with the suit jacket off and the tie loosened: crisp white shirt, sky-blue tie, navy trousers and black shoes"}
 SHORT = {'YOU': 'you', 'COWORKER': 'your coworker', 'DOCTOR': 'the doctor', 'RESEARCHER': 'the researcher', 'MEN': 'the two men',
          'VAIDYA': 'an Ayurvedic physician', 'STOMACH': 'Stomach', 'BRAIN': 'Brain', 'PANCREAS': 'Pancreas', 'GUT': 'Intestines'}
 S = {
@@ -63,7 +66,7 @@ for line in open('shots.txt'):
     if not line.strip(): continue
     n, sc, cam, mood, act = line.rstrip('\n').split('|', 4); n = int(n)
     a = re.sub(r'^top-down view of\s+', '', act); short = act
-    for k in C: a = a.replace('{' + k + '}', C[k]); short = short.replace('{' + k + '}', SHORT[k])
+    for k in C: a = a.replace('{' + k + '}', C[k].replace('__OUTFIT__', OUTFIT.get(sc, FORMAL))); short = short.replace('{' + k + '}', SHORT[k])
     env, light = S[sc]
     d = round(max(MIN_DUR, len(beats[n - 1].split()) / WPS), 3)
     rows.append(dict(n=n, seg=beats[n - 1], start=round(t, 3), dur=d, motion=motion(n), scene=sc, image=f"images/beat_{n:03d}.png",
@@ -82,7 +85,7 @@ with open('timeline.csv', 'w', newline='') as f:
     for r in rows: w.writerow([r['n'], ts(r['start']), ts(r['start'] + r['dur']), r['dur'], r['motion'], r['scene'], r['image'], r['seg']])
 with open('beats.txt', 'w') as f:
     f.write(f"{TITLE.upper()} - {len(rows)} BEATS\n\n" + "".join(f"{r['n']:03d}  [{tm(r['start'])}]  {r['seg']}\n" for r in rows))
-LOCK = [("All people", FIG), ("You", C['YOU'].split('(', 1)[1].rstrip(')')), ("Your coworker", C['COWORKER'].split('(', 1)[1].rstrip(')')),
+LOCK = [("All people", FIG), ("You", "short tufty black curly hair; outfit fits the scenario: " + FORMAL + " at work, " + OUTFIT['bedroom'] + " in bed, jacket off and tie loosened for the break-room nap"), ("Your coworker", C['COWORKER'].split('(', 1)[1].rstrip(')')),
         ("Organ characters", "Stomach, Brain, Pancreas and Intestines: true natural organ colours, big round white cartoon eyes and little arms")]
 with open('image_prompts.md', 'w') as f:
     f.write(f"# {TITLE} — Image Prompts\n\n{len(rows)} beats · ~3–5 s each · one locked visual style · recurring characters described the same way in every prompt\n\n"
