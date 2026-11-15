@@ -81,6 +81,7 @@ for line in open('shots.txt'):
     t += d
 assert [r['n'] for r in rows] == list(range(1, len(beats) + 1)), "shots.txt and beats.json are out of step"
 
+def q(t): return t if t.startswith('"') else f'"{t}"'
 def tm(s): m, sec = divmod(s, 60); return f"{int(m):02d}:{sec:04.1f}"
 def ts(s): h, r = divmod(s, 3600); m, x = divmod(r, 60); return f"{int(h):02d}:{int(m):02d}:{x:06.3f}"
 json.dump([{k: r[k] for k in ('n', 'seg', 'prompt', 'cam', 'light', 'mood', 'action')} for r in rows], open('prompts.json', 'w'), indent=1, ensure_ascii=False)
@@ -107,7 +108,7 @@ with open('image_prompts.md', 'w') as f:
             f"**Visual style:** {STYLE}.\n\n**Character lock**\n\n| Character | Fixed description |\n|---|---|\n"
             + "".join(f"| {a} | {b} |\n" for a, b in LOCK) + "\n")
     for r in rows:
-        f.write(f"## Beat {r['n']}\n**[Script Segment]**" + (f" **[{r['voice']} speaks]**" if r['voice'] != 'NARRATOR' else '') + f" \"{r['seg']}\"\n\n**Image Prompt:** {r['prompt']}\n\n- **Camera Angle:** {r['cam']}\n"
+        f.write(f"## Beat {r['n']}\n**[Script Segment]**" + (f" **[{r['voice']} speaks]**" if r['voice'] != 'NARRATOR' else '') + f" {q(r['seg'])}\n\n**Image Prompt:** {r['prompt']}\n\n- **Camera Angle:** {r['cam']}\n"
                 f"- **Lighting:** {r['light']}\n- **Mood:** {r['mood']}\n- **Action:** {r['action']}\n\n")
 
 e = html.escape; words = sum(len(p.split()) for p in script)
@@ -126,7 +127,7 @@ h = [f'<!doctype html><html><head><meta charset="utf-8"><style>{css}</style></he
      + "".join(f'<tr><td class="n">{r["n"]:03d}</td><td class="t">{tm(r["start"])}</td><td>' + (f'<b>[{e(r["voice"])}]</b> ' if r['voice'] != 'NARRATOR' else '') + f'{e(r["seg"])}</td></tr>' for r in rows) + "</table>",
      f'<h2>3. Image Prompts</h2><p class="f"><b>Character lock:</b> ' + " · ".join(f"<b>{e(a)}:</b> {e(b)}" for a, b in LOCK) + "</p>"]
 for r in rows:
-    h.append(f'<div class="beat"><div class="bh">Beat {r["n"]:03d} · {tm(r["start"])}</div><div class="seg">' + (f'<b>[{e(r["voice"])} speaks]</b> ' if r['voice'] != 'NARRATOR' else '') + f'"{e(r["seg"])}"</div>'
+    h.append(f'<div class="beat"><div class="bh">Beat {r["n"]:03d} · {tm(r["start"])}</div><div class="seg">' + (f'<b>[{e(r["voice"])} speaks]</b> ' if r['voice'] != 'NARRATOR' else '') + f'{e(q(r["seg"]))}</div>'
              f'<div class="pr"><b>Image Prompt:</b> {e(r["prompt"])}</div><div class="f"><b>Camera:</b> {e(r["cam"])} · <b>Lighting:</b> {e(r["light"])} · '
              f'<b>Mood:</b> {e(r["mood"])}<br><b>Action:</b> {e(r["action"])}</div></div>')
 h.append("</body></html>")
