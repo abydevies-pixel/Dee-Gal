@@ -1,0 +1,3332 @@
+[
+ {
+  "beat": 1,
+  "start": 0.0,
+  "dur": 1.667,
+  "text": "The year is 1712,",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "a calendar page reading 1712 floating over a quiet Saxon village at dawn",
+  "image": "images/beat_001.png"
+ },
+ {
+  "beat": 2,
+  "start": 1.667,
+  "dur": 4.167,
+  "text": "and you are born in a small village in Saxony,",
+  "motion": "pan",
+  "scene": "mill_ext",
+  "action": "{MOTHER} at the mill doorway holding {BABY} wrapped in a bundle",
+  "image": "images/beat_002.png"
+ },
+ {
+  "beat": 3,
+  "start": 5.834,
+  "dur": 4.167,
+  "text": "in the middle of what will one day be Germany.",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "a map of central Europe with Saxony highlighted and a faint modern outline of Germany around it",
+  "image": "images/beat_003.png"
+ },
+ {
+  "beat": 4,
+  "start": 10.001,
+  "dur": 4.167,
+  "text": "Your home is a mill on a slow, brown river,",
+  "motion": "pull",
+  "scene": "mill_ext",
+  "action": "a stone watermill beside a slow brown river, the wheel turning",
+  "image": "images/beat_004.png"
+ },
+ {
+  "beat": 5,
+  "start": 14.168,
+  "dur": 3.333,
+  "text": "and it smells of wet stone, warm flour,",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "the mill kitchen with flour sacks, a stone hearth and warm loaves cooling, smell lines rising",
+  "image": "images/beat_005.png"
+ },
+ {
+  "beat": 6,
+  "start": 17.501,
+  "dur": 4.167,
+  "text": "and the bread your mother bakes before sunrise every morning.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "{MOTHER} pulling bread from the oven before sunrise, a candle burning",
+  "image": "images/beat_006.png"
+ },
+ {
+  "beat": 7,
+  "start": 21.668,
+  "dur": 2.083,
+  "text": "Your father is the miller.",
+  "motion": "pan",
+  "scene": "mill_ext",
+  "action": "{FATHER} beside a sack of flour, chest puffed out",
+  "image": "images/beat_007.png"
+ },
+ {
+  "beat": 8,
+  "start": 23.751,
+  "dur": 5.0,
+  "text": "He is a short, stocky, practical man who believes in hard work,",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "{FATHER} heaving a flour sack onto his shoulder, sweat drops",
+  "image": "images/beat_008.png"
+ },
+ {
+  "beat": 9,
+  "start": 28.751,
+  "dur": 3.75,
+  "text": "fair weights, and never trusting anyone from the city.",
+  "motion": "pull",
+  "scene": "mill_ext",
+  "action": "{FATHER} weighing flour on scales and squinting suspiciously at a city merchant in a wig",
+  "image": "images/beat_009.png"
+ },
+ {
+  "beat": 10,
+  "start": 32.501,
+  "dur": 4.583,
+  "text": "Your mother is even shorter. She bakes, sews, keeps the accounts,",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "{MOTHER} sewing, stirring a pot and writing in an account book all at once",
+  "image": "images/beat_010.png"
+ },
+ {
+  "beat": 11,
+  "start": 37.084,
+  "dur": 3.333,
+  "text": "and can silence a room with one look.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "{MOTHER} giving one sharp look as a noisy room of villagers falls instantly silent",
+  "image": "images/beat_011.png"
+ },
+ {
+  "beat": 12,
+  "start": 40.417,
+  "dur": 2.5,
+  "text": "You are born an ordinary size.",
+  "motion": "fade",
+  "scene": "kitchen",
+  "action": "{BABY} in a wooden cradle, a measuring tape beside him showing a normal size",
+  "image": "images/beat_012.png"
+ },
+ {
+  "beat": 13,
+  "start": 42.917,
+  "dur": 4.583,
+  "text": "Everyone in the village agrees you are a perfectly normal baby.",
+  "motion": "push",
+  "scene": "village",
+  "action": "villagers gathered around the cradle nodding approvingly",
+  "image": "images/beat_013.png"
+ },
+ {
+  "beat": 14,
+  "start": 47.5,
+  "dur": 1.667,
+  "text": "But that doesn\u2019t last.",
+  "motion": "pull",
+  "scene": "village",
+  "action": "a growth chart on the kitchen wall with an arrow shooting upward off the top",
+  "image": "images/beat_014.png"
+ },
+ {
+  "beat": 15,
+  "start": 49.167,
+  "dur": 4.167,
+  "text": "By age 5, you are taller than the other children.",
+  "motion": "push",
+  "scene": "village",
+  "action": "{YOU5} standing a head taller than a row of other village children",
+  "image": "images/beat_015.png"
+ },
+ {
+  "beat": 16,
+  "start": 53.334,
+  "dur": 3.75,
+  "text": "By age 10, you are taller than your father.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "{YOU10} standing beside {FATHER}, already taller, {FATHER} glaring up",
+  "image": "images/beat_016.png"
+ },
+ {
+  "beat": 17,
+  "start": 57.084,
+  "dur": 4.583,
+  "text": "By age 14, you are taller than anyone in the village,",
+  "motion": "pan",
+  "scene": "village",
+  "action": "{YOU14} towering over a crowd of villagers in the square",
+  "image": "images/beat_017.png"
+ },
+ {
+  "beat": 18,
+  "start": 61.667,
+  "dur": 4.167,
+  "text": "including the blacksmith, who used to be famous for it.",
+  "motion": "push",
+  "scene": "village",
+  "action": "a burly {BLACKSMITH} looking up at {YOU14}, deflated",
+  "image": "images/beat_018.png"
+ },
+ {
+  "beat": 19,
+  "start": 65.834,
+  "dur": 3.75,
+  "text": "You bang your head on every doorway in your",
+  "motion": "pull",
+  "scene": "kitchen",
+  "action": "{YOU14} banging his head on a low doorway, stars circling",
+  "image": "images/beat_019.png"
+ },
+ {
+  "beat": 20,
+  "start": 69.584,
+  "dur": 3.75,
+  "text": "house so many times that your mother hangs a",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "{YOU14} rubbing his head under another doorway, a bump growing",
+  "image": "images/beat_020.png"
+ },
+ {
+  "beat": 21,
+  "start": 73.334,
+  "dur": 3.75,
+  "text": "little bell above the kitchen door to warn you.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "{MOTHER} on a stool hanging a small brass bell above the kitchen door",
+  "image": "images/beat_021.png"
+ },
+ {
+  "beat": 22,
+  "start": 77.084,
+  "dur": 5.0,
+  "text": "Every morning, as you duck under it, she says the same thing.",
+  "motion": "pan",
+  "scene": "kitchen",
+  "action": "{YOU14} ducking under the doorway in the morning, the bell jingling",
+  "image": "images/beat_022.png"
+ },
+ {
+  "beat": 23,
+  "start": 82.084,
+  "dur": 1.667,
+  "text": "Mind your head, love.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "close-up of {MOTHER} smiling up at him, a speech bubble with MIND YOUR HEAD, LOVE",
+  "image": "images/beat_023.png"
+ },
+ {
+  "beat": 24,
+  "start": 83.751,
+  "dur": 1.667,
+  "text": "You always do. Mostly.",
+  "motion": "pull",
+  "scene": "kitchen",
+  "action": "{YOU14} nodding, then bonking his head on a shelf behind him",
+  "image": "images/beat_024.png"
+ },
+ {
+  "beat": 25,
+  "start": 85.418,
+  "dur": 2.5,
+  "text": "Being tall is wonderful at first.",
+  "motion": "push",
+  "scene": "village",
+  "action": "{YOU14} standing proudly in a sunny village square",
+  "image": "images/beat_025.png"
+ },
+ {
+  "beat": 26,
+  "start": 87.918,
+  "dur": 3.75,
+  "text": "You can carry two sacks of flour at once.",
+  "motion": "fade",
+  "scene": "mill_ext",
+  "action": "{YOU14} carrying two flour sacks at once, one on each shoulder",
+  "image": "images/beat_026.png"
+ },
+ {
+  "beat": 27,
+  "start": 91.668,
+  "dur": 3.75,
+  "text": "You can reach the apples nobody else can reach.",
+  "motion": "pan",
+  "scene": "orchard",
+  "action": "{YOU14} picking apples from a high branch while short villagers watch below",
+  "image": "images/beat_027.png"
+ },
+ {
+  "beat": 28,
+  "start": 95.418,
+  "dur": 1.667,
+  "text": "At the harvest festival,",
+  "motion": "push",
+  "scene": "village",
+  "action": "a harvest festival in the village square with garlands and tables of food",
+  "image": "images/beat_028.png"
+ },
+ {
+  "beat": 29,
+  "start": 97.085,
+  "dur": 4.167,
+  "text": "you win the log-carrying contest three years in a row,",
+  "motion": "pull",
+  "scene": "village",
+  "action": "{YOU14} carrying a huge log on his shoulder while other boys struggle",
+  "image": "images/beat_029.png"
+ },
+ {
+  "beat": 30,
+  "start": 101.252,
+  "dur": 4.583,
+  "text": "and the smaller children follow you around the square like ducklings.",
+  "motion": "push",
+  "scene": "village",
+  "action": "a line of small children following {YOU14} around the square like ducklings",
+  "image": "images/beat_030.png"
+ },
+ {
+  "beat": 31,
+  "start": 105.835,
+  "dur": 4.167,
+  "text": "Your father jokes that he\u2019ll never need a ladder again.",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "{FATHER} laughing and pointing at {YOU14}, a ladder crossed out in a thought bubble",
+  "image": "images/beat_031.png"
+ },
+ {
+  "beat": 32,
+  "start": 110.002,
+  "dur": 4.167,
+  "text": "Then he stops buying ladders, just to prove his point.",
+  "motion": "pan",
+  "scene": "mill_ext",
+  "action": "{FATHER} snapping an old ladder in half over his knee",
+  "image": "images/beat_032.png"
+ },
+ {
+  "beat": 33,
+  "start": 114.169,
+  "dur": 3.333,
+  "text": "When the roof of the mill needs fixing,",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "the mill roof with a loose tile, {FATHER} pointing up",
+  "image": "images/beat_033.png"
+ },
+ {
+  "beat": 34,
+  "start": 117.502,
+  "dur": 2.083,
+  "text": "he simply points at you.",
+  "motion": "pull",
+  "scene": "mill_ext",
+  "action": "{FATHER} pointing at {YOU14}, who sighs and reaches up to fix the roof",
+  "image": "images/beat_034.png"
+ },
+ {
+  "beat": 35,
+  "start": 119.585,
+  "dur": 3.333,
+  "text": "But your mother doesn\u2019t laugh at that joke.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "close-up of {MOTHER} not laughing, arms crossed",
+  "image": "images/beat_035.png"
+ },
+ {
+  "beat": 36,
+  "start": 122.918,
+  "dur": 3.75,
+  "text": "She doesn\u2019t like it when travelers stop at the",
+  "motion": "fade",
+  "scene": "mill_ext",
+  "action": "two travellers on horseback stopping at the mill gate and staring",
+  "image": "images/beat_036.png"
+ },
+ {
+  "beat": 37,
+  "start": 126.668,
+  "dur": 3.333,
+  "text": "mill and stare at you for too long.",
+  "motion": "pan",
+  "scene": "mill_ext",
+  "action": "close-up of a traveller's narrowed eyes measuring {YOU14}",
+  "image": "images/beat_037.png"
+ },
+ {
+  "beat": 38,
+  "start": 130.001,
+  "dur": 2.917,
+  "text": "And she especially doesn\u2019t like it when",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "a traveller holding up his thumb to measure {YOU14}'s height",
+  "image": "images/beat_038.png"
+ },
+ {
+  "beat": 39,
+  "start": 132.918,
+  "dur": 2.5,
+  "text": "they ask how tall you are.",
+  "motion": "pull",
+  "scene": "mill_ext",
+  "action": "{MOTHER} stepping between the traveller and {YOU14}",
+  "image": "images/beat_039.png"
+ },
+ {
+  "beat": 40,
+  "start": 135.418,
+  "dur": 4.583,
+  "text": "She tells you to slouch around strangers. You don\u2019t understand why.",
+  "motion": "shake",
+  "scene": "mill_ext",
+  "action": "{MOTHER} pushing down on {YOU14}'s shoulders to make him slouch, {YOU14} puzzled",
+  "image": "images/beat_040.png"
+ },
+ {
+  "beat": 41,
+  "start": 140.001,
+  "dur": 2.083,
+  "text": "You find out in 1730.",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "a calendar flipping to 1730 over the mill",
+  "image": "images/beat_041.png"
+ },
+ {
+  "beat": 42,
+  "start": 142.084,
+  "dur": 3.75,
+  "text": "You\u2019re 18 years old, and you\u2019ve just grown again.",
+  "motion": "pan",
+  "scene": "mill_ext",
+  "action": "{YOU} standing beside the mill doorframe, a height mark well above it",
+  "image": "images/beat_042.png"
+ },
+ {
+  "beat": 43,
+  "start": 145.834,
+  "dur": 2.917,
+  "text": "You\u2019re now well over six feet tall,",
+  "motion": "shake",
+  "scene": "mill_ext",
+  "action": "an inset height chart: {YOU} far above a row of normal men",
+  "image": "images/beat_043.png"
+ },
+ {
+  "beat": 44,
+  "start": 148.751,
+  "dur": 3.333,
+  "text": "a true giant in a time when most",
+  "motion": "pull",
+  "scene": "village",
+  "action": "{YOU} in a crowd, his head sticking far above everyone else",
+  "image": "images/beat_044.png"
+ },
+ {
+  "beat": 45,
+  "start": 152.084,
+  "dur": 4.167,
+  "text": "men barely reach five and a half. One autumn afternoon,",
+  "motion": "shake",
+  "scene": "village",
+  "action": "ordinary-height villagers around {YOU}, their heads at his chest",
+  "image": "images/beat_045.png"
+ },
+ {
+  "beat": 46,
+  "start": 156.251,
+  "dur": 3.75,
+  "text": "your father sends you to the market town two",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "{FATHER} loading flour sacks onto a cart while {YOU} holds the horse",
+  "image": "images/beat_046.png"
+ },
+ {
+  "beat": 47,
+  "start": 160.001,
+  "dur": 3.333,
+  "text": "days away to sell a cart of flour.",
+  "motion": "pan",
+  "scene": "road",
+  "action": "a dirt road winding toward a distant market town, two days marked by sun and moon icons",
+  "image": "images/beat_047.png"
+ },
+ {
+  "beat": 48,
+  "start": 163.334,
+  "dur": 2.083,
+  "text": "It\u2019s your first trip alone.",
+  "motion": "push",
+  "scene": "road",
+  "action": "{YOU} driving the flour cart alone, grinning",
+  "image": "images/beat_048.png"
+ },
+ {
+  "beat": 49,
+  "start": 165.417,
+  "dur": 2.917,
+  "text": "Your mother packs you bread and sausage",
+  "motion": "shake",
+  "scene": "mill_ext",
+  "action": "{MOTHER} handing {YOU} a bundle of bread and sausage at the road",
+  "image": "images/beat_049.png"
+ },
+ {
+  "beat": 50,
+  "start": 168.334,
+  "dur": 2.5,
+  "text": "and walks you to the road.",
+  "motion": "push",
+  "scene": "road",
+  "action": "{MOTHER} walking beside {YOU}'s cart to the end of the road",
+  "image": "images/beat_050.png"
+ },
+ {
+  "beat": 51,
+  "start": 170.834,
+  "dur": 3.333,
+  "text": "She grips your arm, looks up at you,",
+  "motion": "push",
+  "scene": "road",
+  "action": "{MOTHER} gripping {YOU}'s stick arm, looking up at him",
+  "image": "images/beat_051.png"
+ },
+ {
+  "beat": 52,
+  "start": 174.167,
+  "dur": 2.083,
+  "text": "and says the strangest thing.",
+  "motion": "pan",
+  "scene": "road",
+  "action": "close-up of {MOTHER}'s worried face",
+  "image": "images/beat_052.png"
+ },
+ {
+  "beat": 53,
+  "start": 176.25,
+  "dur": 4.167,
+  "text": "If anyone offers you work, a drink, or a ride,",
+  "motion": "push",
+  "scene": "road",
+  "action": "an inset of three crossed-out icons: a coin, a beer mug and a cart",
+  "image": "images/beat_053.png"
+ },
+ {
+  "beat": 54,
+  "start": 180.417,
+  "dur": 1.25,
+  "text": "you say no.",
+  "motion": "pull",
+  "scene": "road",
+  "action": "{MOTHER} shaking her head firmly, speech bubble reading SAY NO",
+  "image": "images/beat_054.png"
+ },
+ {
+  "beat": 55,
+  "start": 181.667,
+  "dur": 1.667,
+  "text": "You laugh. You promise.",
+  "motion": "push",
+  "scene": "road",
+  "action": "{YOU} laughing and nodding as he drives away",
+  "image": "images/beat_055.png"
+ },
+ {
+  "beat": 56,
+  "start": 183.334,
+  "dur": 4.583,
+  "text": "You sell the flour by noon. You get a good price,",
+  "motion": "push",
+  "scene": "market",
+  "action": "{YOU} handing flour sacks to a merchant and receiving coins",
+  "image": "images/beat_056.png"
+ },
+ {
+  "beat": 57,
+  "start": 187.917,
+  "dur": 2.917,
+  "text": "so you decide to celebrate with one",
+  "motion": "pan",
+  "scene": "market",
+  "action": "{YOU} jingling a small purse of coins, eyebrows raised",
+  "image": "images/beat_057.png"
+ },
+ {
+  "beat": 58,
+  "start": 190.834,
+  "dur": 3.75,
+  "text": "drink at the inn before heading home. Just one.",
+  "motion": "push",
+  "scene": "market",
+  "action": "a cosy inn with a painted sign and warm windows at dusk",
+  "image": "images/beat_058.png"
+ },
+ {
+  "beat": 59,
+  "start": 194.584,
+  "dur": 1.2,
+  "text": "Big mistake.",
+  "motion": "pull",
+  "scene": "inn",
+  "action": "close-up of {YOU} raising one finger, a beer mug in front of him, an ominous shadow behind",
+  "image": "images/beat_059.png"
+ },
+ {
+  "beat": 60,
+  "start": 195.784,
+  "dur": 4.167,
+  "text": "The man who sits down beside you is friendly, well-dressed,",
+  "motion": "push",
+  "scene": "inn",
+  "action": "{RECRUITER} sliding onto the bench beside {YOU} with a wide smile",
+  "image": "images/beat_060.png"
+ },
+ {
+  "beat": 61,
+  "start": 199.951,
+  "dur": 5.0,
+  "text": "and very interested in you. He buys you a beer. Then another.",
+  "motion": "push",
+  "scene": "inn",
+  "action": "{RECRUITER} pushing a second beer toward {YOU}",
+  "image": "images/beat_061.png"
+ },
+ {
+  "beat": 62,
+  "start": 204.951,
+  "dur": 4.167,
+  "text": "He tells you he\u2019s looking for a strong young man",
+  "motion": "pan",
+  "scene": "inn",
+  "action": "{RECRUITER} talking with sweeping gestures, a thought bubble of a grand mansion",
+  "image": "images/beat_062.png"
+ },
+ {
+  "beat": 63,
+  "start": 209.118,
+  "dur": 4.583,
+  "text": "to work as a footman for a wealthy nobleman. Fine clothes.",
+  "motion": "push",
+  "scene": "inn",
+  "action": "an inset of a footman in fine livery holding a silver tray",
+  "image": "images/beat_063.png"
+ },
+ {
+  "beat": 64,
+  "start": 213.701,
+  "dur": 1.2,
+  "text": "Good food.",
+  "motion": "pull",
+  "scene": "inn",
+  "action": "an inset of a lavish dinner table",
+  "image": "images/beat_064.png"
+ },
+ {
+  "beat": 65,
+  "start": 214.901,
+  "dur": 4.583,
+  "text": "Wages three times what a miller\u2019s son could ever dream of.",
+  "motion": "push",
+  "scene": "inn",
+  "action": "an inset of a pile of gold coins",
+  "image": "images/beat_065.png"
+ },
+ {
+  "beat": 66,
+  "start": 219.484,
+  "dur": 4.167,
+  "text": "You remember your mother\u2019s warning. You say no, thank you.",
+  "motion": "push",
+  "scene": "inn",
+  "action": "{YOU} raising a stick arm politely, shaking his head",
+  "image": "images/beat_066.png"
+ },
+ {
+  "beat": 67,
+  "start": 223.651,
+  "dur": 1.667,
+  "text": "He smiles and says,",
+  "motion": "pan",
+  "scene": "inn",
+  "action": "close-up of {RECRUITER}'s smile widening",
+  "image": "images/beat_067.png"
+ },
+ {
+  "beat": 68,
+  "start": 225.318,
+  "dur": 4.167,
+  "text": "\"That\u2019s a shame.\" Then he buys you one more beer.",
+  "motion": "push",
+  "scene": "inn",
+  "action": "{RECRUITER} sliding a third beer across, a small vial hidden behind his stick arm",
+  "image": "images/beat_068.png"
+ },
+ {
+  "beat": 69,
+  "start": 229.485,
+  "dur": 2.083,
+  "text": "You don\u2019t remember drinking it.",
+  "motion": "pull",
+  "scene": "inn",
+  "action": "{YOU}'s eyes spiralling, the inn tilting around him",
+  "image": "images/beat_069.png"
+ },
+ {
+  "beat": 70,
+  "start": 231.568,
+  "dur": 2.917,
+  "text": "You wake up in the back of",
+  "motion": "push",
+  "scene": "cart_road",
+  "action": "{YOU} lying in the back of a rattling cart, a sack over his head",
+  "image": "images/beat_070.png"
+ },
+ {
+  "beat": 71,
+  "start": 234.485,
+  "dur": 2.917,
+  "text": "a moving cart with your hands tied,",
+  "motion": "push",
+  "scene": "cart_road",
+  "action": "close-up of {YOU}'s stick arms tied with rope",
+  "image": "images/beat_071.png"
+ },
+ {
+  "beat": 72,
+  "start": 237.402,
+  "dur": 3.75,
+  "text": "your head pounding, and a sack over your face.",
+  "motion": "pan",
+  "scene": "cart_road",
+  "action": "the sack over his head, pain lines around it",
+  "image": "images/beat_072.png"
+ },
+ {
+  "beat": 73,
+  "start": 241.152,
+  "dur": 3.75,
+  "text": "You hear wheels on a dirt road. Men laughing.",
+  "motion": "fade",
+  "scene": "cart_road",
+  "action": "the cart rolling down a dirt road at night, sound lines from the wheels and laughing men",
+  "image": "images/beat_073.png"
+ },
+ {
+  "beat": 74,
+  "start": 244.902,
+  "dur": 4.167,
+  "text": "Someone kicks your ribs and tells you to stop struggling,",
+  "motion": "pull",
+  "scene": "cart_road",
+  "action": "a {RECRUITER} shoving {YOU} with his boot, a speech bubble reading NO DAMAGED GOODS",
+  "image": "images/beat_074.png"
+ },
+ {
+  "beat": 75,
+  "start": 249.069,
+  "dur": 2.917,
+  "text": "because the King doesn\u2019t like damaged goods.",
+  "motion": "push",
+  "scene": "cart_road",
+  "action": "{RECRUITER} smirking",
+  "image": "images/beat_075.png"
+ },
+ {
+  "beat": 76,
+  "start": 251.986,
+  "dur": 1.25,
+  "text": "You aren\u2019t alone.",
+  "motion": "push",
+  "scene": "cart_road",
+  "action": "the cart stopped by a roadside, lantern light",
+  "image": "images/beat_076.png"
+ },
+ {
+  "beat": 77,
+  "start": 253.236,
+  "dur": 5.0,
+  "text": "When the cart stops and someone pulls the sack off your head,",
+  "motion": "pan",
+  "scene": "cart_road",
+  "action": "a hand pulling the sack off {YOU}'s head, {YOU} blinking",
+  "image": "images/beat_077.png"
+ },
+ {
+  "beat": 78,
+  "start": 258.236,
+  "dur": 4.167,
+  "text": "you see two other young men tied up beside you.",
+  "motion": "push",
+  "scene": "cart_road",
+  "action": "{YOU} tied up beside {SHEPHERD} and {STUDENT}",
+  "image": "images/beat_078.png"
+ },
+ {
+  "beat": 79,
+  "start": 262.403,
+  "dur": 3.333,
+  "text": "A shepherd from Hanover. A student from Leipzig.",
+  "motion": "pull",
+  "scene": "cart_road",
+  "action": "{SHEPHERD} and {STUDENT} side by side with name labels HANOVER and LEIPZIG",
+  "image": "images/beat_079.png"
+ },
+ {
+  "beat": 80,
+  "start": 265.736,
+  "dur": 2.083,
+  "text": "Both of them are enormous.",
+  "motion": "push",
+  "scene": "cart_road",
+  "action": "all three tied men towering over the recruiters standing beside the cart",
+  "image": "images/beat_080.png"
+ },
+ {
+  "beat": 81,
+  "start": 267.819,
+  "dur": 3.75,
+  "text": "Both of them look as terrified as you feel.",
+  "motion": "push",
+  "scene": "cart_road",
+  "action": "close-up of three terrified faces in a row",
+  "image": "images/beat_081.png"
+ },
+ {
+  "beat": 82,
+  "start": 271.569,
+  "dur": 3.333,
+  "text": "The student keeps insisting there\u2019s been a mistake,",
+  "motion": "pan",
+  "scene": "cart_road",
+  "action": "{STUDENT} protesting loudly, speech lines",
+  "image": "images/beat_082.png"
+ },
+ {
+  "beat": 83,
+  "start": 274.902,
+  "dur": 3.75,
+  "text": "that his father is a lawyer, but nobody listens.",
+  "motion": "push",
+  "scene": "cart_road",
+  "action": "the recruiters ignoring {STUDENT}, one yawning",
+  "image": "images/beat_083.png"
+ },
+ {
+  "beat": 84,
+  "start": 278.652,
+  "dur": 2.917,
+  "text": "You are being smuggled across the border.",
+  "motion": "pull",
+  "scene": "cart_road",
+  "action": "the cart crossing a wooden border barrier at night, a guard looking away",
+  "image": "images/beat_084.png"
+ },
+ {
+  "beat": 85,
+  "start": 281.569,
+  "dur": 3.333,
+  "text": "You have just been kidnapped by Prussian recruiters.",
+  "motion": "shake",
+  "scene": "cart_road",
+  "action": "an inset map with a dotted line from Saxony into Prussia",
+  "image": "images/beat_085.png"
+ },
+ {
+  "beat": 86,
+  "start": 284.902,
+  "dur": 1.25,
+  "text": "To understand why,",
+  "motion": "push",
+  "scene": "palace",
+  "action": "a grand Prussian palace with black eagle flags",
+  "image": "images/beat_086.png"
+ },
+ {
+  "beat": 87,
+  "start": 286.152,
+  "dur": 4.167,
+  "text": "you need to understand the man on the Prussian throne.",
+  "motion": "pan",
+  "scene": "palace",
+  "action": "an empty throne with a Prussian eagle crest",
+  "image": "images/beat_087.png"
+ },
+ {
+  "beat": 88,
+  "start": 290.319,
+  "dur": 2.917,
+  "text": "His name is Frederick William the First,",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{KING} sitting on his throne, a name label FREDERICK WILLIAM I",
+  "image": "images/beat_088.png"
+ },
+ {
+  "beat": 89,
+  "start": 293.236,
+  "dur": 4.167,
+  "text": "and he is obsessed with exactly one thing. Tall soldiers.",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "{KING} hugging a framed portrait of a giant soldier, hearts floating up",
+  "image": "images/beat_089.png"
+ },
+ {
+  "beat": 90,
+  "start": 297.403,
+  "dur": 4.167,
+  "text": "He has created a special regiment called the Potsdam Giants.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "rows of giant soldiers in tall grenadier caps standing in formation",
+  "image": "images/beat_090.png"
+ },
+ {
+  "beat": 91,
+  "start": 301.57,
+  "dur": 5.0,
+  "text": "A personal guard of the tallest men he can find in Europe,",
+  "motion": "push",
+  "scene": "parade",
+  "action": "a line of giants towering over the officers in front of them",
+  "image": "images/beat_091.png"
+ },
+ {
+  "beat": 92,
+  "start": 306.57,
+  "dur": 5.0,
+  "text": "and he will do absolutely anything to get them. He pays fortunes.",
+  "motion": "pan",
+  "scene": "palace",
+  "action": "{KING} pushing a heavy chest of gold coins across a table",
+  "image": "images/beat_092.png"
+ },
+ {
+  "beat": 93,
+  "start": 311.57,
+  "dur": 1.667,
+  "text": "He trades for them.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{KING} shaking hands with a foreign envoy over a giant soldier",
+  "image": "images/beat_093.png"
+ },
+ {
+  "beat": 94,
+  "start": 313.237,
+  "dur": 5.0,
+  "text": "Other kings send him tall men as gifts to win his favour.",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "foreign envoys presenting giants tied with ribbons like gifts",
+  "image": "images/beat_094.png"
+ },
+ {
+  "beat": 95,
+  "start": 318.237,
+  "dur": 4.167,
+  "text": "And when buying doesn\u2019t work, his recruiters simply take them.",
+  "motion": "push",
+  "scene": "inn",
+  "action": "recruiters lurking in a tavern doorway, measuring a tall drinker with their eyes",
+  "image": "images/beat_095.png"
+ },
+ {
+  "beat": 96,
+  "start": 322.404,
+  "dur": 2.5,
+  "text": "Off the streets. Out of taverns.",
+  "motion": "push",
+  "scene": "village",
+  "action": "recruiters grabbing a tall man off a street corner",
+  "image": "images/beat_096.png"
+ },
+ {
+  "beat": 97,
+  "start": 324.904,
+  "dur": 3.75,
+  "text": "From farms and churches and even from foreign countries,",
+  "motion": "pan",
+  "scene": "village",
+  "action": "recruiters dragging a tall farmer out of a church doorway",
+  "image": "images/beat_097.png"
+ },
+ {
+  "beat": 98,
+  "start": 328.654,
+  "dur": 4.167,
+  "text": "where kidnapping a man is very much against the law.",
+  "motion": "push",
+  "scene": "cart_road",
+  "action": "a map of Europe with dotted kidnapping routes leading to Potsdam",
+  "image": "images/beat_098.png"
+ },
+ {
+  "beat": 99,
+  "start": 332.821,
+  "dur": 4.583,
+  "text": "The King doesn\u2019t care about the law. He cares about height.",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "{KING} tossing a law book over his shoulder, a measuring rod in his other hand",
+  "image": "images/beat_099.png"
+ },
+ {
+  "beat": 100,
+  "start": 337.404,
+  "dur": 2.917,
+  "text": "And you, unfortunately, have plenty of it.",
+  "motion": "push",
+  "scene": "cart_road",
+  "action": "close-up of {YOU}'s miserable face as he realises he is very tall",
+  "image": "images/beat_100.png"
+ },
+ {
+  "beat": 101,
+  "start": 340.321,
+  "dur": 4.167,
+  "text": "The cart rolls for days. Then you arrive in Potsdam.",
+  "motion": "push",
+  "scene": "potsdam",
+  "action": "the cart arriving in Potsdam, rows of barracks and churches",
+  "image": "images/beat_101.png"
+ },
+ {
+  "beat": 102,
+  "start": 344.488,
+  "dur": 4.167,
+  "text": "The first week is disorienting in the best possible way.",
+  "motion": "pan",
+  "scene": "measure",
+  "action": "{YOU} sitting on a bench as an orderly unties his ropes",
+  "image": "images/beat_102.png"
+ },
+ {
+  "beat": 103,
+  "start": 348.655,
+  "dur": 4.583,
+  "text": "They untie you. They feed you. And the food is good.",
+  "motion": "push",
+  "scene": "measure",
+  "action": "{YOU} staring at a bowl of food set in front of him",
+  "image": "images/beat_103.png"
+ },
+ {
+  "beat": 104,
+  "start": 353.238,
+  "dur": 4.583,
+  "text": "Meat every day. White bread. Beer. They bathe you, shave you,",
+  "motion": "pull",
+  "scene": "measure",
+  "action": "a feast table with meat, white bread and beer, {YOU} eating eagerly",
+  "image": "images/beat_104.png"
+ },
+ {
+  "beat": 105,
+  "start": 357.821,
+  "dur": 3.333,
+  "text": "and measure you with a long wooden rod.",
+  "motion": "push",
+  "scene": "measure",
+  "action": "{YOU} standing against a long wooden measuring rod, a clerk on a ladder",
+  "image": "images/beat_105.png"
+ },
+ {
+  "beat": 106,
+  "start": 361.154,
+  "dur": 4.167,
+  "text": "A clerk writes down your height in a thick ledger,",
+  "motion": "push",
+  "scene": "measure",
+  "action": "{CLERK} writing in a thick ledger",
+  "image": "images/beat_106.png"
+ },
+ {
+  "beat": 107,
+  "start": 365.321,
+  "dur": 4.167,
+  "text": "and an officer in a gold-trimmed coat whistles in admiration.",
+  "motion": "pan",
+  "scene": "measure",
+  "action": "{OFFICER} whistling in admiration, musical notes floating",
+  "image": "images/beat_107.png"
+ },
+ {
+  "beat": 108,
+  "start": 369.488,
+  "dur": 2.5,
+  "text": "Then they give you your uniform.",
+  "motion": "push",
+  "scene": "measure",
+  "action": "an orderly presenting a folded uniform and a tall grenadier cap",
+  "image": "images/beat_108.png"
+ },
+ {
+  "beat": 109,
+  "start": 371.988,
+  "dur": 2.917,
+  "text": "It\u2019s the finest thing you\u2019ve ever worn.",
+  "motion": "pull",
+  "scene": "measure",
+  "action": "{YOU} admiring a blue coat collar with brass buttons",
+  "image": "images/beat_109.png"
+ },
+ {
+  "beat": 110,
+  "start": 374.905,
+  "dur": 2.917,
+  "text": "A blue coat with red cuffs and",
+  "motion": "push",
+  "scene": "measure",
+  "action": "an inset of a blue coat with red cuffs and brass buttons",
+  "image": "images/beat_110.png"
+ },
+ {
+  "beat": 111,
+  "start": 377.822,
+  "dur": 2.5,
+  "text": "brass buttons, white trousers, polished boots.",
+  "motion": "push",
+  "scene": "measure",
+  "action": "an inset of white trousers and shiny black boots",
+  "image": "images/beat_111.png"
+ },
+ {
+  "beat": 112,
+  "start": 380.322,
+  "dur": 3.75,
+  "text": "And on your head, a tall pointed grenadier\u2019s cap,",
+  "motion": "pan",
+  "scene": "measure",
+  "action": "an orderly lowering a tall pointed brass-and-red grenadier cap onto {YOUCAP}'s head",
+  "image": "images/beat_112.png"
+ },
+ {
+  "beat": 113,
+  "start": 384.072,
+  "dur": 2.5,
+  "text": "made of brass and red cloth,",
+  "motion": "push",
+  "scene": "measure",
+  "action": "close-up of the grenadier cap's brass front plate and red cloth",
+  "image": "images/beat_113.png"
+ },
+ {
+  "beat": 114,
+  "start": 386.572,
+  "dur": 3.333,
+  "text": "that adds almost another foot to your height.",
+  "motion": "pull",
+  "scene": "measure",
+  "action": "{YOUCAP} towering even higher, the cap scraping the ceiling",
+  "image": "images/beat_114.png"
+ },
+ {
+  "beat": 115,
+  "start": 389.905,
+  "dur": 2.917,
+  "text": "When you see yourself in the mirror,",
+  "motion": "push",
+  "scene": "mirror",
+  "action": "{YOUCAP} admiring himself in a tall mirror",
+  "image": "images/beat_115.png"
+ },
+ {
+  "beat": 116,
+  "start": 392.822,
+  "dur": 2.917,
+  "text": "you barely recognize the giant looking back.",
+  "motion": "push",
+  "scene": "mirror",
+  "action": "the mirror reflection looking back at {YOUCAP} with a stranger's expression",
+  "image": "images/beat_116.png"
+ },
+ {
+  "beat": 117,
+  "start": 395.739,
+  "dur": 5.0,
+  "text": "Your pay is more than your father earns in a good month.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "{YOU} counting coins on his bunk",
+  "image": "images/beat_117.png"
+ },
+ {
+  "beat": 118,
+  "start": 400.739,
+  "dur": 5.0,
+  "text": "Your barracks are clean. The officers call the giants the King\u2019s darlings.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "a tidy barracks room with neat bunks, officers nodding approvingly",
+  "image": "images/beat_118.png"
+ },
+ {
+  "beat": 119,
+  "start": 405.739,
+  "dur": 4.167,
+  "text": "On Sundays, the regiment parades through the streets of Potsdam,",
+  "motion": "fade",
+  "scene": "parade",
+  "action": "the regiment parading down a Potsdam street on a Sunday",
+  "image": "images/beat_119.png"
+ },
+ {
+  "beat": 120,
+  "start": 409.906,
+  "dur": 2.917,
+  "text": "a town built almost entirely for soldiers.",
+  "motion": "shake",
+  "scene": "potsdam",
+  "action": "a town of orderly houses and barracks with soldiers everywhere",
+  "image": "images/beat_120.png"
+ },
+ {
+  "beat": 121,
+  "start": 412.823,
+  "dur": 2.5,
+  "text": "Townspeople line the road to watch.",
+  "motion": "shake",
+  "scene": "potsdam",
+  "action": "townspeople lining the street cheering",
+  "image": "images/beat_121.png"
+ },
+ {
+  "beat": 122,
+  "start": 415.323,
+  "dur": 4.583,
+  "text": "Children run beside you, craning their necks, pointing at your cap.",
+  "motion": "pan",
+  "scene": "potsdam",
+  "action": "children running beside {YOUCAP}, pointing up at his cap",
+  "image": "images/beat_122.png"
+ },
+ {
+  "beat": 123,
+  "start": 419.906,
+  "dur": 3.75,
+  "text": "An old woman throws a flower at your boots.",
+  "motion": "push",
+  "scene": "potsdam",
+  "action": "an old woman ({OLDWOMAN}) tossing a flower onto the street",
+  "image": "images/beat_123.png"
+ },
+ {
+  "beat": 124,
+  "start": 423.656,
+  "dur": 2.917,
+  "text": "For the first time in your life,",
+  "motion": "pull",
+  "scene": "potsdam",
+  "action": "{YOUCAP} smiling shyly",
+  "image": "images/beat_124.png"
+ },
+ {
+  "beat": 125,
+  "start": 426.573,
+  "dur": 2.5,
+  "text": "being tall feels like being famous.",
+  "motion": "push",
+  "scene": "potsdam",
+  "action": "{YOUCAP} marching with a little extra swagger",
+  "image": "images/beat_125.png"
+ },
+ {
+  "beat": 126,
+  "start": 429.073,
+  "dur": 3.333,
+  "text": "For a few days, you let yourself think,",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} lying on his bunk smiling at the ceiling",
+  "image": "images/beat_126.png"
+ },
+ {
+  "beat": 127,
+  "start": 432.406,
+  "dur": 2.083,
+  "text": "maybe this isn\u2019t so terrible.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "a thought bubble of a sunny parade ground",
+  "image": "images/beat_127.png"
+ },
+ {
+  "beat": 128,
+  "start": 434.489,
+  "dur": 1.667,
+  "text": "Then the drilling starts.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "the parade ground at dawn, a drum beating",
+  "image": "images/beat_128.png"
+ },
+ {
+  "beat": 129,
+  "start": 436.156,
+  "dur": 5.0,
+  "text": "Every day, from dawn until your legs shake, you march. You turn.",
+  "motion": "pull",
+  "scene": "drill",
+  "action": "rows of giants marching and turning in unison, sweat drops",
+  "image": "images/beat_129.png"
+ },
+ {
+  "beat": 130,
+  "start": 441.156,
+  "dur": 2.5,
+  "text": "You present arms. You march again.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "giants presenting their muskets, legs shaking",
+  "image": "images/beat_130.png"
+ },
+ {
+  "beat": 131,
+  "start": 443.656,
+  "dur": 4.583,
+  "text": "Hundreds of giants move as one perfect machine, while a short,",
+  "motion": "push",
+  "scene": "drill",
+  "action": "hundreds of giants moving as one, gears drawn faintly behind them",
+  "image": "images/beat_131.png"
+ },
+ {
+  "beat": 132,
+  "start": 448.239,
+  "dur": 3.75,
+  "text": "red-faced sergeant screams at you to stand up straight.",
+  "motion": "pan",
+  "scene": "drill",
+  "action": "{SERGEANT} screaming up at {YOUCAP}, spit flying",
+  "image": "images/beat_132.png"
+ },
+ {
+  "beat": 133,
+  "start": 451.989,
+  "dur": 4.583,
+  "text": "Any mistake is punished with a wooden cane across the back.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{SERGEANT} raising a wooden cane behind a giant, impact lines only",
+  "image": "images/beat_133.png"
+ },
+ {
+  "beat": 134,
+  "start": 456.572,
+  "dur": 3.333,
+  "text": "Too slow, the cane. Too fast, the cane.",
+  "motion": "pull",
+  "scene": "drill",
+  "action": "{SERGEANT} whacking one slow giant and one fast giant, impact stars",
+  "image": "images/beat_134.png"
+ },
+ {
+  "beat": 135,
+  "start": 459.905,
+  "dur": 2.083,
+  "text": "Out of step, the cane.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{SERGEANT} whacking a giant who is out of step, impact stars",
+  "image": "images/beat_135.png"
+ },
+ {
+  "beat": 136,
+  "start": 461.988,
+  "dur": 1.667,
+  "text": "And you can\u2019t leave.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} standing at a barred gate looking out at the road",
+  "image": "images/beat_136.png"
+ },
+ {
+  "beat": 137,
+  "start": 463.655,
+  "dur": 4.167,
+  "text": "Not on your own. Not to visit home. Not ever.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "guards closing the barracks gate on {YOU}",
+  "image": "images/beat_137.png"
+ },
+ {
+  "beat": 138,
+  "start": 467.822,
+  "dur": 2.5,
+  "text": "You belong to the King now,",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "an inset of {KING} holding a leash tied to a horse, a chair and a giant",
+  "image": "images/beat_138.png"
+ },
+ {
+  "beat": 139,
+  "start": 470.322,
+  "dur": 3.333,
+  "text": "as completely as his horses or his furniture.",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "a property tag hanging around {YOU}'s neck",
+  "image": "images/beat_139.png"
+ },
+ {
+  "beat": 140,
+  "start": 473.655,
+  "dur": 2.083,
+  "text": "You write to your mother.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} writing a letter by candlelight",
+  "image": "images/beat_140.png"
+ },
+ {
+  "beat": 141,
+  "start": 475.738,
+  "dur": 3.75,
+  "text": "You don\u2019t know if your letters ever reach her.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "a letter lying under a pile of unopened mail in a dusty post office",
+  "image": "images/beat_141.png"
+ },
+ {
+  "beat": 142,
+  "start": 479.488,
+  "dur": 4.583,
+  "text": "The man in the bunk next to yours is called Seamus.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "{SEAMUS} lying on the bunk next to {YOU}, grinning",
+  "image": "images/beat_142.png"
+ },
+ {
+  "beat": 143,
+  "start": 484.071,
+  "dur": 4.583,
+  "text": "He\u2019s an Irishman, even taller than you, with flaming red hair,",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "close-up of {SEAMUS}'s grin, a name label SEAMUS",
+  "image": "images/beat_143.png"
+ },
+ {
+  "beat": 144,
+  "start": 488.654,
+  "dur": 1.25,
+  "text": "a crooked nose,",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "{SEAMUS}'s crooked nose",
+  "image": "images/beat_144.png"
+ },
+ {
+  "beat": 145,
+  "start": 489.904,
+  "dur": 4.583,
+  "text": "and a laugh you can hear from across the parade ground.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{SEAMUS} laughing so loudly that soldiers across the parade ground turn around",
+  "image": "images/beat_145.png"
+ },
+ {
+  "beat": 146,
+  "start": 494.487,
+  "dur": 4.167,
+  "text": "A man in Dublin tricked him onto a ship by",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "a sepia flashback of {SEAMUS} on a Dublin dock with a smooth-talking man",
+  "image": "images/beat_146.png"
+ },
+ {
+  "beat": 147,
+  "start": 498.654,
+  "dur": 4.167,
+  "text": "promising him a job as a servant to an ambassador.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "{SEAMUS} boarding a ship, waving happily",
+  "image": "images/beat_147.png"
+ },
+ {
+  "beat": 148,
+  "start": 502.821,
+  "dur": 2.917,
+  "text": "He\u2019s been in Potsdam for two years,",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "a calendar with two years crossed off above {SEAMUS}'s bunk",
+  "image": "images/beat_148.png"
+ },
+ {
+  "beat": 149,
+  "start": 505.738,
+  "dur": 3.75,
+  "text": "and he still hasn\u2019t learned to speak German properly.",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "{SEAMUS} struggling with a German phrasebook, question marks floating",
+  "image": "images/beat_149.png"
+ },
+ {
+  "beat": 150,
+  "start": 509.488,
+  "dur": 1.667,
+  "text": "He doesn\u2019t need to.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{SEAMUS} shrugging and grinning",
+  "image": "images/beat_150.png"
+ },
+ {
+  "beat": 151,
+  "start": 511.155,
+  "dur": 4.167,
+  "text": "He communicates almost entirely through jokes and rude hand gestures.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{SEAMUS} making a comic gesture at a passing officer's back",
+  "image": "images/beat_151.png"
+ },
+ {
+  "beat": 152,
+  "start": 515.322,
+  "dur": 4.167,
+  "text": "He\u2019s the first person in Potsdam who makes you laugh.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "{YOU} laughing with {SEAMUS} on their bunks",
+  "image": "images/beat_152.png"
+ },
+ {
+  "beat": 153,
+  "start": 519.489,
+  "dur": 1.667,
+  "text": "On your first night,",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "the barracks at night with one candle",
+  "image": "images/beat_153.png"
+ },
+ {
+  "beat": 154,
+  "start": 521.156,
+  "dur": 4.167,
+  "text": "he shows you the wooden beam above the barracks door.",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "{SEAMUS} pointing up at a wooden beam above the barracks door",
+  "image": "images/beat_154.png"
+ },
+ {
+  "beat": 155,
+  "start": 525.323,
+  "dur": 2.083,
+  "text": "It\u2019s covered in carved notches,",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "close-up of the beam covered in carved notches",
+  "image": "images/beat_155.png"
+ },
+ {
+  "beat": 156,
+  "start": 527.406,
+  "dur": 3.75,
+  "text": "each one marked with a name and a height.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "close-up of notches, each with a carved name and height",
+  "image": "images/beat_156.png"
+ },
+ {
+  "beat": 157,
+  "start": 531.156,
+  "dur": 2.917,
+  "text": "Every giant who has ever slept in",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "ghostly outlines of past giants standing under the beam",
+  "image": "images/beat_157.png"
+ },
+ {
+  "beat": 158,
+  "start": 534.073,
+  "dur": 2.917,
+  "text": "this room has cut his mark there.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "giants carving notches into the beam",
+  "image": "images/beat_158.png"
+ },
+ {
+  "beat": 159,
+  "start": 536.99,
+  "dur": 3.75,
+  "text": "Seamus\u2019s notch is the highest one on the beam,",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "{SEAMUS} pointing proudly at the highest notch",
+  "image": "images/beat_159.png"
+ },
+ {
+  "beat": 160,
+  "start": 540.74,
+  "dur": 5.0,
+  "text": "and he is unbearably proud of it. He hands you his knife.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{SEAMUS} handing {YOU} a small knife",
+  "image": "images/beat_160.png"
+ },
+ {
+  "beat": 161,
+  "start": 545.74,
+  "dur": 3.333,
+  "text": "You carve your mark two inches below his.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} carving a notch two inches below {SEAMUS}'s",
+  "image": "images/beat_161.png"
+ },
+ {
+  "beat": 162,
+  "start": 549.073,
+  "dur": 3.333,
+  "text": "He tells you that\u2019s exactly where you belong.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "{SEAMUS} giving a thumbs-up with a cheeky grin",
+  "image": "images/beat_162.png"
+ },
+ {
+  "beat": 163,
+  "start": 552.406,
+  "dur": 4.583,
+  "text": "You hadn\u2019t realized how long it had been since you laughed.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} laughing, a small tear in the corner of his eye",
+  "image": "images/beat_163.png"
+ },
+ {
+  "beat": 164,
+  "start": 556.989,
+  "dur": 2.5,
+  "text": "Seamus teaches you how to survive.",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "{SEAMUS} lecturing {YOU} with one finger raised",
+  "image": "images/beat_164.png"
+ },
+ {
+  "beat": 165,
+  "start": 559.489,
+  "dur": 3.75,
+  "text": "How to keep your boots polished so the sergeant",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{SEAMUS} polishing a boot until it shines like a mirror",
+  "image": "images/beat_165.png"
+ },
+ {
+  "beat": 166,
+  "start": 563.239,
+  "dur": 3.333,
+  "text": "can see his own ugly face in them.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{SERGEANT}'s scowling face reflected in the polished boot",
+  "image": "images/beat_166.png"
+ },
+ {
+  "beat": 167,
+  "start": 566.572,
+  "dur": 4.583,
+  "text": "How to stand perfectly still for an hour by picking a",
+  "motion": "pan",
+  "scene": "drill",
+  "action": "{SEAMUS} standing perfectly still, staring at the horizon",
+  "image": "images/beat_167.png"
+ },
+ {
+  "beat": 168,
+  "start": 571.155,
+  "dur": 4.167,
+  "text": "spot on the horizon and pretending it owes you money.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "an inset of the horizon holding an IOU note",
+  "image": "images/beat_168.png"
+ },
+ {
+  "beat": 169,
+  "start": 575.322,
+  "dur": 4.583,
+  "text": "How to hide a sausage in your grenadier cap for later.",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "{SEAMUS} hiding a sausage inside a grenadier cap",
+  "image": "images/beat_169.png"
+ },
+ {
+  "beat": 170,
+  "start": 579.905,
+  "dur": 5.0,
+  "text": "He teaches you Irish drinking songs. You teach him German swear words.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{SEAMUS} singing with a mug raised, {YOU} teaching him words from a notebook",
+  "image": "images/beat_170.png"
+ },
+ {
+  "beat": 171,
+  "start": 584.905,
+  "dur": 2.917,
+  "text": "Within a month, he\u2019s using them on",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{SEAMUS} smiling sweetly at {SERGEANT}",
+  "image": "images/beat_171.png"
+ },
+ {
+  "beat": 172,
+  "start": 587.822,
+  "dur": 2.5,
+  "text": "the sergeant, very quietly, while smiling.",
+  "motion": "pan",
+  "scene": "drill",
+  "action": "{SEAMUS}'s speech bubble filled with a row of censored symbols",
+  "image": "images/beat_172.png"
+ },
+ {
+  "beat": 173,
+  "start": 590.322,
+  "dur": 5.0,
+  "text": "At night, when the barracks are dark, he tells you about Ireland.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{SEAMUS} whispering in the dark barracks, moonlight through the window",
+  "image": "images/beat_173.png"
+ },
+ {
+  "beat": 174,
+  "start": 595.322,
+  "dur": 1.667,
+  "text": "Green hills. Grey sea.",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "a thought bubble of green Irish hills and a grey sea",
+  "image": "images/beat_174.png"
+ },
+ {
+  "beat": 175,
+  "start": 596.989,
+  "dur": 4.167,
+  "text": "A mother who sings while she cooks, just like yours.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "a thought bubble of an Irish mother singing over a cooking pot",
+  "image": "images/beat_175.png"
+ },
+ {
+  "beat": 176,
+  "start": 601.156,
+  "dur": 5.0,
+  "text": "He says that one day, he\u2019s going home. You ask him how.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} leaning toward {SEAMUS}, asking",
+  "image": "images/beat_176.png"
+ },
+ {
+  "beat": 177,
+  "start": 606.156,
+  "dur": 2.917,
+  "text": "He just taps his nose and grins.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "{SEAMUS} tapping his nose and grinning",
+  "image": "images/beat_177.png"
+ },
+ {
+  "beat": 178,
+  "start": 609.073,
+  "dur": 2.083,
+  "text": "Then you meet the King.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "the parade ground with the whole regiment in formation",
+  "image": "images/beat_178.png"
+ },
+ {
+  "beat": 179,
+  "start": 611.156,
+  "dur": 4.583,
+  "text": "It happens in your third month, on a cold morning parade.",
+  "motion": "shake",
+  "scene": "parade",
+  "action": "a frosty morning parade, breath clouds rising",
+  "image": "images/beat_179.png"
+ },
+ {
+  "beat": 180,
+  "start": 615.739,
+  "dur": 3.75,
+  "text": "A short, heavy man in a plain blue uniform",
+  "motion": "push",
+  "scene": "parade",
+  "action": "{KING} limping down the line with a cane",
+  "image": "images/beat_180.png"
+ },
+ {
+  "beat": 181,
+  "start": 619.489,
+  "dur": 3.333,
+  "text": "walks down the line, leaning on a cane.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "{KING} leaning on his cane, giants towering above him",
+  "image": "images/beat_181.png"
+ },
+ {
+  "beat": 182,
+  "start": 622.822,
+  "dur": 5.0,
+  "text": "His face is puffy and red. His eyes are small and sharp.",
+  "motion": "pan",
+  "scene": "parade",
+  "action": "close-up of {KING}'s face",
+  "image": "images/beat_182.png"
+ },
+ {
+  "beat": 183,
+  "start": 627.822,
+  "dur": 2.5,
+  "text": "He looks nothing like a king.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "an inset of a fancy king in robes and crown, crossed out",
+  "image": "images/beat_183.png"
+ },
+ {
+  "beat": 184,
+  "start": 630.322,
+  "dur": 2.083,
+  "text": "But everyone around you freezes.",
+  "motion": "pull",
+  "scene": "parade",
+  "action": "every giant freezing, sweat drops",
+  "image": "images/beat_184.png"
+ },
+ {
+  "beat": 185,
+  "start": 632.405,
+  "dur": 2.5,
+  "text": "He stops in front of you.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "{KING} stopping in front of {YOUCAP}",
+  "image": "images/beat_185.png"
+ },
+ {
+  "beat": 186,
+  "start": 634.905,
+  "dur": 2.917,
+  "text": "He looks up, and up, and up.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "{KING} tilting his head back further and further to look up at {YOUCAP}",
+  "image": "images/beat_186.png"
+ },
+ {
+  "beat": 187,
+  "start": 637.822,
+  "dur": 3.75,
+  "text": "Then he smiles like a child on Christmas morning.",
+  "motion": "pan",
+  "scene": "parade",
+  "action": "{KING} beaming like a delighted child, sparkles around him",
+  "image": "images/beat_187.png"
+ },
+ {
+  "beat": 188,
+  "start": 641.572,
+  "dur": 5.0,
+  "text": "He pats your arm. He asks your name, your village, your height.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "{KING} patting {YOUCAP}'s stick arm, speech bubble with questions",
+  "image": "images/beat_188.png"
+ },
+ {
+  "beat": 189,
+  "start": 646.572,
+  "dur": 4.583,
+  "text": "He tells the officer beside him that you\u2019re a splendid one.",
+  "motion": "pull",
+  "scene": "parade",
+  "action": "{KING} turning to {OFFICER} with an approving nod",
+  "image": "images/beat_189.png"
+ },
+ {
+  "beat": 190,
+  "start": 651.155,
+  "dur": 1.25,
+  "text": "A real beauty.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "{KING} kissing his fingertips like a chef",
+  "image": "images/beat_190.png"
+ },
+ {
+  "beat": 191,
+  "start": 652.405,
+  "dur": 3.333,
+  "text": "Then he moves on to the next giant.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "{KING} waddling on to the next giant",
+  "image": "images/beat_191.png"
+ },
+ {
+  "beat": 192,
+  "start": 655.738,
+  "dur": 5.0,
+  "text": "Seamus whispers that you\u2019ve been lucky. The King has a famous temper.",
+  "motion": "pan",
+  "scene": "parade",
+  "action": "{SEAMUS} whispering out of the side of his mouth to {YOUCAP}",
+  "image": "images/beat_192.png"
+ },
+ {
+  "beat": 193,
+  "start": 660.738,
+  "dur": 4.583,
+  "text": "He beats people with that cane in the street. Ministers. Merchants.",
+  "motion": "push",
+  "scene": "potsdam",
+  "action": "an inset of {KING} chasing a merchant down a street, waving his cane",
+  "image": "images/beat_193.png"
+ },
+ {
+  "beat": 194,
+  "start": 665.321,
+  "dur": 4.583,
+  "text": "His own children. If he\u2019s in a bad mood at parade,",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "an inset of {KING} waving his cane at frightened children in a palace corridor",
+  "image": "images/beat_194.png"
+ },
+ {
+  "beat": 195,
+  "start": 669.904,
+  "dur": 2.083,
+  "text": "somebody always ends up bleeding.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "a broken cane lying on the parade ground",
+  "image": "images/beat_195.png"
+ },
+ {
+  "beat": 196,
+  "start": 671.987,
+  "dur": 4.167,
+  "text": "Over the next months, you learn the King\u2019s strange habits.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{YOU} peeking through a palace doorway",
+  "image": "images/beat_196.png"
+ },
+ {
+  "beat": 197,
+  "start": 676.154,
+  "dur": 5.0,
+  "text": "He paints portraits of his giants, sitting at his easel for hours,",
+  "motion": "pan",
+  "scene": "easel",
+  "action": "{KING} painting a portrait of a giant at an easel, wrapped in a blanket",
+  "image": "images/beat_197.png"
+ },
+ {
+  "beat": 198,
+  "start": 681.154,
+  "dur": 1.667,
+  "text": "even when he\u2019s sick.",
+  "motion": "push",
+  "scene": "easel",
+  "action": "{KING} sneezing on his canvas, a tissue in his other hand",
+  "image": "images/beat_198.png"
+ },
+ {
+  "beat": 199,
+  "start": 682.821,
+  "dur": 3.75,
+  "text": "He orders his tallest men to marry tall women,",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "{KING} pointing a tall man toward a tall woman across a palace hall, a measuring tape between them",
+  "image": "images/beat_199.png"
+ },
+ {
+  "beat": 200,
+  "start": 686.571,
+  "dur": 2.5,
+  "text": "hoping to breed even taller soldiers.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "an inset of a family tree where every generation is taller than the last",
+  "image": "images/beat_200.png"
+ },
+ {
+  "beat": 201,
+  "start": 689.071,
+  "dur": 3.75,
+  "text": "And when he\u2019s ill and confined to his bed,",
+  "motion": "push",
+  "scene": "bedroom",
+  "action": "{KING} lying in bed with a nightcap, a thermometer in his mouth",
+  "image": "images/beat_201.png"
+ },
+ {
+  "beat": 202,
+  "start": 692.821,
+  "dur": 4.583,
+  "text": "he sometimes orders the whole regiment to march through his bedroom,",
+  "motion": "pan",
+  "scene": "bedroom",
+  "action": "a line of giants marching in single file through the royal bedroom",
+  "image": "images/beat_202.png"
+ },
+ {
+  "beat": 203,
+  "start": 697.404,
+  "dur": 3.333,
+  "text": "in full uniform, just to cheer himself up.",
+  "motion": "push",
+  "scene": "bedroom",
+  "action": "giants marching past the bed in uniform, grenadier caps tucked under their arms",
+  "image": "images/beat_203.png"
+ },
+ {
+  "beat": 204,
+  "start": 700.737,
+  "dur": 4.583,
+  "text": "You do this twice. Two hundred giants, stooping through palace doorways,",
+  "motion": "pull",
+  "scene": "bedroom",
+  "action": "{YOU} ducking under a palace doorframe, grenadier cap tucked under his arm",
+  "image": "images/beat_204.png"
+ },
+ {
+  "beat": 205,
+  "start": 705.32,
+  "dur": 3.333,
+  "text": "marching past a sick man in his nightshirt,",
+  "motion": "push",
+  "scene": "bedroom",
+  "action": "{KING} in bed in his nightshirt watching the giants march past",
+  "image": "images/beat_205.png"
+ },
+ {
+  "beat": 206,
+  "start": 708.653,
+  "dur": 2.5,
+  "text": "who claps and cries with joy.",
+  "motion": "push",
+  "scene": "bedroom",
+  "action": "{KING} clapping and weeping with joy",
+  "image": "images/beat_206.png"
+ },
+ {
+  "beat": 207,
+  "start": 711.153,
+  "dur": 1.667,
+  "text": "Mind your head, love.",
+  "motion": "pan",
+  "scene": "bedroom",
+  "action": "{YOU} ducking under the doorframe, a faint ghostly {MOTHER} with a speech bubble",
+  "image": "images/beat_207.png"
+ },
+ {
+  "beat": 208,
+  "start": 712.82,
+  "dur": 1.667,
+  "text": "You almost laugh. Almost.",
+  "motion": "fade",
+  "scene": "bedroom",
+  "action": "{YOU} suppressing a smile",
+  "image": "images/beat_208.png"
+ },
+ {
+  "beat": 209,
+  "start": 714.487,
+  "dur": 3.75,
+  "text": "And then you notice what the King never does.",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "{YOU} looking at a map of Europe pinned to the barracks wall",
+  "image": "images/beat_209.png"
+ },
+ {
+  "beat": 210,
+  "start": 718.237,
+  "dur": 2.917,
+  "text": "He never sends his giants to war.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "an inset of battle icons crossed out",
+  "image": "images/beat_210.png"
+ },
+ {
+  "beat": 211,
+  "start": 721.154,
+  "dur": 1.2,
+  "text": "Not once.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "close-up of {YOU}'s face as the realisation hits",
+  "image": "images/beat_211.png"
+ },
+ {
+  "beat": 212,
+  "start": 722.354,
+  "dur": 3.75,
+  "text": "All the drilling. All the canes. All the kidnapping.",
+  "motion": "pan",
+  "scene": "drill",
+  "action": "a montage of drills, canes and kidnapping carts",
+  "image": "images/beat_212.png"
+ },
+ {
+  "beat": 213,
+  "start": 726.104,
+  "dur": 4.167,
+  "text": "The Potsdam Giants are too precious to risk in battle.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "giants being placed in a glass display case",
+  "image": "images/beat_213.png"
+ },
+ {
+  "beat": 214,
+  "start": 730.271,
+  "dur": 4.167,
+  "text": "You exist only to be looked at. You\u2019re not soldiers.",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "{KING} admiring giants lined up like trophies on a shelf",
+  "image": "images/beat_214.png"
+ },
+ {
+  "beat": 215,
+  "start": 734.438,
+  "dur": 1.25,
+  "text": "You\u2019re a collection.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "a museum label reading THE COLLECTION",
+  "image": "images/beat_215.png"
+ },
+ {
+  "beat": 216,
+  "start": 735.688,
+  "dur": 2.5,
+  "text": "Like stamps. Like paintings. Like toys.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "insets of a stamp album, a painting gallery and a toy soldier set",
+  "image": "images/beat_216.png"
+ },
+ {
+  "beat": 217,
+  "start": 738.188,
+  "dur": 3.333,
+  "text": "Seamus figures this out long before you do.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "{SEAMUS} watching {YOU} with a knowing look",
+  "image": "images/beat_217.png"
+ },
+ {
+  "beat": 218,
+  "start": 741.521,
+  "dur": 5.0,
+  "text": "And one night in your second winter, he tells you his secret.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "the barracks at night in winter, snow outside, {SEAMUS} whispering",
+  "image": "images/beat_218.png"
+ },
+ {
+  "beat": 219,
+  "start": 746.521,
+  "dur": 4.167,
+  "text": "He\u2019s leaving. A cart leaves for Hamburg in the morning,",
+  "motion": "fade",
+  "scene": "barracks",
+  "action": "{SEAMUS} sketching a route on the floor with chalk",
+  "image": "images/beat_219.png"
+ },
+ {
+  "beat": 220,
+  "start": 750.688,
+  "dur": 3.75,
+  "text": "hidden under barrels of salted fish, and from Hamburg,",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "an inset of a cart piled with barrels of salted fish",
+  "image": "images/beat_220.png"
+ },
+ {
+  "beat": 221,
+  "start": 754.438,
+  "dur": 4.583,
+  "text": "ships go to Ireland. He\u2019s paid the driver everything he has.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "an inset of a ship sailing toward Ireland",
+  "image": "images/beat_221.png"
+ },
+ {
+  "beat": 222,
+  "start": 759.021,
+  "dur": 2.917,
+  "text": "He asks you to come with him.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "{SEAMUS} holding out a stick arm toward {YOU}",
+  "image": "images/beat_222.png"
+ },
+ {
+  "beat": 223,
+  "start": 761.938,
+  "dur": 4.583,
+  "text": "You think about it. You think about the mill, the river,",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} hesitating, thought bubble of the mill",
+  "image": "images/beat_223.png"
+ },
+ {
+  "beat": 224,
+  "start": 766.521,
+  "dur": 2.917,
+  "text": "and your mother\u2019s bell above the door.",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "a thought bubble of the little bell above the kitchen door",
+  "image": "images/beat_224.png"
+ },
+ {
+  "beat": 225,
+  "start": 769.438,
+  "dur": 4.583,
+  "text": "You want to say yes more than you\u2019ve ever wanted anything.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "close-up of {YOU}'s longing face",
+  "image": "images/beat_225.png"
+ },
+ {
+  "beat": 226,
+  "start": 774.021,
+  "dur": 2.917,
+  "text": "But you\u2019ve heard what happens to deserters.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "an inset of a deserter in chains",
+  "image": "images/beat_226.png"
+ },
+ {
+  "beat": 227,
+  "start": 776.938,
+  "dur": 1.25,
+  "text": "You say no.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "{YOU} shaking his head slowly",
+  "image": "images/beat_227.png"
+ },
+ {
+  "beat": 228,
+  "start": 778.188,
+  "dur": 5.0,
+  "text": "Seamus nods. He doesn\u2019t argue. He just claps you on the shoulder,",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{SEAMUS} nodding and clapping {YOU} on the shoulder",
+  "image": "images/beat_228.png"
+ },
+ {
+  "beat": 229,
+  "start": 783.188,
+  "dur": 2.917,
+  "text": "calls you a big soft German potato,",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "an inset of a large potato with {YOU}'s face on it",
+  "image": "images/beat_229.png"
+ },
+ {
+  "beat": 230,
+  "start": 786.105,
+  "dur": 3.333,
+  "text": "and climbs out the window into the snow.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{SEAMUS} climbing out of a window into the snow",
+  "image": "images/beat_230.png"
+ },
+ {
+  "beat": 231,
+  "start": 789.438,
+  "dur": 4.583,
+  "text": "You lie awake until dawn, listening for shouting. It doesn\u2019t come.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} lying awake in the dark, eyes wide",
+  "image": "images/beat_231.png"
+ },
+ {
+  "beat": 232,
+  "start": 794.021,
+  "dur": 2.5,
+  "text": "For three days, there\u2019s no news.",
+  "motion": "fade",
+  "scene": "barracks",
+  "action": "a calendar with three days crossed off",
+  "image": "images/beat_232.png"
+ },
+ {
+  "beat": 233,
+  "start": 796.521,
+  "dur": 4.583,
+  "text": "On the fourth day, you let yourself believe he\u2019s made it.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} smiling faintly, a thought bubble of a ship",
+  "image": "images/beat_233.png"
+ },
+ {
+  "beat": 234,
+  "start": 801.104,
+  "dur": 3.333,
+  "text": "On the fifth day, they bring him back.",
+  "motion": "pull",
+  "scene": "potsdam",
+  "action": "soldiers marching back through the Potsdam gate",
+  "image": "images/beat_234.png"
+ },
+ {
+  "beat": 235,
+  "start": 804.437,
+  "dur": 3.333,
+  "text": "They search the fish cart at a checkpoint.",
+  "motion": "push",
+  "scene": "checkpoint",
+  "action": "soldiers searching the fish cart at a checkpoint barrier",
+  "image": "images/beat_235.png"
+ },
+ {
+  "beat": 236,
+  "start": 807.77,
+  "dur": 3.333,
+  "text": "The driver sold him out for a reward.",
+  "motion": "push",
+  "scene": "checkpoint",
+  "action": "the cart driver accepting a purse of coins from an officer",
+  "image": "images/beat_236.png"
+ },
+ {
+  "beat": 237,
+  "start": 811.103,
+  "dur": 5.0,
+  "text": "Seamus is dragged back into Potsdam in chains, his red hair matted,",
+  "motion": "pan",
+  "scene": "potsdam",
+  "action": "{SEAMUS} dragged through the street in chains, red hair matted",
+  "image": "images/beat_237.png"
+ },
+ {
+  "beat": 238,
+  "start": 816.103,
+  "dur": 2.083,
+  "text": "his crooked nose broken again.",
+  "motion": "push",
+  "scene": "potsdam",
+  "action": "close-up of {SEAMUS}'s bruised crooked nose",
+  "image": "images/beat_238.png"
+ },
+ {
+  "beat": 239,
+  "start": 818.186,
+  "dur": 2.917,
+  "text": "His punishment is called running the gauntlet.",
+  "motion": "pull",
+  "scene": "drill",
+  "action": "the parade ground with a drummer and grim soldiers",
+  "image": "images/beat_239.png"
+ },
+ {
+  "beat": 240,
+  "start": 821.103,
+  "dur": 5.0,
+  "text": "Two long lines of soldiers face each other across the parade ground.",
+  "motion": "shake",
+  "scene": "drill",
+  "action": "two long lines of soldiers facing each other across the parade ground",
+  "image": "images/beat_240.png"
+ },
+ {
+  "beat": 241,
+  "start": 826.103,
+  "dur": 3.75,
+  "text": "Two hundred men, each holding a thin, flexible rod.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "soldiers each holding a thin rod",
+  "image": "images/beat_241.png"
+ },
+ {
+  "beat": 242,
+  "start": 829.853,
+  "dur": 3.333,
+  "text": "The prisoner is stripped to the waist and",
+  "motion": "pan",
+  "scene": "drill",
+  "action": "{SEAMUS} stripped to the waist, seen from behind at the start of the lines, guards beside him",
+  "image": "images/beat_242.png"
+ },
+ {
+  "beat": 243,
+  "start": 833.186,
+  "dur": 2.917,
+  "text": "forced to walk slowly between the lines,",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{SEAMUS} walking slowly between the lines, rods raised in silhouette",
+  "image": "images/beat_243.png"
+ },
+ {
+  "beat": 244,
+  "start": 836.103,
+  "dur": 4.167,
+  "text": "while every soldier strikes his back as he passes. Once.",
+  "motion": "pull",
+  "scene": "drill",
+  "action": "rods coming down in silhouette, impact lines only",
+  "image": "images/beat_244.png"
+ },
+ {
+  "beat": 245,
+  "start": 840.27,
+  "dur": 2.083,
+  "text": "Then back again. Then again.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{SEAMUS} turning back to walk the lines again",
+  "image": "images/beat_245.png"
+ },
+ {
+  "beat": 246,
+  "start": 842.353,
+  "dur": 3.333,
+  "text": "You are ordered to stand in the line.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{SERGEANT} shoving {YOU} into the line",
+  "image": "images/beat_246.png"
+ },
+ {
+  "beat": 247,
+  "start": 845.686,
+  "dur": 2.083,
+  "text": "You are handed a rod.",
+  "motion": "pan",
+  "scene": "drill",
+  "action": "close-up of a thin rod in {YOU}'s stick hand",
+  "image": "images/beat_247.png"
+ },
+ {
+  "beat": 248,
+  "start": 847.769,
+  "dur": 4.583,
+  "text": "When Seamus reaches you, he looks up. He doesn\u2019t say anything.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{SEAMUS} looking up at {YOU}",
+  "image": "images/beat_248.png"
+ },
+ {
+  "beat": 249,
+  "start": 852.352,
+  "dur": 5.0,
+  "text": "He doesn\u2019t need to. You raise the rod and bring it down",
+  "motion": "pull",
+  "scene": "drill",
+  "action": "{YOU} raising the rod hesitantly",
+  "image": "images/beat_249.png"
+ },
+ {
+  "beat": 250,
+  "start": 857.352,
+  "dur": 3.333,
+  "text": "as softly as you dare; the sergeant sees,",
+  "motion": "push",
+  "scene": "drill",
+  "action": "the rod barely touching {SEAMUS}'s shoulder, {SERGEANT} noticing",
+  "image": "images/beat_250.png"
+ },
+ {
+  "beat": 251,
+  "start": 860.685,
+  "dur": 4.583,
+  "text": "and you know you\u2019ll pay for it later. You don\u2019t care.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "close-up of {YOU}'s defiant face",
+  "image": "images/beat_251.png"
+ },
+ {
+  "beat": 252,
+  "start": 865.268,
+  "dur": 2.917,
+  "text": "You pay for it the next morning.",
+  "motion": "pan",
+  "scene": "drill",
+  "action": "the parade ground at dawn the next day",
+  "image": "images/beat_252.png"
+ },
+ {
+  "beat": 253,
+  "start": 868.185,
+  "dur": 5.0,
+  "text": "The sergeant canes you in front of the whole regiment, twenty strokes,",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{SERGEANT} raising his cane behind {YOU}, the regiment watching",
+  "image": "images/beat_253.png"
+ },
+ {
+  "beat": 254,
+  "start": 873.185,
+  "dur": 3.333,
+  "text": "slow and careful, while the King\u2019s officers watch.",
+  "motion": "pull",
+  "scene": "drill",
+  "action": "officers watching from a raised platform",
+  "image": "images/beat_254.png"
+ },
+ {
+  "beat": 255,
+  "start": 876.518,
+  "dur": 5.0,
+  "text": "You stand up straight the entire time. You don\u2019t make a sound.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "close-up of {YOU} standing perfectly straight, jaw clenched, no sound",
+  "image": "images/beat_255.png"
+ },
+ {
+  "beat": 256,
+  "start": 881.518,
+  "dur": 2.083,
+  "text": "Seamus would have been proud.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "a faint ghostly {SEAMUS} giving a thumbs-up",
+  "image": "images/beat_256.png"
+ },
+ {
+  "beat": 257,
+  "start": 883.601,
+  "dur": 2.5,
+  "text": "Seamus walks the line eight times.",
+  "motion": "pan",
+  "scene": "drill",
+  "action": "tally marks counting eight passes chalked on a wall",
+  "image": "images/beat_257.png"
+ },
+ {
+  "beat": 258,
+  "start": 886.101,
+  "dur": 3.75,
+  "text": "On the eighth, he falls and doesn\u2019t get up.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{SEAMUS} collapsing between the lines, soldiers stepping back",
+  "image": "images/beat_258.png"
+ },
+ {
+  "beat": 259,
+  "start": 889.851,
+  "dur": 5.0,
+  "text": "They carry him to the infirmary. He dies there three days later.",
+  "motion": "pull",
+  "scene": "infirmary",
+  "action": "{SEAMUS} lying in an infirmary bed under a blanket",
+  "image": "images/beat_259.png"
+ },
+ {
+  "beat": 260,
+  "start": 894.851,
+  "dur": 1.667,
+  "text": "He\u2019s 26 years old.",
+  "motion": "push",
+  "scene": "infirmary",
+  "action": "close-up of {SEAMUS} with soft X-eyes, peaceful face, the number 26 on a tag",
+  "image": "images/beat_260.png"
+ },
+ {
+  "beat": 261,
+  "start": 896.518,
+  "dur": 4.167,
+  "text": "They bury him outside the city, in an unmarked grave,",
+  "motion": "push",
+  "scene": "graveyard",
+  "action": "a bare unmarked mound of earth outside the city walls in the snow",
+  "image": "images/beat_261.png"
+ },
+ {
+  "beat": 262,
+  "start": 900.685,
+  "dur": 1.667,
+  "text": "without a single song.",
+  "motion": "pan",
+  "scene": "graveyard",
+  "action": "two gravediggers walking away in silence",
+  "image": "images/beat_262.png"
+ },
+ {
+  "beat": 263,
+  "start": 902.352,
+  "dur": 2.917,
+  "text": "You go back to the barracks and",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} walking into the empty barracks",
+  "image": "images/beat_263.png"
+ },
+ {
+  "beat": 264,
+  "start": 905.269,
+  "dur": 2.917,
+  "text": "stand under the beam above the door.",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "{YOU} standing under the beam above the door",
+  "image": "images/beat_264.png"
+ },
+ {
+  "beat": 265,
+  "start": 908.186,
+  "dur": 3.333,
+  "text": "His notch is still there, the highest one,",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "close-up of {SEAMUS}'s notch, the highest one, his name carved crookedly",
+  "image": "images/beat_265.png"
+ },
+ {
+  "beat": 266,
+  "start": 911.519,
+  "dur": 2.917,
+  "text": "with his name carved crookedly beside it.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "soldiers walking past the beam without looking up",
+  "image": "images/beat_266.png"
+ },
+ {
+  "beat": 267,
+  "start": 914.436,
+  "dur": 2.5,
+  "text": "Nobody else ever looks at it.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "the beam in a single shaft of light",
+  "image": "images/beat_267.png"
+ },
+ {
+  "beat": 268,
+  "start": 916.936,
+  "dur": 4.167,
+  "text": "You go back to your bunk and polish your boots",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} on his bunk polishing a boot",
+  "image": "images/beat_268.png"
+ },
+ {
+  "beat": 269,
+  "start": 921.103,
+  "dur": 3.75,
+  "text": "until you can see your own face in them.",
+  "motion": "pull",
+  "scene": "barracks",
+  "action": "the polished boot reflecting {YOU}'s face",
+  "image": "images/beat_269.png"
+ },
+ {
+  "beat": 270,
+  "start": 924.853,
+  "dur": 2.917,
+  "text": "It\u2019s not a face you recognize anymore.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU}'s blank, hollow reflection",
+  "image": "images/beat_270.png"
+ },
+ {
+  "beat": 271,
+  "start": 927.77,
+  "dur": 5.0,
+  "text": "The years pass the way they do in Potsdam. Drill. Parade. Cane.",
+  "motion": "push",
+  "scene": "drill",
+  "action": "a montage: drill, parade, cane",
+  "image": "images/beat_271.png"
+ },
+ {
+  "beat": 272,
+  "start": 932.77,
+  "dur": 4.583,
+  "text": "Drill. You don\u2019t try to escape. You don\u2019t make new friends.",
+  "motion": "pan",
+  "scene": "drill",
+  "action": "{YOU} standing silently apart from other soldiers",
+  "image": "images/beat_272.png"
+ },
+ {
+  "beat": 273,
+  "start": 937.353,
+  "dur": 2.5,
+  "text": "You stand perfectly still for hours,",
+  "motion": "push",
+  "scene": "drill",
+  "action": "{YOU} standing stock-still at attention",
+  "image": "images/beat_273.png"
+ },
+ {
+  "beat": 274,
+  "start": 939.853,
+  "dur": 5.0,
+  "text": "staring at a spot on the horizon, pretending it owes you money.",
+  "motion": "pull",
+  "scene": "drill",
+  "action": "{YOU} staring at the horizon, the IOU note faint and faded",
+  "image": "images/beat_274.png"
+ },
+ {
+  "beat": 275,
+  "start": 944.853,
+  "dur": 2.083,
+  "text": "Your joints start to ache.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU} rubbing his aching knee, pain lines",
+  "image": "images/beat_275.png"
+ },
+ {
+  "beat": 276,
+  "start": 946.936,
+  "dur": 3.333,
+  "text": "You realize many of the giants are sick.",
+  "motion": "shake",
+  "scene": "barracks",
+  "action": "giants sitting on bunks, coughing and limping",
+  "image": "images/beat_276.png"
+ },
+ {
+  "beat": 277,
+  "start": 950.269,
+  "dur": 2.917,
+  "text": "Some of them have grown so tall",
+  "motion": "pan",
+  "scene": "infirmary",
+  "action": "a doctor examining a giant's swollen joints",
+  "image": "images/beat_277.png"
+ },
+ {
+  "beat": 278,
+  "start": 953.186,
+  "dur": 5.0,
+  "text": "because something is wrong inside them. Their bones hurt. Their hearts struggle.",
+  "motion": "push",
+  "scene": "infirmary",
+  "action": "an inset of a bone with pain lines and a heart with jagged lines",
+  "image": "images/beat_278.png"
+ },
+ {
+  "beat": 279,
+  "start": 958.186,
+  "dur": 2.5,
+  "text": "They die young, one by one,",
+  "motion": "pull",
+  "scene": "graveyard",
+  "action": "a line of plain wooden crosses outside the city",
+  "image": "images/beat_279.png"
+ },
+ {
+  "beat": 280,
+  "start": 960.686,
+  "dur": 3.333,
+  "text": "and new giants arrive to fill their places,",
+  "motion": "push",
+  "scene": "potsdam",
+  "action": "a new cart of kidnapped giants arriving",
+  "image": "images/beat_280.png"
+ },
+ {
+  "beat": 281,
+  "start": 964.019,
+  "dur": 4.167,
+  "text": "kidnapped from farms and inns and ships, just like you.",
+  "motion": "shake",
+  "scene": "potsdam",
+  "action": "close-up of a terrified new recruit's face",
+  "image": "images/beat_281.png"
+ },
+ {
+  "beat": 282,
+  "start": 968.186,
+  "dur": 2.083,
+  "text": "By 1740, you are 28.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "{YOU28} with tired eyes, a calendar reading 1740",
+  "image": "images/beat_282.png"
+ },
+ {
+  "beat": 283,
+  "start": 970.269,
+  "dur": 4.167,
+  "text": "You\u2019ve been a giant in a cage for ten years.",
+  "motion": "push",
+  "scene": "barracks",
+  "action": "{YOU28} gripping the bars of a window",
+  "image": "images/beat_283.png"
+ },
+ {
+  "beat": 284,
+  "start": 974.436,
+  "dur": 5.0,
+  "text": "Then, in the spring, the King gets sick. Truly sick this time.",
+  "motion": "pull",
+  "scene": "bedroom",
+  "action": "{KING} in bed, swollen and pale",
+  "image": "images/beat_284.png"
+ },
+ {
+  "beat": 285,
+  "start": 979.436,
+  "dur": 4.167,
+  "text": "His body swells. He can\u2019t walk. He can barely breathe.",
+  "motion": "push",
+  "scene": "bedroom",
+  "action": "close-up of {KING} wheezing, sweat drops",
+  "image": "images/beat_285.png"
+ },
+ {
+  "beat": 286,
+  "start": 983.603,
+  "dur": 1.667,
+  "text": "And one last time,",
+  "motion": "push",
+  "scene": "bedroom",
+  "action": "a messenger summoning the giants to the bedroom",
+  "image": "images/beat_286.png"
+ },
+ {
+  "beat": 287,
+  "start": 985.27,
+  "dur": 3.75,
+  "text": "he orders his giants to march past his bed.",
+  "motion": "pan",
+  "scene": "bedroom",
+  "action": "the giants filing into the royal bedroom one last time, caps under their arms",
+  "image": "images/beat_287.png"
+ },
+ {
+  "beat": 288,
+  "start": 989.02,
+  "dur": 2.083,
+  "text": "You stoop through the doorway.",
+  "motion": "push",
+  "scene": "bedroom",
+  "action": "{YOU28} stooping through the doorway, cap tucked under his arm",
+  "image": "images/beat_288.png"
+ },
+ {
+  "beat": 289,
+  "start": 991.103,
+  "dur": 5.0,
+  "text": "You look at the bloated old man propped up on his pillows,",
+  "motion": "pull",
+  "scene": "bedroom",
+  "action": "{KING} propped on pillows, looking up at {YOU28}",
+  "image": "images/beat_289.png"
+ },
+ {
+  "beat": 290,
+  "start": 996.103,
+  "dur": 4.167,
+  "text": "and he looks up at you with wet, adoring eyes.",
+  "motion": "push",
+  "scene": "bedroom",
+  "action": "{KING}'s wet, adoring eyes",
+  "image": "images/beat_290.png"
+ },
+ {
+  "beat": 291,
+  "start": 1000.27,
+  "dur": 3.333,
+  "text": "He doesn\u2019t know your name. He never did.",
+  "motion": "shake",
+  "scene": "bedroom",
+  "action": "{YOU28}'s blank face, a speech bubble with a question mark over {KING}'s head",
+  "image": "images/beat_291.png"
+ },
+ {
+  "beat": 292,
+  "start": 1003.603,
+  "dur": 3.75,
+  "text": "On May 31st, 1740, Frederick William the First dies.",
+  "motion": "pan",
+  "scene": "bedroom",
+  "action": "{KING} lying still with soft X-eyes, a calendar reading MAY 31, 1740",
+  "image": "images/beat_292.png"
+ },
+ {
+  "beat": 293,
+  "start": 1007.353,
+  "dur": 4.583,
+  "text": "The new king is his son, the future Frederick the Great,",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{FREDERICK} standing in the throne room",
+  "image": "images/beat_293.png"
+ },
+ {
+  "beat": 294,
+  "start": 1011.936,
+  "dur": 3.75,
+  "text": "a man who loves flutes, poetry, and real armies.",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "{FREDERICK} holding a flute and a book of poems, a map of war plans behind him",
+  "image": "images/beat_294.png"
+ },
+ {
+  "beat": 295,
+  "start": 1015.686,
+  "dur": 2.917,
+  "text": "He looks at the Potsdam Giants and",
+  "motion": "shake",
+  "scene": "parade",
+  "action": "{FREDERICK} inspecting the giants, unimpressed",
+  "image": "images/beat_295.png"
+ },
+ {
+  "beat": 296,
+  "start": 1018.603,
+  "dur": 2.917,
+  "text": "sees only an enormous waste of money.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "{FREDERICK} looking at a bill with an enormous sum, his eyebrows shooting up",
+  "image": "images/beat_296.png"
+ },
+ {
+  "beat": 297,
+  "start": 1021.52,
+  "dur": 2.917,
+  "text": "Within weeks, the regiment is broken up.",
+  "motion": "pan",
+  "scene": "parade",
+  "action": "the regiment breaking up, giants walking in different directions",
+  "image": "images/beat_297.png"
+ },
+ {
+  "beat": 298,
+  "start": 1024.437,
+  "dur": 3.75,
+  "text": "Most of the giants are reassigned to ordinary units.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "officers pointing giants toward ordinary army units",
+  "image": "images/beat_298.png"
+ },
+ {
+  "beat": 299,
+  "start": 1028.187,
+  "dur": 2.083,
+  "text": "Some are simply sent away.",
+  "motion": "pull",
+  "scene": "parade",
+  "action": "some giants walking out through the barracks gate",
+  "image": "images/beat_299.png"
+ },
+ {
+  "beat": 300,
+  "start": 1030.27,
+  "dur": 2.083,
+  "text": "You are one of them.",
+  "motion": "push",
+  "scene": "parade",
+  "action": "{YOU28} pointing at himself",
+  "image": "images/beat_300.png"
+ },
+ {
+  "beat": 301,
+  "start": 1032.353,
+  "dur": 5.0,
+  "text": "One morning, an officer hands you your discharge papers and a few",
+  "motion": "fade",
+  "scene": "barracks",
+  "action": "{OFFICER} handing {YOU28} a paper and a few coins",
+  "image": "images/beat_301.png"
+ },
+ {
+  "beat": 302,
+  "start": 1037.353,
+  "dur": 3.75,
+  "text": "coins and tells you that you\u2019re free to go.",
+  "motion": "pan",
+  "scene": "barracks",
+  "action": "close-up of a discharge paper and three coins",
+  "image": "images/beat_302.png"
+ },
+ {
+  "beat": 303,
+  "start": 1041.103,
+  "dur": 2.917,
+  "text": "You stand in the street outside the",
+  "motion": "push",
+  "scene": "potsdam",
+  "action": "{YOU28} standing in the street in old civilian clothes far too small, stick arms poking out",
+  "image": "images/beat_303.png"
+ },
+ {
+  "beat": 304,
+  "start": 1044.02,
+  "dur": 5.0,
+  "text": "barracks in your old civilian clothes, which are now far too small.",
+  "motion": "pull",
+  "scene": "potsdam",
+  "action": "close-up of {YOU28}'s puzzled face, the clothes straining",
+  "image": "images/beat_304.png"
+ },
+ {
+  "beat": 305,
+  "start": 1049.02,
+  "dur": 3.75,
+  "text": "You don\u2019t know what to do with your hands.",
+  "motion": "push",
+  "scene": "potsdam",
+  "action": "{YOU28} awkwardly unsure what to do with his stick arms",
+  "image": "images/beat_305.png"
+ },
+ {
+  "beat": 306,
+  "start": 1052.77,
+  "dur": 4.167,
+  "text": "Nobody is screaming at you. Nobody is holding a cane.",
+  "motion": "push",
+  "scene": "potsdam",
+  "action": "an empty street with no sergeant and no cane in sight",
+  "image": "images/beat_306.png"
+ },
+ {
+  "beat": 307,
+  "start": 1056.937,
+  "dur": 5.0,
+  "text": "For ten years, every minute of your life belonged to someone else.",
+  "motion": "pan",
+  "scene": "potsdam",
+  "action": "a ghostly montage of drill, canes and the King fading away",
+  "image": "images/beat_307.png"
+ },
+ {
+  "beat": 308,
+  "start": 1061.937,
+  "dur": 4.167,
+  "text": "So you do the only thing you can think of.",
+  "motion": "push",
+  "scene": "potsdam",
+  "action": "{YOU28} looking down the long road",
+  "image": "images/beat_308.png"
+ },
+ {
+  "beat": 309,
+  "start": 1066.104,
+  "dur": 1.25,
+  "text": "You walk home.",
+  "motion": "pull",
+  "scene": "road",
+  "action": "{YOU28} walking along a long empty road toward the horizon",
+  "image": "images/beat_309.png"
+ },
+ {
+  "beat": 310,
+  "start": 1067.354,
+  "dur": 5.0,
+  "text": "It takes you three weeks. You sleep in barns and under hedges.",
+  "motion": "fade",
+  "scene": "road",
+  "action": "{YOU28} sleeping in a barn on straw, then under a hedge",
+  "image": "images/beat_310.png"
+ },
+ {
+  "beat": 311,
+  "start": 1072.354,
+  "dur": 4.167,
+  "text": "You trade your last coins for bread. Your knees ache.",
+  "motion": "push",
+  "scene": "road",
+  "action": "{YOU28} trading a coin for bread at a farm door, rubbing his knee",
+  "image": "images/beat_311.png"
+ },
+ {
+  "beat": 312,
+  "start": 1076.521,
+  "dur": 4.167,
+  "text": "Your back aches. Children stare at you in every village,",
+  "motion": "pan",
+  "scene": "road",
+  "action": "village children staring up at {YOU28} in a small village",
+  "image": "images/beat_312.png"
+ },
+ {
+  "beat": 313,
+  "start": 1080.688,
+  "dur": 3.333,
+  "text": "and you instinctively stand up straight before you",
+  "motion": "push",
+  "scene": "road",
+  "action": "{YOU28} snapping to attention out of habit",
+  "image": "images/beat_313.png"
+ },
+ {
+  "beat": 314,
+  "start": 1084.021,
+  "dur": 2.917,
+  "text": "remember that you don\u2019t have to anymore.",
+  "motion": "pull",
+  "scene": "road",
+  "action": "{YOU28} slowly relaxing his shoulders",
+  "image": "images/beat_314.png"
+ },
+ {
+  "beat": 315,
+  "start": 1086.938,
+  "dur": 5.0,
+  "text": "When you finally reach the mill, it looks smaller than you remember.",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "the old mill, slightly run-down, {YOU28} small in the distance",
+  "image": "images/beat_315.png"
+ },
+ {
+  "beat": 316,
+  "start": 1091.938,
+  "dur": 3.75,
+  "text": "The wheel still turns. The river is still brown.",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "the mill wheel turning beside the brown river",
+  "image": "images/beat_316.png"
+ },
+ {
+  "beat": 317,
+  "start": 1095.688,
+  "dur": 4.167,
+  "text": "Your father is standing in the yard, older now, greyer,",
+  "motion": "pan",
+  "scene": "mill_ext",
+  "action": "{FATHEROLD} standing in the yard, greyer and bent",
+  "image": "images/beat_317.png"
+ },
+ {
+  "beat": 318,
+  "start": 1099.855,
+  "dur": 1.25,
+  "text": "a little bent.",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "close-up of {FATHEROLD}'s weathered face",
+  "image": "images/beat_318.png"
+ },
+ {
+  "beat": 319,
+  "start": 1101.105,
+  "dur": 5.0,
+  "text": "He looks up at you for a long time without saying anything.",
+  "motion": "pull",
+  "scene": "mill_ext",
+  "action": "{FATHEROLD} looking up at {YOU28} in silence",
+  "image": "images/beat_319.png"
+ },
+ {
+  "beat": 320,
+  "start": 1106.105,
+  "dur": 4.167,
+  "text": "Then he tells you your mother died two winters ago.",
+  "motion": "push",
+  "scene": "mill_ext",
+  "action": "{FATHEROLD} speaking quietly, eyes wet",
+  "image": "images/beat_320.png"
+ },
+ {
+  "beat": 321,
+  "start": 1110.272,
+  "dur": 3.75,
+  "text": "She wrote to you every month for ten years.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "a stack of letters addressed to Potsdam bundled with string on the kitchen table",
+  "image": "images/beat_321.png"
+ },
+ {
+  "beat": 322,
+  "start": 1114.022,
+  "dur": 2.917,
+  "text": "Not one of her letters ever arrived.",
+  "motion": "pan",
+  "scene": "kitchen",
+  "action": "a postmark stamp reading RETURNED on the top letter",
+  "image": "images/beat_322.png"
+ },
+ {
+  "beat": 323,
+  "start": 1116.939,
+  "dur": 5.0,
+  "text": "For the first time in 10 years, you break down and cry.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "{YOU28} sitting at the kitchen table crying, {FATHEROLD} resting a stick arm on his shoulder, the little bell above the door",
+  "image": "images/beat_323.png"
+ },
+ {
+  "beat": 324,
+  "start": 1121.939,
+  "dur": 5.0,
+  "text": "At its peak, the King\u2019s giant regiment had around three thousand men.",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "a wide view of the giant regiment drawn as rows of tiny figures with the number 3,000",
+  "image": "images/beat_324.png"
+ },
+ {
+  "beat": 325,
+  "start": 1126.939,
+  "dur": 2.5,
+  "text": "Recruiting them cost Prussia a fortune,",
+  "motion": "push",
+  "scene": "palace",
+  "action": "a pile of gold coins growing taller and taller",
+  "image": "images/beat_325.png"
+ },
+ {
+  "beat": 326,
+  "start": 1129.439,
+  "dur": 2.917,
+  "text": "and a single exceptional giant could cost",
+  "motion": "push",
+  "scene": "palace",
+  "action": "an inset of a giant on one side of a scale and a small country estate on the other",
+  "image": "images/beat_326.png"
+ },
+ {
+  "beat": 327,
+  "start": 1132.356,
+  "dur": 2.917,
+  "text": "the King more than a small estate.",
+  "motion": "pan",
+  "scene": "gallery",
+  "action": "a present-day palace gallery with large painted portraits of giant soldiers",
+  "image": "images/beat_327.png"
+ },
+ {
+  "beat": 328,
+  "start": 1135.273,
+  "dur": 2.917,
+  "text": "Today, the king\u2019s own paintings of his",
+  "motion": "push",
+  "scene": "gallery",
+  "action": "close-up of an old painted portrait of a giant in a grenadier cap",
+  "image": "images/beat_328.png"
+ },
+ {
+  "beat": 329,
+  "start": 1138.19,
+  "dur": 2.5,
+  "text": "giants still hang in palace collections.",
+  "motion": "pull",
+  "scene": "gallery",
+  "action": "{VISITORS} walking through the gallery looking at the portraits",
+  "image": "images/beat_329.png"
+ },
+ {
+  "beat": 330,
+  "start": 1140.69,
+  "dur": 2.917,
+  "text": "Visitors stand in front of them and",
+  "motion": "push",
+  "scene": "gallery",
+  "action": "{VISITORS} laughing and pointing at a portrait",
+  "image": "images/beat_330.png"
+ },
+ {
+  "beat": 331,
+  "start": 1143.607,
+  "dur": 2.917,
+  "text": "laugh at how strange it all was.",
+  "motion": "push",
+  "scene": "gallery",
+  "action": "a visitor standing beside a portrait and stretching up to measure against it",
+  "image": "images/beat_331.png"
+ },
+ {
+  "beat": 332,
+  "start": 1146.524,
+  "dur": 3.333,
+  "text": "Some of them stand next to the portraits",
+  "motion": "fade",
+  "scene": "gallery",
+  "action": "a visitor's hand reaching only to the painted giant's chest",
+  "image": "images/beat_332.png"
+ },
+ {
+  "beat": 333,
+  "start": 1149.857,
+  "dur": 4.167,
+  "text": "and measure themselves against the painted giants, just for fun.",
+  "motion": "push",
+  "scene": "gallery",
+  "action": "the gallery at closing time, the painted giants looking down on an empty room",
+  "image": "images/beat_333.png"
+ }
+]

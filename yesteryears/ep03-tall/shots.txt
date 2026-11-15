@@ -1,0 +1,333 @@
+1|mill_ext|W|establishing|a calendar page reading 1712 floating over a quiet Saxon village at dawn
+2|mill_ext|W|warm|{MOTHER} at the mill doorway holding {BABY} wrapped in a bundle
+3|mill_ext|W|historical|a map of central Europe with Saxony highlighted and a faint modern outline of Germany around it
+4|mill_ext|W|cozy|a stone watermill beside a slow brown river, the wheel turning
+5|kitchen|M|cozy|the mill kitchen with flour sacks, a stone hearth and warm loaves cooling, smell lines rising
+6|kitchen|M|cozy|{MOTHER} pulling bread from the oven before sunrise, a candle burning
+7|mill_ext|M|character intro|{FATHER} beside a sack of flour, chest puffed out
+8|mill_ext|M|practical|{FATHER} heaving a flour sack onto his shoulder, sweat drops
+9|mill_ext|C|wry|{FATHER} weighing flour on scales and squinting suspiciously at a city merchant in a wig
+10|kitchen|M|comic|{MOTHER} sewing, stirring a pot and writing in an account book all at once
+11|kitchen|C|comic|{MOTHER} giving one sharp look as a noisy room of villagers falls instantly silent
+12|kitchen|M|normal|{BABY} in a wooden cradle, a measuring tape beside him showing a normal size
+13|village|W|cheerful|villagers gathered around the cradle nodding approvingly
+14|village|C|ominous|a growth chart on the kitchen wall with an arrow shooting upward off the top
+15|village|M|comic|{YOU5} standing a head taller than a row of other village children
+16|kitchen|M|comic|{YOU10} standing beside {FATHER}, already taller, {FATHER} glaring up
+17|village|M|comic|{YOU14} towering over a crowd of villagers in the square
+18|village|M|comic|a burly {BLACKSMITH} looking up at {YOU14}, deflated
+19|kitchen|M|comic|{YOU14} banging his head on a low doorway, stars circling
+20|kitchen|M|comic|{YOU14} rubbing his head under another doorway, a bump growing
+21|kitchen|C|warm|{MOTHER} on a stool hanging a small brass bell above the kitchen door
+22|kitchen|M|routine|{YOU14} ducking under the doorway in the morning, the bell jingling
+23|kitchen|C|tender|close-up of {MOTHER} smiling up at him, a speech bubble with MIND YOUR HEAD, LOVE
+24|kitchen|C|comic|{YOU14} nodding, then bonking his head on a shelf behind him
+25|village|W|joyful|{YOU14} standing proudly in a sunny village square
+26|mill_ext|M|strong|{YOU14} carrying two flour sacks at once, one on each shoulder
+27|orchard|M|playful|{YOU14} picking apples from a high branch while short villagers watch below
+28|village|W|festive|a harvest festival in the village square with garlands and tables of food
+29|village|M|triumphant|{YOU14} carrying a huge log on his shoulder while other boys struggle
+30|village|M|cute|a line of small children following {YOU14} around the square like ducklings
+31|mill_ext|M|comic|{FATHER} laughing and pointing at {YOU14}, a ladder crossed out in a thought bubble
+32|mill_ext|M|comic|{FATHER} snapping an old ladder in half over his knee
+33|mill_ext|LA|comic|the mill roof with a loose tile, {FATHER} pointing up
+34|mill_ext|M|comic|{FATHER} pointing at {YOU14}, who sighs and reaches up to fix the roof
+35|kitchen|C|worried|close-up of {MOTHER} not laughing, arms crossed
+36|mill_ext|M|ominous|two travellers on horseback stopping at the mill gate and staring
+37|mill_ext|C|ominous|close-up of a traveller's narrowed eyes measuring {YOU14}
+38|mill_ext|M|ominous|a traveller holding up his thumb to measure {YOU14}'s height
+39|mill_ext|C|ominous|{MOTHER} stepping between the traveller and {YOU14}
+40|mill_ext|M|confused|{MOTHER} pushing down on {YOU14}'s shoulders to make him slouch, {YOU14} puzzled
+41|mill_ext|W|ominous|a calendar flipping to 1730 over the mill
+42|mill_ext|M|transition|{YOU} standing beside the mill doorframe, a height mark well above it
+43|mill_ext|C|scale|an inset height chart: {YOU} far above a row of normal men
+44|village|M|scale|{YOU} in a crowd, his head sticking far above everyone else
+45|village|M|ordinary|ordinary-height villagers around {YOU}, their heads at his chest
+46|mill_ext|M|routine|{FATHER} loading flour sacks onto a cart while {YOU} holds the horse
+47|road|W|journey|a dirt road winding toward a distant market town, two days marked by sun and moon icons
+48|road|M|proud|{YOU} driving the flour cart alone, grinning
+49|mill_ext|M|tender|{MOTHER} handing {YOU} a bundle of bread and sausage at the road
+50|road|W|tender|{MOTHER} walking beside {YOU}'s cart to the end of the road
+51|road|C|serious|{MOTHER} gripping {YOU}'s stick arm, looking up at him
+52|road|C|serious|close-up of {MOTHER}'s worried face
+53|road|C|ominous|an inset of three crossed-out icons: a coin, a beer mug and a cart
+54|road|C|firm|{MOTHER} shaking her head firmly, speech bubble reading SAY NO
+55|road|M|carefree|{YOU} laughing and nodding as he drives away
+56|market|M|happy|{YOU} handing flour sacks to a merchant and receiving coins
+57|market|C|happy|{YOU} jingling a small purse of coins, eyebrows raised
+58|market|W|inviting|a cosy inn with a painted sign and warm windows at dusk
+59|inn|C|dark comedy|close-up of {YOU} raising one finger, a beer mug in front of him, an ominous shadow behind
+60|inn|M|ominous|{RECRUITER} sliding onto the bench beside {YOU} with a wide smile
+61|inn|M|ominous|{RECRUITER} pushing a second beer toward {YOU}
+62|inn|M|tempting|{RECRUITER} talking with sweeping gestures, a thought bubble of a grand mansion
+63|inn|C|tempting|an inset of a footman in fine livery holding a silver tray
+64|inn|C|tempting|an inset of a lavish dinner table
+65|inn|C|tempting|an inset of a pile of gold coins
+66|inn|M|cautious|{YOU} raising a stick arm politely, shaking his head
+67|inn|C|sinister|close-up of {RECRUITER}'s smile widening
+68|inn|C|sinister|{RECRUITER} sliding a third beer across, a small vial hidden behind his stick arm
+69|inn|C|woozy|{YOU}'s eyes spiralling, the inn tilting around him
+70|cart_road|M|horror|{YOU} lying in the back of a rattling cart, a sack over his head
+71|cart_road|C|horror|close-up of {YOU}'s stick arms tied with rope
+72|cart_road|C|horror|the sack over his head, pain lines around it
+73|cart_road|W|ominous|the cart rolling down a dirt road at night, sound lines from the wheels and laughing men
+74|cart_road|M|brutal|a {RECRUITER} shoving {YOU} with his boot, a speech bubble reading NO DAMAGED GOODS
+75|cart_road|C|grim|{RECRUITER} smirking
+76|cart_road|M|reveal|the cart stopped by a roadside, lantern light
+77|cart_road|M|reveal|a hand pulling the sack off {YOU}'s head, {YOU} blinking
+78|cart_road|M|fearful|{YOU} tied up beside {SHEPHERD} and {STUDENT}
+79|cart_road|C|introductions|{SHEPHERD} and {STUDENT} side by side with name labels HANOVER and LEIPZIG
+80|cart_road|M|comic scale|all three tied men towering over the recruiters standing beside the cart
+81|cart_road|C|fearful|close-up of three terrified faces in a row
+82|cart_road|M|desperate|{STUDENT} protesting loudly, speech lines
+83|cart_road|M|dismissive|the recruiters ignoring {STUDENT}, one yawning
+84|cart_road|W|ominous|the cart crossing a wooden border barrier at night, a guard looking away
+85|cart_road|C|grim|an inset map with a dotted line from Saxony into Prussia
+86|palace|W|historical|a grand Prussian palace with black eagle flags
+87|palace|M|historical|an empty throne with a Prussian eagle crest
+88|palace|M|character intro|{KING} sitting on his throne, a name label FREDERICK WILLIAM I
+89|palace|C|obsessive|{KING} hugging a framed portrait of a giant soldier, hearts floating up
+90|parade|W|grand|rows of giant soldiers in tall grenadier caps standing in formation
+91|parade|M|grand|a line of giants towering over the officers in front of them
+92|palace|M|absurd|{KING} pushing a heavy chest of gold coins across a table
+93|palace|M|absurd|{KING} shaking hands with a foreign envoy over a giant soldier
+94|palace|M|absurd|foreign envoys presenting giants tied with ribbons like gifts
+95|inn|M|sinister|recruiters lurking in a tavern doorway, measuring a tall drinker with their eyes
+96|village|M|sinister|recruiters grabbing a tall man off a street corner
+97|village|M|sinister|recruiters dragging a tall farmer out of a church doorway
+98|cart_road|M|sinister|a map of Europe with dotted kidnapping routes leading to Potsdam
+99|palace|C|dismissive|{KING} tossing a law book over his shoulder, a measuring rod in his other hand
+100|cart_road|C|dark comedy|close-up of {YOU}'s miserable face as he realises he is very tall
+101|potsdam|W|arrival|the cart arriving in Potsdam, rows of barracks and churches
+102|measure|M|surprising|{YOU} sitting on a bench as an orderly unties his ropes
+103|measure|M|surprising|{YOU} staring at a bowl of food set in front of him
+104|measure|M|delight|a feast table with meat, white bread and beer, {YOU} eating eagerly
+105|measure|M|clinical|{YOU} standing against a long wooden measuring rod, a clerk on a ladder
+106|measure|C|clinical|{CLERK} writing in a thick ledger
+107|measure|M|admiring|{OFFICER} whistling in admiration, musical notes floating
+108|measure|M|exciting|an orderly presenting a folded uniform and a tall grenadier cap
+109|measure|C|proud|{YOU} admiring a blue coat collar with brass buttons
+110|measure|C|proud|an inset of a blue coat with red cuffs and brass buttons
+111|measure|C|proud|an inset of white trousers and shiny black boots
+112|measure|M|proud|an orderly lowering a tall pointed brass-and-red grenadier cap onto {YOUCAP}'s head
+113|measure|C|detail|close-up of the grenadier cap's brass front plate and red cloth
+114|measure|M|comic scale|{YOUCAP} towering even higher, the cap scraping the ceiling
+115|mirror|M|proud|{YOUCAP} admiring himself in a tall mirror
+116|mirror|C|uncertain|the mirror reflection looking back at {YOUCAP} with a stranger's expression
+117|barracks|M|delight|{YOU} counting coins on his bunk
+118|barracks|W|clean|a tidy barracks room with neat bunks, officers nodding approvingly
+119|parade|W|grand|the regiment parading down a Potsdam street on a Sunday
+120|potsdam|W|historical|a town of orderly houses and barracks with soldiers everywhere
+121|potsdam|M|festive|townspeople lining the street cheering
+122|potsdam|M|joyful|children running beside {YOUCAP}, pointing up at his cap
+123|potsdam|C|warm|an old woman ({OLDWOMAN}) tossing a flower onto the street
+124|potsdam|C|proud|{YOUCAP} smiling shyly
+125|potsdam|M|proud|{YOUCAP} marching with a little extra swagger
+126|barracks|M|hopeful|{YOU} lying on his bunk smiling at the ceiling
+127|barracks|C|hopeful|a thought bubble of a sunny parade ground
+128|drill|W|ominous|the parade ground at dawn, a drum beating
+129|drill|M|exhausting|rows of giants marching and turning in unison, sweat drops
+130|drill|M|exhausting|giants presenting their muskets, legs shaking
+131|drill|W|mechanical|hundreds of giants moving as one, gears drawn faintly behind them
+132|drill|M|harsh|{SERGEANT} screaming up at {YOUCAP}, spit flying
+133|drill|M|harsh, non-graphic|{SERGEANT} raising a wooden cane behind a giant, impact lines only
+134|drill|M|comic, harsh|{SERGEANT} whacking one slow giant and one fast giant, impact stars
+135|drill|M|comic, harsh|{SERGEANT} whacking a giant who is out of step, impact stars
+136|barracks|M|trapped|{YOU} standing at a barred gate looking out at the road
+137|barracks|M|trapped|guards closing the barracks gate on {YOU}
+138|barracks|C|bleak|an inset of {KING} holding a leash tied to a horse, a chair and a giant
+139|barracks|C|bleak|a property tag hanging around {YOU}'s neck
+140|barracks|M|lonely|{YOU} writing a letter by candlelight
+141|barracks|M|lonely|a letter lying under a pile of unopened mail in a dusty post office
+142|barracks|M|character intro|{SEAMUS} lying on the bunk next to {YOU}, grinning
+143|barracks|C|character intro|close-up of {SEAMUS}'s grin, a name label SEAMUS
+144|barracks|C|character intro|{SEAMUS}'s crooked nose
+145|drill|W|comic|{SEAMUS} laughing so loudly that soldiers across the parade ground turn around
+146|barracks|M|flashback|a sepia flashback of {SEAMUS} on a Dublin dock with a smooth-talking man
+147|barracks|M|flashback|{SEAMUS} boarding a ship, waving happily
+148|barracks|M|comic|a calendar with two years crossed off above {SEAMUS}'s bunk
+149|barracks|M|comic|{SEAMUS} struggling with a German phrasebook, question marks floating
+150|barracks|C|comic|{SEAMUS} shrugging and grinning
+151|barracks|M|comic|{SEAMUS} making a comic gesture at a passing officer's back
+152|barracks|M|warm|{YOU} laughing with {SEAMUS} on their bunks
+153|barracks|W|night|the barracks at night with one candle
+154|barracks|LA|warm|{SEAMUS} pointing up at a wooden beam above the barracks door
+155|barracks|C|warm|close-up of the beam covered in carved notches
+156|barracks|C|warm|close-up of notches, each with a carved name and height
+157|barracks|M|warm|ghostly outlines of past giants standing under the beam
+158|barracks|M|warm|giants carving notches into the beam
+159|barracks|C|proud|{SEAMUS} pointing proudly at the highest notch
+160|barracks|M|proud|{SEAMUS} handing {YOU} a small knife
+161|barracks|M|warm|{YOU} carving a notch two inches below {SEAMUS}'s
+162|barracks|C|warm|{SEAMUS} giving a thumbs-up with a cheeky grin
+163|barracks|C|bittersweet|{YOU} laughing, a small tear in the corner of his eye
+164|barracks|M|instructional|{SEAMUS} lecturing {YOU} with one finger raised
+165|barracks|M|comic|{SEAMUS} polishing a boot until it shines like a mirror
+166|barracks|C|comic|{SERGEANT}'s scowling face reflected in the polished boot
+167|drill|M|comic|{SEAMUS} standing perfectly still, staring at the horizon
+168|drill|C|comic|an inset of the horizon holding an IOU note
+169|barracks|M|comic|{SEAMUS} hiding a sausage inside a grenadier cap
+170|barracks|M|comic|{SEAMUS} singing with a mug raised, {YOU} teaching him words from a notebook
+171|drill|M|comic|{SEAMUS} smiling sweetly at {SERGEANT}
+172|drill|C|comic|{SEAMUS}'s speech bubble filled with a row of censored symbols
+173|barracks|M|tender|{SEAMUS} whispering in the dark barracks, moonlight through the window
+174|barracks|C|dreamy|a thought bubble of green Irish hills and a grey sea
+175|barracks|C|tender|a thought bubble of an Irish mother singing over a cooking pot
+176|barracks|M|curious|{YOU} leaning toward {SEAMUS}, asking
+177|barracks|C|mysterious|{SEAMUS} tapping his nose and grinning
+178|parade|W|ominous|the parade ground with the whole regiment in formation
+179|parade|W|cold|a frosty morning parade, breath clouds rising
+180|parade|M|character intro|{KING} limping down the line with a cane
+181|parade|M|character intro|{KING} leaning on his cane, giants towering above him
+182|parade|C|character intro|close-up of {KING}'s face
+183|parade|C|comic|an inset of a fancy king in robes and crown, crossed out
+184|parade|W|tense|every giant freezing, sweat drops
+185|parade|M|tense|{KING} stopping in front of {YOUCAP}
+186|parade|LA|comic|{KING} tilting his head back further and further to look up at {YOUCAP}
+187|parade|C|comic|{KING} beaming like a delighted child, sparkles around him
+188|parade|M|comic|{KING} patting {YOUCAP}'s stick arm, speech bubble with questions
+189|parade|M|comic|{KING} turning to {OFFICER} with an approving nod
+190|parade|C|dark comedy|{KING} kissing his fingertips like a chef
+191|parade|M|routine|{KING} waddling on to the next giant
+192|parade|M|whispering|{SEAMUS} whispering out of the side of his mouth to {YOUCAP}
+193|potsdam|M|dark comedy|an inset of {KING} chasing a merchant down a street, waving his cane
+194|palace|M|dark comedy|an inset of {KING} waving his cane at frightened children in a palace corridor
+195|parade|C|grim|a broken cane lying on the parade ground
+196|palace|M|curious|{YOU} peeking through a palace doorway
+197|easel|M|absurd|{KING} painting a portrait of a giant at an easel, wrapped in a blanket
+198|easel|C|absurd|{KING} sneezing on his canvas, a tissue in his other hand
+199|palace|M|absurd|{KING} pointing a tall man toward a tall woman across a palace hall, a measuring tape between them
+200|palace|C|absurd|an inset of a family tree where every generation is taller than the last
+201|bedroom|M|absurd|{KING} lying in bed with a nightcap, a thermometer in his mouth
+202|bedroom|W|absurd|a line of giants marching in single file through the royal bedroom
+203|bedroom|M|absurd|giants marching past the bed in uniform, grenadier caps tucked under their arms
+204|bedroom|M|comic|{YOU} ducking under a palace doorframe, grenadier cap tucked under his arm
+205|bedroom|M|absurd|{KING} in bed in his nightshirt watching the giants march past
+206|bedroom|C|absurd|{KING} clapping and weeping with joy
+207|bedroom|C|bittersweet|{YOU} ducking under the doorframe, a faint ghostly {MOTHER} with a speech bubble
+208|bedroom|C|deadpan|{YOU} suppressing a smile
+209|barracks|M|realisation|{YOU} looking at a map of Europe pinned to the barracks wall
+210|barracks|C|realisation|an inset of battle icons crossed out
+211|barracks|C|realisation|close-up of {YOU}'s face as the realisation hits
+212|drill|M|futile|a montage of drills, canes and kidnapping carts
+213|palace|M|ironic|giants being placed in a glass display case
+214|palace|M|ironic|{KING} admiring giants lined up like trophies on a shelf
+215|palace|C|ironic|a museum label reading THE COLLECTION
+216|palace|M|ironic|insets of a stamp album, a painting gallery and a toy soldier set
+217|barracks|M|knowing|{SEAMUS} watching {YOU} with a knowing look
+218|barracks|W|tense|the barracks at night in winter, snow outside, {SEAMUS} whispering
+219|barracks|M|secretive|{SEAMUS} sketching a route on the floor with chalk
+220|barracks|C|secretive|an inset of a cart piled with barrels of salted fish
+221|barracks|C|secretive|an inset of a ship sailing toward Ireland
+222|barracks|M|tense|{SEAMUS} holding out a stick arm toward {YOU}
+223|barracks|C|torn|{YOU} hesitating, thought bubble of the mill
+224|barracks|C|torn|a thought bubble of the little bell above the kitchen door
+225|barracks|C|longing|close-up of {YOU}'s longing face
+226|barracks|C|dread|an inset of a deserter in chains
+227|barracks|C|regret|{YOU} shaking his head slowly
+228|barracks|M|bittersweet|{SEAMUS} nodding and clapping {YOU} on the shoulder
+229|barracks|C|comic|an inset of a large potato with {YOU}'s face on it
+230|barracks|M|tense|{SEAMUS} climbing out of a window into the snow
+231|barracks|M|tense|{YOU} lying awake in the dark, eyes wide
+232|barracks|M|waiting|a calendar with three days crossed off
+233|barracks|C|hopeful|{YOU} smiling faintly, a thought bubble of a ship
+234|potsdam|W|grim|soldiers marching back through the Potsdam gate
+235|checkpoint|M|grim|soldiers searching the fish cart at a checkpoint barrier
+236|checkpoint|M|grim|the cart driver accepting a purse of coins from an officer
+237|potsdam|M|grim|{SEAMUS} dragged through the street in chains, red hair matted
+238|potsdam|C|grim|close-up of {SEAMUS}'s bruised crooked nose
+239|drill|W|dread|the parade ground with a drummer and grim soldiers
+240|drill|W|dread|two long lines of soldiers facing each other across the parade ground
+241|drill|M|dread|soldiers each holding a thin rod
+242|drill|M|grim, non-graphic|{SEAMUS} stripped to the waist, seen from behind at the start of the lines, guards beside him
+243|drill|W|grim, non-graphic|{SEAMUS} walking slowly between the lines, rods raised in silhouette
+244|drill|M|grim, non-graphic|rods coming down in silhouette, impact lines only
+245|drill|M|grim, non-graphic|{SEAMUS} turning back to walk the lines again
+246|drill|M|tense|{SERGEANT} shoving {YOU} into the line
+247|drill|C|tense|close-up of a thin rod in {YOU}'s stick hand
+248|drill|C|heartbreaking|{SEAMUS} looking up at {YOU}
+249|drill|C|heartbreaking|{YOU} raising the rod hesitantly
+250|drill|M|tender, non-graphic|the rod barely touching {SEAMUS}'s shoulder, {SERGEANT} noticing
+251|drill|C|defiant|close-up of {YOU}'s defiant face
+252|drill|W|grim|the parade ground at dawn the next day
+253|drill|M|grim, non-graphic|{SERGEANT} raising his cane behind {YOU}, the regiment watching
+254|drill|M|grim|officers watching from a raised platform
+255|drill|C|stoic|close-up of {YOU} standing perfectly straight, jaw clenched, no sound
+256|drill|C|bittersweet|a faint ghostly {SEAMUS} giving a thumbs-up
+257|drill|W|grim|tally marks counting eight passes chalked on a wall
+258|drill|M|tragic|{SEAMUS} collapsing between the lines, soldiers stepping back
+259|infirmary|M|tragic|{SEAMUS} lying in an infirmary bed under a blanket
+260|infirmary|C|tragic|close-up of {SEAMUS} with soft X-eyes, peaceful face, the number 26 on a tag
+261|graveyard|W|bleak|a bare unmarked mound of earth outside the city walls in the snow
+262|graveyard|M|bleak|two gravediggers walking away in silence
+263|barracks|M|grief|{YOU} walking into the empty barracks
+264|barracks|LA|grief|{YOU} standing under the beam above the door
+265|barracks|C|grief|close-up of {SEAMUS}'s notch, the highest one, his name carved crookedly
+266|barracks|M|lonely|soldiers walking past the beam without looking up
+267|barracks|C|lonely|the beam in a single shaft of light
+268|barracks|M|numb|{YOU} on his bunk polishing a boot
+269|barracks|C|numb|the polished boot reflecting {YOU}'s face
+270|barracks|C|numb|{YOU}'s blank, hollow reflection
+271|drill|M|monotonous|a montage: drill, parade, cane
+272|drill|M|monotonous|{YOU} standing silently apart from other soldiers
+273|drill|M|monotonous|{YOU} standing stock-still at attention
+274|drill|C|monotonous|{YOU} staring at the horizon, the IOU note faint and faded
+275|barracks|M|ageing|{YOU} rubbing his aching knee, pain lines
+276|barracks|M|grim|giants sitting on bunks, coughing and limping
+277|infirmary|M|grim|a doctor examining a giant's swollen joints
+278|infirmary|C|grim|an inset of a bone with pain lines and a heart with jagged lines
+279|graveyard|M|grim|a line of plain wooden crosses outside the city
+280|potsdam|M|grim|a new cart of kidnapped giants arriving
+281|potsdam|C|grim|close-up of a terrified new recruit's face
+282|barracks|C|ageing|{YOU28} with tired eyes, a calendar reading 1740
+283|barracks|C|bleak|{YOU28} gripping the bars of a window
+284|bedroom|M|grim|{KING} in bed, swollen and pale
+285|bedroom|C|grim|close-up of {KING} wheezing, sweat drops
+286|bedroom|M|tense|a messenger summoning the giants to the bedroom
+287|bedroom|W|grim|the giants filing into the royal bedroom one last time, caps under their arms
+288|bedroom|M|grim|{YOU28} stooping through the doorway, cap tucked under his arm
+289|bedroom|M|grim|{KING} propped on pillows, looking up at {YOU28}
+290|bedroom|C|grim|{KING}'s wet, adoring eyes
+291|bedroom|C|cold|{YOU28}'s blank face, a speech bubble with a question mark over {KING}'s head
+292|bedroom|M|historical|{KING} lying still with soft X-eyes, a calendar reading MAY 31, 1740
+293|palace|M|transition|{FREDERICK} standing in the throne room
+294|palace|C|character intro|{FREDERICK} holding a flute and a book of poems, a map of war plans behind him
+295|parade|M|unimpressed|{FREDERICK} inspecting the giants, unimpressed
+296|parade|C|unimpressed|{FREDERICK} looking at a bill with an enormous sum, his eyebrows shooting up
+297|parade|W|transition|the regiment breaking up, giants walking in different directions
+298|parade|M|transition|officers pointing giants toward ordinary army units
+299|parade|M|transition|some giants walking out through the barracks gate
+300|parade|C|deadpan|{YOU28} pointing at himself
+301|barracks|M|anticlimactic|{OFFICER} handing {YOU28} a paper and a few coins
+302|barracks|C|anticlimactic|close-up of a discharge paper and three coins
+303|potsdam|M|awkward|{YOU28} standing in the street in old civilian clothes far too small, stick arms poking out
+304|potsdam|C|awkward|close-up of {YOU28}'s puzzled face, the clothes straining
+305|potsdam|M|awkward|{YOU28} awkwardly unsure what to do with his stick arms
+306|potsdam|W|quiet|an empty street with no sergeant and no cane in sight
+307|potsdam|C|reflective|a ghostly montage of drill, canes and the King fading away
+308|potsdam|C|resolved|{YOU28} looking down the long road
+309|road|W|journey|{YOU28} walking along a long empty road toward the horizon
+310|road|M|weary|{YOU28} sleeping in a barn on straw, then under a hedge
+311|road|M|weary|{YOU28} trading a coin for bread at a farm door, rubbing his knee
+312|road|M|weary|village children staring up at {YOU28} in a small village
+313|road|C|bittersweet|{YOU28} snapping to attention out of habit
+314|road|C|bittersweet|{YOU28} slowly relaxing his shoulders
+315|mill_ext|W|homecoming|the old mill, slightly run-down, {YOU28} small in the distance
+316|mill_ext|M|homecoming|the mill wheel turning beside the brown river
+317|mill_ext|M|emotional|{FATHEROLD} standing in the yard, greyer and bent
+318|mill_ext|C|emotional|close-up of {FATHEROLD}'s weathered face
+319|mill_ext|M|emotional|{FATHEROLD} looking up at {YOU28} in silence
+320|mill_ext|C|devastating|{FATHEROLD} speaking quietly, eyes wet
+321|kitchen|M|devastating|a stack of letters addressed to Potsdam bundled with string on the kitchen table
+322|kitchen|C|devastating|a postmark stamp reading RETURNED on the top letter
+323|kitchen|M|cathartic|{YOU28} sitting at the kitchen table crying, {FATHEROLD} resting a stick arm on his shoulder, the little bell above the door
+324|palace|W|historical|a wide view of the giant regiment drawn as rows of tiny figures with the number 3,000
+325|palace|M|historical|a pile of gold coins growing taller and taller
+326|palace|C|historical|an inset of a giant on one side of a scale and a small country estate on the other
+327|gallery|W|present day|a present-day palace gallery with large painted portraits of giant soldiers
+328|gallery|M|present day|close-up of an old painted portrait of a giant in a grenadier cap
+329|gallery|M|present day|{VISITORS} walking through the gallery looking at the portraits
+330|gallery|C|present day|{VISITORS} laughing and pointing at a portrait
+331|gallery|M|present day|a visitor standing beside a portrait and stretching up to measure against it
+332|gallery|C|present day|a visitor's hand reaching only to the painted giant's chest
+333|gallery|W|bittersweet|the gallery at closing time, the painted giants looking down on an empty room

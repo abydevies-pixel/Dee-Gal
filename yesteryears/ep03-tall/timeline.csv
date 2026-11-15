@@ -1,0 +1,334 @@
+beat,start,end,duration_s,motion,scene,image,script_segment
+1,00:00:00.000,00:00:01.667,1.667,push,mill_ext,images/beat_001.png,"The year is 1712,"
+2,00:00:01.667,00:00:05.834,4.167,pan,mill_ext,images/beat_002.png,"and you are born in a small village in Saxony,"
+3,00:00:05.834,00:00:10.001,4.167,push,mill_ext,images/beat_003.png,in the middle of what will one day be Germany.
+4,00:00:10.001,00:00:14.168,4.167,pull,mill_ext,images/beat_004.png,"Your home is a mill on a slow, brown river,"
+5,00:00:14.168,00:00:17.501,3.333,push,kitchen,images/beat_005.png,"and it smells of wet stone, warm flour,"
+6,00:00:17.501,00:00:21.668,4.167,push,kitchen,images/beat_006.png,and the bread your mother bakes before sunrise every morning.
+7,00:00:21.668,00:00:23.751,2.083,pan,mill_ext,images/beat_007.png,Your father is the miller.
+8,00:00:23.751,00:00:28.751,5.0,push,mill_ext,images/beat_008.png,"He is a short, stocky, practical man who believes in hard work,"
+9,00:00:28.751,00:00:32.501,3.75,pull,mill_ext,images/beat_009.png,"fair weights, and never trusting anyone from the city."
+10,00:00:32.501,00:00:37.084,4.583,push,kitchen,images/beat_010.png,"Your mother is even shorter. She bakes, sews, keeps the accounts,"
+11,00:00:37.084,00:00:40.417,3.333,push,kitchen,images/beat_011.png,and can silence a room with one look.
+12,00:00:40.417,00:00:42.917,2.5,fade,kitchen,images/beat_012.png,You are born an ordinary size.
+13,00:00:42.917,00:00:47.500,4.583,push,village,images/beat_013.png,Everyone in the village agrees you are a perfectly normal baby.
+14,00:00:47.500,00:00:49.167,1.667,pull,village,images/beat_014.png,But that doesn’t last.
+15,00:00:49.167,00:00:53.334,4.167,push,village,images/beat_015.png,"By age 5, you are taller than the other children."
+16,00:00:53.334,00:00:57.084,3.75,push,kitchen,images/beat_016.png,"By age 10, you are taller than your father."
+17,00:00:57.084,00:01:01.667,4.583,pan,village,images/beat_017.png,"By age 14, you are taller than anyone in the village,"
+18,00:01:01.667,00:01:05.834,4.167,push,village,images/beat_018.png,"including the blacksmith, who used to be famous for it."
+19,00:01:05.834,00:01:09.584,3.75,pull,kitchen,images/beat_019.png,You bang your head on every doorway in your
+20,00:01:09.584,00:01:13.334,3.75,push,kitchen,images/beat_020.png,house so many times that your mother hangs a
+21,00:01:13.334,00:01:17.084,3.75,push,kitchen,images/beat_021.png,little bell above the kitchen door to warn you.
+22,00:01:17.084,00:01:22.084,5.0,pan,kitchen,images/beat_022.png,"Every morning, as you duck under it, she says the same thing."
+23,00:01:22.084,00:01:23.751,1.667,push,kitchen,images/beat_023.png,"Mind your head, love."
+24,00:01:23.751,00:01:25.418,1.667,pull,kitchen,images/beat_024.png,You always do. Mostly.
+25,00:01:25.418,00:01:27.918,2.5,push,village,images/beat_025.png,Being tall is wonderful at first.
+26,00:01:27.918,00:01:31.668,3.75,fade,mill_ext,images/beat_026.png,You can carry two sacks of flour at once.
+27,00:01:31.668,00:01:35.418,3.75,pan,orchard,images/beat_027.png,You can reach the apples nobody else can reach.
+28,00:01:35.418,00:01:37.085,1.667,push,village,images/beat_028.png,"At the harvest festival,"
+29,00:01:37.085,00:01:41.252,4.167,pull,village,images/beat_029.png,"you win the log-carrying contest three years in a row,"
+30,00:01:41.252,00:01:45.835,4.583,push,village,images/beat_030.png,and the smaller children follow you around the square like ducklings.
+31,00:01:45.835,00:01:50.002,4.167,push,mill_ext,images/beat_031.png,Your father jokes that he’ll never need a ladder again.
+32,00:01:50.002,00:01:54.169,4.167,pan,mill_ext,images/beat_032.png,"Then he stops buying ladders, just to prove his point."
+33,00:01:54.169,00:01:57.502,3.333,push,mill_ext,images/beat_033.png,"When the roof of the mill needs fixing,"
+34,00:01:57.502,00:01:59.585,2.083,pull,mill_ext,images/beat_034.png,he simply points at you.
+35,00:01:59.585,00:02:02.918,3.333,push,kitchen,images/beat_035.png,But your mother doesn’t laugh at that joke.
+36,00:02:02.918,00:02:06.668,3.75,fade,mill_ext,images/beat_036.png,She doesn’t like it when travelers stop at the
+37,00:02:06.668,00:02:10.001,3.333,pan,mill_ext,images/beat_037.png,mill and stare at you for too long.
+38,00:02:10.001,00:02:12.918,2.917,push,mill_ext,images/beat_038.png,And she especially doesn’t like it when
+39,00:02:12.918,00:02:15.418,2.5,pull,mill_ext,images/beat_039.png,they ask how tall you are.
+40,00:02:15.418,00:02:20.001,4.583,shake,mill_ext,images/beat_040.png,She tells you to slouch around strangers. You don’t understand why.
+41,00:02:20.001,00:02:22.084,2.083,push,mill_ext,images/beat_041.png,You find out in 1730.
+42,00:02:22.084,00:02:25.834,3.75,pan,mill_ext,images/beat_042.png,"You’re 18 years old, and you’ve just grown again."
+43,00:02:25.834,00:02:28.751,2.917,shake,mill_ext,images/beat_043.png,"You’re now well over six feet tall,"
+44,00:02:28.751,00:02:32.084,3.333,pull,village,images/beat_044.png,a true giant in a time when most
+45,00:02:32.084,00:02:36.251,4.167,shake,village,images/beat_045.png,"men barely reach five and a half. One autumn afternoon,"
+46,00:02:36.251,00:02:40.001,3.75,push,mill_ext,images/beat_046.png,your father sends you to the market town two
+47,00:02:40.001,00:02:43.334,3.333,pan,road,images/beat_047.png,days away to sell a cart of flour.
+48,00:02:43.334,00:02:45.417,2.083,push,road,images/beat_048.png,It’s your first trip alone.
+49,00:02:45.417,00:02:48.334,2.917,shake,mill_ext,images/beat_049.png,Your mother packs you bread and sausage
+50,00:02:48.334,00:02:50.834,2.5,push,road,images/beat_050.png,and walks you to the road.
+51,00:02:50.834,00:02:54.167,3.333,push,road,images/beat_051.png,"She grips your arm, looks up at you,"
+52,00:02:54.167,00:02:56.250,2.083,pan,road,images/beat_052.png,and says the strangest thing.
+53,00:02:56.250,00:03:00.417,4.167,push,road,images/beat_053.png,"If anyone offers you work, a drink, or a ride,"
+54,00:03:00.417,00:03:01.667,1.25,pull,road,images/beat_054.png,you say no.
+55,00:03:01.667,00:03:03.334,1.667,push,road,images/beat_055.png,You laugh. You promise.
+56,00:03:03.334,00:03:07.917,4.583,push,market,images/beat_056.png,"You sell the flour by noon. You get a good price,"
+57,00:03:07.917,00:03:10.834,2.917,pan,market,images/beat_057.png,so you decide to celebrate with one
+58,00:03:10.834,00:03:14.584,3.75,push,market,images/beat_058.png,drink at the inn before heading home. Just one.
+59,00:03:14.584,00:03:15.784,1.2,pull,inn,images/beat_059.png,Big mistake.
+60,00:03:15.784,00:03:19.951,4.167,push,inn,images/beat_060.png,"The man who sits down beside you is friendly, well-dressed,"
+61,00:03:19.951,00:03:24.951,5.0,push,inn,images/beat_061.png,and very interested in you. He buys you a beer. Then another.
+62,00:03:24.951,00:03:29.118,4.167,pan,inn,images/beat_062.png,He tells you he’s looking for a strong young man
+63,00:03:29.118,00:03:33.701,4.583,push,inn,images/beat_063.png,to work as a footman for a wealthy nobleman. Fine clothes.
+64,00:03:33.701,00:03:34.901,1.2,pull,inn,images/beat_064.png,Good food.
+65,00:03:34.901,00:03:39.484,4.583,push,inn,images/beat_065.png,Wages three times what a miller’s son could ever dream of.
+66,00:03:39.484,00:03:43.651,4.167,push,inn,images/beat_066.png,"You remember your mother’s warning. You say no, thank you."
+67,00:03:43.651,00:03:45.318,1.667,pan,inn,images/beat_067.png,"He smiles and says,"
+68,00:03:45.318,00:03:49.485,4.167,push,inn,images/beat_068.png,"""That’s a shame."" Then he buys you one more beer."
+69,00:03:49.485,00:03:51.568,2.083,pull,inn,images/beat_069.png,You don’t remember drinking it.
+70,00:03:51.568,00:03:54.485,2.917,push,cart_road,images/beat_070.png,You wake up in the back of
+71,00:03:54.485,00:03:57.402,2.917,push,cart_road,images/beat_071.png,"a moving cart with your hands tied,"
+72,00:03:57.402,00:04:01.152,3.75,pan,cart_road,images/beat_072.png,"your head pounding, and a sack over your face."
+73,00:04:01.152,00:04:04.902,3.75,fade,cart_road,images/beat_073.png,You hear wheels on a dirt road. Men laughing.
+74,00:04:04.902,00:04:09.069,4.167,pull,cart_road,images/beat_074.png,"Someone kicks your ribs and tells you to stop struggling,"
+75,00:04:09.069,00:04:11.986,2.917,push,cart_road,images/beat_075.png,because the King doesn’t like damaged goods.
+76,00:04:11.986,00:04:13.236,1.25,push,cart_road,images/beat_076.png,You aren’t alone.
+77,00:04:13.236,00:04:18.236,5.0,pan,cart_road,images/beat_077.png,"When the cart stops and someone pulls the sack off your head,"
+78,00:04:18.236,00:04:22.403,4.167,push,cart_road,images/beat_078.png,you see two other young men tied up beside you.
+79,00:04:22.403,00:04:25.736,3.333,pull,cart_road,images/beat_079.png,A shepherd from Hanover. A student from Leipzig.
+80,00:04:25.736,00:04:27.819,2.083,push,cart_road,images/beat_080.png,Both of them are enormous.
+81,00:04:27.819,00:04:31.569,3.75,push,cart_road,images/beat_081.png,Both of them look as terrified as you feel.
+82,00:04:31.569,00:04:34.902,3.333,pan,cart_road,images/beat_082.png,"The student keeps insisting there’s been a mistake,"
+83,00:04:34.902,00:04:38.652,3.75,push,cart_road,images/beat_083.png,"that his father is a lawyer, but nobody listens."
+84,00:04:38.652,00:04:41.569,2.917,pull,cart_road,images/beat_084.png,You are being smuggled across the border.
+85,00:04:41.569,00:04:44.902,3.333,shake,cart_road,images/beat_085.png,You have just been kidnapped by Prussian recruiters.
+86,00:04:44.902,00:04:46.152,1.25,push,palace,images/beat_086.png,"To understand why,"
+87,00:04:46.152,00:04:50.319,4.167,pan,palace,images/beat_087.png,you need to understand the man on the Prussian throne.
+88,00:04:50.319,00:04:53.236,2.917,push,palace,images/beat_088.png,"His name is Frederick William the First,"
+89,00:04:53.236,00:04:57.403,4.167,pull,palace,images/beat_089.png,and he is obsessed with exactly one thing. Tall soldiers.
+90,00:04:57.403,00:05:01.570,4.167,push,parade,images/beat_090.png,He has created a special regiment called the Potsdam Giants.
+91,00:05:01.570,00:05:06.570,5.0,push,parade,images/beat_091.png,"A personal guard of the tallest men he can find in Europe,"
+92,00:05:06.570,00:05:11.570,5.0,pan,palace,images/beat_092.png,and he will do absolutely anything to get them. He pays fortunes.
+93,00:05:11.570,00:05:13.237,1.667,push,palace,images/beat_093.png,He trades for them.
+94,00:05:13.237,00:05:18.237,5.0,pull,palace,images/beat_094.png,Other kings send him tall men as gifts to win his favour.
+95,00:05:18.237,00:05:22.404,4.167,push,inn,images/beat_095.png,"And when buying doesn’t work, his recruiters simply take them."
+96,00:05:22.404,00:05:24.904,2.5,push,village,images/beat_096.png,Off the streets. Out of taverns.
+97,00:05:24.904,00:05:28.654,3.75,pan,village,images/beat_097.png,"From farms and churches and even from foreign countries,"
+98,00:05:28.654,00:05:32.821,4.167,push,cart_road,images/beat_098.png,where kidnapping a man is very much against the law.
+99,00:05:32.821,00:05:37.404,4.583,pull,palace,images/beat_099.png,The King doesn’t care about the law. He cares about height.
+100,00:05:37.404,00:05:40.321,2.917,push,cart_road,images/beat_100.png,"And you, unfortunately, have plenty of it."
+101,00:05:40.321,00:05:44.488,4.167,push,potsdam,images/beat_101.png,The cart rolls for days. Then you arrive in Potsdam.
+102,00:05:44.488,00:05:48.655,4.167,pan,measure,images/beat_102.png,The first week is disorienting in the best possible way.
+103,00:05:48.655,00:05:53.238,4.583,push,measure,images/beat_103.png,They untie you. They feed you. And the food is good.
+104,00:05:53.238,00:05:57.821,4.583,pull,measure,images/beat_104.png,"Meat every day. White bread. Beer. They bathe you, shave you,"
+105,00:05:57.821,00:06:01.154,3.333,push,measure,images/beat_105.png,and measure you with a long wooden rod.
+106,00:06:01.154,00:06:05.321,4.167,push,measure,images/beat_106.png,"A clerk writes down your height in a thick ledger,"
+107,00:06:05.321,00:06:09.488,4.167,pan,measure,images/beat_107.png,and an officer in a gold-trimmed coat whistles in admiration.
+108,00:06:09.488,00:06:11.988,2.5,push,measure,images/beat_108.png,Then they give you your uniform.
+109,00:06:11.988,00:06:14.905,2.917,pull,measure,images/beat_109.png,It’s the finest thing you’ve ever worn.
+110,00:06:14.905,00:06:17.822,2.917,push,measure,images/beat_110.png,A blue coat with red cuffs and
+111,00:06:17.822,00:06:20.322,2.5,push,measure,images/beat_111.png,"brass buttons, white trousers, polished boots."
+112,00:06:20.322,00:06:24.072,3.75,pan,measure,images/beat_112.png,"And on your head, a tall pointed grenadier’s cap,"
+113,00:06:24.072,00:06:26.572,2.5,push,measure,images/beat_113.png,"made of brass and red cloth,"
+114,00:06:26.572,00:06:29.905,3.333,pull,measure,images/beat_114.png,that adds almost another foot to your height.
+115,00:06:29.905,00:06:32.822,2.917,push,mirror,images/beat_115.png,"When you see yourself in the mirror,"
+116,00:06:32.822,00:06:35.739,2.917,push,mirror,images/beat_116.png,you barely recognize the giant looking back.
+117,00:06:35.739,00:06:40.739,5.0,pan,barracks,images/beat_117.png,Your pay is more than your father earns in a good month.
+118,00:06:40.739,00:06:45.739,5.0,push,barracks,images/beat_118.png,Your barracks are clean. The officers call the giants the King’s darlings.
+119,00:06:45.739,00:06:49.906,4.167,fade,parade,images/beat_119.png,"On Sundays, the regiment parades through the streets of Potsdam,"
+120,00:06:49.906,00:06:52.823,2.917,shake,potsdam,images/beat_120.png,a town built almost entirely for soldiers.
+121,00:06:52.823,00:06:55.323,2.5,shake,potsdam,images/beat_121.png,Townspeople line the road to watch.
+122,00:06:55.323,00:06:59.906,4.583,pan,potsdam,images/beat_122.png,"Children run beside you, craning their necks, pointing at your cap."
+123,00:06:59.906,00:07:03.656,3.75,push,potsdam,images/beat_123.png,An old woman throws a flower at your boots.
+124,00:07:03.656,00:07:06.573,2.917,pull,potsdam,images/beat_124.png,"For the first time in your life,"
+125,00:07:06.573,00:07:09.073,2.5,push,potsdam,images/beat_125.png,being tall feels like being famous.
+126,00:07:09.073,00:07:12.406,3.333,push,barracks,images/beat_126.png,"For a few days, you let yourself think,"
+127,00:07:12.406,00:07:14.489,2.083,pan,barracks,images/beat_127.png,maybe this isn’t so terrible.
+128,00:07:14.489,00:07:16.156,1.667,push,drill,images/beat_128.png,Then the drilling starts.
+129,00:07:16.156,00:07:21.156,5.0,pull,drill,images/beat_129.png,"Every day, from dawn until your legs shake, you march. You turn."
+130,00:07:21.156,00:07:23.656,2.5,push,drill,images/beat_130.png,You present arms. You march again.
+131,00:07:23.656,00:07:28.239,4.583,push,drill,images/beat_131.png,"Hundreds of giants move as one perfect machine, while a short,"
+132,00:07:28.239,00:07:31.989,3.75,pan,drill,images/beat_132.png,red-faced sergeant screams at you to stand up straight.
+133,00:07:31.989,00:07:36.572,4.583,push,drill,images/beat_133.png,Any mistake is punished with a wooden cane across the back.
+134,00:07:36.572,00:07:39.905,3.333,pull,drill,images/beat_134.png,"Too slow, the cane. Too fast, the cane."
+135,00:07:39.905,00:07:41.988,2.083,push,drill,images/beat_135.png,"Out of step, the cane."
+136,00:07:41.988,00:07:43.655,1.667,push,barracks,images/beat_136.png,And you can’t leave.
+137,00:07:43.655,00:07:47.822,4.167,pan,barracks,images/beat_137.png,Not on your own. Not to visit home. Not ever.
+138,00:07:47.822,00:07:50.322,2.5,push,barracks,images/beat_138.png,"You belong to the King now,"
+139,00:07:50.322,00:07:53.655,3.333,pull,barracks,images/beat_139.png,as completely as his horses or his furniture.
+140,00:07:53.655,00:07:55.738,2.083,push,barracks,images/beat_140.png,You write to your mother.
+141,00:07:55.738,00:07:59.488,3.75,push,barracks,images/beat_141.png,You don’t know if your letters ever reach her.
+142,00:07:59.488,00:08:04.071,4.583,pan,barracks,images/beat_142.png,The man in the bunk next to yours is called Seamus.
+143,00:08:04.071,00:08:08.654,4.583,push,barracks,images/beat_143.png,"He’s an Irishman, even taller than you, with flaming red hair,"
+144,00:08:08.654,00:08:09.904,1.25,pull,barracks,images/beat_144.png,"a crooked nose,"
+145,00:08:09.904,00:08:14.487,4.583,push,drill,images/beat_145.png,and a laugh you can hear from across the parade ground.
+146,00:08:14.487,00:08:18.654,4.167,push,barracks,images/beat_146.png,A man in Dublin tricked him onto a ship by
+147,00:08:18.654,00:08:22.821,4.167,pan,barracks,images/beat_147.png,promising him a job as a servant to an ambassador.
+148,00:08:22.821,00:08:25.738,2.917,push,barracks,images/beat_148.png,"He’s been in Potsdam for two years,"
+149,00:08:25.738,00:08:29.488,3.75,pull,barracks,images/beat_149.png,and he still hasn’t learned to speak German properly.
+150,00:08:29.488,00:08:31.155,1.667,push,barracks,images/beat_150.png,He doesn’t need to.
+151,00:08:31.155,00:08:35.322,4.167,push,barracks,images/beat_151.png,He communicates almost entirely through jokes and rude hand gestures.
+152,00:08:35.322,00:08:39.489,4.167,pan,barracks,images/beat_152.png,He’s the first person in Potsdam who makes you laugh.
+153,00:08:39.489,00:08:41.156,1.667,push,barracks,images/beat_153.png,"On your first night,"
+154,00:08:41.156,00:08:45.323,4.167,pull,barracks,images/beat_154.png,he shows you the wooden beam above the barracks door.
+155,00:08:45.323,00:08:47.406,2.083,push,barracks,images/beat_155.png,"It’s covered in carved notches,"
+156,00:08:47.406,00:08:51.156,3.75,push,barracks,images/beat_156.png,each one marked with a name and a height.
+157,00:08:51.156,00:08:54.073,2.917,pan,barracks,images/beat_157.png,Every giant who has ever slept in
+158,00:08:54.073,00:08:56.990,2.917,push,barracks,images/beat_158.png,this room has cut his mark there.
+159,00:08:56.990,00:09:00.740,3.75,pull,barracks,images/beat_159.png,"Seamus’s notch is the highest one on the beam,"
+160,00:09:00.740,00:09:05.740,5.0,push,barracks,images/beat_160.png,and he is unbearably proud of it. He hands you his knife.
+161,00:09:05.740,00:09:09.073,3.333,push,barracks,images/beat_161.png,You carve your mark two inches below his.
+162,00:09:09.073,00:09:12.406,3.333,pan,barracks,images/beat_162.png,He tells you that’s exactly where you belong.
+163,00:09:12.406,00:09:16.989,4.583,push,barracks,images/beat_163.png,You hadn’t realized how long it had been since you laughed.
+164,00:09:16.989,00:09:19.489,2.5,pull,barracks,images/beat_164.png,Seamus teaches you how to survive.
+165,00:09:19.489,00:09:23.239,3.75,push,barracks,images/beat_165.png,How to keep your boots polished so the sergeant
+166,00:09:23.239,00:09:26.572,3.333,push,barracks,images/beat_166.png,can see his own ugly face in them.
+167,00:09:26.572,00:09:31.155,4.583,pan,drill,images/beat_167.png,How to stand perfectly still for an hour by picking a
+168,00:09:31.155,00:09:35.322,4.167,push,drill,images/beat_168.png,spot on the horizon and pretending it owes you money.
+169,00:09:35.322,00:09:39.905,4.583,pull,barracks,images/beat_169.png,How to hide a sausage in your grenadier cap for later.
+170,00:09:39.905,00:09:44.905,5.0,push,barracks,images/beat_170.png,He teaches you Irish drinking songs. You teach him German swear words.
+171,00:09:44.905,00:09:47.822,2.917,push,drill,images/beat_171.png,"Within a month, he’s using them on"
+172,00:09:47.822,00:09:50.322,2.5,pan,drill,images/beat_172.png,"the sergeant, very quietly, while smiling."
+173,00:09:50.322,00:09:55.322,5.0,push,barracks,images/beat_173.png,"At night, when the barracks are dark, he tells you about Ireland."
+174,00:09:55.322,00:09:56.989,1.667,pull,barracks,images/beat_174.png,Green hills. Grey sea.
+175,00:09:56.989,00:10:01.156,4.167,push,barracks,images/beat_175.png,"A mother who sings while she cooks, just like yours."
+176,00:10:01.156,00:10:06.156,5.0,push,barracks,images/beat_176.png,"He says that one day, he’s going home. You ask him how."
+177,00:10:06.156,00:10:09.073,2.917,pan,barracks,images/beat_177.png,He just taps his nose and grins.
+178,00:10:09.073,00:10:11.156,2.083,push,parade,images/beat_178.png,Then you meet the King.
+179,00:10:11.156,00:10:15.739,4.583,shake,parade,images/beat_179.png,"It happens in your third month, on a cold morning parade."
+180,00:10:15.739,00:10:19.489,3.75,push,parade,images/beat_180.png,"A short, heavy man in a plain blue uniform"
+181,00:10:19.489,00:10:22.822,3.333,push,parade,images/beat_181.png,"walks down the line, leaning on a cane."
+182,00:10:22.822,00:10:27.822,5.0,pan,parade,images/beat_182.png,His face is puffy and red. His eyes are small and sharp.
+183,00:10:27.822,00:10:30.322,2.5,push,parade,images/beat_183.png,He looks nothing like a king.
+184,00:10:30.322,00:10:32.405,2.083,pull,parade,images/beat_184.png,But everyone around you freezes.
+185,00:10:32.405,00:10:34.905,2.5,push,parade,images/beat_185.png,He stops in front of you.
+186,00:10:34.905,00:10:37.822,2.917,push,parade,images/beat_186.png,"He looks up, and up, and up."
+187,00:10:37.822,00:10:41.572,3.75,pan,parade,images/beat_187.png,Then he smiles like a child on Christmas morning.
+188,00:10:41.572,00:10:46.572,5.0,push,parade,images/beat_188.png,"He pats your arm. He asks your name, your village, your height."
+189,00:10:46.572,00:10:51.155,4.583,pull,parade,images/beat_189.png,He tells the officer beside him that you’re a splendid one.
+190,00:10:51.155,00:10:52.405,1.25,push,parade,images/beat_190.png,A real beauty.
+191,00:10:52.405,00:10:55.738,3.333,push,parade,images/beat_191.png,Then he moves on to the next giant.
+192,00:10:55.738,00:11:00.738,5.0,pan,parade,images/beat_192.png,Seamus whispers that you’ve been lucky. The King has a famous temper.
+193,00:11:00.738,00:11:05.321,4.583,push,potsdam,images/beat_193.png,He beats people with that cane in the street. Ministers. Merchants.
+194,00:11:05.321,00:11:09.904,4.583,pull,palace,images/beat_194.png,"His own children. If he’s in a bad mood at parade,"
+195,00:11:09.904,00:11:11.987,2.083,push,parade,images/beat_195.png,somebody always ends up bleeding.
+196,00:11:11.987,00:11:16.154,4.167,push,palace,images/beat_196.png,"Over the next months, you learn the King’s strange habits."
+197,00:11:16.154,00:11:21.154,5.0,pan,easel,images/beat_197.png,"He paints portraits of his giants, sitting at his easel for hours,"
+198,00:11:21.154,00:11:22.821,1.667,push,easel,images/beat_198.png,even when he’s sick.
+199,00:11:22.821,00:11:26.571,3.75,pull,palace,images/beat_199.png,"He orders his tallest men to marry tall women,"
+200,00:11:26.571,00:11:29.071,2.5,push,palace,images/beat_200.png,hoping to breed even taller soldiers.
+201,00:11:29.071,00:11:32.821,3.75,push,bedroom,images/beat_201.png,"And when he’s ill and confined to his bed,"
+202,00:11:32.821,00:11:37.404,4.583,pan,bedroom,images/beat_202.png,"he sometimes orders the whole regiment to march through his bedroom,"
+203,00:11:37.404,00:11:40.737,3.333,push,bedroom,images/beat_203.png,"in full uniform, just to cheer himself up."
+204,00:11:40.737,00:11:45.320,4.583,pull,bedroom,images/beat_204.png,"You do this twice. Two hundred giants, stooping through palace doorways,"
+205,00:11:45.320,00:11:48.653,3.333,push,bedroom,images/beat_205.png,"marching past a sick man in his nightshirt,"
+206,00:11:48.653,00:11:51.153,2.5,push,bedroom,images/beat_206.png,who claps and cries with joy.
+207,00:11:51.153,00:11:52.820,1.667,pan,bedroom,images/beat_207.png,"Mind your head, love."
+208,00:11:52.820,00:11:54.487,1.667,fade,bedroom,images/beat_208.png,You almost laugh. Almost.
+209,00:11:54.487,00:11:58.237,3.75,pull,barracks,images/beat_209.png,And then you notice what the King never does.
+210,00:11:58.237,00:12:01.154,2.917,push,barracks,images/beat_210.png,He never sends his giants to war.
+211,00:12:01.154,00:12:02.354,1.2,push,barracks,images/beat_211.png,Not once.
+212,00:12:02.354,00:12:06.104,3.75,pan,drill,images/beat_212.png,All the drilling. All the canes. All the kidnapping.
+213,00:12:06.104,00:12:10.271,4.167,push,palace,images/beat_213.png,The Potsdam Giants are too precious to risk in battle.
+214,00:12:10.271,00:12:14.438,4.167,pull,palace,images/beat_214.png,You exist only to be looked at. You’re not soldiers.
+215,00:12:14.438,00:12:15.688,1.25,push,palace,images/beat_215.png,You’re a collection.
+216,00:12:15.688,00:12:18.188,2.5,push,palace,images/beat_216.png,Like stamps. Like paintings. Like toys.
+217,00:12:18.188,00:12:21.521,3.333,pan,barracks,images/beat_217.png,Seamus figures this out long before you do.
+218,00:12:21.521,00:12:26.521,5.0,push,barracks,images/beat_218.png,"And one night in your second winter, he tells you his secret."
+219,00:12:26.521,00:12:30.688,4.167,fade,barracks,images/beat_219.png,"He’s leaving. A cart leaves for Hamburg in the morning,"
+220,00:12:30.688,00:12:34.438,3.75,push,barracks,images/beat_220.png,"hidden under barrels of salted fish, and from Hamburg,"
+221,00:12:34.438,00:12:39.021,4.583,push,barracks,images/beat_221.png,ships go to Ireland. He’s paid the driver everything he has.
+222,00:12:39.021,00:12:41.938,2.917,pan,barracks,images/beat_222.png,He asks you to come with him.
+223,00:12:41.938,00:12:46.521,4.583,push,barracks,images/beat_223.png,"You think about it. You think about the mill, the river,"
+224,00:12:46.521,00:12:49.438,2.917,pull,barracks,images/beat_224.png,and your mother’s bell above the door.
+225,00:12:49.438,00:12:54.021,4.583,push,barracks,images/beat_225.png,You want to say yes more than you’ve ever wanted anything.
+226,00:12:54.021,00:12:56.938,2.917,push,barracks,images/beat_226.png,But you’ve heard what happens to deserters.
+227,00:12:56.938,00:12:58.188,1.25,pan,barracks,images/beat_227.png,You say no.
+228,00:12:58.188,00:13:03.188,5.0,push,barracks,images/beat_228.png,"Seamus nods. He doesn’t argue. He just claps you on the shoulder,"
+229,00:13:03.188,00:13:06.105,2.917,pull,barracks,images/beat_229.png,"calls you a big soft German potato,"
+230,00:13:06.105,00:13:09.438,3.333,push,barracks,images/beat_230.png,and climbs out the window into the snow.
+231,00:13:09.438,00:13:14.021,4.583,push,barracks,images/beat_231.png,"You lie awake until dawn, listening for shouting. It doesn’t come."
+232,00:13:14.021,00:13:16.521,2.5,fade,barracks,images/beat_232.png,"For three days, there’s no news."
+233,00:13:16.521,00:13:21.104,4.583,push,barracks,images/beat_233.png,"On the fourth day, you let yourself believe he’s made it."
+234,00:13:21.104,00:13:24.437,3.333,pull,potsdam,images/beat_234.png,"On the fifth day, they bring him back."
+235,00:13:24.437,00:13:27.770,3.333,push,checkpoint,images/beat_235.png,They search the fish cart at a checkpoint.
+236,00:13:27.770,00:13:31.103,3.333,push,checkpoint,images/beat_236.png,The driver sold him out for a reward.
+237,00:13:31.103,00:13:36.103,5.0,pan,potsdam,images/beat_237.png,"Seamus is dragged back into Potsdam in chains, his red hair matted,"
+238,00:13:36.103,00:13:38.186,2.083,push,potsdam,images/beat_238.png,his crooked nose broken again.
+239,00:13:38.186,00:13:41.103,2.917,pull,drill,images/beat_239.png,His punishment is called running the gauntlet.
+240,00:13:41.103,00:13:46.103,5.0,shake,drill,images/beat_240.png,Two long lines of soldiers face each other across the parade ground.
+241,00:13:46.103,00:13:49.853,3.75,push,drill,images/beat_241.png,"Two hundred men, each holding a thin, flexible rod."
+242,00:13:49.853,00:13:53.186,3.333,pan,drill,images/beat_242.png,The prisoner is stripped to the waist and
+243,00:13:53.186,00:13:56.103,2.917,push,drill,images/beat_243.png,"forced to walk slowly between the lines,"
+244,00:13:56.103,00:14:00.270,4.167,pull,drill,images/beat_244.png,while every soldier strikes his back as he passes. Once.
+245,00:14:00.270,00:14:02.353,2.083,push,drill,images/beat_245.png,Then back again. Then again.
+246,00:14:02.353,00:14:05.686,3.333,push,drill,images/beat_246.png,You are ordered to stand in the line.
+247,00:14:05.686,00:14:07.769,2.083,pan,drill,images/beat_247.png,You are handed a rod.
+248,00:14:07.769,00:14:12.352,4.583,push,drill,images/beat_248.png,"When Seamus reaches you, he looks up. He doesn’t say anything."
+249,00:14:12.352,00:14:17.352,5.0,pull,drill,images/beat_249.png,He doesn’t need to. You raise the rod and bring it down
+250,00:14:17.352,00:14:20.685,3.333,push,drill,images/beat_250.png,"as softly as you dare; the sergeant sees,"
+251,00:14:20.685,00:14:25.268,4.583,push,drill,images/beat_251.png,and you know you’ll pay for it later. You don’t care.
+252,00:14:25.268,00:14:28.185,2.917,pan,drill,images/beat_252.png,You pay for it the next morning.
+253,00:14:28.185,00:14:33.185,5.0,push,drill,images/beat_253.png,"The sergeant canes you in front of the whole regiment, twenty strokes,"
+254,00:14:33.185,00:14:36.518,3.333,pull,drill,images/beat_254.png,"slow and careful, while the King’s officers watch."
+255,00:14:36.518,00:14:41.518,5.0,push,drill,images/beat_255.png,You stand up straight the entire time. You don’t make a sound.
+256,00:14:41.518,00:14:43.601,2.083,push,drill,images/beat_256.png,Seamus would have been proud.
+257,00:14:43.601,00:14:46.101,2.5,pan,drill,images/beat_257.png,Seamus walks the line eight times.
+258,00:14:46.101,00:14:49.851,3.75,push,drill,images/beat_258.png,"On the eighth, he falls and doesn’t get up."
+259,00:14:49.851,00:14:54.851,5.0,pull,infirmary,images/beat_259.png,They carry him to the infirmary. He dies there three days later.
+260,00:14:54.851,00:14:56.518,1.667,push,infirmary,images/beat_260.png,He’s 26 years old.
+261,00:14:56.518,00:15:00.685,4.167,push,graveyard,images/beat_261.png,"They bury him outside the city, in an unmarked grave,"
+262,00:15:00.685,00:15:02.352,1.667,pan,graveyard,images/beat_262.png,without a single song.
+263,00:15:02.352,00:15:05.269,2.917,push,barracks,images/beat_263.png,You go back to the barracks and
+264,00:15:05.269,00:15:08.186,2.917,pull,barracks,images/beat_264.png,stand under the beam above the door.
+265,00:15:08.186,00:15:11.519,3.333,push,barracks,images/beat_265.png,"His notch is still there, the highest one,"
+266,00:15:11.519,00:15:14.436,2.917,push,barracks,images/beat_266.png,with his name carved crookedly beside it.
+267,00:15:14.436,00:15:16.936,2.5,pan,barracks,images/beat_267.png,Nobody else ever looks at it.
+268,00:15:16.936,00:15:21.103,4.167,push,barracks,images/beat_268.png,You go back to your bunk and polish your boots
+269,00:15:21.103,00:15:24.853,3.75,pull,barracks,images/beat_269.png,until you can see your own face in them.
+270,00:15:24.853,00:15:27.770,2.917,push,barracks,images/beat_270.png,It’s not a face you recognize anymore.
+271,00:15:27.770,00:15:32.770,5.0,push,drill,images/beat_271.png,The years pass the way they do in Potsdam. Drill. Parade. Cane.
+272,00:15:32.770,00:15:37.353,4.583,pan,drill,images/beat_272.png,Drill. You don’t try to escape. You don’t make new friends.
+273,00:15:37.353,00:15:39.853,2.5,push,drill,images/beat_273.png,"You stand perfectly still for hours,"
+274,00:15:39.853,00:15:44.853,5.0,pull,drill,images/beat_274.png,"staring at a spot on the horizon, pretending it owes you money."
+275,00:15:44.853,00:15:46.936,2.083,push,barracks,images/beat_275.png,Your joints start to ache.
+276,00:15:46.936,00:15:50.269,3.333,shake,barracks,images/beat_276.png,You realize many of the giants are sick.
+277,00:15:50.269,00:15:53.186,2.917,pan,infirmary,images/beat_277.png,Some of them have grown so tall
+278,00:15:53.186,00:15:58.186,5.0,push,infirmary,images/beat_278.png,because something is wrong inside them. Their bones hurt. Their hearts struggle.
+279,00:15:58.186,00:16:00.686,2.5,pull,graveyard,images/beat_279.png,"They die young, one by one,"
+280,00:16:00.686,00:16:04.019,3.333,push,potsdam,images/beat_280.png,"and new giants arrive to fill their places,"
+281,00:16:04.019,00:16:08.186,4.167,shake,potsdam,images/beat_281.png,"kidnapped from farms and inns and ships, just like you."
+282,00:16:08.186,00:16:10.269,2.083,pan,barracks,images/beat_282.png,"By 1740, you are 28."
+283,00:16:10.269,00:16:14.436,4.167,push,barracks,images/beat_283.png,You’ve been a giant in a cage for ten years.
+284,00:16:14.436,00:16:19.436,5.0,pull,bedroom,images/beat_284.png,"Then, in the spring, the King gets sick. Truly sick this time."
+285,00:16:19.436,00:16:23.603,4.167,push,bedroom,images/beat_285.png,His body swells. He can’t walk. He can barely breathe.
+286,00:16:23.603,00:16:25.270,1.667,push,bedroom,images/beat_286.png,"And one last time,"
+287,00:16:25.270,00:16:29.020,3.75,pan,bedroom,images/beat_287.png,he orders his giants to march past his bed.
+288,00:16:29.020,00:16:31.103,2.083,push,bedroom,images/beat_288.png,You stoop through the doorway.
+289,00:16:31.103,00:16:36.103,5.0,pull,bedroom,images/beat_289.png,"You look at the bloated old man propped up on his pillows,"
+290,00:16:36.103,00:16:40.270,4.167,push,bedroom,images/beat_290.png,"and he looks up at you with wet, adoring eyes."
+291,00:16:40.270,00:16:43.603,3.333,shake,bedroom,images/beat_291.png,He doesn’t know your name. He never did.
+292,00:16:43.603,00:16:47.353,3.75,pan,bedroom,images/beat_292.png,"On May 31st, 1740, Frederick William the First dies."
+293,00:16:47.353,00:16:51.936,4.583,push,palace,images/beat_293.png,"The new king is his son, the future Frederick the Great,"
+294,00:16:51.936,00:16:55.686,3.75,pull,palace,images/beat_294.png,"a man who loves flutes, poetry, and real armies."
+295,00:16:55.686,00:16:58.603,2.917,shake,parade,images/beat_295.png,He looks at the Potsdam Giants and
+296,00:16:58.603,00:17:01.520,2.917,push,parade,images/beat_296.png,sees only an enormous waste of money.
+297,00:17:01.520,00:17:04.437,2.917,pan,parade,images/beat_297.png,"Within weeks, the regiment is broken up."
+298,00:17:04.437,00:17:08.187,3.75,push,parade,images/beat_298.png,Most of the giants are reassigned to ordinary units.
+299,00:17:08.187,00:17:10.270,2.083,pull,parade,images/beat_299.png,Some are simply sent away.
+300,00:17:10.270,00:17:12.353,2.083,push,parade,images/beat_300.png,You are one of them.
+301,00:17:12.353,00:17:17.353,5.0,fade,barracks,images/beat_301.png,"One morning, an officer hands you your discharge papers and a few"
+302,00:17:17.353,00:17:21.103,3.75,pan,barracks,images/beat_302.png,coins and tells you that you’re free to go.
+303,00:17:21.103,00:17:24.020,2.917,push,potsdam,images/beat_303.png,You stand in the street outside the
+304,00:17:24.020,00:17:29.020,5.0,pull,potsdam,images/beat_304.png,"barracks in your old civilian clothes, which are now far too small."
+305,00:17:29.020,00:17:32.770,3.75,push,potsdam,images/beat_305.png,You don’t know what to do with your hands.
+306,00:17:32.770,00:17:36.937,4.167,push,potsdam,images/beat_306.png,Nobody is screaming at you. Nobody is holding a cane.
+307,00:17:36.937,00:17:41.937,5.0,pan,potsdam,images/beat_307.png,"For ten years, every minute of your life belonged to someone else."
+308,00:17:41.937,00:17:46.104,4.167,push,potsdam,images/beat_308.png,So you do the only thing you can think of.
+309,00:17:46.104,00:17:47.354,1.25,pull,road,images/beat_309.png,You walk home.
+310,00:17:47.354,00:17:52.354,5.0,fade,road,images/beat_310.png,It takes you three weeks. You sleep in barns and under hedges.
+311,00:17:52.354,00:17:56.521,4.167,push,road,images/beat_311.png,You trade your last coins for bread. Your knees ache.
+312,00:17:56.521,00:18:00.688,4.167,pan,road,images/beat_312.png,"Your back aches. Children stare at you in every village,"
+313,00:18:00.688,00:18:04.021,3.333,push,road,images/beat_313.png,and you instinctively stand up straight before you
+314,00:18:04.021,00:18:06.938,2.917,pull,road,images/beat_314.png,remember that you don’t have to anymore.
+315,00:18:06.938,00:18:11.938,5.0,push,mill_ext,images/beat_315.png,"When you finally reach the mill, it looks smaller than you remember."
+316,00:18:11.938,00:18:15.688,3.75,push,mill_ext,images/beat_316.png,The wheel still turns. The river is still brown.
+317,00:18:15.688,00:18:19.855,4.167,pan,mill_ext,images/beat_317.png,"Your father is standing in the yard, older now, greyer,"
+318,00:18:19.855,00:18:21.105,1.25,push,mill_ext,images/beat_318.png,a little bent.
+319,00:18:21.105,00:18:26.105,5.0,pull,mill_ext,images/beat_319.png,He looks up at you for a long time without saying anything.
+320,00:18:26.105,00:18:30.272,4.167,push,mill_ext,images/beat_320.png,Then he tells you your mother died two winters ago.
+321,00:18:30.272,00:18:34.022,3.75,push,kitchen,images/beat_321.png,She wrote to you every month for ten years.
+322,00:18:34.022,00:18:36.939,2.917,pan,kitchen,images/beat_322.png,Not one of her letters ever arrived.
+323,00:18:36.939,00:18:41.939,5.0,push,kitchen,images/beat_323.png,"For the first time in 10 years, you break down and cry."
+324,00:18:41.939,00:18:46.939,5.0,pull,palace,images/beat_324.png,"At its peak, the King’s giant regiment had around three thousand men."
+325,00:18:46.939,00:18:49.439,2.5,push,palace,images/beat_325.png,"Recruiting them cost Prussia a fortune,"
+326,00:18:49.439,00:18:52.356,2.917,push,palace,images/beat_326.png,and a single exceptional giant could cost
+327,00:18:52.356,00:18:55.273,2.917,pan,gallery,images/beat_327.png,the King more than a small estate.
+328,00:18:55.273,00:18:58.190,2.917,push,gallery,images/beat_328.png,"Today, the king’s own paintings of his"
+329,00:18:58.190,00:19:00.690,2.5,pull,gallery,images/beat_329.png,giants still hang in palace collections.
+330,00:19:00.690,00:19:03.607,2.917,push,gallery,images/beat_330.png,Visitors stand in front of them and
+331,00:19:03.607,00:19:06.524,2.917,push,gallery,images/beat_331.png,laugh at how strange it all was.
+332,00:19:06.524,00:19:09.857,3.333,fade,gallery,images/beat_332.png,Some of them stand next to the portraits
+333,00:19:09.857,00:19:14.024,4.167,push,gallery,images/beat_333.png,"and measure themselves against the painted giants, just for fun."
