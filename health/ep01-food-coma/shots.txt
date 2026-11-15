@@ -3,7 +3,7 @@
 3|office|W|upbeat|{YOU} strolling confidently back to a desk across the office
 4|office|M|ominous|{YOU} sitting down at the desk and freezing mid-motion, the office suddenly very still
 5|office|ECU|drowsy|your half-lidded eyes drooping almost shut, heavy eyelids drawn like falling shutters
-6|office|M|struggling|{YOU} staring hard at the laptop while a tiny cartoon brain floats above the head lying on a pillow
+6|office|M|struggling|{YOU} staring hard at the laptop while a tiny brain in its natural pinkish-grey colour floats above the head lying on a pillow
 7|office|OTS|tedious|the laptop screen with one sentence of grey placeholder lines highlighted three times in yellow, seen over your shoulder
 8|office|C|blank|{YOU} with a completely blank face and three small question marks floating above the head
 9|office|C|suspicious|{YOU} suddenly sitting upright, one eyebrow raised high, one finger raised
@@ -21,7 +21,7 @@
 21|office|W|relatable|the whole open-plan office after lunch with several coworkers yawning, slumped and blinking slowly at their screens
 22|office|M|curious|{COWORKER} leaning over the desk divider toward {YOU} with a know-it-all expression
 23|body|M|myth|a cartoon torso diagram with red arrows rushing down from the head toward the stomach
-24|body|M|myth|{STOMACH} greedily hugging a pile of red blood cells while {BRAIN} watches from above, looking pale
+24|body|M|myth|{STOMACH} greedily hugging a pile of red blood cells while {BRAIN} watches from above, looking woozy
 25|body|C|myth|{BRAIN} gasping with an empty oxygen tank labelled "O2" beside it
 26|office|M|myth|{YOU} faceplanting gently onto the keyboard with small "zzz" letters rising
 27|office|C|knowing|{YOU} looking straight at the viewer with a raised left eyebrow
@@ -81,7 +81,7 @@
 81|body|M|explanatory|a simple cartoon silhouette of a person with a small glowing clock inside the head
 82|clockgfx|M|explanatory|a title card reading "CIRCADIAN RHYTHM" over a 24-hour clock with a sun and moon
 83|clockgfx|M|explanatory|the 24-hour clock with a bright sun segment glowing on the morning side
-84|clockgfx|M|calm|the 24-hour clock with the night segment glowing dark blue and a small moon and bed icon
+84|clockgfx|M|calm|the 24-hour clock with the night segment glowing soft navy-lavender and a small moon and bed icon
 85|clockgfx|C|explanatory|the 24-hour clock with the slice between 1 p.m. and 4 p.m. highlighted in mustard yellow
 86|graphic|M|explanatory|a smooth alertness curve across the day with a gentle dip in the early afternoon
 87|office|M|explanatory|{YOU} at the desk with no food in sight, still yawning, an untouched lunch box closed beside the laptop
@@ -136,7 +136,7 @@
 136|office|M|drowsy|{YOU} next to a small salad and a pair of walking shoes, still yawning
 137|office|C|thoughtful|{YOU} looking at an empty lunch box, then glancing sideways suspiciously
 138|bedroom|M|tired|{YOU} lying awake in bed lit by a glowing phone, the bedside clock reading 2:47
-139|office|W|tired|{YOU} at the desk at dawn with the window still dark and a tower of coffee cups growing
+139|office|W|tired|{YOU} at the desk at dawn with the window showing a pale pre-dawn sky and a tower of coffee cups growing
 140|graphic|M|explanatory|four simple icons in a row: an empty bed, an empty water glass, a still desk chair and a storm cloud
 141|graphic|M|explanatory|the four icons pouring into a single large sleepy battery icon that is nearly empty
 142|graphic|M|explanatory|the nearly empty battery icon, a large plate, and the dipping alertness curve stacked together

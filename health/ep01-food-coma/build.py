@@ -7,11 +7,13 @@ TITLE = "Why Does Eating Make You Sleepy Instead of Giving You Energy?"
 PDF = "Food_Coma_Script_Beats_Prompts.pdf"
 WPS, MIN_DUR = 2.4, 1.2   # narration speed (words per second) and shortest beat on screen
 
-STYLE = ("2D flat vector explainer illustration with clean, even dark-charcoal outlines, simple rounded shapes and soft cel shading; "
+STYLE = ("bright, high-key 2D explainer animation still: flat vector illustration with clean, even dark-grey outlines, simple rounded shapes and very light cel shading; "
          "friendly cartoon people with slightly large heads, expressive eyes and eyebrows, simple full bodies with hands and plain modern clothes; "
-         "uncluttered present-day backgrounds with a few clear props; bright but soft palette of warm cream, sky blue, coral, sunny yellow, "
-         "leaf green and lavender; light, curious, gently comic tone; anatomy shown only as simple friendly cartoon diagrams, no realistic organs, "
-         "no gore, blood or nudity; any on-screen words limited to the ones given in quotes; static 16:9 frame; bottom-right corner kept clear")
+         "airy, uncluttered present-day backgrounds with lots of white space and a few clear props; cheerful light palette of clean white, warm cream, "
+         "fresh mint, sky blue, sunny yellow, coral and leaf green; no dark, muddy or desaturated tones, no heavy shadows, night scenes kept light and readable; "
+         "organs and body parts always shown in their true natural anatomical colours in a clean, friendly medical-illustration look, never recoloured; "
+         "no gore, open wounds, blood splatter or nudity; light, curious, gently comic tone; any on-screen words limited to the ones given in quotes; "
+         "static 16:9 frame; bottom-right corner kept clear")
 C = {
  'YOU': "you (the main character: a young adult office worker with short curly black hair, warm brown skin, round black glasses, "
         "a mustard-yellow sweater over a white collar, navy trousers and a coral lanyard)",
@@ -20,10 +22,10 @@ C = {
  'RESEARCHER': "a researcher, a woman with a neat dark bob, round glasses and a white lab coat, holding a clipboard",
  'MEN': "two volunteer test subjects, a lanky man with a thin moustache in a blue T-shirt and a stocky bald man with a short beard in a green T-shirt",
  'VAIDYA': "a traditional Ayurvedic physician, an elderly Indian man with a neat white beard, a sandalwood mark on the forehead and a white cotton kurta and shawl",
- 'STOMACH': "Stomach, a cartoon pink J-shaped stomach character with a simple face, small dot eyes and little cartoon arms",
- 'BRAIN': "Brain, a cartoon pink brain character with sleepy expressive eyes and little cartoon arms",
- 'PANCREAS': "Pancreas, a cartoon pale-yellow leaf-shaped pancreas character with a calm face and little cartoon arms",
- 'GUT': "Intestines, a cartoon coiled pink intestine character with a busy, focused face and little cartoon arms",
+ 'STOMACH': "Stomach, a J-shaped stomach in its true natural colour, soft peachy pink with faint pinker folds, with a small simple friendly face and little cartoon arms",
+ 'BRAIN': "Brain, a brain in its true natural colour, soft pinkish grey with clear folds, with small sleepy expressive eyes and little cartoon arms",
+ 'PANCREAS': "Pancreas, a long, slightly lumpy pancreas in its true natural colour, pale creamy yellow-pink, with a calm small face and little cartoon arms",
+ 'GUT': "Intestines, the coiled small intestine in its true natural salmon pink framed by the large intestine in a slightly deeper dusty pink, with a busy, focused small face and little cartoon arms",
 }
 SHORT = {'YOU': 'you', 'COWORKER': 'your coworker', 'DOCTOR': 'the doctor', 'RESEARCHER': 'the researcher', 'MEN': 'the two men',
          'VAIDYA': 'an Ayurvedic physician', 'STOMACH': 'Stomach', 'BRAIN': 'Brain', 'PANCREAS': 'Pancreas', 'GUT': 'Intestines'}
@@ -31,15 +33,15 @@ S = {
  'cafe': ("a bright modern office canteen with wooden tables, lunch trays, plates of rice and curry, glasses of water and large windows", "soft midday daylight, warm tint"),
  'office': ("a modern open-plan office with desks, a laptop, a monitor, a coffee mug, sticky notes, a potted plant and a wall clock", "soft even daylight, pale afternoon tint"),
  'breakfast': ("a small home kitchen in the morning with a table, toast, a cup of coffee and a sunlit window", "bright morning daylight, fresh tint"),
- 'body': ("a simplified cartoon anatomy cutaway of the human torso on a plain cream background, showing the stomach, intestines and pancreas as flat friendly shapes", "flat even light, clean cream tint"),
- 'brainhq': ("the inside of your head drawn as a cozy control room with dials, levers, blinking screens and a big gauge labelled \"ALERTNESS\"", "soft ambient light, gentle sky-blue tint"),
- 'blood': ("the inside of a cartoon blood vessel with round red blood cells and small sugar cubes drifting along", "soft ambient light, warm rosy tint"),
- 'graphic': ("a plain cream infographic background with simple flat icons", "flat even light, clean cream tint"),
- 'clockgfx': ("a large circular 24-hour clock graphic with a sun and a moon on its face, on a plain cream background", "flat even light, clean cream tint"),
- 'lab': ("a modern university nutrition research room with a long table, pizza boxes, a scale, clipboards and a whiteboard", "bright even light, cool clinical white tint"),
+ 'body': ("a clean anatomy cutaway of the human torso on a bright white background, organs in their true natural colours: peachy-pink stomach, salmon-pink small intestine, dusty-pink large intestine, pale creamy-yellow pancreas, reddish-brown liver, red and blue blood vessels", "bright even light, clean white"),
+ 'brainhq': ("the inside of your head drawn as a bright, tidy control room with white walls, dials, levers, blinking screens and a big gauge labelled \"ALERTNESS\"", "bright even light, fresh sky-blue tint"),
+ 'blood': ("the inside of a blood vessel with smooth, light-pink-to-red walls in their natural colour, natural red disc-shaped blood cells and small white sugar cubes drifting along", "bright even light, clear rosy tint"),
+ 'graphic': ("a clean white infographic background with simple flat icons in bright colours", "bright even light, clean white"),
+ 'clockgfx': ("a large circular 24-hour clock graphic with a sun and a moon on its face, on a clean white background", "bright even light, clean white"),
+ 'lab': ("a bright modern university nutrition research room with a long table, pizza boxes, a scale, clipboards and a whiteboard", "bright even light, clean white"),
  'ayurveda': ("a traditional Indian courtyard with a brass oil lamp, a small cooking fire, brass vessels, herbs drying on a cloth and palm-leaf manuscripts", "warm daylight, saffron tint"),
  'park': ("a leafy city park path beside an office building, with benches and trees", "bright daylight, fresh green tint"),
- 'bedroom': ("a dark modern bedroom at night with a rumpled bed, a glowing phone and a bedside clock", "dim blue night light with phone glow"),
+ 'bedroom': ("a modern bedroom at night with a rumpled bed, a glowing phone and a bedside clock, drawn in light lavender and soft blue so it stays bright and readable", "soft lavender night tint with a warm phone glow, never dark"),
  'breakroom': ("a quiet office break room with a soft grey couch, a cushion, a water cooler and a window with blinds", "soft warm ambient light"),
  'clinic': ("a calm modern doctor's consulting room with a desk, a computer, an examination couch and a simple digestive-system poster", "soft even light, clean pale-blue tint"),
  'phone': ("a smartphone held in front of a softly blurred office background", "soft screen glow, white tint"),
@@ -80,7 +82,7 @@ with open('timeline.csv', 'w', newline='') as f:
 with open('beats.txt', 'w') as f:
     f.write(f"{TITLE.upper()} - {len(rows)} BEATS\n\n" + "".join(f"{r['n']:03d}  [{tm(r['start'])}]  {r['seg']}\n" for r in rows))
 LOCK = [("You", C['YOU'].split('(', 1)[1].rstrip(')')), ("Your coworker", C['COWORKER'].split('(', 1)[1].rstrip(')')),
-        ("Organ characters", "Stomach, Brain, Pancreas and Intestines: simple friendly cartoon organs with faces and little arms")]
+        ("Organ characters", "Stomach, Brain, Pancreas and Intestines: true natural organ colours, small friendly faces and little arms")]
 with open('image_prompts.md', 'w') as f:
     f.write(f"# {TITLE} — Image Prompts\n\n{len(rows)} beats · ~3–5 s each · one locked visual style · recurring characters described the same way in every prompt\n\n"
             f"**Visual style:** {STYLE}.\n\n**Character lock**\n\n| Character | Fixed description |\n|---|---|\n"
