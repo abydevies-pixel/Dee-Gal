@@ -1,65 +1,93 @@
 # Health Channel — Character Sheet
 
-Every image prompt describes the characters exactly as written here, so the same words go in every time. Generate a reference image for each character once (prompts at the bottom), then use it as a reference in your image tool to keep characters consistent.
+The single reference for how everything looks on the channel. The exact wording lives in `channel.py`, which every episode's build reads, so the characters and styles stay identical in every video. Change a character there, rebuild, and all prompts update.
 
-## Shared look (all people)
+## Reference images
 
-- A chunky, rounded cartoon person with **smooth solid matte-black skin and face**
-- **Big round white eyes** with small black pupils; simple bold **white brow and mouth lines** for expression
-- A rounded head slightly large for the body; **full arms, legs and mitten-like hands, never stick limbs**
-- Bold, brightly coloured clothes with soft folds; thick clean outlines, soft gradient shading and a gentle rim light that gives a slightly glossy, 3D feel
-- Characters are told apart by **hair, glasses, facial hair and clothes**
+The channel uses two looks: one for **people scenes** and one for **inside-the-body scenes**.
 
-## Main character: "You"
+### People scenes
 
-| Fixed (never changes) | |
+| | |
 |---|---|
-| Face and skin | Solid matte-black, big round white eyes |
-| Hair | Short, tufty black curly hair |
-| Personality | An ordinary, relatable person; deadpan and a little dramatic about everyday struggles |
-| Signature expressions | Drooping half-closed eyes, one raised eyebrow, blank stare with question marks, wide-awake surprise |
+| ![People walking](references/people-walking.jpg) | ![People rain night](references/people-rain-night.jpg) |
 
-**Outfits adapt to the scenario.** Each episode fixes one outfit per scenario.
+![Thumbnail row](references/people-thumbnails.jpg)
+
+- **Characters:** chunky rounded people with **smooth deep matte-black skin and faces**, large **white oval eyes with black pupils**, thick **white eyebrows**, and white mouth lines (open mouths show a red tongue). They have full arms, legs and dark rounded hands, **never stick limbs**.
+- **Finish:** soft, glossy and slightly 3D, with gradient shading and a gentle rim light.
+- **Clothes:** bold and bright, with soft folds.
+- **Colour:** bright channel colours by default. Dusk purple, night blue and warm window glow are used only when the scene calls for them, as in the rain-at-night reference.
+
+### Inside-the-body scenes
+
+| | |
+|---|---|
+| ![Organ character](references/organ-stomach.jpg) | ![Organ cast](references/organ-cast.jpg) |
+
+- **Rendering:** flat 2D vector, clean flat colours with simple highlights, **thick dark-plum outlines**.
+- **Organ characters:** big round white eyes with dark pupils, expressive dark eyebrows and a small mouth. They have thin dark rubber-hose arms and legs, small rounded hands and **small brown shoes**. Each has one small personal accessory.
+- **Backgrounds:** soft pink fleshy tissue with lighter wavy vein lines and a red blood-vessel pipe of red cells, *or* a glowing white body outline on a light sky-blue background with organs in their natural positions.
+- **Organ colours:** always their **true natural colours**, never recoloured. In the reference the stomach is orange-yellow, but on this channel it stays natural peachy pink, as you asked earlier.
+
+The references guide the art style. The channel's characters have their own accessories and personalities (below), so the channel stays its own rather than a copy of the reference channels.
+
+## People
+
+**Shared description, used in every prompt:** a chunky rounded cartoon person with smooth deep matte-black skin and face, large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands.
+
+### You (main character)
+
+- **Never changes:** deep matte-black face and skin, white oval eyes, **short tufty black curly hair**.
+- **Personality:** an ordinary, relatable person; deadpan and a little dramatic about everyday struggles.
+- **Signature expressions:** drowsy half-closed eyes, one raised eyebrow, a blank stare with question marks, wide-awake surprise.
+- **The outfit fits the scenario.** Each episode picks from this list, and new outfits get added here:
 
 | Scenario | Outfit | Used in |
 |---|---|---|
-| Work / office day | Fitted navy suit jacket and trousers, crisp white shirt, sky-blue tie, polished black shoes | ep01 (most scenes) |
-| Relaxing at work | Same outfit, jacket off, tie loosened | ep01 (break-room nap) |
-| Bed / night | Plain sky-blue pyjamas | ep01 (2:47 a.m. bedroom) |
-| *Future ideas* | Gym: leaf-green T-shirt and black joggers · Rain: sunny-yellow raincoat · Hospital: pale-blue patient gown · Weekend: coral T-shirt and jeans | — |
+| Work | a formal work outfit: a fitted navy suit jacket and trousers, a crisp white shirt, a sky-blue tie and polished black shoes | ep01 |
+| Work Relaxed | the formal work outfit with the suit jacket off and the tie loosened: crisp white shirt, sky-blue tie, navy trousers and black shoes | ep01 |
+| Bed | plain sky-blue pyjamas | ep01 |
+| Gym | a leaf-green T-shirt, black joggers and white trainers | — |
+| Rain | a sunny-yellow raincoat with the hood up, dark jeans and white trainers | — |
+| Hospital | a pale-blue patient gown and grey slippers | — |
+| Weekend | a coral T-shirt, blue jeans and white trainers | — |
 
-## Supporting cast
+### Recurring cast
 
 | Character | Description |
 |---|---|
-| **Coworker** | Auburn hair in a high round bun; tailored coral blazer over a crisp white blouse, slim grey trousers, black heels |
-| **Doctor** | Short grey hair, white rectangular glasses, white coat over a sky-blue shirt, silver stethoscope |
-| **Researcher** | Neat dark-purple bob, round white glasses, white lab coat, holding a clipboard |
-| **Pizza volunteers** | Lanky man with a thin grey moustache in a sky-blue T-shirt; stocky bald man with a short grey beard in a leaf-green T-shirt |
-| **Ayurvedic physician** | Neat white beard, small saffron mark on the forehead, white cotton kurta with a cream shawl |
+| **Coworker** | large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands, auburn hair in a high round bun, a tailored coral blazer over a crisp white blouse, slim grey trousers and black heels |
+| **Doctor** | large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands, short grey hair, white rectangular glasses, a white coat over a sky-blue shirt and a silver stethoscope |
+| **Researcher** | large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands, a neat dark-purple bob, round white glasses and a white lab coat, holding a clipboard |
+| **Pizza volunteers** (ep01 only) | Lanky man with a thin grey moustache in a sky-blue T-shirt; stocky bald man with a short grey beard in a leaf-green T-shirt |
+| **Ayurvedic physician** (ep01 only) | Neat white beard, small saffron mark on the forehead, white cotton kurta with a cream shawl |
 
 ## Organ characters
 
-Organs keep their **true natural colours and shape** and are never recoloured. As characters they get big round white cartoon eyes, a simple mouth and little arms. Each has a fixed voice (see `VOICES.md`).
+**Shared description, used in every prompt:** a flat cartoon organ character with a thick dark-plum outline, big round white eyes with dark pupils, expressive dark eyebrows, a small mouth and thin dark rubber-hose arms and legs with small rounded hands and small brown shoes.
 
-| Organ | Look | Voice |
-|---|---|---|
-| **Stomach** | J-shaped, soft peachy pink with faint pinker folds | Slightly lower and rounder than the narrator; hearty, practical, proudly busy |
-| **Brain** | Soft pinkish grey with clear folds; often sleepy-eyed | Clear, slightly higher and quicker; precise, a bit of an overthinker |
-| **Pancreas** | Long, slightly lumpy, pale creamy yellow-pink; calm face | Light, polite, measured, like a careful accountant |
-| **Intestines** | Coiled small intestine in salmon pink, framed by the large intestine in a deeper dusty pink; busy face | Quick, chatty, upbeat multitasker |
-| *Not yet used* | Heart: deep red · Liver: reddish brown · Lungs: light pink · Kidneys: reddish brown | See `VOICES.md` |
+| Organ | Natural colour and shape | Accessory | Personality | Voice (see `VOICES.md`) | First used |
+|---|---|---|---|---|---|
+| **Stomach** | Plump J-shape, soft peachy pink with pinker folds, digestive-juice level with bubbles | Small white chef's hat | Busy kitchen manager, cheerfully bossy | Slightly lower and rounder than the narrator; hearty, practical | ep01 (speaks, beat 57) |
+| **Brain** | Soft pinkish grey with clear folds | Slim black headset with mic | Control-room manager, overthinker | Clear, slightly higher and quicker; precise | ep01 |
+| **Pancreas** | Long, slightly lumpy, pale creamy yellow-pink | Round reading glasses, pencil | Careful accountant of blood sugar | Light, polite, measured | ep01 |
+| **Intestines** | Coiled small intestine in salmon pink, framed by a deeper dusty-pink large intestine | Small orange hard hat | Non-stop worker | Quick, chatty, upbeat | ep01 |
+| **Heart** | Deep red, short blue artery on top | — (calm half-lidded eyes) | Steady and reliable | Deep, steady, calm | — |
+| **Liver** | Wedge shape, reddish brown | Tiny white coffee mug, droopy eyelids | Overworked filter that has seen it all | Low-mid, slow, dry, a little weary | — |
+| **Lungs** | A pair, light pink, spongy texture | One shared long sky-blue scarf | Calm and patient | Soft, airy, unhurried | — |
+| **Kidneys** | A pair of beans, reddish brown | Small yellow rubber gloves | Neat cleaners | Brisk, tidy, matter-of-fact | — |
 
-## Prompts to generate the reference sheets
+## Prompts to generate your own reference sheets
 
-**Style line** (already included at the end of each prompt below): bright 2D cartoon character design sheet, chunky rounded character style, thick clean outlines, soft gradient shading with gentle rim light, slightly glossy 3D-like finish, plain clean white background, even bright lighting, no text except the labels given in quotes.
+Generate these once, then attach them as character references in your image tool for every beat.
 
-1. **Main character turnaround.** Character design sheet of one chunky rounded cartoon person with smooth solid matte-black skin and face, big round white eyes with small black pupils, simple bold white brow and mouth lines, short tufty black curly hair and full arms, legs and mitten-like hands, wearing a fitted navy suit, crisp white shirt, sky-blue tie and polished black shoes; shown in a row as front view, three-quarter view, side view and back view, standing in a relaxed neutral pose; bright 2D cartoon character design sheet, chunky rounded character style, thick clean outlines, soft gradient shading with gentle rim light, slightly glossy 3D-like finish, plain clean white background, even bright lighting, no text.
+1. **Main character turnaround.** Character design sheet of a chunky rounded cartoon person with smooth deep matte-black skin and face, large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands, short tufty black curly hair, wearing a formal work outfit: a fitted navy suit jacket and trousers, a crisp white shirt, a sky-blue tie and polished black shoes; front, three-quarter, side and back views in a row, relaxed neutral pose; bright 2D cartoon animation still with a soft, glossy, slightly 3D-rendered finish: chunky rounded characters with smooth deep matte-black skin and faces, large white oval eyes with black pupils, thick white eyebrows, white mouth lines (open mouths show a red tongue), rounded heads slightly large for the body, full arms, legs and dark rounded hands (never stick limbs), bold brightly coloured clothes with soft folds; clean outlines, soft gradient shading and gentle rim light; plain clean white background, even bright light, no text.
 
-2. **Main character expressions.** Expression sheet of the same character (solid matte-black face, big round white eyes, white brow and mouth lines, short tufty black curly hair, white shirt collar and sky-blue tie visible): a grid of six head-and-shoulder views showing happy and satisfied, drowsy with drooping half-closed eyes, blank with three small question marks, suspicious with one eyebrow raised, wide-awake surprised, and peacefully asleep with a small "zzz"; same style line as above.
+2. **Main character expressions.** A grid of six head-and-shoulder views of the same character (deep matte-black face, white oval eyes, thick white eyebrows, short tufty black curly hair, white shirt collar and sky-blue tie): happy and satisfied, drowsy with drooping eyes, blank with three small question marks, suspicious with one eyebrow raised, wide-awake surprised, peacefully asleep with a small "zzz"; same style, plain white background.
 
-3. **Main character outfits.** Outfit sheet of the same character in four full-body poses side by side: navy suit with white shirt and sky-blue tie labelled "WORK"; the same outfit with the jacket off and the tie loosened labelled "BREAK"; plain sky-blue pyjamas labelled "BED"; leaf-green T-shirt and black joggers labelled "GYM"; same style line as above.
+3. **Main character outfits.** The same character in four full-body poses side by side, labelled "WORK", "BREAK", "BED" and "GYM": a formal work outfit: a fitted navy suit jacket and trousers, a crisp white shirt, a sky-blue tie and polished black shoes; the formal work outfit with the suit jacket off and the tie loosened: crisp white shirt, sky-blue tie, navy trousers and black shoes; plain sky-blue pyjamas; a leaf-green T-shirt, black joggers and white trainers; same style, plain white background.
 
-4. **Supporting cast lineup.** Lineup of five chunky rounded cartoon people, each with smooth solid matte-black skin and face, big round white eyes and full arms, legs and hands, standing side by side, each labelled: a woman with auburn hair in a high round bun wearing a coral blazer, white blouse and grey trousers labelled "COWORKER"; a man with short grey hair, white rectangular glasses, a white coat over a sky-blue shirt and a silver stethoscope labelled "DOCTOR"; a woman with a neat dark-purple bob, round white glasses and a white lab coat holding a clipboard labelled "RESEARCHER"; a lanky man with a thin grey moustache in a sky-blue T-shirt and a stocky bald man with a short grey beard in a leaf-green T-shirt labelled "VOLUNTEERS"; an elderly man with a neat white beard, a small saffron forehead mark and a white kurta with a cream shawl labelled "AYURVEDIC PHYSICIAN"; same style line as above.
+4. **Recurring cast lineup.** Coworker (a chunky rounded cartoon person with smooth deep matte-black skin and face, large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands, auburn hair in a high round bun, a tailored coral blazer over a crisp white blouse, slim grey trousers and black heels) labelled "COWORKER"; A friendly doctor (a chunky rounded cartoon person with smooth deep matte-black skin and face, large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands, short grey hair, white rectangular glasses, a white coat over a sky-blue shirt and a silver stethoscope) labelled "DOCTOR"; A researcher (a chunky rounded cartoon person with smooth deep matte-black skin and face, large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands, a neat dark-purple bob, round white glasses and a white lab coat, holding a clipboard) labelled "RESEARCHER", standing side by side; same style, plain white background.
 
-5. **Organ characters.** Character sheet of four friendly cartoon organs side by side, each in its true natural anatomical colour and shape, with big round white cartoon eyes, a simple mouth and little cartoon arms, each labelled: a J-shaped soft peachy-pink stomach with faint pinker folds labelled "STOMACH"; a soft pinkish-grey brain with clear folds and sleepy eyes labelled "BRAIN"; a long, slightly lumpy pale creamy yellow-pink pancreas with a calm face labelled "PANCREAS"; a coiled salmon-pink small intestine framed by a dusty-pink large intestine with a busy face labelled "INTESTINES"; clean friendly medical-illustration look, never recoloured, no gore; same style line as above.
+5. **Organ cast.** flat 2D vector cartoon animation still: clean flat colours with simple soft highlights and thick dark-plum outlines; organ characters with big round white eyes, dark pupils, expressive dark eyebrows, small expressive mouths and thin dark rubber-hose arms and legs with small rounded hands and small brown shoes; eight organ characters standing side by side on a light sky-blue background inside a glowing white body outline, each labelled: a plump J-shaped stomach in its natural soft peachy pink with pinker folds, a visible digestive-juice level with small bubbles in its lower half, and a small white chef's hat labelled "STOMACH"; a brain in its natural soft pinkish grey with clear folds, wearing a slim black headset with a small microphone labelled "BRAIN"; a long, slightly lumpy pancreas in its natural pale creamy yellow-pink, with small round reading glasses and a pencil tucked behind it labelled "PANCREAS"; the coiled small intestine in its natural salmon pink framed by the large intestine in a slightly deeper dusty pink, wearing a small orange hard hat labelled "INTESTINES"; a heart in its natural deep red with a short blue artery on top, calm half-lidded eyes labelled "HEART"; a wedge-shaped liver in its natural reddish brown, droopy tired eyelids, holding a tiny white coffee mug labelled "LIVER"; a pair of lungs in their natural light pink with soft spongy texture, sharing one long sky-blue scarf labelled "LUNGS"; a pair of bean-shaped kidneys in their natural reddish brown, wearing small yellow rubber gloves labelled "KIDNEYS"; every organ in its true natural anatomical colour, no gore.

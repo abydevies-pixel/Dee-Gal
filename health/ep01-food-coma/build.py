@@ -9,39 +9,25 @@ TITLE = "Why Does Eating Make You Sleepy Instead of Giving You Energy?"
 PDF = "Food_Coma_Script_Beats_Prompts.pdf"
 WPS, MIN_DUR = 2.4, 1.2   # narration speed (words per second) and shortest beat on screen
 
-STYLE = ("bright 2D cartoon animation still in a chunky, rounded character style: people with smooth solid matte-black skin and faces, large round white eyes "
-         "with small black pupils, simple bold white brow and mouth lines for expression, rounded heads slightly large for the body, full proper arms, legs and "
-         "mitten-like hands (never stick limbs), wearing bold, brightly coloured clothes with simple soft folds; thick clean outlines, soft gradient shading and "
-         "gentle rim light giving a slightly glossy, 3D-like finish; detailed cartoon backgrounds with depth; cheerful light channel palette of clean white, warm cream, "
-         "fresh mint, sky blue, sunny yellow, coral and leaf green as the default; darker colours used only where the scene itself calls for them, such as night "
-         "or a dark room, with the characters still clear; organs and body parts always shown in their true natural anatomical colours in a clean, friendly "
-         "medical-illustration look, never recoloured; no gore, open wounds, blood splatter or nudity; light, curious, gently comic tone; any on-screen words "
-         "limited to the ones given in quotes; static 16:9 frame; bottom-right corner kept clear")
-FIG = "a chunky rounded cartoon person with solid matte-black skin and face, big round white eyes with small black pupils and full arms, legs and hands"
-C = {
- 'YOU': f"you (the main character: {FIG}, short tufty black curly hair, __OUTFIT__)",
- 'COWORKER': f"your coworker ({FIG}, auburn hair in a high round bun, a tailored coral blazer over a crisp white blouse, slim grey trousers and black heels)",
- 'DOCTOR': f"a friendly doctor ({FIG}, short grey hair, white rectangular glasses, a white coat over a sky-blue shirt and a silver stethoscope)",
- 'RESEARCHER': f"a researcher ({FIG}, a neat dark-purple bob, round white glasses and a white lab coat, holding a clipboard)",
+import sys; sys.path.insert(0, '..')
+from channel import PEOPLE_STYLE, ORGAN_STYLE, style_for, FIG, YOU, OUTFITS, CAST, ORGANS
+STYLE = PEOPLE_STYLE
+C = {'YOU': YOU, **CAST,
  'MEN': f"two volunteer test subjects (each {FIG}): a lanky man with a thin grey moustache in a sky-blue T-shirt, and a stocky bald man with a short grey beard in a leaf-green T-shirt",
  'VAIDYA': f"a traditional Ayurvedic physician ({FIG}, a neat white beard, a small saffron mark on the forehead and a white cotton kurta with a cream shawl)",
- 'STOMACH': "Stomach, a J-shaped stomach in its true natural colour, soft peachy pink with faint pinker folds, with big round white cartoon eyes, a simple mouth and little cartoon arms",
- 'BRAIN': "Brain, a brain in its true natural colour, soft pinkish grey with clear folds, with big round white cartoon eyes and little cartoon arms",
- 'PANCREAS': "Pancreas, a long, slightly lumpy pancreas in its true natural colour, pale creamy yellow-pink, with big round white cartoon eyes, a calm mouth and little cartoon arms",
- 'GUT': "Intestines, the coiled small intestine in its true natural salmon pink framed by the large intestine in a slightly deeper dusty pink, with big round white cartoon eyes, a busy expression and little cartoon arms",
-}
-# The main character's look stays fixed (face, hair); the outfit fits the scenario. This episode is an office workday.
-FORMAL = "a formal work outfit: a fitted navy suit jacket and trousers, a crisp white shirt, a sky-blue tie and polished black shoes"
-OUTFIT = {'bedroom': "plain sky-blue pyjamas", 'breakroom': "the same formal work outfit with the suit jacket off and the tie loosened: crisp white shirt, sky-blue tie, navy trousers and black shoes"}
+ **{k: ORGANS[k] for k in ('STOMACH', 'BRAIN', 'PANCREAS', 'GUT')}}
+# This episode is an office workday: work outfit everywhere except bed and the break-room nap.
+FORMAL = OUTFITS['work']
+OUTFIT = {'bedroom': OUTFITS['bed'], 'breakroom': OUTFITS['work_relaxed']}
 SHORT = {'YOU': 'you', 'COWORKER': 'your coworker', 'DOCTOR': 'the doctor', 'RESEARCHER': 'the researcher', 'MEN': 'the two men',
          'VAIDYA': 'an Ayurvedic physician', 'STOMACH': 'Stomach', 'BRAIN': 'Brain', 'PANCREAS': 'Pancreas', 'GUT': 'Intestines'}
 S = {
  'cafe': ("a bright modern office canteen with wooden tables, lunch trays, plates of rice and curry, glasses of water and large windows", "soft midday daylight, warm tint"),
  'office': ("a modern open-plan office with desks, a laptop, a monitor, a coffee mug, sticky notes, a potted plant and a wall clock", "soft even daylight, pale afternoon tint"),
  'breakfast': ("a small home kitchen in the morning with a table, toast, a cup of coffee and a sunlit window", "bright morning daylight, fresh tint"),
- 'body': ("a clean anatomy cutaway of the human torso on a bright white background, organs in their true natural colours: peachy-pink stomach, salmon-pink small intestine, dusty-pink large intestine, pale creamy-yellow pancreas, reddish-brown liver, red and blue blood vessels", "bright even light, clean white"),
+ 'body': ("a glowing white human body outline on a light sky-blue background with soft light rays, the organs placed inside in their natural positions and natural colours: peachy-pink stomach, salmon-pink small intestine, dusty-pink large intestine, pale creamy-yellow pancreas, reddish-brown liver, red heart, light pink lungs", "bright even light, fresh sky-blue glow"),
  'brainhq': ("the inside of your head drawn as a bright, tidy control room with white walls, dials, levers, blinking screens and a big gauge labelled \"ALERTNESS\"", "bright even light, fresh sky-blue tint"),
- 'blood': ("the inside of a blood vessel with smooth, light-pink-to-red walls in their natural colour, natural red disc-shaped blood cells and small white sugar cubes drifting along", "bright even light, clear rosy tint"),
+ 'blood': ("inside the body: a soft pink fleshy tissue background with lighter wavy vein lines, and a red blood vessel pipe running across with natural red blood cells and small white sugar cubes flowing through it", "bright even light, warm pink tint"),
  'graphic': ("a clean white infographic background with simple flat icons in bright colours", "bright even light, clean white"),
  'clockgfx': ("a large circular 24-hour clock graphic with a sun and a moon on its face, on a clean white background", "bright even light, clean white"),
  'lab': ("a bright modern university nutrition research room with a long table, pizza boxes, a scale, clipboards and a whiteboard", "bright even light, clean white"),
@@ -76,7 +62,7 @@ for line in open('shots.txt'):
     env, light = S[sc]
     d = round(max(MIN_DUR, len(beats[n - 1].split()) / WPS), 3)
     rows.append(dict(n=n, seg=beats[n - 1], voice=voices[n - 1], start=round(t, 3), dur=d, motion=motion(n), scene=sc, image=f"images/beat_{n:03d}.png",
-                     prompt=f"{CAM[cam]} of {a}. Setting: {env}. Lighting: {light}. Mood: {mood}. Style: {STYLE}.",
+                     prompt=f"{CAM[cam]} of {a}. Setting: {env}. Lighting: {light}. Mood: {mood}. Style: {style_for(sc)}.",
                      cam=CAM[cam], light=light, mood=mood, action=short[0].upper() + short[1:]))
     t += d
 assert [r['n'] for r in rows] == list(range(1, len(beats) + 1)), "shots.txt and beats.json are out of step"
@@ -102,10 +88,10 @@ with open('voiceover_script.txt', 'w') as f:
         f.write(f"{r['voice']} (beat {r['n']:03d}) - {VOICE_NOTE[r['voice']]}\n{r['seg']}\n\n")
     if cur: f.write('NARRATOR:\n' + ' '.join(cur) + '\n')
 LOCK = [("All people", FIG), ("You", "short tufty black curly hair; outfit fits the scenario: " + FORMAL + " at work, " + OUTFIT['bedroom'] + " in bed, jacket off and tie loosened for the break-room nap"), ("Your coworker", C['COWORKER'].split('(', 1)[1].rstrip(')')),
-        ("Organ characters", "Stomach, Brain, Pancreas and Intestines: true natural organ colours, big round white cartoon eyes and little arms")]
+        ("Organ characters", "flat cartoon organs with thick dark-plum outlines, true natural colours, big white eyes, thin limbs and small brown shoes; Stomach wears a chef's hat, Brain a headset, Pancreas reading glasses, Intestines a hard hat (full list in ../CHARACTER_SHEET.md)")]
 with open('image_prompts.md', 'w') as f:
     f.write(f"# {TITLE} — Image Prompts\n\n{len(rows)} beats · ~3–5 s each · one locked visual style · recurring characters described the same way in every prompt\n\n"
-            f"**Visual style:** {STYLE}.\n\n**Character lock**\n\n| Character | Fixed description |\n|---|---|\n"
+            f"**Visual style, people scenes:** {PEOPLE_STYLE}.\n\n**Visual style, inside-the-body scenes (body, blood, brain control room):** {ORGAN_STYLE}.\n\n**Character lock**\n\n| Character | Fixed description |\n|---|---|\n"
             + "".join(f"| {a} | {b} |\n" for a, b in LOCK) + "\n")
     for r in rows:
         f.write(f"## Beat {r['n']}\n**[Script Segment]**" + (f" **[{r['voice']} speaks]**" if r['voice'] != 'NARRATOR' else '') + f" {q(r['seg'])}\n\n**Image Prompt:** {r['prompt']}\n\n- **Camera Angle:** {r['cam']}\n"

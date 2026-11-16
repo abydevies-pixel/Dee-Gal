@@ -46,29 +46,17 @@ A lifestyle and health explainer channel: everyday body questions, health myths 
 
 ## 4. Visual style
 
-- **Palette (channel theme):** clean white, warm cream, fresh mint, sky blue, sunny yellow, coral and leaf green. This is the default look of the channel, and episodes should feel bright overall.
-- **Darker scenes:** when a scene genuinely needs dark colours (night, a dark bedroom, a power cut, a gloomy mood beat), use them. Keep the characters clearly readable and go back to the bright theme in the next scene.
-- **Organs and anatomy:** always in their true natural colours, never recoloured to match the palette. When an organ acts as a character it keeps its real colour and shape.
+Characters, organs and both scene styles are defined once in `channel.py` and shown in `CHARACTER_SHEET.md`, together with the reference images in `references/`. Every episode uses them unchanged.
 
-| Organ | Colour |
-|---|---|
-| Stomach | soft peachy pink with pinker folds |
-| Small intestine | salmon pink |
-| Large intestine | slightly deeper dusty pink |
-| Pancreas | pale creamy yellow-pink |
-| Liver | reddish brown |
-| Brain | soft pinkish grey |
-| Heart / muscle | deep red |
-| Blood | red cells; arteries red, veins blue |
-| Lungs | light pink |
-| Kidneys | reddish brown |
-| Bones | ivory |
-| Fat tissue | pale yellow |
-
-- **Recurring devices:** a cutaway torso on white, a "brain control room" with labelled gauges, a 24-hour clock, simple line graphs, and a red "MYTH" stamp.
-- **Look:** bright 2D cartoon animation with chunky, rounded characters, thick clean outlines and soft gradient shading with gentle rim light, so it looks slightly glossy and 3D.
-- **People:** chunky rounded cartoon people with solid matte-black skin and faces, big round white eyes with small black pupils, and simple bold white brow and mouth lines for expression. Their heads are slightly large for their bodies, and they have **full arms, legs and mitten-like hands, never stick limbs**. They wear bold, brightly coloured clothes. Hair, glasses, beards and clothing tell characters apart.
-- **Main character ("you"):** the face and hair stay the same in every episode: solid black skin and face, big white eyes, short tufty black curly hair. **The outfit fits the scenario**, for example a formal suit at the office, pyjamas in bed, gym clothes at the gym, a raincoat in the rain, or scrubs as a patient. Each episode fixes one outfit per scenario and uses it in every prompt for that scenario. Other recurring characters work the same way.
-- **Organ characters:** keep their natural colours and shape, plus big round white cartoon eyes and little arms.
+- **People scenes:** chunky rounded people with deep matte-black faces, white oval eyes, white brows and full limbs (never stick limbs). Glossy, slightly 3D finish. Bright channel colours by default; dark only when the scene calls for it.
+- **Inside-the-body scenes** (body, blood vessel, brain control room): flat 2D vector with thick dark-plum outlines. Organ characters have big white eyes, thin rubber-hose limbs, small brown shoes and one accessory each. Organs are **always their true natural colours**.
+- **Palette (channel theme):** clean white, warm cream, fresh mint, sky blue, sunny yellow, coral and leaf green. Episodes should feel bright overall. When a scene genuinely needs dark colours (night, a dark bedroom, rain at dusk, a gloomy beat), use them, keep the characters readable, and go back to the bright theme in the next scene.
+- **Natural organ colours:** stomach soft peachy pink · small intestine salmon pink · large intestine dusty pink · pancreas pale creamy yellow-pink · liver reddish brown · brain soft pinkish grey · heart/muscle deep red · blood: red cells, arteries red, veins blue · lungs light pink · kidneys reddish brown · bones ivory · fat tissue pale yellow.
+- **Main character:** the face and short curly black hair never change, and the outfit fits the scenario (list in `channel.py` / `CHARACTER_SHEET.md`).
+- **Recurring devices:** a glowing body outline on light blue, a pink tissue background with a blood-vessel pipe, a "brain control room" with labelled gauges, a 24-hour clock, simple line graphs, and a red "MYTH" stamp.
 - **Never:** gore, open wounds, blood splatter, nudity, or shaming body imagery.
 - **Framing:** 16:9, bottom-right corner kept clear for the channel watermark, and only the words given in quotes appear on screen.
+
+## 5. Voices
+
+One narrator voice for the whole channel, and one fixed voice per organ. See `VOICES.md` for the cast, how to lock each voice, and audition lines.
