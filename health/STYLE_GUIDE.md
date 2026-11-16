@@ -46,7 +46,7 @@ A lifestyle and health explainer channel: everyday body questions, health myths 
 
 ## 4. Visual style
 
-Characters, organs and both scene styles are defined once in `channel.py` and shown in `CHARACTER_SHEET.md`, together with the reference images in `references/`. Every episode uses them unchanged.
+Characters, organs, outfits, shared scenes and both scene styles are defined once in `channel.py`, and every episode is built by the shared `engine.py`. They are shown in `CHARACTER_SHEET.md` with the reference images in `references/`. Every episode uses them unchanged, and an episode folder only holds its script, beats, shots and a short config.
 
 - **People scenes:** chunky rounded people with deep matte-black faces, white oval eyes, white brows and full limbs (never stick limbs). Glossy, slightly 3D finish. Bright channel colours by default; dark only when the scene calls for it.
 - **Inside-the-body scenes** (body, blood vessel, brain control room): flat 2D vector with thick dark-plum outlines. Organ characters have big white eyes, thin rubber-hose limbs, small brown shoes and one accessory each. Organs are **always their true natural colours**.

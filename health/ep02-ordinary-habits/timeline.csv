@@ -1,0 +1,203 @@
+beat,start,end,duration_s,voice,motion,scene,image,script_segment
+1,00:00:00.000,00:00:03.750,3.75,NARRATOR,push,graphic,images/beat_001.png,Think about everything you do on a normal day.
+2,00:00:03.750,00:00:06.667,2.917,NARRATOR,pan,bathroom,images/beat_002.png,"You wake up, brush your teeth, eat,"
+3,00:00:06.667,00:00:10.834,4.167,NARRATOR,push,graphic,images/beat_003.png,"go to work, come home, and eventually go to bed."
+4,00:00:10.834,00:00:13.751,2.917,NARRATOR,pull,livingroom,images/beat_004.png,"Nothing dangerous about any of that, right?"
+5,00:00:13.751,00:00:16.668,2.917,NARRATOR,push,graphic,images/beat_005.png,"Well, we need to look more closely."
+6,00:00:16.668,00:00:21.668,5.0,NARRATOR,push,bathroom,images/beat_006.png,Some of the things you do every day to look after yourself
+7,00:00:21.668,00:00:25.001,3.333,NARRATOR,pan,graphic,images/beat_007.png,could actually be doing more harm than good.
+8,00:00:25.001,00:00:27.918,2.917,NARRATOR,push,clockgfx,images/beat_008.png,So let's go through an ordinary day
+9,00:00:27.918,00:00:32.501,4.583,NARRATOR,pull,graphic,images/beat_009.png,"and look at five habits that could be affecting your health,"
+10,00:00:32.501,00:00:35.418,2.917,NARRATOR,push,graphic,images/beat_010.png,and what you can do about them.
+11,00:00:35.418,00:00:37.918,2.5,NARRATOR,fade,bathroom,images/beat_011.png,It's a bright sunny Thursday morning.
+12,00:00:37.918,00:00:42.918,5.0,NARRATOR,pan,bathroom,images/beat_012.png,"You grab your toothbrush, put some toothpaste on it, and start brushing."
+13,00:00:42.918,00:00:47.918,5.0,NARRATOR,push,bathroom,images/beat_013.png,"After all, you've been told since childhood to keep your teeth clean."
+14,00:00:47.918,00:00:50.835,2.917,NARRATOR,shake,bathroom,images/beat_014.png,"So you scrub, and scrub and scrub."
+15,00:00:50.835,00:00:55.835,5.0,NARRATOR,push,bathroom,images/beat_015.png,"Because surely, the harder you brush, the cleaner your teeth will be?"
+16,00:00:55.835,00:00:57.085,1.25,NARRATOR,push,bathroom,images/beat_016.png,"Well, not really."
+17,00:00:57.085,00:00:59.168,2.083,NARRATOR,pan,mouth,images/beat_017.png,"When you brush too aggressively,"
+18,00:00:59.168,00:01:03.335,4.167,NARRATOR,push,mouth,images/beat_018.png,you can gradually wear down parts of the tooth surface
+19,00:01:03.335,00:01:05.002,1.667,NARRATOR,pull,mouth,images/beat_019.png,and damage your gums.
+20,00:01:05.002,00:01:09.169,4.167,NARRATOR,push,mouth,images/beat_020.png,"And over time, your gums may begin to pull back,"
+21,00:01:09.169,00:01:12.919,3.75,NARRATOR,push,mouth,images/beat_021.png,exposing parts of your teeth that are normally protected.
+22,00:01:12.919,00:01:15.419,2.5,NARRATOR,pan,mouth,images/beat_022.png,"This can make your teeth sensitive,"
+23,00:01:15.419,00:01:18.752,3.333,NARRATOR,push,kitchen,images/beat_023.png,especially when you eat or drink something cold.
+24,00:01:18.752,00:01:22.919,4.167,NARRATOR,pull,graphic,images/beat_024.png,"And unlike your skin, damaged tooth enamel doesn't grow back."
+25,00:01:22.919,00:01:27.086,4.167,NARRATOR,shake,bathroom,images/beat_025.png,"So, is your toothbrush secretly a weapon of mass destruction?"
+26,00:01:27.086,00:01:30.419,3.333,NARRATOR,push,bathroom,images/beat_026.png,It depends. You need to use it properly.
+27,00:01:30.419,00:01:32.086,1.667,NARRATOR,pan,bathroom,images/beat_027.png,"Use a soft-bristled toothbrush,"
+28,00:01:32.086,00:01:33.336,1.25,NARRATOR,push,bathroom,images/beat_028.png,"hold it gently,"
+29,00:01:33.336,00:01:36.669,3.333,NARRATOR,pull,mouth,images/beat_029.png,"and clean your teeth with small, controlled movements."
+30,00:01:36.669,00:01:39.586,2.917,NARRATOR,push,bathroom,images/beat_030.png,"And if you use an electric toothbrush,"
+31,00:01:39.586,00:01:43.753,4.167,NARRATOR,push,bathroom,images/beat_031.png,some models even warn you when you're pressing too hard.
+32,00:01:43.753,00:01:45.003,1.25,NARRATOR,pan,bathroom,images/beat_032.png,"Simple enough, right?"
+33,00:01:45.003,00:01:47.086,2.083,NARRATOR,push,bathroom,images/beat_033.png,But now you're running late.
+34,00:01:47.086,00:01:52.503,5.417,NARRATOR,pull,kitchen,images/beat_034.png,"You have places to be, things to do, and you need to eat."
+35,00:01:52.503,00:01:55.003,2.5,NARRATOR,push,kitchen,images/beat_035.png,Which brings us to another habit.
+36,00:01:55.003,00:01:58.336,3.333,NARRATOR,fade,kitchen,images/beat_036.png,Have you ever finished a meal so quickly
+37,00:01:58.336,00:02:00.836,2.5,NARRATOR,pan,kitchen,images/beat_037.png,that you barely remember eating it?
+38,00:02:00.836,00:02:04.169,3.333,NARRATOR,push,office,images/beat_038.png,Maybe you're rushing to get back to work.
+39,00:02:04.169,00:02:06.669,2.5,NARRATOR,pull,kitchen,images/beat_039.png,Maybe you're distracted by your phone.
+40,00:02:06.669,00:02:09.586,2.917,NARRATOR,push,kitchen,images/beat_040.png,"Or maybe you're just really, really hungry."
+41,00:02:09.586,00:02:12.086,2.5,NARRATOR,push,kitchen,images/beat_041.png,"Whatever the reason, you start eating."
+42,00:02:12.086,00:02:14.586,2.5,NARRATOR,pan,kitchen,images/beat_042.png,"One bite, then another, and another."
+43,00:02:14.586,00:02:17.919,3.333,NARRATOR,push,kitchen,images/beat_043.png,"Before you know it, the plate is empty."
+44,00:02:17.919,00:02:21.252,3.333,NARRATOR,shake,kitchen,images/beat_044.png,Congratulations! You've just set a new personal record.
+45,00:02:21.252,00:02:25.835,4.583,NARRATOR,push,kitchen,images/beat_045.png,But there is more to the race than what we see.
+46,00:02:25.835,00:02:30.002,4.167,NARRATOR,push,body,images/beat_046.png,"As you eat, your stomach sends messages to your brain"
+47,00:02:30.002,00:02:32.502,2.5,NARRATOR,pan,body,images/beat_047.png,telling it how full you're getting.
+48,00:02:32.502,00:02:35.419,2.917,NARRATOR,push,body,images/beat_048.png,But those messages take time to arrive.
+49,00:02:35.419,00:02:39.586,4.167,NARRATOR,pull,kitchen,images/beat_049.png,"So when you eat too quickly, you might keep eating"
+50,00:02:39.586,00:02:43.336,3.75,NARRATOR,push,brainhq,images/beat_050.png,before your brain has properly registered that you're full.
+51,00:02:43.336,00:02:45.003,1.667,NARRATOR,push,kitchen,images/beat_051.png,"Then suddenly, you're stuffed."
+52,00:02:45.003,00:02:47.503,2.5,NARRATOR,pan,kitchen,images/beat_052.png,Doing this occasionally isn't a problem.
+53,00:02:47.503,00:02:52.503,5.0,NARRATOR,push,graphic,images/beat_053.png,But regularly eating too quickly can contribute to overeating and weight gain.
+54,00:02:52.503,00:02:55.003,2.5,NARRATOR,pull,kitchen,images/beat_054.png,And that's not the only problem.
+55,00:02:55.003,00:02:57.503,2.5,NARRATOR,push,kitchen,images/beat_055.png,"When you rush through a meal,"
+56,00:02:57.503,00:03:00.836,3.333,NARRATOR,push,body,images/beat_056.png,"you're also more likely to swallow extra air,"
+57,00:03:00.836,00:03:04.169,3.333,NARRATOR,pan,body,images/beat_057.png,which can leave you feeling bloated and uncomfortable.
+58,00:03:04.169,00:03:09.169,5.0,NARRATOR,push,kitchen,images/beat_058.png,"Also, taking large bites without chewing properly increases the risk of choking."
+59,00:03:09.169,00:03:14.169,5.0,NARRATOR,pull,kitchen,images/beat_059.png,"So yes, even something as ordinary as eating breakfast deserves more attention."
+60,00:03:14.169,00:03:17.919,3.75,NARRATOR,push,kitchen,images/beat_060.png,I'm not asking you to spend an entire afternoon
+61,00:03:17.919,00:03:20.002,2.083,NARRATOR,push,kitchen,images/beat_061.png,eating one plate of food.
+62,00:03:20.002,00:03:21.252,1.25,NARRATOR,pan,kitchen,images/beat_062.png,Just slow down.
+63,00:03:21.252,00:03:23.335,2.083,NARRATOR,push,kitchen,images/beat_063.png,"Take smaller bites, chew properly,"
+64,00:03:23.335,00:03:27.502,4.167,NARRATOR,pull,kitchen,images/beat_064.png,and give yourself a chance to notice when you're satisfied.
+65,00:03:27.502,00:03:32.502,5.0,NARRATOR,push,kitchen,images/beat_065.png,"Great! Now that you've finished breakfast, it's time to head to work."
+66,00:03:32.502,00:03:35.002,2.5,NARRATOR,push,office,images/beat_066.png,This is where another problem begins.
+67,00:03:35.002,00:03:39.169,4.167,NARRATOR,pan,office,images/beat_067.png,"Because for the next several hours, you might barely move."
+68,00:03:39.169,00:03:41.252,2.083,NARRATOR,fade,office,images/beat_068.png,Are you sitting right now?
+69,00:03:41.252,00:03:44.585,3.333,NARRATOR,pull,office,images/beat_069.png,How long have you been in that chair?
+70,00:03:44.585,00:03:47.085,2.5,NARRATOR,push,office,images/beat_070.png,An hour? Three hours? Since morning?
+71,00:03:47.085,00:03:48.752,1.667,NARRATOR,push,office,images/beat_071.png,Sitting itself isn't bad.
+72,00:03:48.752,00:03:53.752,5.0,NARRATOR,pan,office,images/beat_072.png,The problem starts when you spend most of your day barely moving.
+73,00:03:53.752,00:03:58.752,5.0,NARRATOR,push,office,images/beat_073.png,You may have heard people say that sitting is the new smoking.
+74,00:03:58.752,00:04:00.419,1.667,NARRATOR,pull,graphic,images/beat_074.png,Is that really true?
+75,00:04:00.419,00:04:03.336,2.917,NARRATOR,push,graphic,images/beat_075.png,"Well, sitting isn't the same as smoking,"
+76,00:04:03.336,00:04:07.086,3.75,NARRATOR,push,graphic,images/beat_076.png,and the health risks shouldn't be treated as identical.
+77,00:04:07.086,00:04:09.169,2.083,NARRATOR,pan,office,images/beat_077.png,But spending long periods inactive
+78,00:04:09.169,00:04:12.502,3.333,NARRATOR,push,graphic,images/beat_078.png,has been linked to some serious health problems.
+79,00:04:12.502,00:04:15.002,2.5,NARRATOR,pull,body,images/beat_079.png,"Including heart disease, type 2 diabetes,"
+80,00:04:15.002,00:04:17.919,2.917,NARRATOR,push,graphic,images/beat_080.png,and a higher risk of early death.
+81,00:04:17.919,00:04:20.002,2.083,NARRATOR,push,office,images/beat_081.png,"I know you're probably thinking,"
+82,00:04:20.002,00:04:24.585,4.583,NARRATOR,pan,gym,images/beat_082.png,"""I woke up at 5 a.m. today, went to the gym,"
+83,00:04:24.585,00:04:26.252,1.667,NARRATOR,push,gym,images/beat_083.png,"exercised for an hour."""
+84,00:04:26.252,00:04:27.502,1.25,NARRATOR,pull,gym,images/beat_084.png,Good for you!
+85,00:04:27.502,00:04:28.752,1.25,NARRATOR,push,gym,images/beat_085.png,Exercise is important.
+86,00:04:28.752,00:04:33.335,4.583,NARRATOR,push,office,images/beat_086.png,"But after that, you sit at your desk for eight hours."
+87,00:04:33.335,00:04:34.585,1.25,NARRATOR,pan,car,images/beat_087.png,You drive home.
+88,00:04:34.585,00:04:36.668,2.083,NARRATOR,push,livingroom,images/beat_088.png,You sit on the couch.
+89,00:04:36.668,00:04:42.085,5.417,NARRATOR,pull,graphic,images/beat_089.png,"And before you know it, you've spent most of the day barely moving."
+90,00:04:42.085,00:04:45.002,2.917,NARRATOR,push,graphic,images/beat_090.png,"That hour at the gym still counts,"
+91,00:04:45.002,00:04:49.585,4.583,NARRATOR,push,graphic,images/beat_091.png,but it doesn't automatically cancel out an entire day of sitting.
+92,00:04:49.585,00:04:52.918,3.333,NARRATOR,pan,lab,images/beat_092.png,Researchers have even found that a single workout
+93,00:04:52.918,00:04:55.418,2.5,NARRATOR,push,lab,images/beat_093.png,may not fully reverse certain effects
+94,00:04:55.418,00:04:59.168,3.75,NARRATOR,pull,clockgfx,images/beat_094.png,of sitting for more than 13 hours a day.
+95,00:04:59.168,00:05:02.085,2.917,NARRATOR,push,office,images/beat_095.png,So what are you supposed to do?
+96,00:05:02.085,00:05:05.835,3.75,NARRATOR,shake,office,images/beat_096.png,Quit your job and start walking around all day?
+97,00:05:05.835,00:05:08.752,2.917,NARRATOR,pan,office,images/beat_097.png,"I did not say that, did I?"
+98,00:05:08.752,00:05:10.419,1.667,NARRATOR,push,office,images/beat_098.png,"No, I would never."
+99,00:05:10.419,00:05:12.502,2.083,NARRATOR,pull,office,images/beat_099.png,You should get up regularly.
+100,00:05:12.502,00:05:15.002,2.5,NARRATOR,push,office,images/beat_100.png,Walk around for a few minutes.
+101,00:05:15.002,00:05:16.252,1.25,NARRATOR,push,office,images/beat_101.png,Stretch your legs.
+102,00:05:16.252,00:05:18.752,2.5,NARRATOR,pan,stairs,images/beat_102.png,Take the stairs when you can.
+103,00:05:18.752,00:05:21.669,2.917,NARRATOR,push,office,images/beat_103.png,"And if you work at a desk,"
+104,00:05:21.669,00:05:26.669,5.0,NARRATOR,pull,office,images/beat_104.png,try not to spend hours in the same position without a break.
+105,00:05:26.669,00:05:30.836,4.167,NARRATOR,push,office,images/beat_105.png,You don't have to turn every movement into a workout.
+106,00:05:30.836,00:05:35.003,4.167,NARRATOR,push,graphic,images/beat_106.png,Your body just needs opportunities to move throughout the day.
+107,00:05:35.003,00:05:37.920,2.917,NARRATOR,pan,office,images/beat_107.png,"Oh wait, it's time to clock out!"
+108,00:05:37.920,00:05:41.670,3.75,NARRATOR,push,bedroom_lamp,images/beat_108.png,"You're finally home. You've had dinner, taken your shower,"
+109,00:05:41.670,00:05:43.753,2.083,NARRATOR,pull,bedroom_lamp,images/beat_109.png,and you're ready for bed.
+110,00:05:43.753,00:05:47.503,3.75,NARRATOR,push,bedroom_lamp,images/beat_110.png,Except there's one more thing you need to check.
+111,00:05:47.503,00:05:48.703,1.2,NARRATOR,push,bedroom_lamp,images/beat_111.png,Your phone.
+112,00:05:48.703,00:05:50.370,1.667,NARRATOR,fade,bedroom,images/beat_112.png,Maybe it's the news.
+113,00:05:50.370,00:05:51.570,1.2,NARRATOR,push,bedroom,images/beat_113.png,Maybe YouTube.
+114,00:05:51.570,00:05:53.653,2.083,NARRATOR,pull,bedroom,images/beat_114.png,Maybe even this very video.
+115,00:05:53.653,00:05:56.570,2.917,NARRATOR,push,bedroom,images/beat_115.png,But then you come across something upsetting.
+116,00:05:56.570,00:05:57.820,1.25,NARRATOR,push,bedroom,images/beat_116.png,You read it.
+117,00:05:57.820,00:05:59.020,1.2,NARRATOR,pan,bedroom,images/beat_117.png,You scroll.
+118,00:05:59.020,00:06:01.937,2.917,NARRATOR,shake,bedroom,images/beat_118.png,You get hit with a terrible story.
+119,00:06:01.937,00:06:03.137,1.2,NARRATOR,pull,bedroom,images/beat_119.png,Another argument.
+120,00:06:03.137,00:06:04.337,1.2,NARRATOR,push,bedroom,images/beat_120.png,Another headline.
+121,00:06:04.337,00:06:06.420,2.083,NARRATOR,push,bedroom,images/beat_121.png,"And somehow, you can't stop."
+122,00:06:06.420,00:06:08.087,1.667,NARRATOR,pan,bedroom,images/beat_122.png,This is called doomscrolling.
+123,00:06:08.087,00:06:11.837,3.75,NARRATOR,push,graphic,images/beat_123.png,"It's when you keep consuming negative or distressing content,"
+124,00:06:11.837,00:06:14.754,2.917,NARRATOR,pull,bedroom,images/beat_124.png,even when it's making you feel worse.
+125,00:06:14.754,00:06:17.254,2.5,NARRATOR,push,bedroom,images/beat_125.png,And doing this right before bed
+126,00:06:17.254,00:06:21.004,3.75,NARRATOR,push,graphic,images/beat_126.png,can affect your sleep in more ways than one.
+127,00:06:21.004,00:06:23.087,2.083,NARRATOR,pan,graphic,images/beat_127.png,"First, there's the obvious problem."
+128,00:06:23.087,00:06:24.337,1.25,NARRATOR,push,bedroom,images/beat_128.png,You're still awake.
+129,00:06:24.337,00:06:27.670,3.333,NARRATOR,pull,graphic,images/beat_129.png,The time you were supposed to spend sleeping
+130,00:06:27.670,00:06:29.753,2.083,NARRATOR,push,graphic,images/beat_130.png,is now being spent scrolling.
+131,00:06:29.753,00:06:33.086,3.333,NARRATOR,push,bedroom,images/beat_131.png,There's also the effect of the screen itself.
+132,00:06:33.086,00:06:36.003,2.917,NARRATOR,pan,bedroom,images/beat_132.png,"Light from your phone, particularly blue light,"
+133,00:06:36.003,00:06:37.670,1.667,NARRATOR,push,brainhq,images/beat_133.png,"can interfere with melatonin,"
+134,00:06:37.670,00:06:41.003,3.333,NARRATOR,pull,clockgfx,images/beat_134.png,a hormone that helps regulate your sleep-wake cycle.
+135,00:06:41.003,00:06:43.920,2.917,NARRATOR,push,bedroom,images/beat_135.png,And then there's what you're actually reading.
+136,00:06:43.920,00:06:46.837,2.917,NARRATOR,push,bedroom,images/beat_136.png,"You're lying in bed, trying to relax,"
+137,00:06:46.837,00:06:49.754,2.917,NARRATOR,pan,bedroom,images/beat_137.png,but you're filling your mind with stories
+138,00:06:49.754,00:06:52.671,2.917,NARRATOR,push,bedroom,images/beat_138.png,"that make you worried, angry, or upset."
+139,00:06:52.671,00:06:56.004,3.333,NARRATOR,pull,bedroom,images/beat_139.png,Now you're thinking about everything you've just read
+140,00:06:56.004,00:06:57.671,1.667,NARRATOR,push,bedroom,images/beat_140.png,instead of falling asleep.
+141,00:06:57.671,00:07:02.671,5.0,NARRATOR,push,office,images/beat_141.png,"And the next day, that lack of sleep can affect your concentration,"
+142,00:07:02.671,00:07:05.171,2.5,NARRATOR,pan,office,images/beat_142.png,"mood, and ability to manage stress."
+143,00:07:05.171,00:07:08.504,3.333,NARRATOR,push,graphic,images/beat_143.png,"Also, poor sleep that happens regularly over time"
+144,00:07:08.504,00:07:13.087,4.583,NARRATOR,pull,body,images/beat_144.png,has been linked to serious health problems including high blood pressure.
+145,00:07:13.087,00:07:15.170,2.083,NARRATOR,push,bedroom_lamp,images/beat_145.png,So what can you do?
+146,00:07:15.170,00:07:20.170,5.0,NARRATOR,push,bedroom_lamp,images/beat_146.png,Try putting your phone away 30 minutes to an hour before bed.
+147,00:07:20.170,00:07:25.170,5.0,NARRATOR,pan,bedroom_lamp,images/beat_147.png,"And if you must use it, be mindful of what you're watching."
+148,00:07:25.170,00:07:28.087,2.917,NARRATOR,push,bedroom_lamp,images/beat_148.png,Choose something that actually helps you relax
+149,00:07:28.087,00:07:30.587,2.5,NARRATOR,pull,bedroom_lamp,images/beat_149.png,instead of making you more stressed.
+150,00:07:30.587,00:07:33.504,2.917,NARRATOR,push,bedroom_lamp,images/beat_150.png,Which brings us to the last habit.
+151,00:07:33.504,00:07:38.921,5.417,NARRATOR,push,graphic,images/beat_151.png,"And unlike the others, this one isn't about something you're doing too much."
+152,00:07:38.921,00:07:42.671,3.75,NARRATOR,pan,graphic,images/beat_152.png,It's about something you might not be doing enough.
+153,00:07:42.671,00:07:46.838,4.167,NARRATOR,fade,livingroom,images/beat_153.png,Think about the last time you genuinely connected with someone.
+154,00:07:46.838,00:07:49.755,2.917,NARRATOR,pull,livingroom,images/beat_154.png,Not just replying to a work message
+155,00:07:49.755,00:07:52.672,2.917,NARRATOR,push,livingroom,images/beat_155.png,or liking someone's picture on the internet.
+156,00:07:52.672,00:07:57.255,4.583,NARRATOR,push,coffeeshop,images/beat_156.png,I mean having a proper conversation with someone you care about.
+157,00:07:57.255,00:07:58.505,1.25,NARRATOR,pan,livingroom,images/beat_157.png,When was that?
+158,00:07:58.505,00:08:00.588,2.083,NARRATOR,push,livingroom,images/beat_158.png,"To clear some things up,"
+159,00:08:00.588,00:08:04.755,4.167,NARRATOR,pull,park,images/beat_159.png,there is absolutely nothing wrong with enjoying your own company.
+160,00:08:04.755,00:08:09.338,4.583,NARRATOR,push,park,images/beat_160.png,"A lot of people actually enjoy spending time alone, including me."
+161,00:08:09.338,00:08:13.921,4.583,NARRATOR,push,graphic,images/beat_161.png,But being alone and feeling lonely are not the same thing.
+162,00:08:13.921,00:08:18.088,4.167,NARRATOR,pan,party,images/beat_162.png,You could know hundreds of people and still feel lonely.
+163,00:08:18.088,00:08:22.255,4.167,NARRATOR,push,coffeeshop,images/beat_163.png,Or have just two or three people in your life
+164,00:08:22.255,00:08:23.922,1.667,NARRATOR,pull,coffeeshop,images/beat_164.png,and feel deeply connected.
+165,00:08:23.922,00:08:28.089,4.167,NARRATOR,push,graphic,images/beat_165.png,"What matters is the connection, not the number of people."
+166,00:08:28.089,00:08:31.839,3.75,NARRATOR,push,livingroom,images/beat_166.png,And this isn't just about how you feel emotionally.
+167,00:08:31.839,00:08:36.422,4.583,NARRATOR,pan,body,images/beat_167.png,Research has linked loneliness and social isolation to poorer physical health.
+168,00:08:36.422,00:08:39.339,2.917,NARRATOR,push,lab,images/beat_168.png,One large review found that social isolation
+169,00:08:39.339,00:08:44.339,5.0,NARRATOR,pull,graphic,images/beat_169.png,"was associated with a 29% higher likelihood of death during the studies,"
+170,00:08:44.339,00:08:47.672,3.333,NARRATOR,push,graphic,images/beat_170.png,while loneliness was associated with a 26% increase.
+171,00:08:47.672,00:08:50.589,2.917,NARRATOR,push,livingroom,images/beat_171.png,That doesn't mean spending a weekend alone
+172,00:08:50.589,00:08:53.506,2.917,NARRATOR,pan,livingroom,images/beat_172.png,is going to shorten your life spontaneously.
+173,00:08:53.506,00:08:56.423,2.917,NARRATOR,push,graphic,images/beat_173.png,And it doesn't mean loneliness directly caused
+174,00:08:56.423,00:08:59.340,2.917,NARRATOR,pull,lab,images/beat_174.png,every health problem observed in those studies.
+175,00:08:59.340,00:09:02.673,3.333,NARRATOR,push,graphic,images/beat_175.png,But it does show that our social connections
+176,00:09:02.673,00:09:06.006,3.333,NARRATOR,push,graphic,images/beat_176.png,deserve more attention than we sometimes give them.
+177,00:09:06.006,00:09:09.339,3.333,NARRATOR,pan,graphic,images/beat_177.png,"When we think about living a healthy life,"
+178,00:09:09.339,00:09:12.256,2.917,NARRATOR,push,graphic,images/beat_178.png,"we usually think about food, exercise, sleep"
+179,00:09:12.256,00:09:14.756,2.5,NARRATOR,pull,kitchen,images/beat_179.png,and maybe taking our supplements regularly.
+180,00:09:14.756,00:09:19.339,4.583,NARRATOR,push,livingroom,images/beat_180.png,But what about the friends we haven't spoken to in months?
+181,00:09:19.339,00:09:23.089,3.75,NARRATOR,push,livingroom,images/beat_181.png,Or the family members we keep meaning to call?
+182,00:09:23.089,00:09:27.256,4.167,NARRATOR,pan,livingroom,images/beat_182.png,No need to panic if you are a shy person.
+183,00:09:27.256,00:09:29.756,2.5,NARRATOR,push,graphic,images/beat_183.png,Improving your social connections doesn't mean
+184,00:09:29.756,00:09:33.089,3.333,NARRATOR,pull,party,images/beat_184.png,becoming the most outgoing person in the room.
+185,00:09:33.089,00:09:36.006,2.917,NARRATOR,push,coffeeshop,images/beat_185.png,"You could reconnect with an old friend,"
+186,00:09:36.006,00:09:38.089,2.083,NARRATOR,push,familykitchen,images/beat_186.png,"spend more time with family,"
+187,00:09:38.089,00:09:39.339,1.25,NARRATOR,pan,club,images/beat_187.png,join a club
+188,00:09:39.339,00:09:43.089,3.75,NARRATOR,push,club,images/beat_188.png,or start a hobby that involves meeting other people.
+189,00:09:43.089,00:09:47.672,4.583,NARRATOR,pull,livingroom,images/beat_189.png,Or simply make more time for the relationships you already have.
+190,00:09:47.672,00:09:52.255,4.583,NARRATOR,fade,graphic,images/beat_190.png,Now think about how your day went today. Or even yesterday.
+191,00:09:52.255,00:09:55.588,3.333,NARRATOR,push,graphic,images/beat_191.png,"You brushed your teeth, ate, went to work,"
+192,00:09:55.588,00:10:00.171,4.583,NARRATOR,pan,graphic,images/beat_192.png,"spent some time on your phone, and eventually went to bed."
+193,00:10:00.171,00:10:01.421,1.25,NARRATOR,push,livingroom,images/beat_193.png,"Nothing unusual, right?"
+194,00:10:01.421,00:10:06.004,4.583,NARRATOR,pull,graphic,images/beat_194.png,And that's exactly why these habits are so easy to overlook.
+195,00:10:06.004,00:10:08.504,2.5,NARRATOR,push,livingroom,images/beat_195.png,"True, these habits do not mean"
+196,00:10:08.504,00:10:11.421,2.917,NARRATOR,push,graphic,images/beat_196.png,that something terrible will happen to you.
+197,00:10:11.421,00:10:14.338,2.917,NARRATOR,pan,graphic,images/beat_197.png,But the things you repeat every day
+198,00:10:14.338,00:10:18.088,3.75,NARRATOR,push,graphic,images/beat_198.png,can build up and influence your health over time.
+199,00:10:18.088,00:10:22.671,4.583,NARRATOR,pull,graphic,images/beat_199.png,Improving your health isn't always about making one massive lifestyle change.
+200,00:10:22.671,00:10:28.088,5.417,NARRATOR,push,park,images/beat_200.png,It's about paying attention to what you're already doing and doing them well.
+201,00:10:28.088,00:10:32.671,4.583,NARRATOR,push,graphic,images/beat_201.png,Which of these five habits caught you off guard the most?
+202,00:10:32.671,00:10:34.338,1.667,NARRATOR,pan,phone,images/beat_202.png,I'd love to know.

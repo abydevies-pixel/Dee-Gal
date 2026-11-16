@@ -1,0 +1,2022 @@
+[
+ {
+  "beat": 1,
+  "start": 0.0,
+  "dur": 3.75,
+  "text": "Think about everything you do on a normal day.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_001.png"
+ },
+ {
+  "beat": 2,
+  "start": 3.75,
+  "dur": 2.917,
+  "text": "You wake up, brush your teeth, eat,",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "bathroom",
+  "image": "images/beat_002.png"
+ },
+ {
+  "beat": 3,
+  "start": 6.667,
+  "dur": 4.167,
+  "text": "go to work, come home, and eventually go to bed.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_003.png"
+ },
+ {
+  "beat": 4,
+  "start": 10.834,
+  "dur": 2.917,
+  "text": "Nothing dangerous about any of that, right?",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "livingroom",
+  "image": "images/beat_004.png"
+ },
+ {
+  "beat": 5,
+  "start": 13.751,
+  "dur": 2.917,
+  "text": "Well, we need to look more closely.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_005.png"
+ },
+ {
+  "beat": 6,
+  "start": 16.668,
+  "dur": 5.0,
+  "text": "Some of the things you do every day to look after yourself",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bathroom",
+  "image": "images/beat_006.png"
+ },
+ {
+  "beat": 7,
+  "start": 21.668,
+  "dur": 3.333,
+  "text": "could actually be doing more harm than good.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "graphic",
+  "image": "images/beat_007.png"
+ },
+ {
+  "beat": 8,
+  "start": 25.001,
+  "dur": 2.917,
+  "text": "So let's go through an ordinary day",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "clockgfx",
+  "image": "images/beat_008.png"
+ },
+ {
+  "beat": 9,
+  "start": 27.918,
+  "dur": 4.583,
+  "text": "and look at five habits that could be affecting your health,",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "graphic",
+  "image": "images/beat_009.png"
+ },
+ {
+  "beat": 10,
+  "start": 32.501,
+  "dur": 2.917,
+  "text": "and what you can do about them.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_010.png"
+ },
+ {
+  "beat": 11,
+  "start": 35.418,
+  "dur": 2.5,
+  "text": "It's a bright sunny Thursday morning.",
+  "voice": "NARRATOR",
+  "motion": "fade",
+  "scene": "bathroom",
+  "image": "images/beat_011.png"
+ },
+ {
+  "beat": 12,
+  "start": 37.918,
+  "dur": 5.0,
+  "text": "You grab your toothbrush, put some toothpaste on it, and start brushing.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "bathroom",
+  "image": "images/beat_012.png"
+ },
+ {
+  "beat": 13,
+  "start": 42.918,
+  "dur": 5.0,
+  "text": "After all, you've been told since childhood to keep your teeth clean.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bathroom",
+  "image": "images/beat_013.png"
+ },
+ {
+  "beat": 14,
+  "start": 47.918,
+  "dur": 2.917,
+  "text": "So you scrub, and scrub and scrub.",
+  "voice": "NARRATOR",
+  "motion": "shake",
+  "scene": "bathroom",
+  "image": "images/beat_014.png"
+ },
+ {
+  "beat": 15,
+  "start": 50.835,
+  "dur": 5.0,
+  "text": "Because surely, the harder you brush, the cleaner your teeth will be?",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bathroom",
+  "image": "images/beat_015.png"
+ },
+ {
+  "beat": 16,
+  "start": 55.835,
+  "dur": 1.25,
+  "text": "Well, not really.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bathroom",
+  "image": "images/beat_016.png"
+ },
+ {
+  "beat": 17,
+  "start": 57.085,
+  "dur": 2.083,
+  "text": "When you brush too aggressively,",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "mouth",
+  "image": "images/beat_017.png"
+ },
+ {
+  "beat": 18,
+  "start": 59.168,
+  "dur": 4.167,
+  "text": "you can gradually wear down parts of the tooth surface",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "mouth",
+  "image": "images/beat_018.png"
+ },
+ {
+  "beat": 19,
+  "start": 63.335,
+  "dur": 1.667,
+  "text": "and damage your gums.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "mouth",
+  "image": "images/beat_019.png"
+ },
+ {
+  "beat": 20,
+  "start": 65.002,
+  "dur": 4.167,
+  "text": "And over time, your gums may begin to pull back,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "mouth",
+  "image": "images/beat_020.png"
+ },
+ {
+  "beat": 21,
+  "start": 69.169,
+  "dur": 3.75,
+  "text": "exposing parts of your teeth that are normally protected.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "mouth",
+  "image": "images/beat_021.png"
+ },
+ {
+  "beat": 22,
+  "start": 72.919,
+  "dur": 2.5,
+  "text": "This can make your teeth sensitive,",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "mouth",
+  "image": "images/beat_022.png"
+ },
+ {
+  "beat": 23,
+  "start": 75.419,
+  "dur": 3.333,
+  "text": "especially when you eat or drink something cold.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_023.png"
+ },
+ {
+  "beat": 24,
+  "start": 78.752,
+  "dur": 4.167,
+  "text": "And unlike your skin, damaged tooth enamel doesn't grow back.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "graphic",
+  "image": "images/beat_024.png"
+ },
+ {
+  "beat": 25,
+  "start": 82.919,
+  "dur": 4.167,
+  "text": "So, is your toothbrush secretly a weapon of mass destruction?",
+  "voice": "NARRATOR",
+  "motion": "shake",
+  "scene": "bathroom",
+  "image": "images/beat_025.png"
+ },
+ {
+  "beat": 26,
+  "start": 87.086,
+  "dur": 3.333,
+  "text": "It depends. You need to use it properly.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bathroom",
+  "image": "images/beat_026.png"
+ },
+ {
+  "beat": 27,
+  "start": 90.419,
+  "dur": 1.667,
+  "text": "Use a soft-bristled toothbrush,",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "bathroom",
+  "image": "images/beat_027.png"
+ },
+ {
+  "beat": 28,
+  "start": 92.086,
+  "dur": 1.25,
+  "text": "hold it gently,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bathroom",
+  "image": "images/beat_028.png"
+ },
+ {
+  "beat": 29,
+  "start": 93.336,
+  "dur": 3.333,
+  "text": "and clean your teeth with small, controlled movements.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "mouth",
+  "image": "images/beat_029.png"
+ },
+ {
+  "beat": 30,
+  "start": 96.669,
+  "dur": 2.917,
+  "text": "And if you use an electric toothbrush,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bathroom",
+  "image": "images/beat_030.png"
+ },
+ {
+  "beat": 31,
+  "start": 99.586,
+  "dur": 4.167,
+  "text": "some models even warn you when you're pressing too hard.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bathroom",
+  "image": "images/beat_031.png"
+ },
+ {
+  "beat": 32,
+  "start": 103.753,
+  "dur": 1.25,
+  "text": "Simple enough, right?",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "bathroom",
+  "image": "images/beat_032.png"
+ },
+ {
+  "beat": 33,
+  "start": 105.003,
+  "dur": 2.083,
+  "text": "But now you're running late.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bathroom",
+  "image": "images/beat_033.png"
+ },
+ {
+  "beat": 34,
+  "start": 107.086,
+  "dur": 5.417,
+  "text": "You have places to be, things to do, and you need to eat.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "kitchen",
+  "image": "images/beat_034.png"
+ },
+ {
+  "beat": 35,
+  "start": 112.503,
+  "dur": 2.5,
+  "text": "Which brings us to another habit.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_035.png"
+ },
+ {
+  "beat": 36,
+  "start": 115.003,
+  "dur": 3.333,
+  "text": "Have you ever finished a meal so quickly",
+  "voice": "NARRATOR",
+  "motion": "fade",
+  "scene": "kitchen",
+  "image": "images/beat_036.png"
+ },
+ {
+  "beat": 37,
+  "start": 118.336,
+  "dur": 2.5,
+  "text": "that you barely remember eating it?",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "kitchen",
+  "image": "images/beat_037.png"
+ },
+ {
+  "beat": 38,
+  "start": 120.836,
+  "dur": 3.333,
+  "text": "Maybe you're rushing to get back to work.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_038.png"
+ },
+ {
+  "beat": 39,
+  "start": 124.169,
+  "dur": 2.5,
+  "text": "Maybe you're distracted by your phone.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "kitchen",
+  "image": "images/beat_039.png"
+ },
+ {
+  "beat": 40,
+  "start": 126.669,
+  "dur": 2.917,
+  "text": "Or maybe you're just really, really hungry.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_040.png"
+ },
+ {
+  "beat": 41,
+  "start": 129.586,
+  "dur": 2.5,
+  "text": "Whatever the reason, you start eating.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_041.png"
+ },
+ {
+  "beat": 42,
+  "start": 132.086,
+  "dur": 2.5,
+  "text": "One bite, then another, and another.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "kitchen",
+  "image": "images/beat_042.png"
+ },
+ {
+  "beat": 43,
+  "start": 134.586,
+  "dur": 3.333,
+  "text": "Before you know it, the plate is empty.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_043.png"
+ },
+ {
+  "beat": 44,
+  "start": 137.919,
+  "dur": 3.333,
+  "text": "Congratulations! You've just set a new personal record.",
+  "voice": "NARRATOR",
+  "motion": "shake",
+  "scene": "kitchen",
+  "image": "images/beat_044.png"
+ },
+ {
+  "beat": 45,
+  "start": 141.252,
+  "dur": 4.583,
+  "text": "But there is more to the race than what we see.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_045.png"
+ },
+ {
+  "beat": 46,
+  "start": 145.835,
+  "dur": 4.167,
+  "text": "As you eat, your stomach sends messages to your brain",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "body",
+  "image": "images/beat_046.png"
+ },
+ {
+  "beat": 47,
+  "start": 150.002,
+  "dur": 2.5,
+  "text": "telling it how full you're getting.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "body",
+  "image": "images/beat_047.png"
+ },
+ {
+  "beat": 48,
+  "start": 152.502,
+  "dur": 2.917,
+  "text": "But those messages take time to arrive.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "body",
+  "image": "images/beat_048.png"
+ },
+ {
+  "beat": 49,
+  "start": 155.419,
+  "dur": 4.167,
+  "text": "So when you eat too quickly, you might keep eating",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "kitchen",
+  "image": "images/beat_049.png"
+ },
+ {
+  "beat": 50,
+  "start": 159.586,
+  "dur": 3.75,
+  "text": "before your brain has properly registered that you're full.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "brainhq",
+  "image": "images/beat_050.png"
+ },
+ {
+  "beat": 51,
+  "start": 163.336,
+  "dur": 1.667,
+  "text": "Then suddenly, you're stuffed.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_051.png"
+ },
+ {
+  "beat": 52,
+  "start": 165.003,
+  "dur": 2.5,
+  "text": "Doing this occasionally isn't a problem.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "kitchen",
+  "image": "images/beat_052.png"
+ },
+ {
+  "beat": 53,
+  "start": 167.503,
+  "dur": 5.0,
+  "text": "But regularly eating too quickly can contribute to overeating and weight gain.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_053.png"
+ },
+ {
+  "beat": 54,
+  "start": 172.503,
+  "dur": 2.5,
+  "text": "And that's not the only problem.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "kitchen",
+  "image": "images/beat_054.png"
+ },
+ {
+  "beat": 55,
+  "start": 175.003,
+  "dur": 2.5,
+  "text": "When you rush through a meal,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_055.png"
+ },
+ {
+  "beat": 56,
+  "start": 177.503,
+  "dur": 3.333,
+  "text": "you're also more likely to swallow extra air,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "body",
+  "image": "images/beat_056.png"
+ },
+ {
+  "beat": 57,
+  "start": 180.836,
+  "dur": 3.333,
+  "text": "which can leave you feeling bloated and uncomfortable.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "body",
+  "image": "images/beat_057.png"
+ },
+ {
+  "beat": 58,
+  "start": 184.169,
+  "dur": 5.0,
+  "text": "Also, taking large bites without chewing properly increases the risk of choking.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_058.png"
+ },
+ {
+  "beat": 59,
+  "start": 189.169,
+  "dur": 5.0,
+  "text": "So yes, even something as ordinary as eating breakfast deserves more attention.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "kitchen",
+  "image": "images/beat_059.png"
+ },
+ {
+  "beat": 60,
+  "start": 194.169,
+  "dur": 3.75,
+  "text": "I'm not asking you to spend an entire afternoon",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_060.png"
+ },
+ {
+  "beat": 61,
+  "start": 197.919,
+  "dur": 2.083,
+  "text": "eating one plate of food.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_061.png"
+ },
+ {
+  "beat": 62,
+  "start": 200.002,
+  "dur": 1.25,
+  "text": "Just slow down.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "kitchen",
+  "image": "images/beat_062.png"
+ },
+ {
+  "beat": 63,
+  "start": 201.252,
+  "dur": 2.083,
+  "text": "Take smaller bites, chew properly,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_063.png"
+ },
+ {
+  "beat": 64,
+  "start": 203.335,
+  "dur": 4.167,
+  "text": "and give yourself a chance to notice when you're satisfied.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "kitchen",
+  "image": "images/beat_064.png"
+ },
+ {
+  "beat": 65,
+  "start": 207.502,
+  "dur": 5.0,
+  "text": "Great! Now that you've finished breakfast, it's time to head to work.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "kitchen",
+  "image": "images/beat_065.png"
+ },
+ {
+  "beat": 66,
+  "start": 212.502,
+  "dur": 2.5,
+  "text": "This is where another problem begins.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_066.png"
+ },
+ {
+  "beat": 67,
+  "start": 215.002,
+  "dur": 4.167,
+  "text": "Because for the next several hours, you might barely move.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "office",
+  "image": "images/beat_067.png"
+ },
+ {
+  "beat": 68,
+  "start": 219.169,
+  "dur": 2.083,
+  "text": "Are you sitting right now?",
+  "voice": "NARRATOR",
+  "motion": "fade",
+  "scene": "office",
+  "image": "images/beat_068.png"
+ },
+ {
+  "beat": 69,
+  "start": 221.252,
+  "dur": 3.333,
+  "text": "How long have you been in that chair?",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "office",
+  "image": "images/beat_069.png"
+ },
+ {
+  "beat": 70,
+  "start": 224.585,
+  "dur": 2.5,
+  "text": "An hour? Three hours? Since morning?",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_070.png"
+ },
+ {
+  "beat": 71,
+  "start": 227.085,
+  "dur": 1.667,
+  "text": "Sitting itself isn't bad.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_071.png"
+ },
+ {
+  "beat": 72,
+  "start": 228.752,
+  "dur": 5.0,
+  "text": "The problem starts when you spend most of your day barely moving.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "office",
+  "image": "images/beat_072.png"
+ },
+ {
+  "beat": 73,
+  "start": 233.752,
+  "dur": 5.0,
+  "text": "You may have heard people say that sitting is the new smoking.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_073.png"
+ },
+ {
+  "beat": 74,
+  "start": 238.752,
+  "dur": 1.667,
+  "text": "Is that really true?",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "graphic",
+  "image": "images/beat_074.png"
+ },
+ {
+  "beat": 75,
+  "start": 240.419,
+  "dur": 2.917,
+  "text": "Well, sitting isn't the same as smoking,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_075.png"
+ },
+ {
+  "beat": 76,
+  "start": 243.336,
+  "dur": 3.75,
+  "text": "and the health risks shouldn't be treated as identical.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_076.png"
+ },
+ {
+  "beat": 77,
+  "start": 247.086,
+  "dur": 2.083,
+  "text": "But spending long periods inactive",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "office",
+  "image": "images/beat_077.png"
+ },
+ {
+  "beat": 78,
+  "start": 249.169,
+  "dur": 3.333,
+  "text": "has been linked to some serious health problems.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_078.png"
+ },
+ {
+  "beat": 79,
+  "start": 252.502,
+  "dur": 2.5,
+  "text": "Including heart disease, type 2 diabetes,",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "body",
+  "image": "images/beat_079.png"
+ },
+ {
+  "beat": 80,
+  "start": 255.002,
+  "dur": 2.917,
+  "text": "and a higher risk of early death.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_080.png"
+ },
+ {
+  "beat": 81,
+  "start": 257.919,
+  "dur": 2.083,
+  "text": "I know you're probably thinking,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_081.png"
+ },
+ {
+  "beat": 82,
+  "start": 260.002,
+  "dur": 4.583,
+  "text": "\"I woke up at 5 a.m. today, went to the gym,",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "gym",
+  "image": "images/beat_082.png"
+ },
+ {
+  "beat": 83,
+  "start": 264.585,
+  "dur": 1.667,
+  "text": "exercised for an hour.\"",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "gym",
+  "image": "images/beat_083.png"
+ },
+ {
+  "beat": 84,
+  "start": 266.252,
+  "dur": 1.25,
+  "text": "Good for you!",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "gym",
+  "image": "images/beat_084.png"
+ },
+ {
+  "beat": 85,
+  "start": 267.502,
+  "dur": 1.25,
+  "text": "Exercise is important.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "gym",
+  "image": "images/beat_085.png"
+ },
+ {
+  "beat": 86,
+  "start": 268.752,
+  "dur": 4.583,
+  "text": "But after that, you sit at your desk for eight hours.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_086.png"
+ },
+ {
+  "beat": 87,
+  "start": 273.335,
+  "dur": 1.25,
+  "text": "You drive home.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "car",
+  "image": "images/beat_087.png"
+ },
+ {
+  "beat": 88,
+  "start": 274.585,
+  "dur": 2.083,
+  "text": "You sit on the couch.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "livingroom",
+  "image": "images/beat_088.png"
+ },
+ {
+  "beat": 89,
+  "start": 276.668,
+  "dur": 5.417,
+  "text": "And before you know it, you've spent most of the day barely moving.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "graphic",
+  "image": "images/beat_089.png"
+ },
+ {
+  "beat": 90,
+  "start": 282.085,
+  "dur": 2.917,
+  "text": "That hour at the gym still counts,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_090.png"
+ },
+ {
+  "beat": 91,
+  "start": 285.002,
+  "dur": 4.583,
+  "text": "but it doesn't automatically cancel out an entire day of sitting.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_091.png"
+ },
+ {
+  "beat": 92,
+  "start": 289.585,
+  "dur": 3.333,
+  "text": "Researchers have even found that a single workout",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "lab",
+  "image": "images/beat_092.png"
+ },
+ {
+  "beat": 93,
+  "start": 292.918,
+  "dur": 2.5,
+  "text": "may not fully reverse certain effects",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "lab",
+  "image": "images/beat_093.png"
+ },
+ {
+  "beat": 94,
+  "start": 295.418,
+  "dur": 3.75,
+  "text": "of sitting for more than 13 hours a day.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "clockgfx",
+  "image": "images/beat_094.png"
+ },
+ {
+  "beat": 95,
+  "start": 299.168,
+  "dur": 2.917,
+  "text": "So what are you supposed to do?",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_095.png"
+ },
+ {
+  "beat": 96,
+  "start": 302.085,
+  "dur": 3.75,
+  "text": "Quit your job and start walking around all day?",
+  "voice": "NARRATOR",
+  "motion": "shake",
+  "scene": "office",
+  "image": "images/beat_096.png"
+ },
+ {
+  "beat": 97,
+  "start": 305.835,
+  "dur": 2.917,
+  "text": "I did not say that, did I?",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "office",
+  "image": "images/beat_097.png"
+ },
+ {
+  "beat": 98,
+  "start": 308.752,
+  "dur": 1.667,
+  "text": "No, I would never.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_098.png"
+ },
+ {
+  "beat": 99,
+  "start": 310.419,
+  "dur": 2.083,
+  "text": "You should get up regularly.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "office",
+  "image": "images/beat_099.png"
+ },
+ {
+  "beat": 100,
+  "start": 312.502,
+  "dur": 2.5,
+  "text": "Walk around for a few minutes.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_100.png"
+ },
+ {
+  "beat": 101,
+  "start": 315.002,
+  "dur": 1.25,
+  "text": "Stretch your legs.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_101.png"
+ },
+ {
+  "beat": 102,
+  "start": 316.252,
+  "dur": 2.5,
+  "text": "Take the stairs when you can.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "stairs",
+  "image": "images/beat_102.png"
+ },
+ {
+  "beat": 103,
+  "start": 318.752,
+  "dur": 2.917,
+  "text": "And if you work at a desk,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_103.png"
+ },
+ {
+  "beat": 104,
+  "start": 321.669,
+  "dur": 5.0,
+  "text": "try not to spend hours in the same position without a break.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "office",
+  "image": "images/beat_104.png"
+ },
+ {
+  "beat": 105,
+  "start": 326.669,
+  "dur": 4.167,
+  "text": "You don't have to turn every movement into a workout.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_105.png"
+ },
+ {
+  "beat": 106,
+  "start": 330.836,
+  "dur": 4.167,
+  "text": "Your body just needs opportunities to move throughout the day.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_106.png"
+ },
+ {
+  "beat": 107,
+  "start": 335.003,
+  "dur": 2.917,
+  "text": "Oh wait, it's time to clock out!",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "office",
+  "image": "images/beat_107.png"
+ },
+ {
+  "beat": 108,
+  "start": 337.92,
+  "dur": 3.75,
+  "text": "You're finally home. You've had dinner, taken your shower,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom_lamp",
+  "image": "images/beat_108.png"
+ },
+ {
+  "beat": 109,
+  "start": 341.67,
+  "dur": 2.083,
+  "text": "and you're ready for bed.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "bedroom_lamp",
+  "image": "images/beat_109.png"
+ },
+ {
+  "beat": 110,
+  "start": 343.753,
+  "dur": 3.75,
+  "text": "Except there's one more thing you need to check.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom_lamp",
+  "image": "images/beat_110.png"
+ },
+ {
+  "beat": 111,
+  "start": 347.503,
+  "dur": 1.2,
+  "text": "Your phone.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom_lamp",
+  "image": "images/beat_111.png"
+ },
+ {
+  "beat": 112,
+  "start": 348.703,
+  "dur": 1.667,
+  "text": "Maybe it's the news.",
+  "voice": "NARRATOR",
+  "motion": "fade",
+  "scene": "bedroom",
+  "image": "images/beat_112.png"
+ },
+ {
+  "beat": 113,
+  "start": 350.37,
+  "dur": 1.2,
+  "text": "Maybe YouTube.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_113.png"
+ },
+ {
+  "beat": 114,
+  "start": 351.57,
+  "dur": 2.083,
+  "text": "Maybe even this very video.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "bedroom",
+  "image": "images/beat_114.png"
+ },
+ {
+  "beat": 115,
+  "start": 353.653,
+  "dur": 2.917,
+  "text": "But then you come across something upsetting.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_115.png"
+ },
+ {
+  "beat": 116,
+  "start": 356.57,
+  "dur": 1.25,
+  "text": "You read it.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_116.png"
+ },
+ {
+  "beat": 117,
+  "start": 357.82,
+  "dur": 1.2,
+  "text": "You scroll.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "bedroom",
+  "image": "images/beat_117.png"
+ },
+ {
+  "beat": 118,
+  "start": 359.02,
+  "dur": 2.917,
+  "text": "You get hit with a terrible story.",
+  "voice": "NARRATOR",
+  "motion": "shake",
+  "scene": "bedroom",
+  "image": "images/beat_118.png"
+ },
+ {
+  "beat": 119,
+  "start": 361.937,
+  "dur": 1.2,
+  "text": "Another argument.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "bedroom",
+  "image": "images/beat_119.png"
+ },
+ {
+  "beat": 120,
+  "start": 363.137,
+  "dur": 1.2,
+  "text": "Another headline.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_120.png"
+ },
+ {
+  "beat": 121,
+  "start": 364.337,
+  "dur": 2.083,
+  "text": "And somehow, you can't stop.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_121.png"
+ },
+ {
+  "beat": 122,
+  "start": 366.42,
+  "dur": 1.667,
+  "text": "This is called doomscrolling.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "bedroom",
+  "image": "images/beat_122.png"
+ },
+ {
+  "beat": 123,
+  "start": 368.087,
+  "dur": 3.75,
+  "text": "It's when you keep consuming negative or distressing content,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_123.png"
+ },
+ {
+  "beat": 124,
+  "start": 371.837,
+  "dur": 2.917,
+  "text": "even when it's making you feel worse.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "bedroom",
+  "image": "images/beat_124.png"
+ },
+ {
+  "beat": 125,
+  "start": 374.754,
+  "dur": 2.5,
+  "text": "And doing this right before bed",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_125.png"
+ },
+ {
+  "beat": 126,
+  "start": 377.254,
+  "dur": 3.75,
+  "text": "can affect your sleep in more ways than one.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_126.png"
+ },
+ {
+  "beat": 127,
+  "start": 381.004,
+  "dur": 2.083,
+  "text": "First, there's the obvious problem.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "graphic",
+  "image": "images/beat_127.png"
+ },
+ {
+  "beat": 128,
+  "start": 383.087,
+  "dur": 1.25,
+  "text": "You're still awake.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_128.png"
+ },
+ {
+  "beat": 129,
+  "start": 384.337,
+  "dur": 3.333,
+  "text": "The time you were supposed to spend sleeping",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "graphic",
+  "image": "images/beat_129.png"
+ },
+ {
+  "beat": 130,
+  "start": 387.67,
+  "dur": 2.083,
+  "text": "is now being spent scrolling.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_130.png"
+ },
+ {
+  "beat": 131,
+  "start": 389.753,
+  "dur": 3.333,
+  "text": "There's also the effect of the screen itself.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_131.png"
+ },
+ {
+  "beat": 132,
+  "start": 393.086,
+  "dur": 2.917,
+  "text": "Light from your phone, particularly blue light,",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "bedroom",
+  "image": "images/beat_132.png"
+ },
+ {
+  "beat": 133,
+  "start": 396.003,
+  "dur": 1.667,
+  "text": "can interfere with melatonin,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "brainhq",
+  "image": "images/beat_133.png"
+ },
+ {
+  "beat": 134,
+  "start": 397.67,
+  "dur": 3.333,
+  "text": "a hormone that helps regulate your sleep-wake cycle.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "clockgfx",
+  "image": "images/beat_134.png"
+ },
+ {
+  "beat": 135,
+  "start": 401.003,
+  "dur": 2.917,
+  "text": "And then there's what you're actually reading.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_135.png"
+ },
+ {
+  "beat": 136,
+  "start": 403.92,
+  "dur": 2.917,
+  "text": "You're lying in bed, trying to relax,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_136.png"
+ },
+ {
+  "beat": 137,
+  "start": 406.837,
+  "dur": 2.917,
+  "text": "but you're filling your mind with stories",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "bedroom",
+  "image": "images/beat_137.png"
+ },
+ {
+  "beat": 138,
+  "start": 409.754,
+  "dur": 2.917,
+  "text": "that make you worried, angry, or upset.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_138.png"
+ },
+ {
+  "beat": 139,
+  "start": 412.671,
+  "dur": 3.333,
+  "text": "Now you're thinking about everything you've just read",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "bedroom",
+  "image": "images/beat_139.png"
+ },
+ {
+  "beat": 140,
+  "start": 416.004,
+  "dur": 1.667,
+  "text": "instead of falling asleep.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom",
+  "image": "images/beat_140.png"
+ },
+ {
+  "beat": 141,
+  "start": 417.671,
+  "dur": 5.0,
+  "text": "And the next day, that lack of sleep can affect your concentration,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "office",
+  "image": "images/beat_141.png"
+ },
+ {
+  "beat": 142,
+  "start": 422.671,
+  "dur": 2.5,
+  "text": "mood, and ability to manage stress.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "office",
+  "image": "images/beat_142.png"
+ },
+ {
+  "beat": 143,
+  "start": 425.171,
+  "dur": 3.333,
+  "text": "Also, poor sleep that happens regularly over time",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_143.png"
+ },
+ {
+  "beat": 144,
+  "start": 428.504,
+  "dur": 4.583,
+  "text": "has been linked to serious health problems including high blood pressure.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "body",
+  "image": "images/beat_144.png"
+ },
+ {
+  "beat": 145,
+  "start": 433.087,
+  "dur": 2.083,
+  "text": "So what can you do?",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom_lamp",
+  "image": "images/beat_145.png"
+ },
+ {
+  "beat": 146,
+  "start": 435.17,
+  "dur": 5.0,
+  "text": "Try putting your phone away 30 minutes to an hour before bed.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom_lamp",
+  "image": "images/beat_146.png"
+ },
+ {
+  "beat": 147,
+  "start": 440.17,
+  "dur": 5.0,
+  "text": "And if you must use it, be mindful of what you're watching.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "bedroom_lamp",
+  "image": "images/beat_147.png"
+ },
+ {
+  "beat": 148,
+  "start": 445.17,
+  "dur": 2.917,
+  "text": "Choose something that actually helps you relax",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom_lamp",
+  "image": "images/beat_148.png"
+ },
+ {
+  "beat": 149,
+  "start": 448.087,
+  "dur": 2.5,
+  "text": "instead of making you more stressed.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "bedroom_lamp",
+  "image": "images/beat_149.png"
+ },
+ {
+  "beat": 150,
+  "start": 450.587,
+  "dur": 2.917,
+  "text": "Which brings us to the last habit.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "bedroom_lamp",
+  "image": "images/beat_150.png"
+ },
+ {
+  "beat": 151,
+  "start": 453.504,
+  "dur": 5.417,
+  "text": "And unlike the others, this one isn't about something you're doing too much.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_151.png"
+ },
+ {
+  "beat": 152,
+  "start": 458.921,
+  "dur": 3.75,
+  "text": "It's about something you might not be doing enough.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "graphic",
+  "image": "images/beat_152.png"
+ },
+ {
+  "beat": 153,
+  "start": 462.671,
+  "dur": 4.167,
+  "text": "Think about the last time you genuinely connected with someone.",
+  "voice": "NARRATOR",
+  "motion": "fade",
+  "scene": "livingroom",
+  "image": "images/beat_153.png"
+ },
+ {
+  "beat": 154,
+  "start": 466.838,
+  "dur": 2.917,
+  "text": "Not just replying to a work message",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "livingroom",
+  "image": "images/beat_154.png"
+ },
+ {
+  "beat": 155,
+  "start": 469.755,
+  "dur": 2.917,
+  "text": "or liking someone's picture on the internet.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "livingroom",
+  "image": "images/beat_155.png"
+ },
+ {
+  "beat": 156,
+  "start": 472.672,
+  "dur": 4.583,
+  "text": "I mean having a proper conversation with someone you care about.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "coffeeshop",
+  "image": "images/beat_156.png"
+ },
+ {
+  "beat": 157,
+  "start": 477.255,
+  "dur": 1.25,
+  "text": "When was that?",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "livingroom",
+  "image": "images/beat_157.png"
+ },
+ {
+  "beat": 158,
+  "start": 478.505,
+  "dur": 2.083,
+  "text": "To clear some things up,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "livingroom",
+  "image": "images/beat_158.png"
+ },
+ {
+  "beat": 159,
+  "start": 480.588,
+  "dur": 4.167,
+  "text": "there is absolutely nothing wrong with enjoying your own company.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "park",
+  "image": "images/beat_159.png"
+ },
+ {
+  "beat": 160,
+  "start": 484.755,
+  "dur": 4.583,
+  "text": "A lot of people actually enjoy spending time alone, including me.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "park",
+  "image": "images/beat_160.png"
+ },
+ {
+  "beat": 161,
+  "start": 489.338,
+  "dur": 4.583,
+  "text": "But being alone and feeling lonely are not the same thing.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_161.png"
+ },
+ {
+  "beat": 162,
+  "start": 493.921,
+  "dur": 4.167,
+  "text": "You could know hundreds of people and still feel lonely.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "party",
+  "image": "images/beat_162.png"
+ },
+ {
+  "beat": 163,
+  "start": 498.088,
+  "dur": 4.167,
+  "text": "Or have just two or three people in your life",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "coffeeshop",
+  "image": "images/beat_163.png"
+ },
+ {
+  "beat": 164,
+  "start": 502.255,
+  "dur": 1.667,
+  "text": "and feel deeply connected.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "coffeeshop",
+  "image": "images/beat_164.png"
+ },
+ {
+  "beat": 165,
+  "start": 503.922,
+  "dur": 4.167,
+  "text": "What matters is the connection, not the number of people.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_165.png"
+ },
+ {
+  "beat": 166,
+  "start": 508.089,
+  "dur": 3.75,
+  "text": "And this isn't just about how you feel emotionally.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "livingroom",
+  "image": "images/beat_166.png"
+ },
+ {
+  "beat": 167,
+  "start": 511.839,
+  "dur": 4.583,
+  "text": "Research has linked loneliness and social isolation to poorer physical health.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "body",
+  "image": "images/beat_167.png"
+ },
+ {
+  "beat": 168,
+  "start": 516.422,
+  "dur": 2.917,
+  "text": "One large review found that social isolation",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "lab",
+  "image": "images/beat_168.png"
+ },
+ {
+  "beat": 169,
+  "start": 519.339,
+  "dur": 5.0,
+  "text": "was associated with a 29% higher likelihood of death during the studies,",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "graphic",
+  "image": "images/beat_169.png"
+ },
+ {
+  "beat": 170,
+  "start": 524.339,
+  "dur": 3.333,
+  "text": "while loneliness was associated with a 26% increase.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_170.png"
+ },
+ {
+  "beat": 171,
+  "start": 527.672,
+  "dur": 2.917,
+  "text": "That doesn't mean spending a weekend alone",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "livingroom",
+  "image": "images/beat_171.png"
+ },
+ {
+  "beat": 172,
+  "start": 530.589,
+  "dur": 2.917,
+  "text": "is going to shorten your life spontaneously.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "livingroom",
+  "image": "images/beat_172.png"
+ },
+ {
+  "beat": 173,
+  "start": 533.506,
+  "dur": 2.917,
+  "text": "And it doesn't mean loneliness directly caused",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_173.png"
+ },
+ {
+  "beat": 174,
+  "start": 536.423,
+  "dur": 2.917,
+  "text": "every health problem observed in those studies.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "lab",
+  "image": "images/beat_174.png"
+ },
+ {
+  "beat": 175,
+  "start": 539.34,
+  "dur": 3.333,
+  "text": "But it does show that our social connections",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_175.png"
+ },
+ {
+  "beat": 176,
+  "start": 542.673,
+  "dur": 3.333,
+  "text": "deserve more attention than we sometimes give them.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_176.png"
+ },
+ {
+  "beat": 177,
+  "start": 546.006,
+  "dur": 3.333,
+  "text": "When we think about living a healthy life,",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "graphic",
+  "image": "images/beat_177.png"
+ },
+ {
+  "beat": 178,
+  "start": 549.339,
+  "dur": 2.917,
+  "text": "we usually think about food, exercise, sleep",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_178.png"
+ },
+ {
+  "beat": 179,
+  "start": 552.256,
+  "dur": 2.5,
+  "text": "and maybe taking our supplements regularly.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "kitchen",
+  "image": "images/beat_179.png"
+ },
+ {
+  "beat": 180,
+  "start": 554.756,
+  "dur": 4.583,
+  "text": "But what about the friends we haven't spoken to in months?",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "livingroom",
+  "image": "images/beat_180.png"
+ },
+ {
+  "beat": 181,
+  "start": 559.339,
+  "dur": 3.75,
+  "text": "Or the family members we keep meaning to call?",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "livingroom",
+  "image": "images/beat_181.png"
+ },
+ {
+  "beat": 182,
+  "start": 563.089,
+  "dur": 4.167,
+  "text": "No need to panic if you are a shy person.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "livingroom",
+  "image": "images/beat_182.png"
+ },
+ {
+  "beat": 183,
+  "start": 567.256,
+  "dur": 2.5,
+  "text": "Improving your social connections doesn't mean",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_183.png"
+ },
+ {
+  "beat": 184,
+  "start": 569.756,
+  "dur": 3.333,
+  "text": "becoming the most outgoing person in the room.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "party",
+  "image": "images/beat_184.png"
+ },
+ {
+  "beat": 185,
+  "start": 573.089,
+  "dur": 2.917,
+  "text": "You could reconnect with an old friend,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "coffeeshop",
+  "image": "images/beat_185.png"
+ },
+ {
+  "beat": 186,
+  "start": 576.006,
+  "dur": 2.083,
+  "text": "spend more time with family,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "familykitchen",
+  "image": "images/beat_186.png"
+ },
+ {
+  "beat": 187,
+  "start": 578.089,
+  "dur": 1.25,
+  "text": "join a club",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "club",
+  "image": "images/beat_187.png"
+ },
+ {
+  "beat": 188,
+  "start": 579.339,
+  "dur": 3.75,
+  "text": "or start a hobby that involves meeting other people.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "club",
+  "image": "images/beat_188.png"
+ },
+ {
+  "beat": 189,
+  "start": 583.089,
+  "dur": 4.583,
+  "text": "Or simply make more time for the relationships you already have.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "livingroom",
+  "image": "images/beat_189.png"
+ },
+ {
+  "beat": 190,
+  "start": 587.672,
+  "dur": 4.583,
+  "text": "Now think about how your day went today. Or even yesterday.",
+  "voice": "NARRATOR",
+  "motion": "fade",
+  "scene": "graphic",
+  "image": "images/beat_190.png"
+ },
+ {
+  "beat": 191,
+  "start": 592.255,
+  "dur": 3.333,
+  "text": "You brushed your teeth, ate, went to work,",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_191.png"
+ },
+ {
+  "beat": 192,
+  "start": 595.588,
+  "dur": 4.583,
+  "text": "spent some time on your phone, and eventually went to bed.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "graphic",
+  "image": "images/beat_192.png"
+ },
+ {
+  "beat": 193,
+  "start": 600.171,
+  "dur": 1.25,
+  "text": "Nothing unusual, right?",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "livingroom",
+  "image": "images/beat_193.png"
+ },
+ {
+  "beat": 194,
+  "start": 601.421,
+  "dur": 4.583,
+  "text": "And that's exactly why these habits are so easy to overlook.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "graphic",
+  "image": "images/beat_194.png"
+ },
+ {
+  "beat": 195,
+  "start": 606.004,
+  "dur": 2.5,
+  "text": "True, these habits do not mean",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "livingroom",
+  "image": "images/beat_195.png"
+ },
+ {
+  "beat": 196,
+  "start": 608.504,
+  "dur": 2.917,
+  "text": "that something terrible will happen to you.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_196.png"
+ },
+ {
+  "beat": 197,
+  "start": 611.421,
+  "dur": 2.917,
+  "text": "But the things you repeat every day",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "graphic",
+  "image": "images/beat_197.png"
+ },
+ {
+  "beat": 198,
+  "start": 614.338,
+  "dur": 3.75,
+  "text": "can build up and influence your health over time.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_198.png"
+ },
+ {
+  "beat": 199,
+  "start": 618.088,
+  "dur": 4.583,
+  "text": "Improving your health isn't always about making one massive lifestyle change.",
+  "voice": "NARRATOR",
+  "motion": "pull",
+  "scene": "graphic",
+  "image": "images/beat_199.png"
+ },
+ {
+  "beat": 200,
+  "start": 622.671,
+  "dur": 5.417,
+  "text": "It's about paying attention to what you're already doing and doing them well.",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "park",
+  "image": "images/beat_200.png"
+ },
+ {
+  "beat": 201,
+  "start": 628.088,
+  "dur": 4.583,
+  "text": "Which of these five habits caught you off guard the most?",
+  "voice": "NARRATOR",
+  "motion": "push",
+  "scene": "graphic",
+  "image": "images/beat_201.png"
+ },
+ {
+  "beat": 202,
+  "start": 632.671,
+  "dur": 1.667,
+  "text": "I'd love to know.",
+  "voice": "NARRATOR",
+  "motion": "pan",
+  "scene": "phone",
+  "image": "images/beat_202.png"
+ }
+]

@@ -18,7 +18,7 @@ ORGAN_STYLE = (
     "eyes, dark pupils, expressive dark eyebrows, small expressive mouths and thin dark rubber-hose arms and legs with small rounded hands and small brown shoes; "
     "every organ in its true natural anatomical colour, never recoloured; bright, clear and friendly; no gore, open wounds, blood splatter or nudity; light, "
     "curious, gently comic tone; any on-screen words limited to the ones given in quotes; static 16:9 frame; bottom-right corner kept clear")
-ORGAN_SCENES = {'body', 'blood', 'brainhq'}
+ORGAN_SCENES = {'body', 'blood', 'brainhq', 'mouth'}
 
 FIG = ("a chunky rounded cartoon person with smooth deep matte-black skin and face, large white oval eyes with black pupils, thick white eyebrows "
        "and full arms, legs and dark rounded hands")
@@ -39,6 +39,8 @@ CAST = {
     'COWORKER': f"your coworker ({FIG}, auburn hair in a high round bun, a tailored coral blazer over a crisp white blouse, slim grey trousers and black heels)",
     'DOCTOR': f"a friendly doctor ({FIG}, short grey hair, white rectangular glasses, a white coat over a sky-blue shirt and a silver stethoscope)",
     'RESEARCHER': f"a researcher ({FIG}, a neat dark-purple bob, round white glasses and a white lab coat, holding a clipboard)",
+    'FRIEND': f"your old friend ({FIG}, long box braids tied back, a mustard-yellow denim jacket over a white T-shirt and blue jeans)",
+    'MUM': f"your mum ({FIG}, short grey curly hair, round gold-rimmed glasses, a lavender cardigan over a cream blouse)",
 }
 
 ORGAN = ("a flat cartoon organ character with a thick dark-plum outline, big round white eyes with dark pupils, expressive dark eyebrows, a small mouth and "
@@ -52,8 +54,22 @@ ORGANS = {
     'HEART': f"Heart ({ORGAN}: a heart in its natural deep red with a short blue artery on top, calm half-lidded eyes)",
     'LIVER': f"Liver ({ORGAN}: a wedge-shaped liver in its natural reddish brown, droopy tired eyelids, holding a tiny white coffee mug)",
     'LUNGS': f"Lungs ({ORGAN}: a pair of lungs in their natural light pink with soft spongy texture, sharing one long sky-blue scarf)",
+    'TOOTH': f"Tooth ({ORGAN}: a single molar in its natural ivory-white enamel with its natural coral-pink gum around the base, wearing a tiny blue sailor cap)",
     'KIDNEYS': f"Kidneys ({ORGAN}: a pair of bean-shaped kidneys in their natural reddish brown, wearing small yellow rubber gloves)",
 }
 
 def style_for(scene):
     return ORGAN_STYLE if scene in ORGAN_SCENES else PEOPLE_STYLE
+
+# Scenes any episode can reuse unchanged (name: (setting, lighting)). Episodes add their own on top.
+SCENES = {
+ 'office': ("a modern open-plan office with desks, a laptop, a monitor, a coffee mug, sticky notes, a potted plant and a wall clock", "soft even daylight, pale afternoon tint"),
+ 'body': ("a glowing white human body outline on a light sky-blue background with soft light rays, the organs placed inside in their natural positions and natural colours: peachy-pink stomach, salmon-pink small intestine, dusty-pink large intestine, pale creamy-yellow pancreas, reddish-brown liver, red heart, light pink lungs", "bright even light, fresh sky-blue glow"),
+ 'brainhq': ("the inside of your head drawn as a bright, tidy control room with white walls, dials, levers, blinking screens and a big gauge labelled \"ALERTNESS\"", "bright even light, fresh sky-blue tint"),
+ 'blood': ("inside the body: a soft pink fleshy tissue background with lighter wavy vein lines, and a red blood vessel pipe running across with natural red blood cells and small white sugar cubes flowing through it", "bright even light, warm pink tint"),
+ 'graphic': ("a clean white infographic background with simple flat icons in bright colours", "bright even light, clean white"),
+ 'clockgfx': ("a large circular 24-hour clock graphic with a sun and a moon on its face, on a clean white background", "bright even light, clean white"),
+ 'bedroom': ("a dark modern bedroom at night with a rumpled bed, a glowing phone and a bedside clock", "dark blue night light with a bright phone glow on the face"),
+ 'phone': ("a smartphone held in front of a softly blurred office background", "soft screen glow, white tint"),
+ 'mouth': ("inside the mouth: neat rows of teeth in their natural ivory-white enamel set in natural coral-pink gums, a pink tongue below, soft pink background", "bright even light, warm pink tint"),
+}

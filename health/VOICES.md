@@ -33,6 +33,7 @@ The narrator carries every episode. Now and then an organ speaks a line of its o
 | LUNGS | "In… and out. Nice and slow." |
 | KIDNEYS | "Clean-up crew, on it." |
 | IMMUNE CELLS | "Intruder spotted. Squad, move." |
+| TOOTH | "Gently, please. This enamel doesn't grow back." |
 
 ## Cast
 
@@ -43,6 +44,7 @@ The narrator carries every episode. Now and then an organ speaks a line of its o
 | **BRAIN** | Clear, slightly higher and quicker than the narrator; precise; a hint of overthinking | The control-room manager, always monitoring | — |
 | **INTESTINES** | Mid pitch, quick and chatty; upbeat multitasker | Always busy sorting and absorbing | — |
 | **PANCREAS** | Light, polite, measured, precise; like a careful accountant | Quietly keeps the sugar books balanced | — |
+| **TOOTH** | Bright, clean, slightly prim; a touch higher than the narrator | Proud of its shine, easily sensitive | — |
 | **HEART** | Deep, steady, calm, even rhythm; reassuring | Reliable, never rushes | — |
 | **LIVER** | Low-mid, slow, dry and a little weary; unflappable | The overworked filter that has seen it all | — |
 | **LUNGS** | Soft, airy, unhurried; gentle breaths between phrases (natural, not exaggerated) | Calm and patient | — |

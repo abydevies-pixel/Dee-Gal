@@ -1,0 +1,202 @@
+1|graphic|W|curious|a simple illustrated day timeline from sunrise to moonrise with small icons of a toothbrush, a plate, a desk, a phone and a bed
+2|bathroom|M|routine|{YOU} yawning at the bathroom mirror with a toothbrush in hand
+3|graphic|M|routine|three small panels in a row: {YOU} at an office desk, {YOU} walking through a front door, and {YOU:bed} flopping onto a bed
+4|livingroom|M|relaxed|{YOU} shrugging on the couch with a carefree smile
+5|graphic|C|intrigue|a big magnifying glass hovering over the day-timeline icons
+6|bathroom|M|ominous|{YOU} brushing cheerfully while a faint shadow of a warning sign falls across the mirror
+7|graphic|M|ominous|a balance scale tipping toward a red side labelled "HARM", away from a green side labelled "GOOD"
+8|clockgfx|W|upbeat|the 24-hour clock with a bright sunrise glowing at 7 a.m.
+9|graphic|M|explanatory|five icons in a row numbered 1 to 5: a toothbrush, a fork, a desk chair, a phone and two speech bubbles
+10|graphic|M|hopeful|the five numbered icons, each with a small green tick popping up beside it
+11|bathroom|W|cheerful|sunlight streaming into the bathroom, a small wall calendar showing "THURSDAY"
+12|bathroom|M|routine|{YOU} squeezing a stripe of toothpaste onto a toothbrush at the sink
+13|bathroom|M|nostalgic|a thought bubble above {YOU} showing a small child version of you brushing beside a smiling parent
+14|bathroom|C|comic|{YOU} brushing furiously, foam flying, elbow pumping like a piston
+15|bathroom|C|determined|{YOU} brushing in the mirror with a fierce frown, the toothbrush bristles splayed flat
+16|bathroom|C|deadpan|{YOU} freezing mid-brush with foam on the lips and one eyebrow raised
+17|mouth|M|explanatory|a giant toothbrush scrubbing hard across a row of teeth, speed lines everywhere
+18|mouth|C|explanatory|{TOOTH} wincing as a worn, slightly dull patch appears on its enamel near the gumline
+19|mouth|C|explanatory|the gum around {TOOTH} looking sore and a little redder than its natural coral pink, {TOOTH} flinching
+20|mouth|M|explanatory|the gumline slowly sliding down around a row of teeth, a small curved arrow showing it receding
+21|mouth|C|explanatory|{TOOTH} looking embarrassed as the pale-yellow root below its enamel is now showing above the gum
+22|mouth|C|uncomfortable|{TOOTH} shivering, small zigzag lines around it
+23|kitchen|C|comic|{YOU} biting into an ice lolly and wincing hard, small lightning lines around the mouth
+24|graphic|M|serious|a split frame: on the left a small scraped knee healing under a plaster with a green tick; on the right a worn tooth with a regrowth arrow crossed out
+25|bathroom|C|comic|a toothbrush standing ominously in its cup under a dramatic spotlight, casting a long sinister shadow
+26|bathroom|M|reassuring|{YOU} holding the toothbrush up and examining it thoughtfully
+27|bathroom|C|explanatory|a toothbrush with soft, rounded bristles and a small tag reading "SOFT"
+28|bathroom|C|calm|{YOU} holding the toothbrush lightly between the fingertips, like a pencil
+29|mouth|M|calm|a toothbrush making small gentle circles along the gumline with tiny circular arrows, {TOOTH} smiling
+30|bathroom|M|explanatory|{YOU} holding a sleek white electric toothbrush
+31|bathroom|C|comic|the electric toothbrush glowing with a small red warning light while {YOU} looks startled
+32|bathroom|M|cheerful|{YOU} flashing a bright, clean smile at the mirror
+33|bathroom|C|panic|{YOU} spotting a wall clock reading 7:45 and panicking, toothbrush still in the mouth
+34|kitchen|M|rushed|{YOU} hurrying into the kitchen while knotting the tie, a briefcase in the other hand
+35|kitchen|M|transition|a plate of eggs and toast on the kitchen table under a soft spotlight
+36|kitchen|M|curious|{YOU} staring at a suddenly empty plate, crumbs still flying
+37|kitchen|C|blank|{YOU} with a blank face and a small question mark, fork still raised
+38|office|M|rushed|{YOU} eating at the desk with a fork in one hand and a pen in the other
+39|kitchen|M|distracted|{YOU} eating while staring at a phone, a forkful of food missing the mouth
+40|kitchen|C|comic|{YOU} with huge hungry eyes locked on a full plate, a rumble line across the belly
+41|kitchen|M|neutral|{YOU} picking up the fork and diving in
+42|kitchen|C|fast|{YOU} shovelling food in at top speed, the fork a motion blur
+43|kitchen|TD|deadpan|top-down view of a completely clean, empty plate and a fork
+44|kitchen|M|comic|{YOU} wearing a small gold medal while confetti falls, a stopwatch on the table reading "0:58"
+45|kitchen|C|ominous|the stopwatch on the table as the confetti settles, {YOU} with a fading smile in the background
+46|body|M|explanatory|{STOMACH} sending glowing envelope icons up a nerve line toward {BRAIN}
+47|body|C|explanatory|{STOMACH} holding up a fullness meter with its needle rising
+48|body|M|comic|the glowing envelopes crawling slowly up a long winding nerve line while {BRAIN} taps its foot, waiting
+49|kitchen|M|explanatory|{YOU} still eating fast while a small loading bar floats above the head
+50|brainhq|M|comic|{BRAIN} in the control room only just opening a message card reading "FULL" while a fullness gauge is already past the top
+51|kitchen|C|comic|{YOU} slumped back in the chair, belly rounded, eyes wide
+52|kitchen|M|reassuring|{YOU} relaxed after a quick meal, a small green tick beside the head
+53|graphic|M|explanatory|a weekly calendar with a fast-forward icon on every meal, an arrow leading from it to a bathroom scale
+54|kitchen|C|ominous|{YOU} looking up warily as a second warning sign pops up beside the plate
+55|kitchen|M|rushed|{YOU} gulping food down quickly
+56|body|M|explanatory|small air bubbles travelling down the food pipe into {STOMACH} alongside the food, {STOMACH} looking surprised
+57|body|C|comic|{STOMACH} puffed up like a balloon with air bubbles, looking uncomfortable
+58|kitchen|M|serious|{YOU} pausing with a hand at the throat after an oversized bite, a small caution sign floating beside the head
+59|kitchen|M|thoughtful|{YOU} looking down thoughtfully at a breakfast plate
+60|kitchen|M|comic|{YOU} sitting at the table as the window behind changes from morning to evening, still on the same plate
+61|kitchen|C|comic|{YOU} slowly lifting one single pea on a fork while the wall clock spins
+62|kitchen|M|calm|{YOU} setting the fork down between bites, shoulders relaxed
+63|kitchen|C|calm|{YOU} taking a small bite and chewing calmly
+64|kitchen|M|content|{YOU} leaning back contentedly with a little food left, a fullness gauge pointing at "SATISFIED"
+65|kitchen|M|upbeat|{YOU} grabbing a briefcase and heading out the front door
+66|office|W|ominous|{YOU} arriving at the office desk, the chair waiting with a faint ominous glow
+67|office|M|still|{YOU} sitting at the desk as the wall clock hands sweep round, a cobweb forming on the chair arm
+68|office|C|direct|{YOU} at the desk turning to look straight at the viewer
+69|office|M|curious|the desk chair with a glowing outline and a small timer floating above it
+70|office|M|comic|three small panels of {YOU} in exactly the same pose, with wall clocks reading 10:00, 12:00 and 3:00
+71|office|M|reassuring|{YOU} sitting comfortably with good posture, a small green tick beside the head
+72|office|W|still|{YOU} glued to the chair while coworkers blur past around the desk
+73|office|M|myth|{COWORKER} leaning over the desk divider to whisper, a speech bubble showing a desk chair with a curl of smoke rising from it
+74|graphic|M|curious|a desk chair and a cigarette on either side of a large question mark
+75|graphic|M|myth-busting|the desk chair and the cigarette with a big "≠" sign between them
+76|graphic|M|explanatory|two bars of different heights labelled "SITTING" and "SMOKING"
+77|office|M|serious|{YOU} motionless at the desk beside a small hourglass running down
+78|graphic|M|serious|a chain-link icon joining a desk chair to a doctor's clipboard
+79|body|M|serious|{HEART} looking worried next to a small blood-sugar meter, inside the glowing body outline
+80|graphic|M|serious|a simple life-timeline bar with its end shortened into a dotted section
+81|office|C|wry|{YOU} raising one finger, about to protest
+82|gym|M|proud|{YOU} jogging on a treadmill at dawn, sweating proudly, a wall clock reading 5:00
+83|gym|M|proud|{YOU} wiping sweat away with a towel, a stopwatch beside the treadmill reading "1:00:00"
+84|gym|C|cheerful|{YOU} flexing proudly with a towel around the neck, a gold star sparkle beside the head
+85|gym|M|positive|{YOU} lifting light dumbbells with good form
+86|office|M|still|{YOU} at the desk, a small floating clock reading "8 HOURS"
+87|car|M|still|{YOU} sitting behind the steering wheel in evening traffic
+88|livingroom|M|still|{YOU:work_relaxed} sinking into the couch with the TV remote
+89|graphic|M|explanatory|a day timeline where almost every block is a chair icon and only one small block is a running icon
+90|graphic|M|reassuring|the single running-icon block glowing gold
+91|graphic|M|explanatory|the small gold running block on one side of a balance scale, outweighed by a tall stack of chair blocks
+92|lab|M|curious|{RESEARCHER} reviewing charts at a desk
+93|lab|M|explanatory|a whiteboard chart where one workout bar only partly closes a gap between two lines
+94|clockgfx|M|explanatory|the 24-hour clock with a slice of more than 13 hours shaded and filled with small chair icons
+95|office|C|curious|{YOU} at the desk with palms up, puzzled
+96|office|M|comic|{YOU} marching out of the office carrying a box of desk items, a long walking path stretching ahead
+97|office|C|comic|{YOU} freezing mid-stride with the box, glancing back at the viewer
+98|office|M|comic|{YOU} quietly walking backwards to the desk and putting the box down
+99|office|M|positive|{YOU} standing up from the desk and stretching both arms overhead
+100|office|W|positive|{YOU} strolling a lap of the office past the water cooler
+101|office|M|positive|{YOU} doing a gentle leg stretch beside the desk
+102|stairs|M|positive|{YOU} climbing the stairs, the lift doors closed in the background
+103|office|M|explanatory|{YOU} back at the desk
+104|office|M|explanatory|a small reminder on the monitor reading "BREAK" with a stretching icon, {YOU} glancing at it
+105|office|C|comic|{YOU} about to drop into push-ups beside the desk, then waving the idea away with a laugh
+106|graphic|M|positive|the day timeline now sprinkled with small walking and stretching icons between the chair blocks
+107|office|M|happy|{YOU} jumping up as the wall clock hits 5:00
+108|bedroom_lamp|M|relaxed|{YOU} with a towel around the neck and damp hair, an empty dinner plate on a tray
+109|bedroom_lamp|M|sleepy|{YOU} climbing under the covers with a big yawn
+110|bedroom_lamp|C|ominous|{YOU} pausing under the covers, eyes sliding toward the bedside table
+111|bedroom_lamp|C|dramatic|a smartphone on the bedside table lighting up with a dramatic glow
+112|bedroom|C|neutral|the phone screen showing a news app with headlines drawn as plain grey lines
+113|bedroom|C|neutral|the phone screen showing a grid of video thumbnails as simple coloured blocks with play buttons
+114|bedroom|C|wry|the phone screen showing a tiny version of this very scene, a person in bed watching a phone
+115|bedroom|C|uneasy|{YOU} lit by the phone, face falling
+116|bedroom|C|tense|{YOU} staring intently at the screen, eyes lit by its glow
+117|bedroom|ECU|tense|a thumb flicking up the phone screen
+118|bedroom|C|shock|{YOU} recoiling as a headline with a red warning icon fills the screen
+119|bedroom|C|tense|the phone screen filled with two angry red speech bubbles
+120|bedroom|C|tense|the phone screen showing a bold red "BREAKING" banner
+121|bedroom|M|trapped|{YOU} curled under the covers, thumb still scrolling, a pile of tiny headline cards growing beside the pillow
+122|bedroom|M|explanatory|the words "DOOMSCROLLING" floating above the glowing phone like a title card
+123|graphic|M|explanatory|a phone with a funnel of storm-cloud icons pouring into it
+124|bedroom|C|sad|{YOU} looking drained, a small rain cloud hovering above the head
+125|bedroom|M|explanatory|the bedside clock reading 11:58 beside the glowing phone
+126|graphic|M|explanatory|three numbered icons: a clock, a phone screen giving off light rays, and a storm cloud
+127|graphic|M|explanatory|the clock icon highlighted with a large "1"
+128|bedroom|C|deadpan|{YOU} wide-eyed in the dark, the bedside clock now reading 1:12
+129|graphic|M|explanatory|a night bar running from 11 p.m. to 7 a.m. with a large bite taken out of it
+130|graphic|M|explanatory|the missing bite of the night bar filled with tiny phone icons
+131|bedroom|C|explanatory|the phone screen glowing brightly in the dark room, a large "2" beside it
+132|bedroom|C|explanatory|soft blue light rays streaming from the phone onto the face of {YOU}
+133|brainhq|M|explanatory|{BRAIN} in the control room as blue light beams in through a window, a dial labelled "MELATONIN" dropping
+134|clockgfx|M|explanatory|the 24-hour clock with a small moon on the night side and a droplet icon labelled "MELATONIN"
+135|bedroom|C|explanatory|the phone screen full of storm-cloud headline icons, a large "3" beside it
+136|bedroom|M|tense|{YOU} lying stiffly in bed with the phone held above the face
+137|bedroom|C|tense|small storm clouds and red headline cards floating from the phone into a thought bubble above {YOU}
+138|bedroom|C|tense|three small inset panels of {YOU} looking worried, angry and upset
+139|bedroom|M|restless|{YOU} staring at the ceiling with the phone face-down, the ceiling crowded with swirling headline thoughts
+140|bedroom|M|restless|{YOU} tossing and turning in tangled sheets, the clock reading 2:30
+141|office|M|tired|{YOU} at the desk with heavy eyes and a coffee, the screen blurred
+142|office|M|irritable|{YOU} glaring at a ringing desk phone, a small storm cloud above the head
+143|graphic|M|serious|a calendar of many nights, each marked with a short sleep bar
+144|body|M|serious|{HEART} straining beside a blood-pressure gauge with its needle in the red zone
+145|bedroom_lamp|C|hopeful|{YOU} sitting up in bed in warm lamplight, thinking
+146|bedroom_lamp|M|calm|{YOU} placing the phone on a charger across the room, the clock reading 10:00
+147|bedroom_lamp|C|calm|{YOU} holding the phone, thumb hovering thoughtfully over the screen
+148|bedroom_lamp|M|calm|the phone screen showing a calm scene of gentle waves under a moon
+149|bedroom_lamp|C|peaceful|{YOU} smiling softly as the storm cloud above the head dissolves
+150|bedroom_lamp|M|transition|{YOU} drifting off to sleep in soft lamplight
+151|graphic|M|explanatory|the first four habit icons, each tagged "TOO MUCH"
+152|graphic|M|reveal|the fifth icon, two speech bubbles, glowing and tagged "NOT ENOUGH"
+153|livingroom|M|reflective|{YOU} sitting alone on the couch looking at an old photo of friends laughing together
+154|livingroom|C|explanatory|{YOU} tapping out a quick reply in a work chat on the phone
+155|livingroom|C|explanatory|a thumb tapping a heart icon under a photo on a phone screen
+156|coffeeshop|M|warm|{YOU} and {FRIEND} laughing together across a café table with two coffee cups
+157|livingroom|C|reflective|{YOU} scrolling a phone contact list, thinking hard
+158|livingroom|M|reassuring|{YOU} holding up one hand calmly
+159|park|M|peaceful|{YOU} reading a book alone on a park bench, smiling
+160|park|W|peaceful|several people around the park each happily doing something alone: reading, painting, jogging, feeding ducks
+161|graphic|M|explanatory|a split frame: on the left {YOU:weekend} happily alone with a book, labelled "ALONE"; on the right {YOU:weekend} looking sad in the middle of a crowd, labelled "LONELY"
+162|party|W|lonely|{YOU} standing alone in the middle of a crowded party, everyone else chatting in groups
+163|coffeeshop|M|warm|{YOU} sharing a café table with {FRIEND} and {MUM}
+164|coffeeshop|C|warm|{YOU} laughing warmly, soft glowing threads linking you to the two people beside you
+165|graphic|M|explanatory|a large crowd icon joined by a thin, dim line, beside two person icons joined by a bright, thick line
+166|livingroom|M|thoughtful|{YOU} alone on the couch with a small rain cloud above the head
+167|body|M|serious|{HEART} sitting alone and looking glum inside the glowing body outline
+168|lab|M|explanatory|{RESEARCHER} looking through a thick stack of research papers
+169|graphic|M|serious|a bar labelled "SOCIAL ISOLATION" with a "+29%" tag
+170|graphic|M|serious|a second bar labelled "LONELINESS" with a "+26%" tag, beside the first
+171|livingroom|M|reassuring|{YOU} relaxing alone at home with a book and a cup of tea
+172|livingroom|C|comic|{YOU} peeking nervously at a wall calendar, then relaxing as a big green tick appears
+173|graphic|M|explanatory|an arrow from a lonely-person icon to a heart icon with a question mark on it and the word "CAUSE?"
+174|lab|M|explanatory|{RESEARCHER} pointing at a chart of many tangled arrows labelled "MANY FACTORS"
+175|graphic|M|warm|a web of person icons joined by glowing lines
+176|graphic|M|warm|the glowing web of connections added to a health checklist
+177|graphic|M|explanatory|a health checklist on a clipboard
+178|graphic|M|explanatory|the checklist with ticks beside a salad, a dumbbell and a bed
+179|kitchen|C|explanatory|{YOU:weekend} taking a vitamin from a pill organiser with a glass of water
+180|livingroom|C|wistful|{YOU} scrolling to a friend's name in the phone, the last message dated months ago
+181|livingroom|C|wistful|a fridge with a sticky note reading "CALL MUM" curling at the edges
+182|livingroom|M|reassuring|{YOU} peeking shyly from behind a cushion
+183|graphic|M|explanatory|a stage spotlight shining on a microphone in front of a big crowd, crossed out
+184|party|M|comic|{YOU} picturing being the life of the party, standing on a table with a microphone, looking alarmed at the idea
+185|coffeeshop|M|warm|{YOU} hugging {FRIEND} at the café door
+186|familykitchen|M|warm|{YOU} cooking together with {MUM}, both laughing
+187|club|M|friendly|{YOU} at a board-game club in a community hall, laughing with new people
+188|club|M|friendly|{YOU} at a community pottery class beside other learners, hands covered in clay
+189|livingroom|M|warm|{YOU} on a cosy video call with {MUM}, both smiling
+190|graphic|W|reflective|the day timeline from the start of the video, its icons glowing softly
+191|graphic|M|reflective|a strip of three small panels: {YOU:bed} brushing, {YOU} eating breakfast, {YOU} at a desk
+192|graphic|M|reflective|a strip of two small panels: {YOU:bed} scrolling a phone in bed, then {YOU:bed} asleep
+193|livingroom|C|wry|{YOU} shrugging with a raised eyebrow
+194|graphic|M|reveal|the five habit icons hiding in plain sight among ordinary everyday objects
+195|livingroom|M|reassuring|{YOU} relaxed on the couch, a calm green tick beside the head
+196|graphic|M|reassuring|a dramatic disaster icon crossed out
+197|graphic|M|explanatory|small daily habit icons stacking up day after day into a tall tower
+198|graphic|M|explanatory|the tall tower of habit icons tipping a health scale to one side
+199|graphic|M|explanatory|a giant boulder labelled "ONE MASSIVE CHANGE" crossed out, beside a row of small pebbles with green ticks
+200|park|W|uplifting|{YOU} walking happily through the park in the sunshine, phone in a pocket, waving to {FRIEND} on a bench
+201|graphic|M|playful|the five numbered habit icons in a row with a big question mark above them
+202|phone|C|inviting|a smartphone showing a comment section with empty comment bubbles and a blinking cursor

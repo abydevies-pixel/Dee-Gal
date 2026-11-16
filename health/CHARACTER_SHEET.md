@@ -45,13 +45,13 @@ The references guide the art style. The channel's characters have their own acce
 
 | Scenario | Outfit | Used in |
 |---|---|---|
-| Work | a formal work outfit: a fitted navy suit jacket and trousers, a crisp white shirt, a sky-blue tie and polished black shoes | ep01 |
-| Work Relaxed | the formal work outfit with the suit jacket off and the tie loosened: crisp white shirt, sky-blue tie, navy trousers and black shoes | ep01 |
-| Bed | plain sky-blue pyjamas | ep01 |
-| Gym | a leaf-green T-shirt, black joggers and white trainers | — |
+| Work | a formal work outfit: a fitted navy suit jacket and trousers, a crisp white shirt, a sky-blue tie and polished black shoes | ep01, ep02 |
+| Work Relaxed | the formal work outfit with the suit jacket off and the tie loosened: crisp white shirt, sky-blue tie, navy trousers and black shoes | ep01, ep02 |
+| Bed | plain sky-blue pyjamas | ep01, ep02 |
+| Gym | a leaf-green T-shirt, black joggers and white trainers | ep02 |
 | Rain | a sunny-yellow raincoat with the hood up, dark jeans and white trainers | — |
 | Hospital | a pale-blue patient gown and grey slippers | — |
-| Weekend | a coral T-shirt, blue jeans and white trainers | — |
+| Weekend | a coral T-shirt, blue jeans and white trainers | ep02 |
 
 ### Recurring cast
 
@@ -60,6 +60,8 @@ The references guide the art style. The channel's characters have their own acce
 | **Coworker** | large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands, auburn hair in a high round bun, a tailored coral blazer over a crisp white blouse, slim grey trousers and black heels |
 | **Doctor** | large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands, short grey hair, white rectangular glasses, a white coat over a sky-blue shirt and a silver stethoscope |
 | **Researcher** | large white oval eyes with black pupils, thick white eyebrows and full arms, legs and dark rounded hands, a neat dark-purple bob, round white glasses and a white lab coat, holding a clipboard |
+| **Old friend** | Long box braids tied back, a mustard-yellow denim jacket over a white T-shirt and blue jeans (first used ep02) |
+| **Mum** | Short grey curly hair, round gold-rimmed glasses, a lavender cardigan over a cream blouse (first used ep02) |
 | **Pizza volunteers** (ep01 only) | Lanky man with a thin grey moustache in a sky-blue T-shirt; stocky bald man with a short grey beard in a leaf-green T-shirt |
 | **Ayurvedic physician** (ep01 only) | Neat white beard, small saffron mark on the forehead, white cotton kurta with a cream shawl |
 
@@ -73,7 +75,8 @@ The references guide the art style. The channel's characters have their own acce
 | **Brain** | Soft pinkish grey with clear folds | Slim black headset with mic | Control-room manager, overthinker | Clear, slightly higher and quicker; precise | ep01 |
 | **Pancreas** | Long, slightly lumpy, pale creamy yellow-pink | Round reading glasses, pencil | Careful accountant of blood sugar | Light, polite, measured | ep01 |
 | **Intestines** | Coiled small intestine in salmon pink, framed by a deeper dusty-pink large intestine | Small orange hard hat | Non-stop worker | Quick, chatty, upbeat | ep01 |
-| **Heart** | Deep red, short blue artery on top | — (calm half-lidded eyes) | Steady and reliable | Deep, steady, calm | — |
+| **Tooth** | A single molar, natural ivory-white enamel, natural coral-pink gum at the base | Tiny blue sailor cap | Proud of its shine, a bit sensitive | Bright, clean, slightly prim | ep02 |
+| **Heart** | Deep red, short blue artery on top | — (calm half-lidded eyes) | Steady and reliable | Deep, steady, calm | ep02 |
 | **Liver** | Wedge shape, reddish brown | Tiny white coffee mug, droopy eyelids | Overworked filter that has seen it all | Low-mid, slow, dry, a little weary | — |
 | **Lungs** | A pair, light pink, spongy texture | One shared long sky-blue scarf | Calm and patient | Soft, airy, unhurried | — |
 | **Kidneys** | A pair of beans, reddish brown | Small yellow rubber gloves | Neat cleaners | Brisk, tidy, matter-of-fact | — |
