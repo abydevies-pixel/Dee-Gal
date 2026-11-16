@@ -57,7 +57,7 @@
 57|body|C|comic|{STOMACH} puffed up like a balloon with air bubbles, looking uncomfortable
 58|kitchen|M|serious|{YOU} pausing with a hand at the throat after an oversized bite, a small caution sign floating beside the head
 59|kitchen|M|thoughtful|{YOU} looking down thoughtfully at a breakfast plate
-60|kitchen|M|comic|{YOU} sitting at the table as the window behind changes from morning to evening, still on the same plate
+60|kitchen|M|comic|{YOU} sitting at the table as the window behind changes from early sunrise to bright midday and the wall clock from 7:00 to 12:00, still on the same plate
 61|kitchen|C|comic|{YOU} slowly lifting one single pea on a fork while the wall clock spins
 62|kitchen|M|calm|{YOU} setting the fork down between bites, shoulders relaxed
 63|kitchen|C|calm|{YOU} taking a small bite and chewing calmly

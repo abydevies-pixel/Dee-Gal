@@ -58,7 +58,7 @@ beat,start,end,duration_s,voice,motion,scene,image,script_segment
 57,00:03:00.836,00:03:04.169,3.333,NARRATOR,pan,body,images/beat_057.png,which can leave you feeling bloated and uncomfortable.
 58,00:03:04.169,00:03:09.169,5.0,NARRATOR,push,kitchen,images/beat_058.png,"Also, taking large bites without chewing properly increases the risk of choking."
 59,00:03:09.169,00:03:14.169,5.0,NARRATOR,pull,kitchen,images/beat_059.png,"So yes, even something as ordinary as eating breakfast deserves more attention."
-60,00:03:14.169,00:03:17.919,3.75,NARRATOR,push,kitchen,images/beat_060.png,I'm not asking you to spend an entire afternoon
+60,00:03:14.169,00:03:17.919,3.75,NARRATOR,push,kitchen,images/beat_060.png,I'm not asking you to spend an entire morning
 61,00:03:17.919,00:03:20.002,2.083,NARRATOR,push,kitchen,images/beat_061.png,eating one plate of food.
 62,00:03:20.002,00:03:21.252,1.25,NARRATOR,pan,kitchen,images/beat_062.png,Just slow down.
 63,00:03:21.252,00:03:23.335,2.083,NARRATOR,push,kitchen,images/beat_063.png,"Take smaller bites, chew properly,"
