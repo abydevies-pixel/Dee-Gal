@@ -1,0 +1,311 @@
+1|cheapside|W|establishing|{MOTHER} holding {BABY} at an upstairs window above a candle shop, a 1563 calendar page floating above London
+2|cheapside|W|bustling|crowded Cheapside with timber houses, market stalls, carts and church spires
+3|cheapside|M|cozy|a candle shop front with bundles of candles hanging in the window, living quarters above
+4|shop|M|cozy|the shop interior with smoke curling from tallow pots and racks of drying candles, smell lines rising
+5|shop|M|warm|rows of candles of every size hanging from wooden racks, {FATHER} dipping wicks
+6|shop|M|historical|insets of candles in a church, a tavern and a rich hall
+7|shop|C|character intro|close-up of {FATHER}'s quiet, kind face
+8|shop|C|character intro|{FATHER} dipping candles carefully, small burn marks on the stick ends of his arms
+9|shop|C|wholesome|{FATHER} nodding contentedly over a neat row of finished candles
+10|home|M|character intro|{MOTHER} sewing quickly by a window
+11|home|C|ambitious|{MOTHER} looking up from her sewing with a determined glint, a thought bubble of a grand house
+12|home|C|ambitious|a thought bubble of a fine lady in silk, crossed with the mother's plain workshop
+13|queen1562|M|ominous|a royal bed with curtains drawn, doctors whispering, a calendar reading 1562
+14|queen1562|M|historical|{QUEENYOUNG} feverish in bed, a few small spots on her cheeks
+15|queen1562|C|historical, non-graphic|{QUEENYOUNG} recovering, sitting up, faint marks across her cheeks
+16|queen1562|M|historical|{QUEENYOUNG} at a mirror dabbing white paint over her face
+17|queen1562|C|historical|{QUEENYOUNG} with a perfect, smooth white painted face, nodding approvingly
+18|cheapside|W|fashion|a street of women all with white painted faces, admiring themselves in hand mirrors
+19|cheapside|M|fashion|a row of women copying a portrait of the Queen, painting their faces white
+20|home|M|innocent|{BABY} gurgling in a cradle, unaware
+21|cheapside|M|playful|{YOU5} skipping past the shop, laughing
+22|cheapside|M|playful|{YOU5} chasing a scruffy dog down Cheapside, bonnet flapping
+23|shop|M|comic|{YOU5} sneaking candle stubs off {FATHER}'s bench while he pretends not to see
+24|churchyard|M|energetic|{YOU8} scrambling up a stone churchyard wall
+25|churchyard|M|triumphant|{YOU8} sitting on top of the wall while two boys struggle below
+26|cheapside|W|sunny|{YOU8} playing in the sunny street, arms spread wide
+27|cheapside|M|comic|{YOU8} laughing loudly, neighbours leaning out of windows shushing her
+28|cheapside|M|comic|an old neighbour holding a finger to her lips at a window
+29|cheapside|C|cute|close-up of {YOU8}'s face covered in freckles
+30|cheapside|C|cute|an inset of freckles across a nose, cheeks and a stick arm
+31|shop|M|tender|{FATHER} pointing at {YOU8}'s freckles, both smiling, a small heart floating
+32|shop|M|cozy|{YOU8} sitting at the workbench beside {FATHER}
+33|shop|M|cozy|{YOU8} dipping a wick into a pot of hot tallow
+34|shop|C|tender|{FATHER} squinting and counting the freckles on {YOU8}'s nose, numbers floating
+35|shop|C|comic|{FATHER} scratching his head, the number 40 crossed out
+36|shop|C|joyful|{YOU8} giggling helplessly
+37|home|C|disapproving|{MOTHER} frowning at {YOU8}'s freckles
+38|home|C|comic|{MOTHER} with a horrified face, a speech bubble reading DISASTER
+39|home|M|historical|an inset of a pale noblewoman in a portrait, a sign reading BEAUTIFUL
+40|home|C|historical|an inset of a cup of milk beside a portrait of the Queen
+41|home|M|historical|an inset of a pale lady relaxing indoors while servants work
+42|home|M|historical|an inset of a sun-browned farm worker in a field
+43|home|C|historical|an inset of a freckled face with a red cross over it
+44|home|W|nightly|the family room at night lit by the fire
+45|home|M|nightly|{MOTHER} sitting {YOU8} on a stool by the fire
+46|home|C|comic|{MOTHER} scrubbing {YOU8}'s face with a cloth, a lemon and a jug of buttermilk on the table
+47|home|C|comic|{YOU8} squinting with stinging lines, the freckles unchanged
+48|cheapside|M|routine|{MOTHER} tying a linen bonnet tightly under {YOU8}'s chin in the doorway
+49|cheapside|C|routine|{MOTHER} wagging a finger
+50|cheapside|C|tender|close-up of {MOTHER} with a speech bubble reading KEEP YOUR FACE OUT OF THE SUN
+51|cheapside|C|ominous|close-up of {MOTHER} with a speech bubble reading YOUR FACE IS YOUR FORTUNE, a gold coin inset
+52|cheapside|C|innocent|{YOU8} with a confused face, a question mark floating
+53|cheapside|C|ominous|{YOU8} looking back over her shoulder, a long shadow behind her
+54|shop|M|transition|{YOU16} sewing in the corner of the shop, a 1579 calendar on the wall
+55|shop|M|plot|{STEWARD} stepping into the candle shop
+56|shop|M|plot|{STEWARD} handing {FATHER} a list, a crest of a grand house on it
+57|shop|M|plot|{FATHER} writing up the order while {STEWARD} glances at {YOU16}
+58|shop|C|plot|close-up of {YOU16}'s neat stitches on a piece of cloth
+59|shop|M|plot|{STEWARD} speaking to {MOTHER}, gesturing at {YOU16}
+60|shop|C|plot|an inset of a neat, polite maid with a tray
+61|shop|C|comic|{MOTHER}'s eyes sparkling like candles, a church glowing behind her
+62|cheapside|M|bittersweet|{YOU16} climbing onto a cart with a small bundle, {FATHER} and {MOTHER} waving
+63|countess_ext|W|grand|a grand Strand mansion with gardens running down to the Thames
+64|countess_ext|W|grand|the mansion with glittering glass windows and a boat landing on the river
+65|hall|W|grand|a great hall blazing with hundreds of candles
+66|hall|C|comic|{YOU16} counting the candles with an amazed face
+67|kitchen|M|delight|{YOU16} eating white bread and roast meat at a servants' table
+68|maids_room|M|delight|{YOU16} bouncing on a real bed
+69|maids_room|M|comic|an inset of {YOU8} squashed in a bed with three sisters
+70|maids_room|M|delight|the Countess's old silk gown laid on the bed, {YOU16} gasping
+71|maids_room|C|delight|close-up of {YOU16} touching the silk, sparkles
+72|maids_room|M|warm|{YOU16} writing a letter by candlelight
+73|home|M|warm|{MOTHER} reading the letter, crying happy tears
+74|dressing|M|ominous|a maid summoning {YOU16} down a corridor
+75|dressing|W|ominous|the Countess's dressing room with a large silver mirror
+76|dressing|M|reveal|{COUNTESS} seated at the mirror, her back to us
+77|dressing|C|reveal|{COUNTESS}'s white face, neck and chest reflected in the mirror
+78|dressing|C|eerie|close-up of {COUNTESS}'s marble-white face like a statue
+79|dressing|C|eerie|close-up of {COUNTESS}'s bright red painted cheeks
+80|dressing|C|eerie|close-up of {COUNTESS}'s red lips
+81|dressing|C|eerie|close-up of {COUNTESS}'s thin plucked eyebrows
+82|dressing|C|eerie|close-up of {COUNTESS}'s high plucked hairline, a pair of tweezers nearby
+83|dressing|C|eerie|an inset of a noble portrait with a high bare forehead
+84|dressing|M|tense|{COUNTESS} looking at {YOU16}'s reflection in the mirror
+85|dressing|C|tense|{COUNTESS} sighing heavily, a deflating sigh line
+86|dressing|C|cold|{COUNTESS} with a speech bubble reading THAT WILL NEVER DO
+87|maids_room|M|ominous|{YOU16} seated on a stool at evening, a candle burning
+88|maids_room|M|character intro|{JOAN} sitting down with a box of pots and brushes, a name label JOAN
+89|maids_room|C|character intro|close-up of {JOAN}'s round, cheeky face
+90|maids_room|C|comic|{JOAN} laughing with a big honking laugh, a cartoon goose inset
+91|maids_room|M|comic|{JOAN} pulling a face behind the closed door of the Countess's room
+92|maids_room|C|intriguing|{JOAN} opening a small pot of white paste
+93|maids_room|C|intriguing|close-up of the pot with a label reading CERUSE
+94|maids_room|C|luxurious|an inset of a glittering jar with a gold crown above it
+95|maids_room|W|luxurious|an inset of Venice canals and fashionable people
+96|maids_room|C|luxurious|an inset of a scale with the pot on one side and a big pile of coins on the other
+97|maids_room|M|tense|{JOAN} dipping a soft brush into the pot
+98|maids_room|C|transformation|{JOAN} brushing white paste across {YOU16}'s cheek
+99|maids_room|C|sensory|close-up of {YOU16} shivering at the cold paste, faint vinegar smell lines
+100|maids_room|M|reveal|{JOAN} holding up a hand mirror
+101|maids_room|C|transformation|close-up of {YOUPAINT} in the mirror, freckles gone
+102|maids_room|C|transformation|a split inset: freckled face and white painted face
+103|maids_room|C|transformation|close-up of {YOUPAINT}, smooth and white
+104|maids_room|C|uncanny|{YOUPAINT} next to a portrait of the Queen, both identical
+105|maids_room|C|mesmerised|{YOUPAINT} staring into the mirror, eyes wide
+106|hall|M|delight|{YOUPAINT} carrying a tray at breakfast, guests turning to look
+107|hall|M|delight|a noble lady guest asking {YOUPAINT} a question
+108|hall|M|delight|a second lady guest leaning in, admiring
+109|kitchen|M|comic|the cook sliding an extra slice of pie toward {YOUPAINT}
+110|hall|C|glowing|{YOUPAINT} glowing with happiness, sparkles around her
+111|hall|C|naive|{YOUPAINT} kissing the pot of ceruse
+112|apothecary|W|ominous|a narrow apothecary shop on a London street
+113|apothecary|M|ominous|{YOUPAINT} entering the apothecary with an empty pot
+114|apothecary|M|comic|{APOTHECARY} breathing green breath lines over a counter full of strange bottles
+115|apothecary|M|comic|{APOTHECARY} explaining with grand gestures
+116|apothecary|C|comic|{APOTHECARY} puffing out his chest proudly
+117|dungheap|M|process|an inset of grey lead sheets stacked on a bench
+118|dungheap|M|process|an inset of lead sheets hanging over a pot of vinegar
+119|dungheap|M|gross|an inset of pots buried in a steaming heap of horse dung, flies buzzing
+120|dungheap|C|process|an inset of vinegar fumes curling up around the lead
+121|dungheap|C|process|an inset of lead sheets covered in white crust
+122|dungheap|C|process|an inset of a hand scraping crust into a mortar and grinding it
+123|dungheap|C|process|an inset of white paste being mixed in a bowl
+124|apothecary|C|horror|{YOUPAINT}'s eyes widening, a skull-and-crossbones label on the pot
+125|apothecary|M|tense|{YOUPAINT} asking the apothecary a question
+126|apothecary|C|dark comedy|{APOTHECARY} laughing and pointing at a portrait of the Queen
+127|apothecary|C|deadpan|{YOUPAINT} slowly backing away with the pot
+128|dressing|M|ominous|a dressing table covered in bottles, pots and brushes
+129|dressing|M|instructional|{JOAN} lining up pots in order on the table, {YOUPAINT} watching
+130|dressing|M|instructional|{YOU16} splashing rosewater on her face
+131|dressing|M|instructional|{JOAN} holding up a small bottle labelled MERCURY
+132|dressing|C|painful|{YOU16} dabbing lotion on a freckle, flame lines and a wince
+133|dressing|C|painful, non-graphic|an inset of a thin peeling layer of skin, like a peeling apple
+134|dressing|M|instructional|{JOAN} brushing ceruse over {YOU16}'s face
+135|dressing|M|instructional|{JOAN} painting egg white over {YOUPAINT}'s face with a feather
+136|dressing|C|instructional|close-up of {YOUPAINT}'s shiny porcelain-like face
+137|dressing|C|instructional|{YOUPAINT} smiling carefully, the paint not cracking
+138|dressing|M|instructional|{JOAN} dabbing red rouge on {YOUPAINT}'s cheeks
+139|dressing|C|instructional|an inset of bright red vermilion powder in a dish
+140|dressing|C|ominous|{JOAN} winking, a speech bubble reading MERCURY
+141|dressing|M|ominous|{JOAN} holding up a tiny glass dropper
+142|dressing|C|ominous|an inset of the deadly nightshade plant with dark berries
+143|dressing|C|ominous|close-up of {YOUPAINT}'s eyes with huge dark pupils
+144|dressing|C|ominous|{YOUPAINT}'s point of view blurring
+145|dressing|C|ominous|an inset of a heart with a stop sign
+146|feast|M|festive|{YOUPAINT} squeezing drops into her eyes before a feast
+147|feast|W|festive|a Twelfth Night feast in the great hall with garlands and a giant cake
+148|feast|W|dreamy|the hall dissolving into a soft golden blur from {YOUPAINT}'s point of view
+149|feast|M|comic|{YOUPAINT} bonking into a stone pillar, then into the steward
+150|feast|M|comic|{YOUPAINT} tumbling down two steps, a tray flying
+151|feast|M|comic|guests whispering and miming drinking
+152|feast|M|comic|{JOAN} leading {YOUPAINT} by the elbow through the crowd
+153|feast|C|comic|{JOAN} whispering into {YOUPAINT}'s ear, a little ship's wheel icon floating
+154|dressing|M|routine|{YOUPAINT} expertly lining up pots on the dressing table
+155|dressing|C|routine|{YOUPAINT} painting her own face confidently
+156|maids_room|M|warm|{YOUPAINT} and {JOAN} laughing together on the bed
+157|maids_room|C|comic|{JOAN} with a speech bubble, an inset of court ladies with high bare foreheads
+158|maids_room|C|comic|an inset of a row of boiled eggs wearing ruffs
+159|maids_room|C|comic|{JOAN} pinching her nose
+160|maids_room|C|comic|an inset of a startled cat dripping in rosewater
+161|maids_room|M|confessional|{JOAN} wiping off her own paint at night by candlelight
+162|maids_room|C|confessional|{JOAN} leaning close, whispering
+163|maids_room|C|confessional|{JOAN} pushing a bottle labelled MERCURY away with a disgusted face
+164|maids_room|M|confessional|{JOAN} scooping a big dollop of ceruse
+165|maids_room|C|ominous|close-up of {JOAN}'s painted face with a visibly thick layer
+166|maids_room|C|ominous|{YOUPAINT} glancing sideways at {JOAN}'s thick paint
+167|maids_room|C|ominous|an inset of paint layers stacked like a cake
+168|dressing|M|time jump|a calendar flipping to 1585
+169|dressing|M|mentor|{YOUPAINT22} teaching a row of young maids how to paint
+170|dressing|C|skilled|close-up of a smooth expert brushstroke
+171|dressing|C|proud|{COUNTESS} beaming at {YOUPAINT22}, a speech bubble reading ARTIST
+172|countess_ext|W|spring|spring blossom in the gardens, a cart arriving
+173|dressing|M|character intro|{ALICE} stepping nervously into the dressing room, a name label ALICE
+174|dressing|C|character intro|close-up of {ALICE}'s freckled face
+175|dressing|C|innocent|{ALICE} twisting her fingers nervously
+176|dressing|M|tense|{ALICE} standing before the Countess's mirror
+177|dressing|C|cold|{COUNTESS} looking at {ALICE} and sighing
+178|dressing|C|chilling|{YOUPAINT22} saying THAT WILL NEVER DO in a speech bubble, an echo of the Countess behind her
+179|maids_room|M|cycle|{YOUPAINT22} brushing ceruse across {ALICE}'s face
+180|maids_room|C|cycle|{ALICE} gasping at the mirror, freckles gone
+181|maids_room|C|uneasy|{YOUPAINT22} smiling, but with a small uneasy shadow
+182|maids_room|M|ominous|{JOAN} sitting in the corner looking tired
+183|maids_room|M|ominous|{YOUPAINT22} brushing {JOAN}'s hair at night
+184|maids_room|C|ominous|close-up of a hairbrush full of loose hair
+185|maids_room|M|ominous|{JOANSICK} pulling a linen cap lower over her forehead
+186|maids_room|C|ominous|close-up of {JOANSICK}'s smile with a blackened tooth
+187|maids_room|C|ominous|{JOANSICK} hiding her mouth behind her hand
+188|dark_room|M|grim|{JOANSICK} clutching her head, pain lines
+189|dark_room|M|grim|{JOANSICK} lying in a dark room with curtains drawn
+190|dark_room|C|grim|{JOANSICK} holding a brush with shaky lines
+191|dark_room|C|grim|{JOANSICK} looking at {YOUPAINT22} blankly, a question mark over her head
+192|dark_room|M|grim|{YOUPAINT22} sitting beside {JOANSICK} at night
+193|dark_room|M|tender|{YOUPAINT22} wiping {JOANSICK}'s face with a cloth and a basin
+194|dark_room|M|tender|{JOANSICK} too exhausted to lift her stick arms
+195|dark_room|C|horror|close-up of {JOANSICK}'s unpainted face, grey and blotchy
+196|dark_room|C|horror|an inset of rough, rain-stained parchment
+197|dark_room|C|horror|an inset of old parchment beside {JOANSICK}'s grey cheek
+198|dark_room|M|tender|{YOUPAINT22} silently washing {JOANSICK}'s face
+199|dressing|M|tender|{YOUPAINT22} painting {JOANSICK}'s face white again in the morning light
+200|dressing|C|tense|{JOANSICK} catching {YOUPAINT22}'s eye in the mirror
+201|dressing|C|reassuring|{JOANSICK} waving a stick arm dismissively, a snowflake icon
+202|dressing|C|comic|an inset of a tough-looking turnip flexing
+203|dressing|C|comic|{JOANSICK} pretending to sneeze dramatically
+204|dressing|M|bittersweet|{YOUPAINT22} and {JOANSICK} laughing together
+205|dressing|C|bittersweet|{YOUPAINT22} smiling with a small, hopeful look
+206|dark_room|M|grim|{PHYSICIAN} arriving at the bedside with a bag
+207|dark_room|C|absurd|{PHYSICIAN} pointing at a chart of the four humours
+208|dark_room|M|grim, non-graphic|{PHYSICIAN} holding a small bowl and lancet beside {JOANSICK}, nothing shown
+209|dark_room|C|tragic|{JOANSICK} with soft X-eyes, peaceful, a 1587 calendar on the wall
+210|dark_room|M|tragic, non-graphic|{YOUPAINT22} beside a sheet-covered shape, holding a basin and a cloth
+211|dark_room|C|tragic, non-graphic|a cloth and a basin of milky white water
+212|dark_room|C|devastating|{YOUPAINT22} staring down, a blank thought bubble
+213|dark_room|C|devastating|a thought bubble of {JOAN} always in white paint
+214|dark_room|C|devastating|an inset calendar with eight years of crosses
+215|dark_room|M|grief|{YOUPAINT22} standing alone in the dark room
+216|churchyard|W|bleak|a small grave in the corner of a riverside churchyard, two mourners
+217|hall|M|cold|{COUNTESS} at a bright supper table, pointing at her face
+218|dressing|M|cold|{YOUPAINT22} painting {COUNTESS} while her eyes are wet
+219|maids_room|M|quiet|{YOUPAINT22} sitting at a small mirror in her room
+220|maids_room|M|quiet|{YOUPAINT22} washing her face with a cloth, white water dripping
+221|maids_room|C|reveal|the mirror showing {YOURUIN}
+222|maids_room|C|reveal|close-up of grey patches on {YOURUIN}'s cheek
+223|maids_room|C|reveal, non-graphic|small pits and scars on {YOURUIN}'s cheek
+224|maids_room|C|reveal|the rough skin around {YOURUIN}'s mouth
+225|maids_room|C|reveal|a split inset: freckled face then grey scarred face
+226|maids_room|C|dread|{YOURUIN} with a cold blue tint spreading over her
+227|maids_room|C|realisation|{YOURUIN} staring at the ceruse pot
+228|maids_room|C|realisation|an inset of the ceruse pot with an arrow pointing to the grey skin
+229|maids_room|C|realisation|an inset of a cycle: paint, ruined skin, more paint
+230|maids_room|C|realisation|an inset of the cycle spinning faster
+231|maids_room|M|torn|{YOURUIN} pushing the pot away, then hesitating
+232|maids_room|M|torn|a thought bubble of a grey-faced maid being shooed out of a door
+233|maids_room|C|torn|the thought bubble showing the Countess pointing at the door
+234|maids_room|C|torn|a thought bubble of the Countess pointing at a door, a suitcase
+235|maids_room|C|torn|a thought bubble of {MOTHER} crying with shame, then an empty room
+236|dressing|C|resigned|{YOURUIN} picking up the brush in the morning light
+237|kitchen|M|bittersweet|{MOTHERAGED} arriving in the kitchen, a summer garden outside
+238|kitchen|C|bittersweet|close-up of {MOTHERAGED}'s greying, lined face
+239|kitchen|M|bittersweet|{YOUPAINT22} stepping into the kitchen in a silk gown, {MOTHERAGED} bursting into tears
+240|kitchen|M|bittersweet|{MOTHERAGED} holding {YOUPAINT22}'s painted cheeks
+241|kitchen|C|bittersweet|close-up of {MOTHERAGED}'s rough stick arms reaching up, her proud face
+242|kitchen|C|bittersweet|{MOTHERAGED} beaming, a crown floating above {YOUPAINT22}'s head
+243|kitchen|C|bittersweet|{MOTHERAGED} nodding proudly, a speech bubble with a gold star
+244|kitchen|C|bittersweet|{YOUPAINT22} smiling with closed lips
+245|kitchen|C|bittersweet|a faint ghostly grey face behind {YOUPAINT22}'s white mask
+246|kitchen|C|haunting|an inset of a gold coin cracking
+247|dressing|M|time jump|{YOUPAINT40} at a mirror, a hairbrush full of hair
+248|dressing|C|grim|close-up of a blackened back tooth
+249|dressing|C|grim|{YOUPAINT40} smiling with closed lips, a ghostly {JOAN} doing the same beside her
+250|dressing|C|grim|{YOUPAINT40}'s brush shaking, shaky lines
+251|dark_room|M|grim|{YOUPAINT40} clutching her head in a dark room
+252|dark_room|C|surreal|swirls of strange colours around {YOUPAINT40}'s head
+253|dressing|M|grim|{COUNTESSOLD} at the mirror
+254|dressing|C|grim|close-up of {COUNTESSOLD}'s face paint cracking as she talks
+255|dressing|M|grim|{YOUPAINT40} adding a thick layer of ceruse to {COUNTESSOLD}'s face
+256|dressing|C|grim|{COUNTESSOLD} adjusting a wig on its stand before putting it on
+257|hall|W|grim|a crowd of courtiers in wigs and thick white paint, nobody looking at each other
+258|dressing|M|grim|{COUNTESSOLD} at the mirror, a clock showing three hours passing
+259|dressing|C|grim|{COUNTESSOLD} staring at herself
+260|dressing|M|grim|{YOUPAINT40} adding layer after layer with a trowel-sized brush
+261|dressing|C|absurd|an inset of a plasterer plastering a wall
+262|dressing|C|grim|{COUNTESSOLD} smiling at her reflection
+263|dressing|C|grim|cracks spreading from the corners of {COUNTESSOLD}'s mouth
+264|dressing|C|grim|{YOUPAINT40} sighing and picking up the brush again
+265|whitehall|W|grand|the royal palace at Whitehall in winter, a 1600 calendar page
+266|whitehall|M|grand|{COUNTESSOLD} and {YOUPAINT40} entering a crowded throne room
+267|whitehall|W|grand|the throne room with candles everywhere and courtiers bowing
+268|whitehall|M|historical|{QUEEN} on her throne, a number 67 floating beside her
+269|whitehall|W|historical|{QUEEN} under a gold canopy
+270|whitehall|M|historical|a close view of {QUEEN}'s pearl-covered gown
+271|whitehall|C|historical|close-up of {QUEEN}'s brilliant white face
+272|whitehall|C|historical|{QUEEN}'s white face like a mask
+273|whitehall|C|historical|{QUEEN}'s bright orange wig
+274|whitehall|C|historical|{QUEEN} speaking, black teeth visible
+275|whitehall|M|gossip|servants whispering behind a pillar
+276|whitehall|M|gossip|an inset of a mirror covered with a cloth
+277|whitehall|C|gossip|an inset of a cracked mirror turned to face the wall
+278|whitehall|C|tense|{YOUPAINT40} staring at the Queen across the room
+279|whitehall|C|tense|{QUEEN} glancing back toward {YOUPAINT40}
+280|whitehall|M|tense|a split frame: {QUEEN}'s white face and {YOUPAINT40}'s white face
+281|whitehall|W|tense|the throne room lit by hundreds of candles
+282|whitehall|C|bittersweet|a close-up of a candle with a faint ghostly {FATHER} behind it
+283|richmond|W|historical|Richmond Palace on the river, a 1603 calendar page
+284|richmond|M|historical|{QUEEN} sitting on cushions on the floor
+285|richmond|M|historical|{QUEEN} on the cushions, staring at nothing
+286|richmond|C|historical|close-up of {QUEEN}'s untouched plate and open eyes
+287|richmond|C|historical|{QUEEN} lying still on the cushions with soft X-eyes, a question mark floating
+288|richmond|C|historical|an inset of a historian at a desk with a question mark over a lead-paint pot
+289|richmond|C|historical|an inset of the pot of ceruse beside a portrait of the Queen
+290|rented_room|M|grief|{YOUPAINT40} sitting alone in a small rented room
+291|rented_room|C|grief|an inset of {COUNTESSOLD} with soft X-eyes
+292|rented_room|C|grief|{YOUPAINT40}'s knowing look
+293|rented_room|W|lonely|a small, sparse rented room near Cheapside
+294|rented_room|M|lonely|{YOUPAINT40} counting a few coins
+295|rented_room|M|lonely|{YOUPAINT40} painting her face at a small mirror
+296|rented_room|M|lonely|the empty room around her, a chair with no visitors
+297|rented_room|M|turning point|a spring morning, {YOURUIN40} sitting at the mirror, brush on the table
+298|rented_room|C|turning point|{YOURUIN40} looking tired
+299|rented_room|C|turning point|close-up of {YOURUIN40}'s grey, scarred reflection
+300|rented_room|C|turning point|the brush being set down on the table
+301|rented_room|M|liberation|{YOURUIN40} pulling off a plain linen cap and opening the door
+302|street_spring|M|liberation|{YOURUIN40} stepping out into the sunny street
+303|street_spring|W|lively|a bright, noisy Cheapside street, an orange seller calling out
+304|street_spring|M|lively|a dog trotting past and children climbing the churchyard wall
+305|street_spring|C|serene|{YOURUIN40} tilting her face up with closed eyes
+306|street_spring|C|serene|close-up of sunlight warming her grey cheeks
+307|street_spring|C|serene|an inset of a calendar showing 24 years
+308|street_spring|C|serene|{YOURUIN40} smiling with her lips parted, peaceful
+309|rented_room|M|tragic|{YOURUIN40} in bed, shivering, sweat drops
+310|rented_room|C|tragic|{PHYSICIAN} writing on a paper reading MELANCHOLY, the word LEAD crossed out
+311|street_spring|W|bittersweet|the sunny Cheapside street with an empty spot where she stood, freckled children climbing the churchyard wall

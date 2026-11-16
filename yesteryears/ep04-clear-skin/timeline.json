@@ -1,0 +1,3112 @@
+[
+ {
+  "beat": 1,
+  "start": 0.0,
+  "dur": 4.167,
+  "text": "The year is 1563 and you are born in London,",
+  "motion": "push",
+  "scene": "cheapside",
+  "action": "{MOTHER} holding {BABY} at an upstairs window above a candle shop, a 1563 calendar page floating above London",
+  "image": "images/beat_001.png"
+ },
+ {
+  "beat": 2,
+  "start": 4.167,
+  "dur": 5.0,
+  "text": "in a narrow house on Cheapside, the busiest street in the city.",
+  "motion": "pan",
+  "scene": "cheapside",
+  "action": "crowded Cheapside with timber houses, market stalls, carts and church spires",
+  "image": "images/beat_002.png"
+ },
+ {
+  "beat": 3,
+  "start": 9.167,
+  "dur": 2.917,
+  "text": "Your home sits above your father\u2019s shop,",
+  "motion": "push",
+  "scene": "cheapside",
+  "action": "a candle shop front with bundles of candles hanging in the window, living quarters above",
+  "image": "images/beat_003.png"
+ },
+ {
+  "beat": 4,
+  "start": 12.084,
+  "dur": 2.917,
+  "text": "and it smells of hot tallow, beeswax,",
+  "motion": "pull",
+  "scene": "shop",
+  "action": "the shop interior with smoke curling from tallow pots and racks of drying candles, smell lines rising",
+  "image": "images/beat_004.png"
+ },
+ {
+  "beat": 5,
+  "start": 15.001,
+  "dur": 5.0,
+  "text": "and the smoke of a hundred candles. Your father is a chandler.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "rows of candles of every size hanging from wooden racks, {FATHER} dipping wicks",
+  "image": "images/beat_005.png"
+ },
+ {
+  "beat": 6,
+  "start": 20.001,
+  "dur": 5.0,
+  "text": "He makes candles for churches, taverns, and the houses of the rich.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "insets of candles in a church, a tavern and a rich hall",
+  "image": "images/beat_006.png"
+ },
+ {
+  "beat": 7,
+  "start": 25.001,
+  "dur": 1.667,
+  "text": "He is a quiet,",
+  "motion": "pan",
+  "scene": "shop",
+  "action": "close-up of {FATHER}'s quiet, kind face",
+  "image": "images/beat_007.png"
+ },
+ {
+  "beat": 8,
+  "start": 26.668,
+  "dur": 3.75,
+  "text": "careful man with burn scars on his fingers and",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{FATHER} dipping candles carefully, small burn marks on the stick ends of his arms",
+  "image": "images/beat_008.png"
+ },
+ {
+  "beat": 9,
+  "start": 30.418,
+  "dur": 3.75,
+  "text": "a belief that honest work will always be enough.",
+  "motion": "pull",
+  "scene": "shop",
+  "action": "{FATHER} nodding contentedly over a neat row of finished candles",
+  "image": "images/beat_009.png"
+ },
+ {
+  "beat": 10,
+  "start": 34.168,
+  "dur": 2.083,
+  "text": "Your mother is a seamstress.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{MOTHER} sewing quickly by a window",
+  "image": "images/beat_010.png"
+ },
+ {
+  "beat": 11,
+  "start": 36.251,
+  "dur": 5.0,
+  "text": "She is sharp, ambitious, and she has one dream for her daughter.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{MOTHER} looking up from her sewing with a determined glint, a thought bubble of a grand house",
+  "image": "images/beat_011.png"
+ },
+ {
+  "beat": 12,
+  "start": 41.251,
+  "dur": 2.083,
+  "text": "A better life than hers.",
+  "motion": "fade",
+  "scene": "home",
+  "action": "a thought bubble of a fine lady in silk, crossed with the mother's plain workshop",
+  "image": "images/beat_012.png"
+ },
+ {
+  "beat": 13,
+  "start": 43.334,
+  "dur": 4.583,
+  "text": "You arrive one year after the Queen of England almost dies.",
+  "motion": "push",
+  "scene": "queen1562",
+  "action": "a royal bed with curtains drawn, doctors whispering, a calendar reading 1562",
+  "image": "images/beat_013.png"
+ },
+ {
+  "beat": 14,
+  "start": 47.917,
+  "dur": 3.333,
+  "text": "In 1562, Queen Elizabeth the First catches smallpox.",
+  "motion": "pull",
+  "scene": "queen1562",
+  "action": "{QUEENYOUNG} feverish in bed, a few small spots on her cheeks",
+  "image": "images/beat_014.png"
+ },
+ {
+  "beat": 15,
+  "start": 51.25,
+  "dur": 4.167,
+  "text": "She survives, but the disease leaves scars across her face.",
+  "motion": "push",
+  "scene": "queen1562",
+  "action": "{QUEENYOUNG} recovering, sitting up, faint marks across her cheeks",
+  "image": "images/beat_015.png"
+ },
+ {
+  "beat": 16,
+  "start": 55.417,
+  "dur": 5.0,
+  "text": "So the Queen does what any queen would do. She covers them.",
+  "motion": "push",
+  "scene": "queen1562",
+  "action": "{QUEENYOUNG} at a mirror dabbing white paint over her face",
+  "image": "images/beat_016.png"
+ },
+ {
+  "beat": 17,
+  "start": 60.417,
+  "dur": 3.333,
+  "text": "With a thick, perfect layer of white paint.",
+  "motion": "pan",
+  "scene": "queen1562",
+  "action": "{QUEENYOUNG} with a perfect, smooth white painted face, nodding approvingly",
+  "image": "images/beat_017.png"
+ },
+ {
+  "beat": 18,
+  "start": 63.75,
+  "dur": 2.083,
+  "text": "And within a few years,",
+  "motion": "push",
+  "scene": "cheapside",
+  "action": "a street of women all with white painted faces, admiring themselves in hand mirrors",
+  "image": "images/beat_018.png"
+ },
+ {
+  "beat": 19,
+  "start": 65.833,
+  "dur": 4.167,
+  "text": "every woman in England wants to look exactly like her.",
+  "motion": "pull",
+  "scene": "cheapside",
+  "action": "a row of women copying a portrait of the Queen, painting their faces white",
+  "image": "images/beat_019.png"
+ },
+ {
+  "beat": 20,
+  "start": 70.0,
+  "dur": 2.917,
+  "text": "You don\u2019t know any of this yet.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{BABY} gurgling in a cradle, unaware",
+  "image": "images/beat_020.png"
+ },
+ {
+  "beat": 21,
+  "start": 72.917,
+  "dur": 2.5,
+  "text": "You\u2019re too busy being a child.",
+  "motion": "push",
+  "scene": "cheapside",
+  "action": "{YOU5} skipping past the shop, laughing",
+  "image": "images/beat_021.png"
+ },
+ {
+  "beat": 22,
+  "start": 75.417,
+  "dur": 3.75,
+  "text": "By age 5, you\u2019re running up and down Cheapside,",
+  "motion": "pan",
+  "scene": "cheapside",
+  "action": "{YOU5} chasing a scruffy dog down Cheapside, bonnet flapping",
+  "image": "images/beat_022.png"
+ },
+ {
+  "beat": 23,
+  "start": 79.167,
+  "dur": 4.167,
+  "text": "chasing dogs and stealing candle ends from your father\u2019s bench.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{YOU5} sneaking candle stubs off {FATHER}'s bench while he pretends not to see",
+  "image": "images/beat_023.png"
+ },
+ {
+  "beat": 24,
+  "start": 83.334,
+  "dur": 4.167,
+  "text": "By age 8, you can climb the churchyard wall faster",
+  "motion": "pull",
+  "scene": "churchyard",
+  "action": "{YOU8} scrambling up a stone churchyard wall",
+  "image": "images/beat_024.png"
+ },
+ {
+  "beat": 25,
+  "start": 87.501,
+  "dur": 2.5,
+  "text": "than any boy on the street.",
+  "motion": "push",
+  "scene": "churchyard",
+  "action": "{YOU8} sitting on top of the wall while two boys struggle below",
+  "image": "images/beat_025.png"
+ },
+ {
+  "beat": 26,
+  "start": 90.001,
+  "dur": 4.167,
+  "text": "You spend every hour you can outside, in the sun,",
+  "motion": "fade",
+  "scene": "cheapside",
+  "action": "{YOU8} playing in the sunny street, arms spread wide",
+  "image": "images/beat_026.png"
+ },
+ {
+  "beat": 27,
+  "start": 94.168,
+  "dur": 3.333,
+  "text": "laughing so loudly that the neighbours lean out",
+  "motion": "pan",
+  "scene": "cheapside",
+  "action": "{YOU8} laughing loudly, neighbours leaning out of windows shushing her",
+  "image": "images/beat_027.png"
+ },
+ {
+  "beat": 28,
+  "start": 97.501,
+  "dur": 3.333,
+  "text": "of their windows to tell you to hush.",
+  "motion": "push",
+  "scene": "cheapside",
+  "action": "an old neighbour holding a finger to her lips at a window",
+  "image": "images/beat_028.png"
+ },
+ {
+  "beat": 29,
+  "start": 100.834,
+  "dur": 5.0,
+  "text": "And the sun leaves its mark on you. Freckles. Dozens of them.",
+  "motion": "pull",
+  "scene": "cheapside",
+  "action": "close-up of {YOU8}'s face covered in freckles",
+  "image": "images/beat_029.png"
+ },
+ {
+  "beat": 30,
+  "start": 105.834,
+  "dur": 2.917,
+  "text": "Across your nose, your cheeks, your arms.",
+  "motion": "push",
+  "scene": "cheapside",
+  "action": "an inset of freckles across a nose, cheeks and a stick arm",
+  "image": "images/beat_030.png"
+ },
+ {
+  "beat": 31,
+  "start": 108.751,
+  "dur": 4.167,
+  "text": "You love them. Your father calls them your sun kisses.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{FATHER} pointing at {YOU8}'s freckles, both smiling, a small heart floating",
+  "image": "images/beat_031.png"
+ },
+ {
+  "beat": 32,
+  "start": 112.918,
+  "dur": 3.333,
+  "text": "Some evenings he lets you sit at his",
+  "motion": "pan",
+  "scene": "shop",
+  "action": "{YOU8} sitting at the workbench beside {FATHER}",
+  "image": "images/beat_032.png"
+ },
+ {
+  "beat": 33,
+  "start": 116.251,
+  "dur": 3.333,
+  "text": "workbench and dip wicks into the hot tallow,",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{YOU8} dipping a wick into a pot of hot tallow",
+  "image": "images/beat_033.png"
+ },
+ {
+  "beat": 34,
+  "start": 119.584,
+  "dur": 5.0,
+  "text": "and he counts the freckles on your nose while the candles cool.",
+  "motion": "pull",
+  "scene": "shop",
+  "action": "{FATHER} squinting and counting the freckles on {YOU8}'s nose, numbers floating",
+  "image": "images/beat_034.png"
+ },
+ {
+  "beat": 35,
+  "start": 124.584,
+  "dur": 4.583,
+  "text": "He always loses count around forty and has to start again.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{FATHER} scratching his head, the number 40 crossed out",
+  "image": "images/beat_035.png"
+ },
+ {
+  "beat": 36,
+  "start": 129.167,
+  "dur": 3.75,
+  "text": "You think it\u2019s the funniest thing in the world.",
+  "motion": "fade",
+  "scene": "shop",
+  "action": "{YOU8} giggling helplessly",
+  "image": "images/beat_036.png"
+ },
+ {
+  "beat": 37,
+  "start": 132.917,
+  "dur": 2.5,
+  "text": "Your mother does not love them.",
+  "motion": "pan",
+  "scene": "home",
+  "action": "{MOTHER} frowning at {YOU8}'s freckles",
+  "image": "images/beat_037.png"
+ },
+ {
+  "beat": 38,
+  "start": 135.417,
+  "dur": 2.5,
+  "text": "To her, freckles are a disaster.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{MOTHER} with a horrified face, a speech bubble reading DISASTER",
+  "image": "images/beat_038.png"
+ },
+ {
+  "beat": 39,
+  "start": 137.917,
+  "dur": 5.0,
+  "text": "In Elizabethan England, the most beautiful skin is pale. White as milk.",
+  "motion": "pull",
+  "scene": "home",
+  "action": "an inset of a pale noblewoman in a portrait, a sign reading BEAUTIFUL",
+  "image": "images/beat_039.png"
+ },
+ {
+  "beat": 40,
+  "start": 142.917,
+  "dur": 1.667,
+  "text": "White as the Queen.",
+  "motion": "shake",
+  "scene": "home",
+  "action": "an inset of a cup of milk beside a portrait of the Queen",
+  "image": "images/beat_040.png"
+ },
+ {
+  "beat": 41,
+  "start": 144.584,
+  "dur": 4.167,
+  "text": "A pale face tells the world that you\u2019re a lady,",
+  "motion": "push",
+  "scene": "home",
+  "action": "an inset of a pale lady relaxing indoors while servants work",
+  "image": "images/beat_041.png"
+ },
+ {
+  "beat": 42,
+  "start": 148.751,
+  "dur": 4.167,
+  "text": "that you never have to work outdoors like a peasant.",
+  "motion": "pan",
+  "scene": "home",
+  "action": "an inset of a sun-browned farm worker in a field",
+  "image": "images/beat_042.png"
+ },
+ {
+  "beat": 43,
+  "start": 152.918,
+  "dur": 2.5,
+  "text": "Freckles tell the world the opposite.",
+  "motion": "shake",
+  "scene": "home",
+  "action": "an inset of a freckled face with a red cross over it",
+  "image": "images/beat_043.png"
+ },
+ {
+  "beat": 44,
+  "start": 155.418,
+  "dur": 1.25,
+  "text": "So every night,",
+  "motion": "pull",
+  "scene": "home",
+  "action": "the family room at night lit by the fire",
+  "image": "images/beat_044.png"
+ },
+ {
+  "beat": 45,
+  "start": 156.668,
+  "dur": 4.167,
+  "text": "your mother sits you on a stool by the fire",
+  "motion": "shake",
+  "scene": "home",
+  "action": "{MOTHER} sitting {YOU8} on a stool by the fire",
+  "image": "images/beat_045.png"
+ },
+ {
+  "beat": 46,
+  "start": 160.835,
+  "dur": 4.583,
+  "text": "and scrubs your face with lemon juice and buttermilk. It stings.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{MOTHER} scrubbing {YOU8}'s face with a cloth, a lemon and a jug of buttermilk on the table",
+  "image": "images/beat_046.png"
+ },
+ {
+  "beat": 47,
+  "start": 165.418,
+  "dur": 2.5,
+  "text": "It doesn\u2019t work. She tries again.",
+  "motion": "pan",
+  "scene": "home",
+  "action": "{YOU8} squinting with stinging lines, the freckles unchanged",
+  "image": "images/beat_047.png"
+ },
+ {
+  "beat": 48,
+  "start": 167.918,
+  "dur": 5.0,
+  "text": "And every morning, as she ties your bonnet tight against the sun,",
+  "motion": "push",
+  "scene": "cheapside",
+  "action": "{MOTHER} tying a linen bonnet tightly under {YOU8}'s chin in the doorway",
+  "image": "images/beat_048.png"
+ },
+ {
+  "beat": 49,
+  "start": 172.918,
+  "dur": 2.083,
+  "text": "she says the same thing.",
+  "motion": "shake",
+  "scene": "cheapside",
+  "action": "{MOTHER} wagging a finger",
+  "image": "images/beat_049.png"
+ },
+ {
+  "beat": 50,
+  "start": 175.001,
+  "dur": 3.333,
+  "text": "Keep your face out of the sun, sweetheart.",
+  "motion": "push",
+  "scene": "cheapside",
+  "action": "close-up of {MOTHER} with a speech bubble reading KEEP YOUR FACE OUT OF THE SUN",
+  "image": "images/beat_050.png"
+ },
+ {
+  "beat": 51,
+  "start": 178.334,
+  "dur": 2.083,
+  "text": "Your face is your fortune.",
+  "motion": "push",
+  "scene": "cheapside",
+  "action": "close-up of {MOTHER} with a speech bubble reading YOUR FACE IS YOUR FORTUNE, a gold coin inset",
+  "image": "images/beat_051.png"
+ },
+ {
+  "beat": 52,
+  "start": 180.417,
+  "dur": 2.917,
+  "text": "You don\u2019t really understand what that means.",
+  "motion": "pan",
+  "scene": "cheapside",
+  "action": "{YOU8} with a confused face, a question mark floating",
+  "image": "images/beat_052.png"
+ },
+ {
+  "beat": 53,
+  "start": 183.334,
+  "dur": 1.2,
+  "text": "You will.",
+  "motion": "push",
+  "scene": "cheapside",
+  "action": "{YOU8} looking back over her shoulder, a long shadow behind her",
+  "image": "images/beat_053.png"
+ },
+ {
+  "beat": 54,
+  "start": 184.534,
+  "dur": 3.333,
+  "text": "Years pass, and in 1579, you turn 16.",
+  "motion": "pull",
+  "scene": "shop",
+  "action": "{YOU16} sewing in the corner of the shop, a 1579 calendar on the wall",
+  "image": "images/beat_054.png"
+ },
+ {
+  "beat": 55,
+  "start": 187.867,
+  "dur": 5.0,
+  "text": "One afternoon, a steward from a great house on the Strand comes",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{STEWARD} stepping into the candle shop",
+  "image": "images/beat_055.png"
+ },
+ {
+  "beat": 56,
+  "start": 192.867,
+  "dur": 3.75,
+  "text": "into the shop to order candles for his mistress,",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{STEWARD} handing {FATHER} a list, a crest of a grand house on it",
+  "image": "images/beat_056.png"
+ },
+ {
+  "beat": 57,
+  "start": 196.617,
+  "dur": 4.583,
+  "text": "the Countess of Ashby. While your father writes up the order,",
+  "motion": "pan",
+  "scene": "shop",
+  "action": "{FATHER} writing up the order while {STEWARD} glances at {YOU16}",
+  "image": "images/beat_057.png"
+ },
+ {
+  "beat": 58,
+  "start": 201.2,
+  "dur": 5.0,
+  "text": "the steward watches you sewing in the corner. Neat stitches. Quiet hands.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "close-up of {YOU16}'s neat stitches on a piece of cloth",
+  "image": "images/beat_058.png"
+ },
+ {
+  "beat": 59,
+  "start": 206.2,
+  "dur": 4.167,
+  "text": "He mentions that the Countess needs a new chamber maid.",
+  "motion": "pull",
+  "scene": "shop",
+  "action": "{STEWARD} speaking to {MOTHER}, gesturing at {YOU16}",
+  "image": "images/beat_059.png"
+ },
+ {
+  "beat": 60,
+  "start": 210.367,
+  "dur": 2.083,
+  "text": "Someone young, careful, and well-mannered.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "an inset of a neat, polite maid with a tray",
+  "image": "images/beat_060.png"
+ },
+ {
+  "beat": 61,
+  "start": 212.45,
+  "dur": 4.583,
+  "text": "Your mother\u2019s eyes light up like a church on Christmas Eve.",
+  "motion": "push",
+  "scene": "shop",
+  "action": "{MOTHER}'s eyes sparkling like candles, a church glowing behind her",
+  "image": "images/beat_061.png"
+ },
+ {
+  "beat": 62,
+  "start": 217.033,
+  "dur": 2.917,
+  "text": "Within a week, you\u2019re packed and gone.",
+  "motion": "pan",
+  "scene": "cheapside",
+  "action": "{YOU16} climbing onto a cart with a small bundle, {FATHER} and {MOTHER} waving",
+  "image": "images/beat_062.png"
+ },
+ {
+  "beat": 63,
+  "start": 219.95,
+  "dur": 4.167,
+  "text": "The first month is disorienting in the best possible way.",
+  "motion": "push",
+  "scene": "countess_ext",
+  "action": "a grand Strand mansion with gardens running down to the Thames",
+  "image": "images/beat_063.png"
+ },
+ {
+  "beat": 64,
+  "start": 224.117,
+  "dur": 5.0,
+  "text": "The Countess\u2019s house is enormous, with gardens running down to the Thames,",
+  "motion": "pull",
+  "scene": "countess_ext",
+  "action": "the mansion with glittering glass windows and a boat landing on the river",
+  "image": "images/beat_064.png"
+ },
+ {
+  "beat": 65,
+  "start": 229.117,
+  "dur": 4.583,
+  "text": "glass in every window, and more candles burning in one night",
+  "motion": "push",
+  "scene": "hall",
+  "action": "a great hall blazing with hundreds of candles",
+  "image": "images/beat_065.png"
+ },
+ {
+  "beat": 66,
+  "start": 233.7,
+  "dur": 2.917,
+  "text": "than your father sells in a month.",
+  "motion": "push",
+  "scene": "hall",
+  "action": "{YOU16} counting the candles with an amazed face",
+  "image": "images/beat_066.png"
+ },
+ {
+  "beat": 67,
+  "start": 236.617,
+  "dur": 2.917,
+  "text": "You eat white bread and roast meat.",
+  "motion": "pan",
+  "scene": "kitchen",
+  "action": "{YOU16} eating white bread and roast meat at a servants' table",
+  "image": "images/beat_067.png"
+ },
+ {
+  "beat": 68,
+  "start": 239.534,
+  "dur": 2.5,
+  "text": "You sleep in a real bed,",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{YOU16} bouncing on a real bed",
+  "image": "images/beat_068.png"
+ },
+ {
+  "beat": 69,
+  "start": 242.034,
+  "dur": 4.167,
+  "text": "shared with only one other maid instead of three sisters.",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "an inset of {YOU8} squashed in a bed with three sisters",
+  "image": "images/beat_069.png"
+ },
+ {
+  "beat": 70,
+  "start": 246.201,
+  "dur": 5.0,
+  "text": "The Countess gives you her old gowns, cut down to fit you.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "the Countess's old silk gown laid on the bed, {YOU16} gasping",
+  "image": "images/beat_070.png"
+ },
+ {
+  "beat": 71,
+  "start": 251.201,
+  "dur": 1.25,
+  "text": "Silk. Actual silk.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "close-up of {YOU16} touching the silk, sparkles",
+  "image": "images/beat_071.png"
+ },
+ {
+  "beat": 72,
+  "start": 252.451,
+  "dur": 2.917,
+  "text": "You write home to tell your mother.",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "{YOU16} writing a letter by candlelight",
+  "image": "images/beat_072.png"
+ },
+ {
+  "beat": 73,
+  "start": 255.368,
+  "dur": 4.583,
+  "text": "You can practically hear her crying with joy through the paper.",
+  "motion": "fade",
+  "scene": "home",
+  "action": "{MOTHER} reading the letter, crying happy tears",
+  "image": "images/beat_073.png"
+ },
+ {
+  "beat": 74,
+  "start": 259.951,
+  "dur": 2.083,
+  "text": "Then, on your second week,",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "a maid summoning {YOU16} down a corridor",
+  "image": "images/beat_074.png"
+ },
+ {
+  "beat": 75,
+  "start": 262.034,
+  "dur": 3.333,
+  "text": "the Countess calls you to her dressing table.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "the Countess's dressing room with a large silver mirror",
+  "image": "images/beat_075.png"
+ },
+ {
+  "beat": 76,
+  "start": 265.367,
+  "dur": 3.75,
+  "text": "She\u2019s sitting in front of a large silver mirror,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{COUNTESS} seated at the mirror, her back to us",
+  "image": "images/beat_076.png"
+ },
+ {
+  "beat": 77,
+  "start": 269.117,
+  "dur": 4.583,
+  "text": "and she\u2019s covered in white. Her face. Her neck. Her chest.",
+  "motion": "pan",
+  "scene": "dressing",
+  "action": "{COUNTESS}'s white face, neck and chest reflected in the mirror",
+  "image": "images/beat_077.png"
+ },
+ {
+  "beat": 78,
+  "start": 273.7,
+  "dur": 4.583,
+  "text": "A smooth, flawless, ghostly white, like a statue carved from marble.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "close-up of {COUNTESS}'s marble-white face like a statue",
+  "image": "images/beat_078.png"
+ },
+ {
+  "beat": 79,
+  "start": 278.283,
+  "dur": 3.333,
+  "text": "Her cheeks are painted a bright rosy red.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "close-up of {COUNTESS}'s bright red painted cheeks",
+  "image": "images/beat_079.png"
+ },
+ {
+  "beat": 80,
+  "start": 281.616,
+  "dur": 2.083,
+  "text": "Her lips are red too.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "close-up of {COUNTESS}'s red lips",
+  "image": "images/beat_080.png"
+ },
+ {
+  "beat": 81,
+  "start": 283.699,
+  "dur": 3.75,
+  "text": "Her eyebrows have been plucked into thin, perfect arches,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "close-up of {COUNTESS}'s thin plucked eyebrows",
+  "image": "images/beat_081.png"
+ },
+ {
+  "beat": 82,
+  "start": 287.449,
+  "dur": 4.583,
+  "text": "and her hairline has been plucked back, high up her forehead,",
+  "motion": "pan",
+  "scene": "dressing",
+  "action": "close-up of {COUNTESS}'s high plucked hairline, a pair of tweezers nearby",
+  "image": "images/beat_082.png"
+ },
+ {
+  "beat": 83,
+  "start": 292.032,
+  "dur": 2.917,
+  "text": "to make it look smooth and noble.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "an inset of a noble portrait with a high bare forehead",
+  "image": "images/beat_083.png"
+ },
+ {
+  "beat": 84,
+  "start": 294.949,
+  "dur": 5.0,
+  "text": "She looks at you in the mirror. She looks at your freckles.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{COUNTESS} looking at {YOU16}'s reflection in the mirror",
+  "image": "images/beat_084.png"
+ },
+ {
+  "beat": 85,
+  "start": 299.949,
+  "dur": 1.25,
+  "text": "And she sighs.",
+  "motion": "shake",
+  "scene": "dressing",
+  "action": "{COUNTESS} sighing heavily, a deflating sigh line",
+  "image": "images/beat_085.png"
+ },
+ {
+  "beat": 86,
+  "start": 301.199,
+  "dur": 2.5,
+  "text": "That will never do, she says.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{COUNTESS} with a speech bubble reading THAT WILL NEVER DO",
+  "image": "images/beat_086.png"
+ },
+ {
+  "beat": 87,
+  "start": 303.699,
+  "dur": 4.583,
+  "text": "That evening, for the first time in your life, you\u2019re painted.",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "{YOU16} seated on a stool at evening, a candle burning",
+  "image": "images/beat_087.png"
+ },
+ {
+  "beat": 88,
+  "start": 308.282,
+  "dur": 4.167,
+  "text": "The Countess\u2019s older maid, a woman called Joan, does it.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{JOAN} sitting down with a box of pots and brushes, a name label JOAN",
+  "image": "images/beat_088.png"
+ },
+ {
+  "beat": 89,
+  "start": 312.449,
+  "dur": 5.0,
+  "text": "Joan is about thirty, round-faced and sharp-tongued, from a farm in Kent,",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "close-up of {JOAN}'s round, cheeky face",
+  "image": "images/beat_089.png"
+ },
+ {
+  "beat": 90,
+  "start": 317.449,
+  "dur": 5.0,
+  "text": "with a laugh like a goose and absolutely no respect for anyone,",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{JOAN} laughing with a big honking laugh, a cartoon goose inset",
+  "image": "images/beat_090.png"
+ },
+ {
+  "beat": 91,
+  "start": 322.449,
+  "dur": 3.333,
+  "text": "including the Countess, when the Countess isn\u2019t listening.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{JOAN} pulling a face behind the closed door of the Countess's room",
+  "image": "images/beat_091.png"
+ },
+ {
+  "beat": 92,
+  "start": 325.782,
+  "dur": 5.0,
+  "text": "She sits you down and opens a little pot of white paste.",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "{JOAN} opening a small pot of white paste",
+  "image": "images/beat_092.png"
+ },
+ {
+  "beat": 93,
+  "start": 330.782,
+  "dur": 2.917,
+  "text": "She tells you it\u2019s called Venetian ceruse.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "close-up of the pot with a label reading CERUSE",
+  "image": "images/beat_093.png"
+ },
+ {
+  "beat": 94,
+  "start": 333.699,
+  "dur": 2.917,
+  "text": "The finest face paint in the world.",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "an inset of a glittering jar with a gold crown above it",
+  "image": "images/beat_094.png"
+ },
+ {
+  "beat": 95,
+  "start": 336.616,
+  "dur": 3.75,
+  "text": "Imported from Venice, the most fashionable city in Europe.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "an inset of Venice canals and fashionable people",
+  "image": "images/beat_095.png"
+ },
+ {
+  "beat": 96,
+  "start": 340.366,
+  "dur": 4.167,
+  "text": "It costs more than your father earns in a month.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "an inset of a scale with the pot on one side and a big pile of coins on the other",
+  "image": "images/beat_096.png"
+ },
+ {
+  "beat": 97,
+  "start": 344.533,
+  "dur": 3.333,
+  "text": "She dips a soft brush into the pot",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "{JOAN} dipping a soft brush into the pot",
+  "image": "images/beat_097.png"
+ },
+ {
+  "beat": 98,
+  "start": 347.866,
+  "dur": 4.167,
+  "text": "and paints it across your face in long, smooth strokes.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{JOAN} brushing white paste across {YOU16}'s cheek",
+  "image": "images/beat_098.png"
+ },
+ {
+  "beat": 99,
+  "start": 352.033,
+  "dur": 4.167,
+  "text": "It\u2019s cold and slightly greasy. It smells faintly of vinegar.",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "close-up of {YOU16} shivering at the cold paste, faint vinegar smell lines",
+  "image": "images/beat_099.png"
+ },
+ {
+  "beat": 100,
+  "start": 356.2,
+  "dur": 2.5,
+  "text": "Then she holds up the mirror.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{JOAN} holding up a hand mirror",
+  "image": "images/beat_100.png"
+ },
+ {
+  "beat": 101,
+  "start": 358.7,
+  "dur": 1.667,
+  "text": "Your freckles are gone.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "close-up of {YOUPAINT} in the mirror, freckles gone",
+  "image": "images/beat_101.png"
+ },
+ {
+  "beat": 102,
+  "start": 360.367,
+  "dur": 2.917,
+  "text": "All of them. Every single sun kiss.",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "a split inset: freckled face and white painted face",
+  "image": "images/beat_102.png"
+ },
+ {
+  "beat": 103,
+  "start": 363.284,
+  "dur": 5.0,
+  "text": "In their place is a smooth, white, perfect face. A lady\u2019s face.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "close-up of {YOUPAINT}, smooth and white",
+  "image": "images/beat_103.png"
+ },
+ {
+  "beat": 104,
+  "start": 368.284,
+  "dur": 4.167,
+  "text": "You look like a stranger. You look like the Queen.",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "{YOUPAINT} next to a portrait of the Queen, both identical",
+  "image": "images/beat_104.png"
+ },
+ {
+  "beat": 105,
+  "start": 372.451,
+  "dur": 1.667,
+  "text": "You can\u2019t stop staring.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{YOUPAINT} staring into the mirror, eyes wide",
+  "image": "images/beat_105.png"
+ },
+ {
+  "beat": 106,
+  "start": 374.118,
+  "dur": 4.167,
+  "text": "The next morning, the Countess\u2019s guests compliment you at breakfast.",
+  "motion": "push",
+  "scene": "hall",
+  "action": "{YOUPAINT} carrying a tray at breakfast, guests turning to look",
+  "image": "images/beat_106.png"
+ },
+ {
+  "beat": 107,
+  "start": 378.285,
+  "dur": 2.917,
+  "text": "A lady asks who your family are.",
+  "motion": "pan",
+  "scene": "hall",
+  "action": "a noble lady guest asking {YOUPAINT} a question",
+  "image": "images/beat_107.png"
+ },
+ {
+  "beat": 108,
+  "start": 381.202,
+  "dur": 3.75,
+  "text": "Another asks where you found such a delicate complexion.",
+  "motion": "push",
+  "scene": "hall",
+  "action": "a second lady guest leaning in, admiring",
+  "image": "images/beat_108.png"
+ },
+ {
+  "beat": 109,
+  "start": 384.952,
+  "dur": 3.75,
+  "text": "The cook gives you an extra slice of pie.",
+  "motion": "pull",
+  "scene": "kitchen",
+  "action": "the cook sliding an extra slice of pie toward {YOUPAINT}",
+  "image": "images/beat_109.png"
+ },
+ {
+  "beat": 110,
+  "start": 388.702,
+  "dur": 4.167,
+  "text": "For the first time in your life, you feel beautiful.",
+  "motion": "push",
+  "scene": "hall",
+  "action": "{YOUPAINT} glowing with happiness, sparkles around her",
+  "image": "images/beat_110.png"
+ },
+ {
+  "beat": 111,
+  "start": 392.869,
+  "dur": 4.167,
+  "text": "You decide that whoever invented Venetian ceruse was a genius.",
+  "motion": "push",
+  "scene": "hall",
+  "action": "{YOUPAINT} kissing the pot of ceruse",
+  "image": "images/beat_111.png"
+ },
+ {
+  "beat": 112,
+  "start": 397.036,
+  "dur": 4.167,
+  "text": "You find out what\u2019s actually in it a month later,",
+  "motion": "pan",
+  "scene": "apothecary",
+  "action": "a narrow apothecary shop on a London street",
+  "image": "images/beat_112.png"
+ },
+ {
+  "beat": 113,
+  "start": 401.203,
+  "dur": 4.583,
+  "text": "when you\u2019re sent to collect a fresh pot from the apothecary.",
+  "motion": "push",
+  "scene": "apothecary",
+  "action": "{YOUPAINT} entering the apothecary with an empty pot",
+  "image": "images/beat_113.png"
+ },
+ {
+  "beat": 114,
+  "start": 405.786,
+  "dur": 2.917,
+  "text": "He\u2019s an old man with bad breath",
+  "motion": "pull",
+  "scene": "apothecary",
+  "action": "{APOTHECARY} breathing green breath lines over a counter full of strange bottles",
+  "image": "images/beat_114.png"
+ },
+ {
+  "beat": 115,
+  "start": 408.703,
+  "dur": 5.0,
+  "text": "and a workshop full of strange bottles. He explains how it\u2019s made,",
+  "motion": "push",
+  "scene": "apothecary",
+  "action": "{APOTHECARY} explaining with grand gestures",
+  "image": "images/beat_115.png"
+ },
+ {
+  "beat": 116,
+  "start": 413.703,
+  "dur": 3.333,
+  "text": "as proudly as if he invented it himself.",
+  "motion": "push",
+  "scene": "apothecary",
+  "action": "{APOTHECARY} puffing out his chest proudly",
+  "image": "images/beat_116.png"
+ },
+ {
+  "beat": 117,
+  "start": 417.036,
+  "dur": 2.083,
+  "text": "You take sheets of lead.",
+  "motion": "pan",
+  "scene": "dungheap",
+  "action": "an inset of grey lead sheets stacked on a bench",
+  "image": "images/beat_117.png"
+ },
+ {
+  "beat": 118,
+  "start": 419.119,
+  "dur": 3.75,
+  "text": "You hang them over vinegar in a sealed pot,",
+  "motion": "push",
+  "scene": "dungheap",
+  "action": "an inset of lead sheets hanging over a pot of vinegar",
+  "image": "images/beat_118.png"
+ },
+ {
+  "beat": 119,
+  "start": 422.869,
+  "dur": 3.75,
+  "text": "and bury the pot in horse dung for weeks,",
+  "motion": "fade",
+  "scene": "dungheap",
+  "action": "an inset of pots buried in a steaming heap of horse dung, flies buzzing",
+  "image": "images/beat_119.png"
+ },
+ {
+  "beat": 120,
+  "start": 426.619,
+  "dur": 4.583,
+  "text": "so the heat makes the vinegar fumes eat into the metal.",
+  "motion": "shake",
+  "scene": "dungheap",
+  "action": "an inset of vinegar fumes curling up around the lead",
+  "image": "images/beat_120.png"
+ },
+ {
+  "beat": 121,
+  "start": 431.202,
+  "dur": 3.333,
+  "text": "The lead turns into a white, crumbly crust.",
+  "motion": "shake",
+  "scene": "dungheap",
+  "action": "an inset of lead sheets covered in white crust",
+  "image": "images/beat_121.png"
+ },
+ {
+  "beat": 122,
+  "start": 434.535,
+  "dur": 3.333,
+  "text": "You scrape it off, grind it into powder,",
+  "motion": "pan",
+  "scene": "dungheap",
+  "action": "an inset of a hand scraping crust into a mortar and grinding it",
+  "image": "images/beat_122.png"
+ },
+ {
+  "beat": 123,
+  "start": 437.868,
+  "dur": 2.5,
+  "text": "and mix it into a paste.",
+  "motion": "push",
+  "scene": "dungheap",
+  "action": "an inset of white paste being mixed in a bowl",
+  "image": "images/beat_123.png"
+ },
+ {
+  "beat": 124,
+  "start": 440.368,
+  "dur": 3.75,
+  "text": "White lead. That\u2019s what you\u2019re painting on your face.",
+  "motion": "pull",
+  "scene": "apothecary",
+  "action": "{YOUPAINT}'s eyes widening, a skull-and-crossbones label on the pot",
+  "image": "images/beat_124.png"
+ },
+ {
+  "beat": 125,
+  "start": 444.118,
+  "dur": 2.917,
+  "text": "You ask the apothecary if it\u2019s safe.",
+  "motion": "push",
+  "scene": "apothecary",
+  "action": "{YOUPAINT} asking the apothecary a question",
+  "image": "images/beat_125.png"
+ },
+ {
+  "beat": 126,
+  "start": 447.035,
+  "dur": 4.583,
+  "text": "He laughs and asks if the Queen looks dead to you.",
+  "motion": "push",
+  "scene": "apothecary",
+  "action": "{APOTHECARY} laughing and pointing at a portrait of the Queen",
+  "image": "images/beat_126.png"
+ },
+ {
+  "beat": 127,
+  "start": 451.618,
+  "dur": 1.667,
+  "text": "You don\u2019t ask again.",
+  "motion": "pan",
+  "scene": "apothecary",
+  "action": "{YOUPAINT} slowly backing away with the pot",
+  "image": "images/beat_127.png"
+ },
+ {
+  "beat": 128,
+  "start": 453.285,
+  "dur": 2.5,
+  "text": "There\u2019s more, of course. Much more.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "a dressing table covered in bottles, pots and brushes",
+  "image": "images/beat_128.png"
+ },
+ {
+  "beat": 129,
+  "start": 455.785,
+  "dur": 3.333,
+  "text": "Every morning, Joan teaches you the full routine.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{JOAN} lining up pots in order on the table, {YOUPAINT} watching",
+  "image": "images/beat_129.png"
+ },
+ {
+  "beat": 130,
+  "start": 459.118,
+  "dur": 2.5,
+  "text": "First, wash your face with rosewater.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{YOU16} splashing rosewater on her face",
+  "image": "images/beat_130.png"
+ },
+ {
+  "beat": 131,
+  "start": 461.618,
+  "dur": 4.583,
+  "text": "Then, to remove any blemishes or freckles that might show through,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{JOAN} holding up a small bottle labelled MERCURY",
+  "image": "images/beat_131.png"
+ },
+ {
+  "beat": 132,
+  "start": 466.201,
+  "dur": 5.0,
+  "text": "dab them with a lotion made from mercury. It burns like fire.",
+  "motion": "pan",
+  "scene": "dressing",
+  "action": "{YOU16} dabbing lotion on a freckle, flame lines and a wince",
+  "image": "images/beat_132.png"
+ },
+ {
+  "beat": 133,
+  "start": 471.201,
+  "dur": 5.0,
+  "text": "It peels the top layer of skin right off. That\u2019s the point.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "an inset of a thin peeling layer of skin, like a peeling apple",
+  "image": "images/beat_133.png"
+ },
+ {
+  "beat": 134,
+  "start": 476.201,
+  "dur": 1.25,
+  "text": "Then the ceruse.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{JOAN} brushing ceruse over {YOU16}'s face",
+  "image": "images/beat_134.png"
+ },
+ {
+  "beat": 135,
+  "start": 477.451,
+  "dur": 4.167,
+  "text": "Then a thin glaze of egg white over the top,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{JOAN} painting egg white over {YOUPAINT}'s face with a feather",
+  "image": "images/beat_135.png"
+ },
+ {
+  "beat": 136,
+  "start": 481.618,
+  "dur": 2.917,
+  "text": "to make it shine like porcelain and",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "close-up of {YOUPAINT}'s shiny porcelain-like face",
+  "image": "images/beat_136.png"
+ },
+ {
+  "beat": 137,
+  "start": 484.535,
+  "dur": 2.5,
+  "text": "stop it cracking when you smile.",
+  "motion": "pan",
+  "scene": "dressing",
+  "action": "{YOUPAINT} smiling carefully, the paint not cracking",
+  "image": "images/beat_137.png"
+ },
+ {
+  "beat": 138,
+  "start": 487.035,
+  "dur": 2.917,
+  "text": "Then rouge for the cheeks and lips,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{JOAN} dabbing red rouge on {YOUPAINT}'s cheeks",
+  "image": "images/beat_138.png"
+ },
+ {
+  "beat": 139,
+  "start": 489.952,
+  "dur": 3.333,
+  "text": "made from a bright red powder called vermilion.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "an inset of bright red vermilion powder in a dish",
+  "image": "images/beat_139.png"
+ },
+ {
+  "beat": 140,
+  "start": 493.285,
+  "dur": 3.333,
+  "text": "Which is also, Joan mentions, made from mercury.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{JOAN} winking, a speech bubble reading MERCURY",
+  "image": "images/beat_140.png"
+ },
+ {
+  "beat": 141,
+  "start": 496.618,
+  "dur": 2.083,
+  "text": "And finally, for special occasions,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{JOAN} holding up a tiny glass dropper",
+  "image": "images/beat_141.png"
+ },
+ {
+  "beat": 142,
+  "start": 498.701,
+  "dur": 5.0,
+  "text": "a drop of juice from the deadly nightshade plant in each eye.",
+  "motion": "pan",
+  "scene": "dressing",
+  "action": "an inset of the deadly nightshade plant with dark berries",
+  "image": "images/beat_142.png"
+ },
+ {
+  "beat": 143,
+  "start": 503.701,
+  "dur": 3.75,
+  "text": "Belladonna. It makes your pupils huge, dark, and mysterious.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "close-up of {YOUPAINT}'s eyes with huge dark pupils",
+  "image": "images/beat_143.png"
+ },
+ {
+  "beat": 144,
+  "start": 507.451,
+  "dur": 3.333,
+  "text": "It also makes your vision blurry for hours,",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{YOUPAINT}'s point of view blurring",
+  "image": "images/beat_144.png"
+ },
+ {
+  "beat": 145,
+  "start": 510.784,
+  "dur": 4.583,
+  "text": "and if you use too much, it can stop your heart.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "an inset of a heart with a stop sign",
+  "image": "images/beat_145.png"
+ },
+ {
+  "beat": 146,
+  "start": 515.367,
+  "dur": 2.917,
+  "text": "The first time you try the belladonna,",
+  "motion": "push",
+  "scene": "feast",
+  "action": "{YOUPAINT} squeezing drops into her eyes before a feast",
+  "image": "images/beat_146.png"
+ },
+ {
+  "beat": 147,
+  "start": 518.284,
+  "dur": 2.5,
+  "text": "for the Countess\u2019s Twelfth Night feast,",
+  "motion": "pan",
+  "scene": "feast",
+  "action": "a Twelfth Night feast in the great hall with garlands and a giant cake",
+  "image": "images/beat_147.png"
+ },
+ {
+  "beat": 148,
+  "start": 520.784,
+  "dur": 3.75,
+  "text": "the whole hall turns into a soft golden blur.",
+  "motion": "push",
+  "scene": "feast",
+  "action": "the hall dissolving into a soft golden blur from {YOUPAINT}'s point of view",
+  "image": "images/beat_148.png"
+ },
+ {
+  "beat": 149,
+  "start": 524.534,
+  "dur": 4.167,
+  "text": "You walk straight into a pillar. Then into the steward.",
+  "motion": "pull",
+  "scene": "feast",
+  "action": "{YOUPAINT} bonking into a stone pillar, then into the steward",
+  "image": "images/beat_149.png"
+ },
+ {
+  "beat": 150,
+  "start": 528.701,
+  "dur": 2.917,
+  "text": "Then down two steps you never saw.",
+  "motion": "push",
+  "scene": "feast",
+  "action": "{YOUPAINT} tumbling down two steps, a tray flying",
+  "image": "images/beat_150.png"
+ },
+ {
+  "beat": 151,
+  "start": 531.618,
+  "dur": 3.333,
+  "text": "The guests think you\u2019ve had too much wine.",
+  "motion": "push",
+  "scene": "feast",
+  "action": "guests whispering and miming drinking",
+  "image": "images/beat_151.png"
+ },
+ {
+  "beat": 152,
+  "start": 534.951,
+  "dur": 4.583,
+  "text": "Joan has to lead you around by the elbow all night,",
+  "motion": "pan",
+  "scene": "feast",
+  "action": "{JOAN} leading {YOUPAINT} by the elbow through the crowd",
+  "image": "images/beat_152.png"
+ },
+ {
+  "beat": 153,
+  "start": 539.534,
+  "dur": 3.75,
+  "text": "whispering directions in your ear like a ship\u2019s pilot.",
+  "motion": "push",
+  "scene": "feast",
+  "action": "{JOAN} whispering into {YOUPAINT}'s ear, a little ship's wheel icon floating",
+  "image": "images/beat_153.png"
+ },
+ {
+  "beat": 154,
+  "start": 543.284,
+  "dur": 3.75,
+  "text": "You learn all of this in your first year.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{YOUPAINT} expertly lining up pots on the dressing table",
+  "image": "images/beat_154.png"
+ },
+ {
+  "beat": 155,
+  "start": 547.034,
+  "dur": 1.667,
+  "text": "You learn it well.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{YOUPAINT} painting her own face confidently",
+  "image": "images/beat_155.png"
+ },
+ {
+  "beat": 156,
+  "start": 548.701,
+  "dur": 3.333,
+  "text": "Joan becomes your favourite person in the house.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{YOUPAINT} and {JOAN} laughing together on the bed",
+  "image": "images/beat_156.png"
+ },
+ {
+  "beat": 157,
+  "start": 552.034,
+  "dur": 5.0,
+  "text": "She\u2019s has opinions on everything. She thinks the plucked hairlines make the",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "{JOAN} with a speech bubble, an inset of court ladies with high bare foreheads",
+  "image": "images/beat_157.png"
+ },
+ {
+  "beat": 158,
+  "start": 557.034,
+  "dur": 2.5,
+  "text": "court ladies look like boiled eggs.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "an inset of a row of boiled eggs wearing ruffs",
+  "image": "images/beat_158.png"
+ },
+ {
+  "beat": 159,
+  "start": 559.534,
+  "dur": 3.333,
+  "text": "She thinks the Countess\u2019s new perfume smells like",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "{JOAN} pinching her nose",
+  "image": "images/beat_159.png"
+ },
+ {
+  "beat": 160,
+  "start": 562.867,
+  "dur": 2.917,
+  "text": "a cat that\u2019s been dipped in rosewater.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "an inset of a startled cat dripping in rosewater",
+  "image": "images/beat_160.png"
+ },
+ {
+  "beat": 161,
+  "start": 565.784,
+  "dur": 4.167,
+  "text": "And one night, when she\u2019s taking off her own paint,",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{JOAN} wiping off her own paint at night by candlelight",
+  "image": "images/beat_161.png"
+ },
+ {
+  "beat": 162,
+  "start": 569.951,
+  "dur": 2.917,
+  "text": "she admits something she\u2019s never told anyone.",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "{JOAN} leaning close, whispering",
+  "image": "images/beat_162.png"
+ },
+ {
+  "beat": 163,
+  "start": 572.868,
+  "dur": 3.333,
+  "text": "She hates the mercury. It hurts too much.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{JOAN} pushing a bottle labelled MERCURY away with a disgusted face",
+  "image": "images/beat_163.png"
+ },
+ {
+  "beat": 164,
+  "start": 576.201,
+  "dur": 4.583,
+  "text": "So she\u2019s stopped using it. She just uses more ceruse instead,",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "{JOAN} scooping a big dollop of ceruse",
+  "image": "images/beat_164.png"
+ },
+ {
+  "beat": 165,
+  "start": 580.784,
+  "dur": 2.917,
+  "text": "a thicker layer to cover whatever\u2019s underneath.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "close-up of {JOAN}'s painted face with a visibly thick layer",
+  "image": "images/beat_165.png"
+ },
+ {
+  "beat": 166,
+  "start": 583.701,
+  "dur": 2.917,
+  "text": "You notice that her paint has been",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{YOUPAINT} glancing sideways at {JOAN}'s thick paint",
+  "image": "images/beat_166.png"
+ },
+ {
+  "beat": 167,
+  "start": 586.618,
+  "dur": 2.5,
+  "text": "getting thicker for a while now.",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "an inset of paint layers stacked like a cake",
+  "image": "images/beat_167.png"
+ },
+ {
+  "beat": 168,
+  "start": 589.118,
+  "dur": 5.0,
+  "text": "Years pass. You stop being the new girl. By 1585, you\u2019re 22,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "a calendar flipping to 1585",
+  "image": "images/beat_168.png"
+ },
+ {
+  "beat": 169,
+  "start": 594.118,
+  "dur": 4.583,
+  "text": "and you\u2019re the one teaching the younger maids how to paint.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{YOUPAINT22} teaching a row of young maids how to paint",
+  "image": "images/beat_169.png"
+ },
+ {
+  "beat": 170,
+  "start": 598.701,
+  "dur": 3.333,
+  "text": "Your hands are steady. Your strokes are perfect.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "close-up of a smooth expert brushstroke",
+  "image": "images/beat_170.png"
+ },
+ {
+  "beat": 171,
+  "start": 602.034,
+  "dur": 2.5,
+  "text": "The Countess calls you her artist.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{COUNTESS} beaming at {YOUPAINT22}, a speech bubble reading ARTIST",
+  "image": "images/beat_171.png"
+ },
+ {
+  "beat": 172,
+  "start": 604.534,
+  "dur": 3.75,
+  "text": "One spring, a new girl arrives from the country.",
+  "motion": "pan",
+  "scene": "countess_ext",
+  "action": "spring blossom in the gardens, a cart arriving",
+  "image": "images/beat_172.png"
+ },
+ {
+  "beat": 173,
+  "start": 608.284,
+  "dur": 1.667,
+  "text": "Her name is Alice.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{ALICE} stepping nervously into the dressing room, a name label ALICE",
+  "image": "images/beat_173.png"
+ },
+ {
+  "beat": 174,
+  "start": 609.951,
+  "dur": 4.167,
+  "text": "She\u2019s fifteen, nervous, and covered in freckles, dozens of them,",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "close-up of {ALICE}'s freckled face",
+  "image": "images/beat_174.png"
+ },
+ {
+  "beat": 175,
+  "start": 614.118,
+  "dur": 2.083,
+  "text": "across her nose and cheeks.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{ALICE} twisting her fingers nervously",
+  "image": "images/beat_175.png"
+ },
+ {
+  "beat": 176,
+  "start": 616.201,
+  "dur": 3.333,
+  "text": "She stands in front of the Countess\u2019s mirror,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{ALICE} standing before the Countess's mirror",
+  "image": "images/beat_176.png"
+ },
+ {
+  "beat": 177,
+  "start": 619.534,
+  "dur": 3.333,
+  "text": "and the Countess looks at her, and sighs.",
+  "motion": "pan",
+  "scene": "dressing",
+  "action": "{COUNTESS} looking at {ALICE} and sighing",
+  "image": "images/beat_177.png"
+ },
+ {
+  "beat": 178,
+  "start": 622.867,
+  "dur": 5.0,
+  "text": "And you hear your own voice say it. That will never do.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{YOUPAINT22} saying THAT WILL NEVER DO in a speech bubble, an echo of the Countess behind her",
+  "image": "images/beat_178.png"
+ },
+ {
+  "beat": 179,
+  "start": 627.867,
+  "dur": 3.333,
+  "text": "You paint her that evening. Long, smooth strokes.",
+  "motion": "shake",
+  "scene": "maids_room",
+  "action": "{YOUPAINT22} brushing ceruse across {ALICE}'s face",
+  "image": "images/beat_179.png"
+ },
+ {
+  "beat": 180,
+  "start": 631.2,
+  "dur": 5.0,
+  "text": "When you hold up the mirror, she gasps, the way you did.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{ALICE} gasping at the mirror, freckles gone",
+  "image": "images/beat_180.png"
+ },
+ {
+  "beat": 181,
+  "start": 636.2,
+  "dur": 3.333,
+  "text": "You tell yourself you\u2019ve given her a gift.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{YOUPAINT22} smiling, but with a small uneasy shadow",
+  "image": "images/beat_181.png"
+ },
+ {
+  "beat": 182,
+  "start": 639.533,
+  "dur": 2.5,
+  "text": "But something is happening to Joan.",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "{JOAN} sitting in the corner looking tired",
+  "image": "images/beat_182.png"
+ },
+ {
+  "beat": 183,
+  "start": 642.033,
+  "dur": 4.583,
+  "text": "It starts with her hair. When you brush it at night,",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{YOUPAINT22} brushing {JOAN}'s hair at night",
+  "image": "images/beat_183.png"
+ },
+ {
+  "beat": 184,
+  "start": 646.616,
+  "dur": 2.917,
+  "text": "more of it stays in the brush.",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "close-up of a hairbrush full of loose hair",
+  "image": "images/beat_184.png"
+ },
+ {
+  "beat": 185,
+  "start": 649.533,
+  "dur": 3.75,
+  "text": "She starts wearing her caps lower. Then her teeth.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{JOANSICK} pulling a linen cap lower over her forehead",
+  "image": "images/beat_185.png"
+ },
+ {
+  "beat": 186,
+  "start": 653.283,
+  "dur": 2.917,
+  "text": "One of them goes black. Then another.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "close-up of {JOANSICK}'s smile with a blackened tooth",
+  "image": "images/beat_186.png"
+ },
+ {
+  "beat": 187,
+  "start": 656.2,
+  "dur": 2.917,
+  "text": "She stops smiling with her mouth open.",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "{JOANSICK} hiding her mouth behind her hand",
+  "image": "images/beat_187.png"
+ },
+ {
+  "beat": 188,
+  "start": 659.117,
+  "dur": 1.667,
+  "text": "Then the headaches come.",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "{JOANSICK} clutching her head, pain lines",
+  "image": "images/beat_188.png"
+ },
+ {
+  "beat": 189,
+  "start": 660.784,
+  "dur": 5.0,
+  "text": "Terrible ones, that leave her lying in a dark room for days.",
+  "motion": "pull",
+  "scene": "dark_room",
+  "action": "{JOANSICK} lying in a dark room with curtains drawn",
+  "image": "images/beat_189.png"
+ },
+ {
+  "beat": 190,
+  "start": 665.784,
+  "dur": 5.0,
+  "text": "She gets tired easily. Her hands shake when she holds the brush.",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "{JOANSICK} holding a brush with shaky lines",
+  "image": "images/beat_190.png"
+ },
+ {
+  "beat": 191,
+  "start": 670.784,
+  "dur": 5.0,
+  "text": "Some days, she forgets your name. Some days, she forgets her own.",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "{JOANSICK} looking at {YOUPAINT22} blankly, a question mark over her head",
+  "image": "images/beat_191.png"
+ },
+ {
+  "beat": 192,
+  "start": 675.784,
+  "dur": 4.583,
+  "text": "And the skin underneath her paint. You see it one night,",
+  "motion": "pan",
+  "scene": "dark_room",
+  "action": "{YOUPAINT22} sitting beside {JOANSICK} at night",
+  "image": "images/beat_192.png"
+ },
+ {
+  "beat": 193,
+  "start": 680.367,
+  "dur": 2.917,
+  "text": "when she\u2019s too exhausted to wash her",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "{YOUPAINT22} wiping {JOANSICK}'s face with a cloth and a basin",
+  "image": "images/beat_193.png"
+ },
+ {
+  "beat": 194,
+  "start": 683.284,
+  "dur": 2.917,
+  "text": "face alone and lets you do it.",
+  "motion": "pull",
+  "scene": "dark_room",
+  "action": "{JOANSICK} too exhausted to lift her stick arms",
+  "image": "images/beat_194.png"
+ },
+ {
+  "beat": 195,
+  "start": 686.201,
+  "dur": 5.0,
+  "text": "Under the white mask, her real skin is grey. Not pale. Grey.",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "close-up of {JOANSICK}'s unpainted face, grey and blotchy",
+  "image": "images/beat_195.png"
+ },
+ {
+  "beat": 196,
+  "start": 691.201,
+  "dur": 2.083,
+  "text": "Rough and blotchy and scarred,",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "an inset of rough, rain-stained parchment",
+  "image": "images/beat_196.png"
+ },
+ {
+  "beat": 197,
+  "start": 693.284,
+  "dur": 3.333,
+  "text": "like old parchment left out in the rain.",
+  "motion": "pan",
+  "scene": "dark_room",
+  "action": "an inset of old parchment beside {JOANSICK}'s grey cheek",
+  "image": "images/beat_197.png"
+ },
+ {
+  "beat": 198,
+  "start": 696.617,
+  "dur": 4.583,
+  "text": "You don\u2019t say anything. You just wash her face gently and",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "{YOUPAINT22} silently washing {JOANSICK}'s face",
+  "image": "images/beat_198.png"
+ },
+ {
+  "beat": 199,
+  "start": 701.2,
+  "dur": 2.5,
+  "text": "paint it again in the morning.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{YOUPAINT22} painting {JOANSICK}'s face white again in the morning light",
+  "image": "images/beat_199.png"
+ },
+ {
+  "beat": 200,
+  "start": 703.7,
+  "dur": 1.667,
+  "text": "Joan catches you looking.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{JOANSICK} catching {YOUPAINT22}'s eye in the mirror",
+  "image": "images/beat_200.png"
+ },
+ {
+  "beat": 201,
+  "start": 705.367,
+  "dur": 5.0,
+  "text": "She tells you not to worry, that it\u2019s only the winter air,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{JOANSICK} waving a stick arm dismissively, a snowflake icon",
+  "image": "images/beat_201.png"
+ },
+ {
+  "beat": 202,
+  "start": 710.367,
+  "dur": 2.917,
+  "text": "that she\u2019s tougher than a Kentish turnip.",
+  "motion": "pan",
+  "scene": "dressing",
+  "action": "an inset of a tough-looking turnip flexing",
+  "image": "images/beat_202.png"
+ },
+ {
+  "beat": 203,
+  "start": 713.284,
+  "dur": 3.75,
+  "text": "Then she does her impression of the Countess sneezing,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{JOANSICK} pretending to sneeze dramatically",
+  "image": "images/beat_203.png"
+ },
+ {
+  "beat": 204,
+  "start": 717.034,
+  "dur": 3.333,
+  "text": "and you both laugh, and for one evening,",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{YOUPAINT22} and {JOANSICK} laughing together",
+  "image": "images/beat_204.png"
+ },
+ {
+  "beat": 205,
+  "start": 720.367,
+  "dur": 2.083,
+  "text": "you let yourself believe her.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{YOUPAINT22} smiling with a small, hopeful look",
+  "image": "images/beat_205.png"
+ },
+ {
+  "beat": 206,
+  "start": 722.45,
+  "dur": 1.667,
+  "text": "The Countess\u2019s physician comes.",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "{PHYSICIAN} arriving at the bedside with a bag",
+  "image": "images/beat_206.png"
+ },
+ {
+  "beat": 207,
+  "start": 724.117,
+  "dur": 4.583,
+  "text": "He says Joan suffers from an excess of melancholy. Bad humours.",
+  "motion": "pan",
+  "scene": "dark_room",
+  "action": "{PHYSICIAN} pointing at a chart of the four humours",
+  "image": "images/beat_207.png"
+ },
+ {
+  "beat": 208,
+  "start": 728.7,
+  "dur": 2.5,
+  "text": "He bleeds her. It doesn\u2019t help.",
+  "motion": "fade",
+  "scene": "dark_room",
+  "action": "{PHYSICIAN} holding a small bowl and lancet beside {JOANSICK}, nothing shown",
+  "image": "images/beat_208.png"
+ },
+ {
+  "beat": 209,
+  "start": 731.2,
+  "dur": 4.583,
+  "text": "In the winter of 1587, Joan dies. She\u2019s 38 years old.",
+  "motion": "pull",
+  "scene": "dark_room",
+  "action": "{JOANSICK} with soft X-eyes, peaceful, a 1587 calendar on the wall",
+  "image": "images/beat_209.png"
+ },
+ {
+  "beat": 210,
+  "start": 735.783,
+  "dur": 3.75,
+  "text": "You\u2019re the one who prepares her body for burial.",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "{YOUPAINT22} beside a sheet-covered shape, holding a basin and a cloth",
+  "image": "images/beat_210.png"
+ },
+ {
+  "beat": 211,
+  "start": 739.533,
+  "dur": 5.0,
+  "text": "And when you\u2019ve washed the last of the paint from her face,",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "a cloth and a basin of milky white water",
+  "image": "images/beat_211.png"
+ },
+ {
+  "beat": 212,
+  "start": 744.533,
+  "dur": 2.917,
+  "text": "you look down and realize you can\u2019t",
+  "motion": "pan",
+  "scene": "dark_room",
+  "action": "{YOUPAINT22} staring down, a blank thought bubble",
+  "image": "images/beat_212.png"
+ },
+ {
+  "beat": 213,
+  "start": 747.45,
+  "dur": 2.5,
+  "text": "remember what she really looked like.",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "a thought bubble of {JOAN} always in white paint",
+  "image": "images/beat_213.png"
+ },
+ {
+  "beat": 214,
+  "start": 749.95,
+  "dur": 3.75,
+  "text": "In eight years, you never saw her without it.",
+  "motion": "pull",
+  "scene": "dark_room",
+  "action": "an inset calendar with eight years of crosses",
+  "image": "images/beat_214.png"
+ },
+ {
+  "beat": 215,
+  "start": 753.7,
+  "dur": 3.75,
+  "text": "You stand in the dark for a long time.",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "{YOUPAINT22} standing alone in the dark room",
+  "image": "images/beat_215.png"
+ },
+ {
+  "beat": 216,
+  "start": 757.45,
+  "dur": 5.0,
+  "text": "They bury her in the corner of a churchyard near the river.",
+  "motion": "push",
+  "scene": "churchyard",
+  "action": "a small grave in the corner of a riverside churchyard, two mourners",
+  "image": "images/beat_216.png"
+ },
+ {
+  "beat": 217,
+  "start": 762.45,
+  "dur": 4.167,
+  "text": "The Countess doesn\u2019t attend. She has a supper that evening,",
+  "motion": "pan",
+  "scene": "hall",
+  "action": "{COUNTESS} at a bright supper table, pointing at her face",
+  "image": "images/beat_217.png"
+ },
+ {
+  "beat": 218,
+  "start": 766.617,
+  "dur": 3.75,
+  "text": "and she needs you there to do her face.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{YOUPAINT22} painting {COUNTESS} while her eyes are wet",
+  "image": "images/beat_218.png"
+ },
+ {
+  "beat": 219,
+  "start": 770.367,
+  "dur": 2.917,
+  "text": "Then you go to your own room,",
+  "motion": "fade",
+  "scene": "maids_room",
+  "action": "{YOUPAINT22} sitting at a small mirror in her room",
+  "image": "images/beat_219.png"
+ },
+ {
+  "beat": 220,
+  "start": 773.284,
+  "dur": 5.0,
+  "text": "sit down at your little mirror, and slowly wash your own face.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{YOUPAINT22} washing her face with a cloth, white water dripping",
+  "image": "images/beat_220.png"
+ },
+ {
+  "beat": 221,
+  "start": 778.284,
+  "dur": 3.75,
+  "text": "And underneath, for the first time, you see it.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "the mirror showing {YOURUIN}",
+  "image": "images/beat_221.png"
+ },
+ {
+  "beat": 222,
+  "start": 782.034,
+  "dur": 2.5,
+  "text": "Small grey patches across your cheeks.",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "close-up of grey patches on {YOURUIN}'s cheek",
+  "image": "images/beat_222.png"
+ },
+ {
+  "beat": 223,
+  "start": 784.534,
+  "dur": 4.167,
+  "text": "Little pits and scars where the mercury burned too deep.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "small pits and scars on {YOURUIN}'s cheek",
+  "image": "images/beat_223.png"
+ },
+ {
+  "beat": 224,
+  "start": 788.701,
+  "dur": 3.333,
+  "text": "The skin around your mouth rough and thin.",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "the rough skin around {YOURUIN}'s mouth",
+  "image": "images/beat_224.png"
+ },
+ {
+  "beat": 225,
+  "start": 792.034,
+  "dur": 4.167,
+  "text": "Your freckles are long gone. What replaced them is worse.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "a split inset: freckled face then grey scarred face",
+  "image": "images/beat_225.png"
+ },
+ {
+  "beat": 226,
+  "start": 796.201,
+  "dur": 2.5,
+  "text": "Something cold settles in your stomach.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{YOURUIN} with a cold blue tint spreading over her",
+  "image": "images/beat_226.png"
+ },
+ {
+  "beat": 227,
+  "start": 798.701,
+  "dur": 3.75,
+  "text": "You understand, finally, what\u2019s been happening. It\u2019s the paint.",
+  "motion": "pan",
+  "scene": "maids_room",
+  "action": "{YOURUIN} staring at the ceruse pot",
+  "image": "images/beat_227.png"
+ },
+ {
+  "beat": 228,
+  "start": 802.451,
+  "dur": 2.5,
+  "text": "The paint is ruining the skin.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "an inset of the ceruse pot with an arrow pointing to the grey skin",
+  "image": "images/beat_228.png"
+ },
+ {
+  "beat": 229,
+  "start": 804.951,
+  "dur": 5.0,
+  "text": "And the only way to hide the ruined skin is more paint.",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "an inset of a cycle: paint, ruined skin, more paint",
+  "image": "images/beat_229.png"
+ },
+ {
+  "beat": 230,
+  "start": 809.951,
+  "dur": 3.333,
+  "text": "Which ruins more skin. Which needs more paint.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "an inset of the cycle spinning faster",
+  "image": "images/beat_230.png"
+ },
+ {
+  "beat": 231,
+  "start": 813.284,
+  "dur": 2.917,
+  "text": "You think about stopping. You really do.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "{YOURUIN} pushing the pot away, then hesitating",
+  "image": "images/beat_231.png"
+ },
+ {
+  "beat": 232,
+  "start": 816.201,
+  "dur": 3.333,
+  "text": "But without the paint, you\u2019d be a grey,",
+  "motion": "fade",
+  "scene": "maids_room",
+  "action": "a thought bubble of a grey-faced maid being shooed out of a door",
+  "image": "images/beat_232.png"
+ },
+ {
+  "beat": 233,
+  "start": 819.534,
+  "dur": 2.5,
+  "text": "scarred maid with a ruined face.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "the thought bubble showing the Countess pointing at the door",
+  "image": "images/beat_233.png"
+ },
+ {
+  "beat": 234,
+  "start": 822.034,
+  "dur": 4.583,
+  "text": "The Countess would dismiss you by the end of the week.",
+  "motion": "pull",
+  "scene": "maids_room",
+  "action": "a thought bubble of the Countess pointing at a door, a suitcase",
+  "image": "images/beat_234.png"
+ },
+ {
+  "beat": 235,
+  "start": 826.617,
+  "dur": 4.583,
+  "text": "Your mother would die of shame. And you would have nothing.",
+  "motion": "push",
+  "scene": "maids_room",
+  "action": "a thought bubble of {MOTHER} crying with shame, then an empty room",
+  "image": "images/beat_235.png"
+ },
+ {
+  "beat": 236,
+  "start": 831.2,
+  "dur": 3.75,
+  "text": "So in the morning, you pick up the brush.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{YOURUIN} picking up the brush in the morning light",
+  "image": "images/beat_236.png"
+ },
+ {
+  "beat": 237,
+  "start": 834.95,
+  "dur": 2.917,
+  "text": "That summer, your mother comes to visit.",
+  "motion": "pan",
+  "scene": "kitchen",
+  "action": "{MOTHERAGED} arriving in the kitchen, a summer garden outside",
+  "image": "images/beat_237.png"
+ },
+ {
+  "beat": 238,
+  "start": 837.867,
+  "dur": 2.5,
+  "text": "She hasn\u2019t seen you in years.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "close-up of {MOTHERAGED}'s greying, lined face",
+  "image": "images/beat_238.png"
+ },
+ {
+  "beat": 239,
+  "start": 840.367,
+  "dur": 3.333,
+  "text": "When you walk into the kitchen in your",
+  "motion": "pull",
+  "scene": "kitchen",
+  "action": "{YOUPAINT22} stepping into the kitchen in a silk gown, {MOTHERAGED} bursting into tears",
+  "image": "images/beat_239.png"
+ },
+ {
+  "beat": 240,
+  "start": 843.7,
+  "dur": 4.583,
+  "text": "silk gown and your perfect white face, she bursts into tears.",
+  "motion": "shake",
+  "scene": "kitchen",
+  "action": "{MOTHERAGED} holding {YOUPAINT22}'s painted cheeks",
+  "image": "images/beat_240.png"
+ },
+ {
+  "beat": 241,
+  "start": 848.283,
+  "dur": 4.167,
+  "text": "She holds your painted cheeks in her rough seamstress hands",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "close-up of {MOTHERAGED}'s rough stick arms reaching up, her proud face",
+  "image": "images/beat_241.png"
+ },
+ {
+  "beat": 242,
+  "start": 852.45,
+  "dur": 3.75,
+  "text": "and tells you you look like a real lady.",
+  "motion": "pan",
+  "scene": "kitchen",
+  "action": "{MOTHERAGED} beaming, a crown floating above {YOUPAINT22}'s head",
+  "image": "images/beat_242.png"
+ },
+ {
+  "beat": 243,
+  "start": 856.2,
+  "dur": 4.167,
+  "text": "Like the Queen herself. She says she always knew it.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "{MOTHERAGED} nodding proudly, a speech bubble with a gold star",
+  "image": "images/beat_243.png"
+ },
+ {
+  "beat": 244,
+  "start": 860.367,
+  "dur": 5.0,
+  "text": "You smile with your lips closed. You don\u2019t tell her what\u2019s underneath.",
+  "motion": "pull",
+  "scene": "kitchen",
+  "action": "{YOUPAINT22} smiling with closed lips",
+  "image": "images/beat_244.png"
+ },
+ {
+  "beat": 245,
+  "start": 865.367,
+  "dur": 1.667,
+  "text": "You couldn\u2019t bear to.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "a faint ghostly grey face behind {YOUPAINT22}'s white mask",
+  "image": "images/beat_245.png"
+ },
+ {
+  "beat": 246,
+  "start": 867.034,
+  "dur": 2.083,
+  "text": "Your face is your fortune.",
+  "motion": "push",
+  "scene": "kitchen",
+  "action": "an inset of a gold coin cracking",
+  "image": "images/beat_246.png"
+ },
+ {
+  "beat": 247,
+  "start": 869.117,
+  "dur": 3.75,
+  "text": "Years pass. The paint gets thicker. Your hair thins.",
+  "motion": "pan",
+  "scene": "dressing",
+  "action": "{YOUPAINT40} at a mirror, a hairbrush full of hair",
+  "image": "images/beat_247.png"
+ },
+ {
+  "beat": 248,
+  "start": 872.867,
+  "dur": 2.917,
+  "text": "One of your back teeth turns black,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "close-up of a blackened back tooth",
+  "image": "images/beat_248.png"
+ },
+ {
+  "beat": 249,
+  "start": 875.784,
+  "dur": 3.75,
+  "text": "and you learn to smile with your lips closed,",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{YOUPAINT40} smiling with closed lips, a ghostly {JOAN} doing the same beside her",
+  "image": "images/beat_249.png"
+ },
+ {
+  "beat": 250,
+  "start": 879.534,
+  "dur": 3.75,
+  "text": "the way Joan did. Some mornings, your hands shake.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{YOUPAINT40}'s brush shaking, shaky lines",
+  "image": "images/beat_250.png"
+ },
+ {
+  "beat": 251,
+  "start": 883.284,
+  "dur": 2.917,
+  "text": "Some nights, the headaches are so bad",
+  "motion": "push",
+  "scene": "dark_room",
+  "action": "{YOUPAINT40} clutching her head in a dark room",
+  "image": "images/beat_251.png"
+ },
+ {
+  "beat": 252,
+  "start": 886.201,
+  "dur": 2.5,
+  "text": "you see colours that aren\u2019t there.",
+  "motion": "pan",
+  "scene": "dark_room",
+  "action": "swirls of strange colours around {YOUPAINT40}'s head",
+  "image": "images/beat_252.png"
+ },
+ {
+  "beat": 253,
+  "start": 888.701,
+  "dur": 2.083,
+  "text": "The Countess is suffering too.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{COUNTESSOLD} at the mirror",
+  "image": "images/beat_253.png"
+ },
+ {
+  "beat": 254,
+  "start": 890.784,
+  "dur": 4.583,
+  "text": "Her paint is now so thick it cracks when she talks.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "close-up of {COUNTESSOLD}'s face paint cracking as she talks",
+  "image": "images/beat_254.png"
+ },
+ {
+  "beat": 255,
+  "start": 895.367,
+  "dur": 4.167,
+  "text": "She\u2019s started covering her ruined skin with even more ceruse,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{YOUPAINT40} adding a thick layer of ceruse to {COUNTESSOLD}'s face",
+  "image": "images/beat_255.png"
+ },
+ {
+  "beat": 256,
+  "start": 899.534,
+  "dur": 4.167,
+  "text": "and her hair is so thin she wears a wig.",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{COUNTESSOLD} adjusting a wig on its stand before putting it on",
+  "image": "images/beat_256.png"
+ },
+ {
+  "beat": 257,
+  "start": 903.701,
+  "dur": 4.167,
+  "text": "Everyone at court does. Nobody mentions it. Nobody would dare.",
+  "motion": "pan",
+  "scene": "hall",
+  "action": "a crowd of courtiers in wigs and thick white paint, nobody looking at each other",
+  "image": "images/beat_257.png"
+ },
+ {
+  "beat": 258,
+  "start": 907.868,
+  "dur": 4.167,
+  "text": "Some mornings, the Countess sits at her mirror for three",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{COUNTESSOLD} at the mirror, a clock showing three hours passing",
+  "image": "images/beat_258.png"
+ },
+ {
+  "beat": 259,
+  "start": 912.035,
+  "dur": 2.917,
+  "text": "hours before she\u2019s ready to be seen.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{COUNTESSOLD} staring at herself",
+  "image": "images/beat_259.png"
+ },
+ {
+  "beat": 260,
+  "start": 914.952,
+  "dur": 2.917,
+  "text": "She has you add layer after layer,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "{YOUPAINT40} adding layer after layer with a trowel-sized brush",
+  "image": "images/beat_260.png"
+ },
+ {
+  "beat": 261,
+  "start": 917.869,
+  "dur": 2.917,
+  "text": "until her face looks less like skin",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "an inset of a plasterer plastering a wall",
+  "image": "images/beat_261.png"
+ },
+ {
+  "beat": 262,
+  "start": 920.786,
+  "dur": 5.0,
+  "text": "and more like a plastered wall. Then she smiles at her reflection,",
+  "motion": "pan",
+  "scene": "dressing",
+  "action": "{COUNTESSOLD} smiling at her reflection",
+  "image": "images/beat_262.png"
+ },
+ {
+  "beat": 263,
+  "start": 925.786,
+  "dur": 4.167,
+  "text": "and the paint cracks at the corners of her mouth,",
+  "motion": "push",
+  "scene": "dressing",
+  "action": "cracks spreading from the corners of {COUNTESSOLD}'s mouth",
+  "image": "images/beat_263.png"
+ },
+ {
+  "beat": 264,
+  "start": 929.953,
+  "dur": 2.5,
+  "text": "and you start all over again.",
+  "motion": "pull",
+  "scene": "dressing",
+  "action": "{YOUPAINT40} sighing and picking up the brush again",
+  "image": "images/beat_264.png"
+ },
+ {
+  "beat": 265,
+  "start": 932.453,
+  "dur": 2.083,
+  "text": "In the winter of 1600,",
+  "motion": "push",
+  "scene": "whitehall",
+  "action": "the royal palace at Whitehall in winter, a 1600 calendar page",
+  "image": "images/beat_265.png"
+ },
+ {
+  "beat": 266,
+  "start": 934.536,
+  "dur": 5.0,
+  "text": "the Countess takes you with her to the royal palace at Whitehall.",
+  "motion": "push",
+  "scene": "whitehall",
+  "action": "{COUNTESSOLD} and {YOUPAINT40} entering a crowded throne room",
+  "image": "images/beat_266.png"
+ },
+ {
+  "beat": 267,
+  "start": 939.536,
+  "dur": 4.583,
+  "text": "For the first time in your life, you see the Queen.",
+  "motion": "pan",
+  "scene": "whitehall",
+  "action": "the throne room with candles everywhere and courtiers bowing",
+  "image": "images/beat_267.png"
+ },
+ {
+  "beat": 268,
+  "start": 944.119,
+  "dur": 1.667,
+  "text": "She\u2019s 67 years old.",
+  "motion": "push",
+  "scene": "whitehall",
+  "action": "{QUEEN} on her throne, a number 67 floating beside her",
+  "image": "images/beat_268.png"
+ },
+ {
+  "beat": 269,
+  "start": 945.786,
+  "dur": 4.167,
+  "text": "She\u2019s sitting on a throne under a canopy of gold,",
+  "motion": "pull",
+  "scene": "whitehall",
+  "action": "{QUEEN} under a gold canopy",
+  "image": "images/beat_269.png"
+ },
+ {
+  "beat": 270,
+  "start": 949.953,
+  "dur": 2.5,
+  "text": "in a dress covered in pearls.",
+  "motion": "push",
+  "scene": "whitehall",
+  "action": "a close view of {QUEEN}'s pearl-covered gown",
+  "image": "images/beat_270.png"
+ },
+ {
+  "beat": 271,
+  "start": 952.453,
+  "dur": 4.167,
+  "text": "And her face is the whitest thing in the room.",
+  "motion": "push",
+  "scene": "whitehall",
+  "action": "close-up of {QUEEN}'s brilliant white face",
+  "image": "images/beat_271.png"
+ },
+ {
+  "beat": 272,
+  "start": 956.62,
+  "dur": 3.75,
+  "text": "Thicker paint than you\u2019ve ever seen. A mask, really.",
+  "motion": "pan",
+  "scene": "whitehall",
+  "action": "{QUEEN}'s white face like a mask",
+  "image": "images/beat_272.png"
+ },
+ {
+  "beat": 273,
+  "start": 960.37,
+  "dur": 2.917,
+  "text": "Her hair is a bright orange wig.",
+  "motion": "push",
+  "scene": "whitehall",
+  "action": "{QUEEN}'s bright orange wig",
+  "image": "images/beat_273.png"
+ },
+ {
+  "beat": 274,
+  "start": 963.287,
+  "dur": 2.917,
+  "text": "Her teeth, when she speaks, are black.",
+  "motion": "pull",
+  "scene": "whitehall",
+  "action": "{QUEEN} speaking, black teeth visible",
+  "image": "images/beat_274.png"
+ },
+ {
+  "beat": 275,
+  "start": 966.204,
+  "dur": 3.333,
+  "text": "The servants whisper that the Queen hasn\u2019t allowed",
+  "motion": "push",
+  "scene": "whitehall",
+  "action": "servants whispering behind a pillar",
+  "image": "images/beat_275.png"
+ },
+ {
+  "beat": 276,
+  "start": 969.537,
+  "dur": 2.917,
+  "text": "a true mirror near her in years.",
+  "motion": "shake",
+  "scene": "whitehall",
+  "action": "an inset of a mirror covered with a cloth",
+  "image": "images/beat_276.png"
+ },
+ {
+  "beat": 277,
+  "start": 972.454,
+  "dur": 3.333,
+  "text": "That she can\u2019t bear to see what\u2019s underneath.",
+  "motion": "pan",
+  "scene": "whitehall",
+  "action": "an inset of a cracked mirror turned to face the wall",
+  "image": "images/beat_277.png"
+ },
+ {
+  "beat": 278,
+  "start": 975.787,
+  "dur": 1.667,
+  "text": "You look at her.",
+  "motion": "push",
+  "scene": "whitehall",
+  "action": "{YOUPAINT40} staring at the Queen across the room",
+  "image": "images/beat_278.png"
+ },
+ {
+  "beat": 279,
+  "start": 977.454,
+  "dur": 5.0,
+  "text": "And for a moment, you swear she looks right back at you.",
+  "motion": "pull",
+  "scene": "whitehall",
+  "action": "{QUEEN} glancing back toward {YOUPAINT40}",
+  "image": "images/beat_279.png"
+ },
+ {
+  "beat": 280,
+  "start": 982.454,
+  "dur": 1.25,
+  "text": "Two painted faces,",
+  "motion": "push",
+  "scene": "whitehall",
+  "action": "a split frame: {QUEEN}'s white face and {YOUPAINT40}'s white face",
+  "image": "images/beat_280.png"
+ },
+ {
+  "beat": 281,
+  "start": 983.704,
+  "dur": 4.167,
+  "text": "staring at each other across a room full of candles.",
+  "motion": "shake",
+  "scene": "whitehall",
+  "action": "the throne room lit by hundreds of candles",
+  "image": "images/beat_281.png"
+ },
+ {
+  "beat": 282,
+  "start": 987.871,
+  "dur": 2.917,
+  "text": "Your father might have made those candles.",
+  "motion": "pan",
+  "scene": "whitehall",
+  "action": "a close-up of a candle with a faint ghostly {FATHER} behind it",
+  "image": "images/beat_282.png"
+ },
+ {
+  "beat": 283,
+  "start": 990.788,
+  "dur": 5.0,
+  "text": "Three years later, in March 1603, the Queen dies at Richmond Palace.",
+  "motion": "push",
+  "scene": "richmond",
+  "action": "Richmond Palace on the river, a 1603 calendar page",
+  "image": "images/beat_283.png"
+ },
+ {
+  "beat": 284,
+  "start": 995.788,
+  "dur": 3.75,
+  "text": "She\u2019s 69. They say she spent her last days",
+  "motion": "pull",
+  "scene": "richmond",
+  "action": "{QUEEN} sitting on cushions on the floor",
+  "image": "images/beat_284.png"
+ },
+ {
+  "beat": 285,
+  "start": 999.538,
+  "dur": 2.5,
+  "text": "sitting on cushions on the floor,",
+  "motion": "push",
+  "scene": "richmond",
+  "action": "{QUEEN} on the cushions, staring at nothing",
+  "image": "images/beat_285.png"
+ },
+ {
+  "beat": 286,
+  "start": 1002.038,
+  "dur": 3.75,
+  "text": "refusing to eat, refusing to sleep, staring at nothing.",
+  "motion": "push",
+  "scene": "richmond",
+  "action": "close-up of {QUEEN}'s untouched plate and open eyes",
+  "image": "images/beat_286.png"
+ },
+ {
+  "beat": 287,
+  "start": 1005.788,
+  "dur": 2.917,
+  "text": "Nobody is quite sure what killed her.",
+  "motion": "pan",
+  "scene": "richmond",
+  "action": "{QUEEN} lying still on the cushions with soft X-eyes, a question mark floating",
+  "image": "images/beat_287.png"
+ },
+ {
+  "beat": 288,
+  "start": 1008.705,
+  "dur": 2.917,
+  "text": "Some later historians will wonder whether decades",
+  "motion": "push",
+  "scene": "richmond",
+  "action": "an inset of a historian at a desk with a question mark over a lead-paint pot",
+  "image": "images/beat_288.png"
+ },
+ {
+  "beat": 289,
+  "start": 1011.622,
+  "dur": 2.5,
+  "text": "of lead paint played a part.",
+  "motion": "pull",
+  "scene": "richmond",
+  "action": "an inset of the pot of ceruse beside a portrait of the Queen",
+  "image": "images/beat_289.png"
+ },
+ {
+  "beat": 290,
+  "start": 1014.122,
+  "dur": 4.583,
+  "text": "You are 40 now. You\u2019ve buried Joan. You\u2019ve buried the Countess,",
+  "motion": "push",
+  "scene": "rented_room",
+  "action": "{YOUPAINT40} sitting alone in a small rented room",
+  "image": "images/beat_290.png"
+ },
+ {
+  "beat": 291,
+  "start": 1018.705,
+  "dur": 4.167,
+  "text": "who died of what the physician called a wasting fever,",
+  "motion": "shake",
+  "scene": "rented_room",
+  "action": "an inset of {COUNTESSOLD} with soft X-eyes",
+  "image": "images/beat_291.png"
+ },
+ {
+  "beat": 292,
+  "start": 1022.872,
+  "dur": 3.333,
+  "text": "though you saw her face and knew better.",
+  "motion": "pan",
+  "scene": "rented_room",
+  "action": "{YOUPAINT40}'s knowing look",
+  "image": "images/beat_292.png"
+ },
+ {
+  "beat": 293,
+  "start": 1026.205,
+  "dur": 3.333,
+  "text": "You live in a small rented room near",
+  "motion": "push",
+  "scene": "rented_room",
+  "action": "a small, sparse rented room near Cheapside",
+  "image": "images/beat_293.png"
+ },
+ {
+  "beat": 294,
+  "start": 1029.538,
+  "dur": 2.917,
+  "text": "Cheapside with what little money you\u2019ve saved,",
+  "motion": "pull",
+  "scene": "rented_room",
+  "action": "{YOUPAINT40} counting a few coins",
+  "image": "images/beat_294.png"
+ },
+ {
+  "beat": 295,
+  "start": 1032.455,
+  "dur": 4.167,
+  "text": "and you paint your face every morning out of habit,",
+  "motion": "shake",
+  "scene": "rented_room",
+  "action": "{YOUPAINT40} painting her face at a small mirror",
+  "image": "images/beat_295.png"
+ },
+ {
+  "beat": 296,
+  "start": 1036.622,
+  "dur": 3.333,
+  "text": "even though no one\u2019s left to see it.",
+  "motion": "push",
+  "scene": "rented_room",
+  "action": "the empty room around her, a chair with no visitors",
+  "image": "images/beat_296.png"
+ },
+ {
+  "beat": 297,
+  "start": 1039.955,
+  "dur": 3.333,
+  "text": "And one morning, in the spring, you don\u2019t.",
+  "motion": "pan",
+  "scene": "rented_room",
+  "action": "a spring morning, {YOURUIN40} sitting at the mirror, brush on the table",
+  "image": "images/beat_297.png"
+ },
+ {
+  "beat": 298,
+  "start": 1043.288,
+  "dur": 4.167,
+  "text": "You don\u2019t know why that day. Maybe you\u2019re just tired.",
+  "motion": "push",
+  "scene": "rented_room",
+  "action": "{YOURUIN40} looking tired",
+  "image": "images/beat_298.png"
+ },
+ {
+  "beat": 299,
+  "start": 1047.455,
+  "dur": 3.333,
+  "text": "You wash your face, look at the grey,",
+  "motion": "pull",
+  "scene": "rented_room",
+  "action": "close-up of {YOURUIN40}'s grey, scarred reflection",
+  "image": "images/beat_299.png"
+ },
+ {
+  "beat": 300,
+  "start": 1050.788,
+  "dur": 4.583,
+  "text": "scarred skin in the mirror, and you put the brush down.",
+  "motion": "push",
+  "scene": "rented_room",
+  "action": "the brush being set down on the table",
+  "image": "images/beat_300.png"
+ },
+ {
+  "beat": 301,
+  "start": 1055.371,
+  "dur": 3.75,
+  "text": "Then you take off your cap, open the door,",
+  "motion": "fade",
+  "scene": "rented_room",
+  "action": "{YOURUIN40} pulling off a plain linen cap and opening the door",
+  "image": "images/beat_301.png"
+ },
+ {
+  "beat": 302,
+  "start": 1059.121,
+  "dur": 2.5,
+  "text": "and step out into the sun.",
+  "motion": "pan",
+  "scene": "street_spring",
+  "action": "{YOURUIN40} stepping out into the sunny street",
+  "image": "images/beat_302.png"
+ },
+ {
+  "beat": 303,
+  "start": 1061.621,
+  "dur": 4.167,
+  "text": "The street is noisy and bright. Someone is selling oranges.",
+  "motion": "push",
+  "scene": "street_spring",
+  "action": "a bright, noisy Cheapside street, an orange seller calling out",
+  "image": "images/beat_303.png"
+ },
+ {
+  "beat": 304,
+  "start": 1065.788,
+  "dur": 4.583,
+  "text": "A dog runs past you. Children are climbing the churchyard wall.",
+  "motion": "pull",
+  "scene": "street_spring",
+  "action": "a dog trotting past and children climbing the churchyard wall",
+  "image": "images/beat_304.png"
+ },
+ {
+  "beat": 305,
+  "start": 1070.371,
+  "dur": 3.333,
+  "text": "You turn your face up, close your eyes,",
+  "motion": "push",
+  "scene": "street_spring",
+  "action": "{YOURUIN40} tilting her face up with closed eyes",
+  "image": "images/beat_305.png"
+ },
+ {
+  "beat": 306,
+  "start": 1073.704,
+  "dur": 3.333,
+  "text": "and feel the warmth on your ruined cheeks.",
+  "motion": "push",
+  "scene": "street_spring",
+  "action": "close-up of sunlight warming her grey cheeks",
+  "image": "images/beat_306.png"
+ },
+ {
+  "beat": 307,
+  "start": 1077.037,
+  "dur": 2.917,
+  "text": "For the first time in twenty-four years,",
+  "motion": "pan",
+  "scene": "street_spring",
+  "action": "an inset of a calendar showing 24 years",
+  "image": "images/beat_307.png"
+ },
+ {
+  "beat": 308,
+  "start": 1079.954,
+  "dur": 2.5,
+  "text": "your face is just a face.",
+  "motion": "push",
+  "scene": "street_spring",
+  "action": "{YOURUIN40} smiling with her lips parted, peaceful",
+  "image": "images/beat_308.png"
+ },
+ {
+  "beat": 309,
+  "start": 1082.454,
+  "dur": 3.333,
+  "text": "A few months later, a fever takes you.",
+  "motion": "pull",
+  "scene": "rented_room",
+  "action": "{YOURUIN40} in bed, shivering, sweat drops",
+  "image": "images/beat_309.png"
+ },
+ {
+  "beat": 310,
+  "start": 1085.787,
+  "dur": 5.0,
+  "text": "The doctor writes melancholy and weakness of the blood. Nobody writes lead.",
+  "motion": "fade",
+  "scene": "rented_room",
+  "action": "{PHYSICIAN} writing on a paper reading MELANCHOLY, the word LEAD crossed out",
+  "image": "images/beat_310.png"
+ },
+ {
+  "beat": 311,
+  "start": 1090.787,
+  "dur": 1.667,
+  "text": "You\u2019re 40 years old.",
+  "motion": "push",
+  "scene": "street_spring",
+  "action": "the sunny Cheapside street with an empty spot where she stood, freckled children climbing the churchyard wall",
+  "image": "images/beat_311.png"
+ }
+]

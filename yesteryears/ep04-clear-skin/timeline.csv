@@ -1,0 +1,312 @@
+beat,start,end,duration_s,motion,scene,image,script_segment
+1,00:00:00.000,00:00:04.167,4.167,push,cheapside,images/beat_001.png,"The year is 1563 and you are born in London,"
+2,00:00:04.167,00:00:09.167,5.0,pan,cheapside,images/beat_002.png,"in a narrow house on Cheapside, the busiest street in the city."
+3,00:00:09.167,00:00:12.084,2.917,push,cheapside,images/beat_003.png,"Your home sits above your father’s shop,"
+4,00:00:12.084,00:00:15.001,2.917,pull,shop,images/beat_004.png,"and it smells of hot tallow, beeswax,"
+5,00:00:15.001,00:00:20.001,5.0,push,shop,images/beat_005.png,and the smoke of a hundred candles. Your father is a chandler.
+6,00:00:20.001,00:00:25.001,5.0,push,shop,images/beat_006.png,"He makes candles for churches, taverns, and the houses of the rich."
+7,00:00:25.001,00:00:26.668,1.667,pan,shop,images/beat_007.png,"He is a quiet,"
+8,00:00:26.668,00:00:30.418,3.75,push,shop,images/beat_008.png,careful man with burn scars on his fingers and
+9,00:00:30.418,00:00:34.168,3.75,pull,shop,images/beat_009.png,a belief that honest work will always be enough.
+10,00:00:34.168,00:00:36.251,2.083,push,home,images/beat_010.png,Your mother is a seamstress.
+11,00:00:36.251,00:00:41.251,5.0,push,home,images/beat_011.png,"She is sharp, ambitious, and she has one dream for her daughter."
+12,00:00:41.251,00:00:43.334,2.083,fade,home,images/beat_012.png,A better life than hers.
+13,00:00:43.334,00:00:47.917,4.583,push,queen1562,images/beat_013.png,You arrive one year after the Queen of England almost dies.
+14,00:00:47.917,00:00:51.250,3.333,pull,queen1562,images/beat_014.png,"In 1562, Queen Elizabeth the First catches smallpox."
+15,00:00:51.250,00:00:55.417,4.167,push,queen1562,images/beat_015.png,"She survives, but the disease leaves scars across her face."
+16,00:00:55.417,00:01:00.417,5.0,push,queen1562,images/beat_016.png,So the Queen does what any queen would do. She covers them.
+17,00:01:00.417,00:01:03.750,3.333,pan,queen1562,images/beat_017.png,"With a thick, perfect layer of white paint."
+18,00:01:03.750,00:01:05.833,2.083,push,cheapside,images/beat_018.png,"And within a few years,"
+19,00:01:05.833,00:01:10.000,4.167,pull,cheapside,images/beat_019.png,every woman in England wants to look exactly like her.
+20,00:01:10.000,00:01:12.917,2.917,push,home,images/beat_020.png,You don’t know any of this yet.
+21,00:01:12.917,00:01:15.417,2.5,push,cheapside,images/beat_021.png,You’re too busy being a child.
+22,00:01:15.417,00:01:19.167,3.75,pan,cheapside,images/beat_022.png,"By age 5, you’re running up and down Cheapside,"
+23,00:01:19.167,00:01:23.334,4.167,push,shop,images/beat_023.png,chasing dogs and stealing candle ends from your father’s bench.
+24,00:01:23.334,00:01:27.501,4.167,pull,churchyard,images/beat_024.png,"By age 8, you can climb the churchyard wall faster"
+25,00:01:27.501,00:01:30.001,2.5,push,churchyard,images/beat_025.png,than any boy on the street.
+26,00:01:30.001,00:01:34.168,4.167,fade,cheapside,images/beat_026.png,"You spend every hour you can outside, in the sun,"
+27,00:01:34.168,00:01:37.501,3.333,pan,cheapside,images/beat_027.png,laughing so loudly that the neighbours lean out
+28,00:01:37.501,00:01:40.834,3.333,push,cheapside,images/beat_028.png,of their windows to tell you to hush.
+29,00:01:40.834,00:01:45.834,5.0,pull,cheapside,images/beat_029.png,And the sun leaves its mark on you. Freckles. Dozens of them.
+30,00:01:45.834,00:01:48.751,2.917,push,cheapside,images/beat_030.png,"Across your nose, your cheeks, your arms."
+31,00:01:48.751,00:01:52.918,4.167,push,shop,images/beat_031.png,You love them. Your father calls them your sun kisses.
+32,00:01:52.918,00:01:56.251,3.333,pan,shop,images/beat_032.png,Some evenings he lets you sit at his
+33,00:01:56.251,00:01:59.584,3.333,push,shop,images/beat_033.png,"workbench and dip wicks into the hot tallow,"
+34,00:01:59.584,00:02:04.584,5.0,pull,shop,images/beat_034.png,and he counts the freckles on your nose while the candles cool.
+35,00:02:04.584,00:02:09.167,4.583,push,shop,images/beat_035.png,He always loses count around forty and has to start again.
+36,00:02:09.167,00:02:12.917,3.75,fade,shop,images/beat_036.png,You think it’s the funniest thing in the world.
+37,00:02:12.917,00:02:15.417,2.5,pan,home,images/beat_037.png,Your mother does not love them.
+38,00:02:15.417,00:02:17.917,2.5,push,home,images/beat_038.png,"To her, freckles are a disaster."
+39,00:02:17.917,00:02:22.917,5.0,pull,home,images/beat_039.png,"In Elizabethan England, the most beautiful skin is pale. White as milk."
+40,00:02:22.917,00:02:24.584,1.667,shake,home,images/beat_040.png,White as the Queen.
+41,00:02:24.584,00:02:28.751,4.167,push,home,images/beat_041.png,"A pale face tells the world that you’re a lady,"
+42,00:02:28.751,00:02:32.918,4.167,pan,home,images/beat_042.png,that you never have to work outdoors like a peasant.
+43,00:02:32.918,00:02:35.418,2.5,shake,home,images/beat_043.png,Freckles tell the world the opposite.
+44,00:02:35.418,00:02:36.668,1.25,pull,home,images/beat_044.png,"So every night,"
+45,00:02:36.668,00:02:40.835,4.167,shake,home,images/beat_045.png,your mother sits you on a stool by the fire
+46,00:02:40.835,00:02:45.418,4.583,push,home,images/beat_046.png,and scrubs your face with lemon juice and buttermilk. It stings.
+47,00:02:45.418,00:02:47.918,2.5,pan,home,images/beat_047.png,It doesn’t work. She tries again.
+48,00:02:47.918,00:02:52.918,5.0,push,cheapside,images/beat_048.png,"And every morning, as she ties your bonnet tight against the sun,"
+49,00:02:52.918,00:02:55.001,2.083,shake,cheapside,images/beat_049.png,she says the same thing.
+50,00:02:55.001,00:02:58.334,3.333,push,cheapside,images/beat_050.png,"Keep your face out of the sun, sweetheart."
+51,00:02:58.334,00:03:00.417,2.083,push,cheapside,images/beat_051.png,Your face is your fortune.
+52,00:03:00.417,00:03:03.334,2.917,pan,cheapside,images/beat_052.png,You don’t really understand what that means.
+53,00:03:03.334,00:03:04.534,1.2,push,cheapside,images/beat_053.png,You will.
+54,00:03:04.534,00:03:07.867,3.333,pull,shop,images/beat_054.png,"Years pass, and in 1579, you turn 16."
+55,00:03:07.867,00:03:12.867,5.0,push,shop,images/beat_055.png,"One afternoon, a steward from a great house on the Strand comes"
+56,00:03:12.867,00:03:16.617,3.75,push,shop,images/beat_056.png,"into the shop to order candles for his mistress,"
+57,00:03:16.617,00:03:21.200,4.583,pan,shop,images/beat_057.png,"the Countess of Ashby. While your father writes up the order,"
+58,00:03:21.200,00:03:26.200,5.0,push,shop,images/beat_058.png,the steward watches you sewing in the corner. Neat stitches. Quiet hands.
+59,00:03:26.200,00:03:30.367,4.167,pull,shop,images/beat_059.png,He mentions that the Countess needs a new chamber maid.
+60,00:03:30.367,00:03:32.450,2.083,push,shop,images/beat_060.png,"Someone young, careful, and well-mannered."
+61,00:03:32.450,00:03:37.033,4.583,push,shop,images/beat_061.png,Your mother’s eyes light up like a church on Christmas Eve.
+62,00:03:37.033,00:03:39.950,2.917,pan,cheapside,images/beat_062.png,"Within a week, you’re packed and gone."
+63,00:03:39.950,00:03:44.117,4.167,push,countess_ext,images/beat_063.png,The first month is disorienting in the best possible way.
+64,00:03:44.117,00:03:49.117,5.0,pull,countess_ext,images/beat_064.png,"The Countess’s house is enormous, with gardens running down to the Thames,"
+65,00:03:49.117,00:03:53.700,4.583,push,hall,images/beat_065.png,"glass in every window, and more candles burning in one night"
+66,00:03:53.700,00:03:56.617,2.917,push,hall,images/beat_066.png,than your father sells in a month.
+67,00:03:56.617,00:03:59.534,2.917,pan,kitchen,images/beat_067.png,You eat white bread and roast meat.
+68,00:03:59.534,00:04:02.034,2.5,push,maids_room,images/beat_068.png,"You sleep in a real bed,"
+69,00:04:02.034,00:04:06.201,4.167,pull,maids_room,images/beat_069.png,shared with only one other maid instead of three sisters.
+70,00:04:06.201,00:04:11.201,5.0,push,maids_room,images/beat_070.png,"The Countess gives you her old gowns, cut down to fit you."
+71,00:04:11.201,00:04:12.451,1.25,push,maids_room,images/beat_071.png,Silk. Actual silk.
+72,00:04:12.451,00:04:15.368,2.917,pan,maids_room,images/beat_072.png,You write home to tell your mother.
+73,00:04:15.368,00:04:19.951,4.583,fade,home,images/beat_073.png,You can practically hear her crying with joy through the paper.
+74,00:04:19.951,00:04:22.034,2.083,pull,dressing,images/beat_074.png,"Then, on your second week,"
+75,00:04:22.034,00:04:25.367,3.333,push,dressing,images/beat_075.png,the Countess calls you to her dressing table.
+76,00:04:25.367,00:04:29.117,3.75,push,dressing,images/beat_076.png,"She’s sitting in front of a large silver mirror,"
+77,00:04:29.117,00:04:33.700,4.583,pan,dressing,images/beat_077.png,and she’s covered in white. Her face. Her neck. Her chest.
+78,00:04:33.700,00:04:38.283,4.583,push,dressing,images/beat_078.png,"A smooth, flawless, ghostly white, like a statue carved from marble."
+79,00:04:38.283,00:04:41.616,3.333,pull,dressing,images/beat_079.png,Her cheeks are painted a bright rosy red.
+80,00:04:41.616,00:04:43.699,2.083,push,dressing,images/beat_080.png,Her lips are red too.
+81,00:04:43.699,00:04:47.449,3.75,push,dressing,images/beat_081.png,"Her eyebrows have been plucked into thin, perfect arches,"
+82,00:04:47.449,00:04:52.032,4.583,pan,dressing,images/beat_082.png,"and her hairline has been plucked back, high up her forehead,"
+83,00:04:52.032,00:04:54.949,2.917,push,dressing,images/beat_083.png,to make it look smooth and noble.
+84,00:04:54.949,00:04:59.949,5.0,pull,dressing,images/beat_084.png,She looks at you in the mirror. She looks at your freckles.
+85,00:04:59.949,00:05:01.199,1.25,shake,dressing,images/beat_085.png,And she sighs.
+86,00:05:01.199,00:05:03.699,2.5,push,dressing,images/beat_086.png,"That will never do, she says."
+87,00:05:03.699,00:05:08.282,4.583,pan,maids_room,images/beat_087.png,"That evening, for the first time in your life, you’re painted."
+88,00:05:08.282,00:05:12.449,4.167,push,maids_room,images/beat_088.png,"The Countess’s older maid, a woman called Joan, does it."
+89,00:05:12.449,00:05:17.449,5.0,pull,maids_room,images/beat_089.png,"Joan is about thirty, round-faced and sharp-tongued, from a farm in Kent,"
+90,00:05:17.449,00:05:22.449,5.0,push,maids_room,images/beat_090.png,"with a laugh like a goose and absolutely no respect for anyone,"
+91,00:05:22.449,00:05:25.782,3.333,push,maids_room,images/beat_091.png,"including the Countess, when the Countess isn’t listening."
+92,00:05:25.782,00:05:30.782,5.0,pan,maids_room,images/beat_092.png,She sits you down and opens a little pot of white paste.
+93,00:05:30.782,00:05:33.699,2.917,push,maids_room,images/beat_093.png,She tells you it’s called Venetian ceruse.
+94,00:05:33.699,00:05:36.616,2.917,pull,maids_room,images/beat_094.png,The finest face paint in the world.
+95,00:05:36.616,00:05:40.366,3.75,push,maids_room,images/beat_095.png,"Imported from Venice, the most fashionable city in Europe."
+96,00:05:40.366,00:05:44.533,4.167,push,maids_room,images/beat_096.png,It costs more than your father earns in a month.
+97,00:05:44.533,00:05:47.866,3.333,pan,maids_room,images/beat_097.png,She dips a soft brush into the pot
+98,00:05:47.866,00:05:52.033,4.167,push,maids_room,images/beat_098.png,"and paints it across your face in long, smooth strokes."
+99,00:05:52.033,00:05:56.200,4.167,pull,maids_room,images/beat_099.png,It’s cold and slightly greasy. It smells faintly of vinegar.
+100,00:05:56.200,00:05:58.700,2.5,push,maids_room,images/beat_100.png,Then she holds up the mirror.
+101,00:05:58.700,00:06:00.367,1.667,push,maids_room,images/beat_101.png,Your freckles are gone.
+102,00:06:00.367,00:06:03.284,2.917,pan,maids_room,images/beat_102.png,All of them. Every single sun kiss.
+103,00:06:03.284,00:06:08.284,5.0,push,maids_room,images/beat_103.png,"In their place is a smooth, white, perfect face. A lady’s face."
+104,00:06:08.284,00:06:12.451,4.167,pull,maids_room,images/beat_104.png,You look like a stranger. You look like the Queen.
+105,00:06:12.451,00:06:14.118,1.667,push,maids_room,images/beat_105.png,You can’t stop staring.
+106,00:06:14.118,00:06:18.285,4.167,push,hall,images/beat_106.png,"The next morning, the Countess’s guests compliment you at breakfast."
+107,00:06:18.285,00:06:21.202,2.917,pan,hall,images/beat_107.png,A lady asks who your family are.
+108,00:06:21.202,00:06:24.952,3.75,push,hall,images/beat_108.png,Another asks where you found such a delicate complexion.
+109,00:06:24.952,00:06:28.702,3.75,pull,kitchen,images/beat_109.png,The cook gives you an extra slice of pie.
+110,00:06:28.702,00:06:32.869,4.167,push,hall,images/beat_110.png,"For the first time in your life, you feel beautiful."
+111,00:06:32.869,00:06:37.036,4.167,push,hall,images/beat_111.png,You decide that whoever invented Venetian ceruse was a genius.
+112,00:06:37.036,00:06:41.203,4.167,pan,apothecary,images/beat_112.png,"You find out what’s actually in it a month later,"
+113,00:06:41.203,00:06:45.786,4.583,push,apothecary,images/beat_113.png,when you’re sent to collect a fresh pot from the apothecary.
+114,00:06:45.786,00:06:48.703,2.917,pull,apothecary,images/beat_114.png,He’s an old man with bad breath
+115,00:06:48.703,00:06:53.703,5.0,push,apothecary,images/beat_115.png,"and a workshop full of strange bottles. He explains how it’s made,"
+116,00:06:53.703,00:06:57.036,3.333,push,apothecary,images/beat_116.png,as proudly as if he invented it himself.
+117,00:06:57.036,00:06:59.119,2.083,pan,dungheap,images/beat_117.png,You take sheets of lead.
+118,00:06:59.119,00:07:02.869,3.75,push,dungheap,images/beat_118.png,"You hang them over vinegar in a sealed pot,"
+119,00:07:02.869,00:07:06.619,3.75,fade,dungheap,images/beat_119.png,"and bury the pot in horse dung for weeks,"
+120,00:07:06.619,00:07:11.202,4.583,shake,dungheap,images/beat_120.png,so the heat makes the vinegar fumes eat into the metal.
+121,00:07:11.202,00:07:14.535,3.333,shake,dungheap,images/beat_121.png,"The lead turns into a white, crumbly crust."
+122,00:07:14.535,00:07:17.868,3.333,pan,dungheap,images/beat_122.png,"You scrape it off, grind it into powder,"
+123,00:07:17.868,00:07:20.368,2.5,push,dungheap,images/beat_123.png,and mix it into a paste.
+124,00:07:20.368,00:07:24.118,3.75,pull,apothecary,images/beat_124.png,White lead. That’s what you’re painting on your face.
+125,00:07:24.118,00:07:27.035,2.917,push,apothecary,images/beat_125.png,You ask the apothecary if it’s safe.
+126,00:07:27.035,00:07:31.618,4.583,push,apothecary,images/beat_126.png,He laughs and asks if the Queen looks dead to you.
+127,00:07:31.618,00:07:33.285,1.667,pan,apothecary,images/beat_127.png,You don’t ask again.
+128,00:07:33.285,00:07:35.785,2.5,push,dressing,images/beat_128.png,"There’s more, of course. Much more."
+129,00:07:35.785,00:07:39.118,3.333,pull,dressing,images/beat_129.png,"Every morning, Joan teaches you the full routine."
+130,00:07:39.118,00:07:41.618,2.5,push,dressing,images/beat_130.png,"First, wash your face with rosewater."
+131,00:07:41.618,00:07:46.201,4.583,push,dressing,images/beat_131.png,"Then, to remove any blemishes or freckles that might show through,"
+132,00:07:46.201,00:07:51.201,5.0,pan,dressing,images/beat_132.png,dab them with a lotion made from mercury. It burns like fire.
+133,00:07:51.201,00:07:56.201,5.0,push,dressing,images/beat_133.png,It peels the top layer of skin right off. That’s the point.
+134,00:07:56.201,00:07:57.451,1.25,pull,dressing,images/beat_134.png,Then the ceruse.
+135,00:07:57.451,00:08:01.618,4.167,push,dressing,images/beat_135.png,"Then a thin glaze of egg white over the top,"
+136,00:08:01.618,00:08:04.535,2.917,push,dressing,images/beat_136.png,to make it shine like porcelain and
+137,00:08:04.535,00:08:07.035,2.5,pan,dressing,images/beat_137.png,stop it cracking when you smile.
+138,00:08:07.035,00:08:09.952,2.917,push,dressing,images/beat_138.png,"Then rouge for the cheeks and lips,"
+139,00:08:09.952,00:08:13.285,3.333,pull,dressing,images/beat_139.png,made from a bright red powder called vermilion.
+140,00:08:13.285,00:08:16.618,3.333,push,dressing,images/beat_140.png,"Which is also, Joan mentions, made from mercury."
+141,00:08:16.618,00:08:18.701,2.083,push,dressing,images/beat_141.png,"And finally, for special occasions,"
+142,00:08:18.701,00:08:23.701,5.0,pan,dressing,images/beat_142.png,a drop of juice from the deadly nightshade plant in each eye.
+143,00:08:23.701,00:08:27.451,3.75,push,dressing,images/beat_143.png,"Belladonna. It makes your pupils huge, dark, and mysterious."
+144,00:08:27.451,00:08:30.784,3.333,pull,dressing,images/beat_144.png,"It also makes your vision blurry for hours,"
+145,00:08:30.784,00:08:35.367,4.583,push,dressing,images/beat_145.png,"and if you use too much, it can stop your heart."
+146,00:08:35.367,00:08:38.284,2.917,push,feast,images/beat_146.png,"The first time you try the belladonna,"
+147,00:08:38.284,00:08:40.784,2.5,pan,feast,images/beat_147.png,"for the Countess’s Twelfth Night feast,"
+148,00:08:40.784,00:08:44.534,3.75,push,feast,images/beat_148.png,the whole hall turns into a soft golden blur.
+149,00:08:44.534,00:08:48.701,4.167,pull,feast,images/beat_149.png,You walk straight into a pillar. Then into the steward.
+150,00:08:48.701,00:08:51.618,2.917,push,feast,images/beat_150.png,Then down two steps you never saw.
+151,00:08:51.618,00:08:54.951,3.333,push,feast,images/beat_151.png,The guests think you’ve had too much wine.
+152,00:08:54.951,00:08:59.534,4.583,pan,feast,images/beat_152.png,"Joan has to lead you around by the elbow all night,"
+153,00:08:59.534,00:09:03.284,3.75,push,feast,images/beat_153.png,whispering directions in your ear like a ship’s pilot.
+154,00:09:03.284,00:09:07.034,3.75,pull,dressing,images/beat_154.png,You learn all of this in your first year.
+155,00:09:07.034,00:09:08.701,1.667,push,dressing,images/beat_155.png,You learn it well.
+156,00:09:08.701,00:09:12.034,3.333,push,maids_room,images/beat_156.png,Joan becomes your favourite person in the house.
+157,00:09:12.034,00:09:17.034,5.0,pan,maids_room,images/beat_157.png,She’s has opinions on everything. She thinks the plucked hairlines make the
+158,00:09:17.034,00:09:19.534,2.5,push,maids_room,images/beat_158.png,court ladies look like boiled eggs.
+159,00:09:19.534,00:09:22.867,3.333,pull,maids_room,images/beat_159.png,She thinks the Countess’s new perfume smells like
+160,00:09:22.867,00:09:25.784,2.917,push,maids_room,images/beat_160.png,a cat that’s been dipped in rosewater.
+161,00:09:25.784,00:09:29.951,4.167,push,maids_room,images/beat_161.png,"And one night, when she’s taking off her own paint,"
+162,00:09:29.951,00:09:32.868,2.917,pan,maids_room,images/beat_162.png,she admits something she’s never told anyone.
+163,00:09:32.868,00:09:36.201,3.333,push,maids_room,images/beat_163.png,She hates the mercury. It hurts too much.
+164,00:09:36.201,00:09:40.784,4.583,pull,maids_room,images/beat_164.png,"So she’s stopped using it. She just uses more ceruse instead,"
+165,00:09:40.784,00:09:43.701,2.917,push,maids_room,images/beat_165.png,a thicker layer to cover whatever’s underneath.
+166,00:09:43.701,00:09:46.618,2.917,push,maids_room,images/beat_166.png,You notice that her paint has been
+167,00:09:46.618,00:09:49.118,2.5,pan,maids_room,images/beat_167.png,getting thicker for a while now.
+168,00:09:49.118,00:09:54.118,5.0,push,dressing,images/beat_168.png,"Years pass. You stop being the new girl. By 1585, you’re 22,"
+169,00:09:54.118,00:09:58.701,4.583,pull,dressing,images/beat_169.png,and you’re the one teaching the younger maids how to paint.
+170,00:09:58.701,00:10:02.034,3.333,push,dressing,images/beat_170.png,Your hands are steady. Your strokes are perfect.
+171,00:10:02.034,00:10:04.534,2.5,push,dressing,images/beat_171.png,The Countess calls you her artist.
+172,00:10:04.534,00:10:08.284,3.75,pan,countess_ext,images/beat_172.png,"One spring, a new girl arrives from the country."
+173,00:10:08.284,00:10:09.951,1.667,push,dressing,images/beat_173.png,Her name is Alice.
+174,00:10:09.951,00:10:14.118,4.167,pull,dressing,images/beat_174.png,"She’s fifteen, nervous, and covered in freckles, dozens of them,"
+175,00:10:14.118,00:10:16.201,2.083,push,dressing,images/beat_175.png,across her nose and cheeks.
+176,00:10:16.201,00:10:19.534,3.333,push,dressing,images/beat_176.png,"She stands in front of the Countess’s mirror,"
+177,00:10:19.534,00:10:22.867,3.333,pan,dressing,images/beat_177.png,"and the Countess looks at her, and sighs."
+178,00:10:22.867,00:10:27.867,5.0,push,dressing,images/beat_178.png,And you hear your own voice say it. That will never do.
+179,00:10:27.867,00:10:31.200,3.333,shake,maids_room,images/beat_179.png,"You paint her that evening. Long, smooth strokes."
+180,00:10:31.200,00:10:36.200,5.0,push,maids_room,images/beat_180.png,"When you hold up the mirror, she gasps, the way you did."
+181,00:10:36.200,00:10:39.533,3.333,push,maids_room,images/beat_181.png,You tell yourself you’ve given her a gift.
+182,00:10:39.533,00:10:42.033,2.5,pan,maids_room,images/beat_182.png,But something is happening to Joan.
+183,00:10:42.033,00:10:46.616,4.583,push,maids_room,images/beat_183.png,"It starts with her hair. When you brush it at night,"
+184,00:10:46.616,00:10:49.533,2.917,pull,maids_room,images/beat_184.png,more of it stays in the brush.
+185,00:10:49.533,00:10:53.283,3.75,push,maids_room,images/beat_185.png,She starts wearing her caps lower. Then her teeth.
+186,00:10:53.283,00:10:56.200,2.917,push,maids_room,images/beat_186.png,One of them goes black. Then another.
+187,00:10:56.200,00:10:59.117,2.917,pan,maids_room,images/beat_187.png,She stops smiling with her mouth open.
+188,00:10:59.117,00:11:00.784,1.667,push,dark_room,images/beat_188.png,Then the headaches come.
+189,00:11:00.784,00:11:05.784,5.0,pull,dark_room,images/beat_189.png,"Terrible ones, that leave her lying in a dark room for days."
+190,00:11:05.784,00:11:10.784,5.0,push,dark_room,images/beat_190.png,She gets tired easily. Her hands shake when she holds the brush.
+191,00:11:10.784,00:11:15.784,5.0,push,dark_room,images/beat_191.png,"Some days, she forgets your name. Some days, she forgets her own."
+192,00:11:15.784,00:11:20.367,4.583,pan,dark_room,images/beat_192.png,"And the skin underneath her paint. You see it one night,"
+193,00:11:20.367,00:11:23.284,2.917,push,dark_room,images/beat_193.png,when she’s too exhausted to wash her
+194,00:11:23.284,00:11:26.201,2.917,pull,dark_room,images/beat_194.png,face alone and lets you do it.
+195,00:11:26.201,00:11:31.201,5.0,push,dark_room,images/beat_195.png,"Under the white mask, her real skin is grey. Not pale. Grey."
+196,00:11:31.201,00:11:33.284,2.083,push,dark_room,images/beat_196.png,"Rough and blotchy and scarred,"
+197,00:11:33.284,00:11:36.617,3.333,pan,dark_room,images/beat_197.png,like old parchment left out in the rain.
+198,00:11:36.617,00:11:41.200,4.583,push,dark_room,images/beat_198.png,You don’t say anything. You just wash her face gently and
+199,00:11:41.200,00:11:43.700,2.5,pull,dressing,images/beat_199.png,paint it again in the morning.
+200,00:11:43.700,00:11:45.367,1.667,push,dressing,images/beat_200.png,Joan catches you looking.
+201,00:11:45.367,00:11:50.367,5.0,push,dressing,images/beat_201.png,"She tells you not to worry, that it’s only the winter air,"
+202,00:11:50.367,00:11:53.284,2.917,pan,dressing,images/beat_202.png,that she’s tougher than a Kentish turnip.
+203,00:11:53.284,00:11:57.034,3.75,push,dressing,images/beat_203.png,"Then she does her impression of the Countess sneezing,"
+204,00:11:57.034,00:12:00.367,3.333,pull,dressing,images/beat_204.png,"and you both laugh, and for one evening,"
+205,00:12:00.367,00:12:02.450,2.083,push,dressing,images/beat_205.png,you let yourself believe her.
+206,00:12:02.450,00:12:04.117,1.667,push,dark_room,images/beat_206.png,The Countess’s physician comes.
+207,00:12:04.117,00:12:08.700,4.583,pan,dark_room,images/beat_207.png,He says Joan suffers from an excess of melancholy. Bad humours.
+208,00:12:08.700,00:12:11.200,2.5,fade,dark_room,images/beat_208.png,He bleeds her. It doesn’t help.
+209,00:12:11.200,00:12:15.783,4.583,pull,dark_room,images/beat_209.png,"In the winter of 1587, Joan dies. She’s 38 years old."
+210,00:12:15.783,00:12:19.533,3.75,push,dark_room,images/beat_210.png,You’re the one who prepares her body for burial.
+211,00:12:19.533,00:12:24.533,5.0,push,dark_room,images/beat_211.png,"And when you’ve washed the last of the paint from her face,"
+212,00:12:24.533,00:12:27.450,2.917,pan,dark_room,images/beat_212.png,you look down and realize you can’t
+213,00:12:27.450,00:12:29.950,2.5,push,dark_room,images/beat_213.png,remember what she really looked like.
+214,00:12:29.950,00:12:33.700,3.75,pull,dark_room,images/beat_214.png,"In eight years, you never saw her without it."
+215,00:12:33.700,00:12:37.450,3.75,push,dark_room,images/beat_215.png,You stand in the dark for a long time.
+216,00:12:37.450,00:12:42.450,5.0,push,churchyard,images/beat_216.png,They bury her in the corner of a churchyard near the river.
+217,00:12:42.450,00:12:46.617,4.167,pan,hall,images/beat_217.png,"The Countess doesn’t attend. She has a supper that evening,"
+218,00:12:46.617,00:12:50.367,3.75,push,dressing,images/beat_218.png,and she needs you there to do her face.
+219,00:12:50.367,00:12:53.284,2.917,fade,maids_room,images/beat_219.png,"Then you go to your own room,"
+220,00:12:53.284,00:12:58.284,5.0,push,maids_room,images/beat_220.png,"sit down at your little mirror, and slowly wash your own face."
+221,00:12:58.284,00:13:02.034,3.75,push,maids_room,images/beat_221.png,"And underneath, for the first time, you see it."
+222,00:13:02.034,00:13:04.534,2.5,pan,maids_room,images/beat_222.png,Small grey patches across your cheeks.
+223,00:13:04.534,00:13:08.701,4.167,push,maids_room,images/beat_223.png,Little pits and scars where the mercury burned too deep.
+224,00:13:08.701,00:13:12.034,3.333,pull,maids_room,images/beat_224.png,The skin around your mouth rough and thin.
+225,00:13:12.034,00:13:16.201,4.167,push,maids_room,images/beat_225.png,Your freckles are long gone. What replaced them is worse.
+226,00:13:16.201,00:13:18.701,2.5,push,maids_room,images/beat_226.png,Something cold settles in your stomach.
+227,00:13:18.701,00:13:22.451,3.75,pan,maids_room,images/beat_227.png,"You understand, finally, what’s been happening. It’s the paint."
+228,00:13:22.451,00:13:24.951,2.5,push,maids_room,images/beat_228.png,The paint is ruining the skin.
+229,00:13:24.951,00:13:29.951,5.0,pull,maids_room,images/beat_229.png,And the only way to hide the ruined skin is more paint.
+230,00:13:29.951,00:13:33.284,3.333,push,maids_room,images/beat_230.png,Which ruins more skin. Which needs more paint.
+231,00:13:33.284,00:13:36.201,2.917,push,maids_room,images/beat_231.png,You think about stopping. You really do.
+232,00:13:36.201,00:13:39.534,3.333,fade,maids_room,images/beat_232.png,"But without the paint, you’d be a grey,"
+233,00:13:39.534,00:13:42.034,2.5,push,maids_room,images/beat_233.png,scarred maid with a ruined face.
+234,00:13:42.034,00:13:46.617,4.583,pull,maids_room,images/beat_234.png,The Countess would dismiss you by the end of the week.
+235,00:13:46.617,00:13:51.200,4.583,push,maids_room,images/beat_235.png,Your mother would die of shame. And you would have nothing.
+236,00:13:51.200,00:13:54.950,3.75,push,dressing,images/beat_236.png,"So in the morning, you pick up the brush."
+237,00:13:54.950,00:13:57.867,2.917,pan,kitchen,images/beat_237.png,"That summer, your mother comes to visit."
+238,00:13:57.867,00:14:00.367,2.5,push,kitchen,images/beat_238.png,She hasn’t seen you in years.
+239,00:14:00.367,00:14:03.700,3.333,pull,kitchen,images/beat_239.png,When you walk into the kitchen in your
+240,00:14:03.700,00:14:08.283,4.583,shake,kitchen,images/beat_240.png,"silk gown and your perfect white face, she bursts into tears."
+241,00:14:08.283,00:14:12.450,4.167,push,kitchen,images/beat_241.png,She holds your painted cheeks in her rough seamstress hands
+242,00:14:12.450,00:14:16.200,3.75,pan,kitchen,images/beat_242.png,and tells you you look like a real lady.
+243,00:14:16.200,00:14:20.367,4.167,push,kitchen,images/beat_243.png,Like the Queen herself. She says she always knew it.
+244,00:14:20.367,00:14:25.367,5.0,pull,kitchen,images/beat_244.png,You smile with your lips closed. You don’t tell her what’s underneath.
+245,00:14:25.367,00:14:27.034,1.667,push,kitchen,images/beat_245.png,You couldn’t bear to.
+246,00:14:27.034,00:14:29.117,2.083,push,kitchen,images/beat_246.png,Your face is your fortune.
+247,00:14:29.117,00:14:32.867,3.75,pan,dressing,images/beat_247.png,Years pass. The paint gets thicker. Your hair thins.
+248,00:14:32.867,00:14:35.784,2.917,push,dressing,images/beat_248.png,"One of your back teeth turns black,"
+249,00:14:35.784,00:14:39.534,3.75,pull,dressing,images/beat_249.png,"and you learn to smile with your lips closed,"
+250,00:14:39.534,00:14:43.284,3.75,push,dressing,images/beat_250.png,"the way Joan did. Some mornings, your hands shake."
+251,00:14:43.284,00:14:46.201,2.917,push,dark_room,images/beat_251.png,"Some nights, the headaches are so bad"
+252,00:14:46.201,00:14:48.701,2.5,pan,dark_room,images/beat_252.png,you see colours that aren’t there.
+253,00:14:48.701,00:14:50.784,2.083,push,dressing,images/beat_253.png,The Countess is suffering too.
+254,00:14:50.784,00:14:55.367,4.583,pull,dressing,images/beat_254.png,Her paint is now so thick it cracks when she talks.
+255,00:14:55.367,00:14:59.534,4.167,push,dressing,images/beat_255.png,"She’s started covering her ruined skin with even more ceruse,"
+256,00:14:59.534,00:15:03.701,4.167,push,dressing,images/beat_256.png,and her hair is so thin she wears a wig.
+257,00:15:03.701,00:15:07.868,4.167,pan,hall,images/beat_257.png,Everyone at court does. Nobody mentions it. Nobody would dare.
+258,00:15:07.868,00:15:12.035,4.167,push,dressing,images/beat_258.png,"Some mornings, the Countess sits at her mirror for three"
+259,00:15:12.035,00:15:14.952,2.917,pull,dressing,images/beat_259.png,hours before she’s ready to be seen.
+260,00:15:14.952,00:15:17.869,2.917,push,dressing,images/beat_260.png,"She has you add layer after layer,"
+261,00:15:17.869,00:15:20.786,2.917,push,dressing,images/beat_261.png,until her face looks less like skin
+262,00:15:20.786,00:15:25.786,5.0,pan,dressing,images/beat_262.png,"and more like a plastered wall. Then she smiles at her reflection,"
+263,00:15:25.786,00:15:29.953,4.167,push,dressing,images/beat_263.png,"and the paint cracks at the corners of her mouth,"
+264,00:15:29.953,00:15:32.453,2.5,pull,dressing,images/beat_264.png,and you start all over again.
+265,00:15:32.453,00:15:34.536,2.083,push,whitehall,images/beat_265.png,"In the winter of 1600,"
+266,00:15:34.536,00:15:39.536,5.0,push,whitehall,images/beat_266.png,the Countess takes you with her to the royal palace at Whitehall.
+267,00:15:39.536,00:15:44.119,4.583,pan,whitehall,images/beat_267.png,"For the first time in your life, you see the Queen."
+268,00:15:44.119,00:15:45.786,1.667,push,whitehall,images/beat_268.png,She’s 67 years old.
+269,00:15:45.786,00:15:49.953,4.167,pull,whitehall,images/beat_269.png,"She’s sitting on a throne under a canopy of gold,"
+270,00:15:49.953,00:15:52.453,2.5,push,whitehall,images/beat_270.png,in a dress covered in pearls.
+271,00:15:52.453,00:15:56.620,4.167,push,whitehall,images/beat_271.png,And her face is the whitest thing in the room.
+272,00:15:56.620,00:16:00.370,3.75,pan,whitehall,images/beat_272.png,"Thicker paint than you’ve ever seen. A mask, really."
+273,00:16:00.370,00:16:03.287,2.917,push,whitehall,images/beat_273.png,Her hair is a bright orange wig.
+274,00:16:03.287,00:16:06.204,2.917,pull,whitehall,images/beat_274.png,"Her teeth, when she speaks, are black."
+275,00:16:06.204,00:16:09.537,3.333,push,whitehall,images/beat_275.png,The servants whisper that the Queen hasn’t allowed
+276,00:16:09.537,00:16:12.454,2.917,shake,whitehall,images/beat_276.png,a true mirror near her in years.
+277,00:16:12.454,00:16:15.787,3.333,pan,whitehall,images/beat_277.png,That she can’t bear to see what’s underneath.
+278,00:16:15.787,00:16:17.454,1.667,push,whitehall,images/beat_278.png,You look at her.
+279,00:16:17.454,00:16:22.454,5.0,pull,whitehall,images/beat_279.png,"And for a moment, you swear she looks right back at you."
+280,00:16:22.454,00:16:23.704,1.25,push,whitehall,images/beat_280.png,"Two painted faces,"
+281,00:16:23.704,00:16:27.871,4.167,shake,whitehall,images/beat_281.png,staring at each other across a room full of candles.
+282,00:16:27.871,00:16:30.788,2.917,pan,whitehall,images/beat_282.png,Your father might have made those candles.
+283,00:16:30.788,00:16:35.788,5.0,push,richmond,images/beat_283.png,"Three years later, in March 1603, the Queen dies at Richmond Palace."
+284,00:16:35.788,00:16:39.538,3.75,pull,richmond,images/beat_284.png,She’s 69. They say she spent her last days
+285,00:16:39.538,00:16:42.038,2.5,push,richmond,images/beat_285.png,"sitting on cushions on the floor,"
+286,00:16:42.038,00:16:45.788,3.75,push,richmond,images/beat_286.png,"refusing to eat, refusing to sleep, staring at nothing."
+287,00:16:45.788,00:16:48.705,2.917,pan,richmond,images/beat_287.png,Nobody is quite sure what killed her.
+288,00:16:48.705,00:16:51.622,2.917,push,richmond,images/beat_288.png,Some later historians will wonder whether decades
+289,00:16:51.622,00:16:54.122,2.5,pull,richmond,images/beat_289.png,of lead paint played a part.
+290,00:16:54.122,00:16:58.705,4.583,push,rented_room,images/beat_290.png,"You are 40 now. You’ve buried Joan. You’ve buried the Countess,"
+291,00:16:58.705,00:17:02.872,4.167,shake,rented_room,images/beat_291.png,"who died of what the physician called a wasting fever,"
+292,00:17:02.872,00:17:06.205,3.333,pan,rented_room,images/beat_292.png,though you saw her face and knew better.
+293,00:17:06.205,00:17:09.538,3.333,push,rented_room,images/beat_293.png,You live in a small rented room near
+294,00:17:09.538,00:17:12.455,2.917,pull,rented_room,images/beat_294.png,"Cheapside with what little money you’ve saved,"
+295,00:17:12.455,00:17:16.622,4.167,shake,rented_room,images/beat_295.png,"and you paint your face every morning out of habit,"
+296,00:17:16.622,00:17:19.955,3.333,push,rented_room,images/beat_296.png,even though no one’s left to see it.
+297,00:17:19.955,00:17:23.288,3.333,pan,rented_room,images/beat_297.png,"And one morning, in the spring, you don’t."
+298,00:17:23.288,00:17:27.455,4.167,push,rented_room,images/beat_298.png,You don’t know why that day. Maybe you’re just tired.
+299,00:17:27.455,00:17:30.788,3.333,pull,rented_room,images/beat_299.png,"You wash your face, look at the grey,"
+300,00:17:30.788,00:17:35.371,4.583,push,rented_room,images/beat_300.png,"scarred skin in the mirror, and you put the brush down."
+301,00:17:35.371,00:17:39.121,3.75,fade,rented_room,images/beat_301.png,"Then you take off your cap, open the door,"
+302,00:17:39.121,00:17:41.621,2.5,pan,street_spring,images/beat_302.png,and step out into the sun.
+303,00:17:41.621,00:17:45.788,4.167,push,street_spring,images/beat_303.png,The street is noisy and bright. Someone is selling oranges.
+304,00:17:45.788,00:17:50.371,4.583,pull,street_spring,images/beat_304.png,A dog runs past you. Children are climbing the churchyard wall.
+305,00:17:50.371,00:17:53.704,3.333,push,street_spring,images/beat_305.png,"You turn your face up, close your eyes,"
+306,00:17:53.704,00:17:57.037,3.333,push,street_spring,images/beat_306.png,and feel the warmth on your ruined cheeks.
+307,00:17:57.037,00:17:59.954,2.917,pan,street_spring,images/beat_307.png,"For the first time in twenty-four years,"
+308,00:17:59.954,00:18:02.454,2.5,push,street_spring,images/beat_308.png,your face is just a face.
+309,00:18:02.454,00:18:05.787,3.333,pull,rented_room,images/beat_309.png,"A few months later, a fever takes you."
+310,00:18:05.787,00:18:10.787,5.0,fade,rented_room,images/beat_310.png,The doctor writes melancholy and weakness of the blood. Nobody writes lead.
+311,00:18:10.787,00:18:12.454,1.667,push,street_spring,images/beat_311.png,You’re 40 years old.
