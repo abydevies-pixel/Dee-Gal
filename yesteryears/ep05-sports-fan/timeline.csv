@@ -1,0 +1,299 @@
+beat,start,end,duration_s,motion,scene,image,script_segment
+1,00:00:00.000,00:00:04.167,4.167,push,city,images/beat_001.png,"The year is 505, and you are born in Constantinople,"
+2,00:00:04.167,00:00:06.667,2.5,pan,city,images/beat_002.png,the greatest city in the world.
+3,00:00:06.667,00:00:11.667,5.0,push,city,images/beat_003.png,"Capital of the Roman Empire in the east. Half a million people,"
+4,00:00:11.667,00:00:15.000,3.333,pull,walls,images/beat_004.png,packed between the sea and walls so thick
+5,00:00:15.000,00:00:17.917,2.917,push,walls,images/beat_005.png,no army has ever broken through them.
+6,00:00:17.917,00:00:21.667,3.75,push,harbour,images/beat_006.png,Your home is a small room above a fish
+7,00:00:21.667,00:00:25.000,3.333,pan,harbour,images/beat_007.png,"stall near the harbour on the Golden Horn,"
+8,00:00:25.000,00:00:28.750,3.75,push,harbour,images/beat_008.png,"and it smells of salt, seaweed, and yesterday’s mackerel."
+9,00:00:28.750,00:00:30.417,1.667,pull,harbour,images/beat_009.png,Your father sells fish.
+10,00:00:30.417,00:00:35.417,5.0,push,harbour,images/beat_010.png,"He is a loud, cheerful, broad-shouldered man who believes in three things."
+11,00:00:35.417,00:00:37.917,2.5,push,harbour,images/beat_011.png,"God, the Emperor, and the Greens."
+12,00:00:37.917,00:00:39.167,1.25,fade,harbour,images/beat_012.png,Mostly the Greens.
+13,00:00:39.167,00:00:40.417,1.25,push,city,images/beat_013.png,"Because in Constantinople,"
+14,00:00:40.417,00:00:44.584,4.167,pull,forum,images/beat_014.png,"the most important question about any person isn’t their job,"
+15,00:00:44.584,00:00:49.584,5.0,push,forum,images/beat_015.png,"or their family, or even their religion. It’s this. Blue or Green?"
+16,00:00:49.584,00:00:54.584,5.0,push,hippodrome,images/beat_016.png,The Blues and the Greens are the city’s two great chariot-racing teams.
+17,00:00:54.584,00:00:59.167,4.583,pan,hippodrome,images/beat_017.png,But calling them teams doesn’t come close. They are tribes. Clubs.
+18,00:00:59.167,00:01:00.834,1.667,push,forum,images/beat_018.png,Political parties. Street gangs.
+19,00:01:00.834,00:01:04.584,3.75,pull,forum,images/beat_019.png,"Every neighbourhood, every guild, every family picks a side,"
+20,00:01:04.584,00:01:09.167,4.583,push,harbour,images/beat_020.png,and they stay on it for generations. Your grandfather was Green.
+21,00:01:09.167,00:01:12.500,3.333,push,harbour,images/beat_021.png,"Your father is Green. The day you’re born,"
+22,00:01:12.500,00:01:17.083,4.583,pan,harbour,images/beat_022.png,your father wraps you in a green cloth and holds you
+23,00:01:17.083,00:01:21.250,4.167,push,harbour,images/beat_023.png,up to the window so the whole street can see.
+24,00:01:21.250,00:01:26.250,5.0,pull,harbour,images/beat_024.png,Then he says the words you’ll hear every day of your life.
+25,00:01:26.250,00:01:27.917,1.667,push,harbour,images/beat_025.png,“Green till we die”.
+26,00:01:27.917,00:01:32.500,4.583,fade,harbour,images/beat_026.png,Your mother rolls her eyes. She’s heard it a thousand times.
+27,00:01:32.500,00:01:34.167,1.667,pan,harbour,images/beat_027.png,She says it anyway.
+28,00:01:34.167,00:01:35.834,1.667,push,harbour,images/beat_028.png,“Green till we die”.
+29,00:01:35.834,00:01:40.417,4.583,pull,harbour,images/beat_029.png,"By age 4, you can chant every Green song by heart."
+30,00:01:40.417,00:01:45.000,4.583,push,harbour,images/beat_030.png,"By age 6, your father takes you to your first race."
+31,00:01:45.000,00:01:46.667,1.667,push,harbour,images/beat_031.png,You’ll never forget it.
+32,00:01:46.667,00:01:50.417,3.75,pan,hippodrome,images/beat_032.png,The Hippodrome is the biggest building you’ve ever seen.
+33,00:01:50.417,00:01:53.750,3.333,push,hippodrome,images/beat_033.png,"A giant stone racetrack, longer than four fields,"
+34,00:01:53.750,00:01:56.667,2.917,pull,hippodrome,images/beat_034.png,surrounded by tiers of seats so high
+35,00:01:56.667,00:02:01.667,5.0,push,hippodrome,images/beat_035.png,they seem to touch the sky. It holds a hundred thousand people.
+36,00:02:01.667,00:02:05.000,3.333,fade,hippodrome,images/beat_036.png,Down the middle of the track runs a
+37,00:02:05.000,00:02:09.167,4.167,pan,hippodrome,images/beat_037.png,long stone barrier covered with ancient treasures. An Egyptian obelisk.
+38,00:02:09.167,00:02:13.334,4.167,push,hippodrome,images/beat_038.png,A bronze column of twisted snakes. Statues of famous charioteers.
+39,00:02:13.334,00:02:17.084,3.75,pull,hippodrome,images/beat_039.png,"At one end, connected directly to the Great Palace,"
+40,00:02:17.084,00:02:21.667,4.583,shake,hippodrome,images/beat_040.png,"is the royal box, where the Emperor himself sits to watch."
+41,00:02:21.667,00:02:25.417,3.75,push,hippodrome,images/beat_041.png,And the noise. You’ve never heard anything like it.
+42,00:02:25.417,00:02:29.584,4.167,pan,hippodrome,images/beat_042.png,"A hundred thousand voices, half of them singing Blue songs,"
+43,00:02:29.584,00:02:31.667,2.083,shake,hippodrome,images/beat_043.png,"half of them singing Green,"
+44,00:02:31.667,00:02:35.000,3.333,pull,hippodrome,images/beat_044.png,each side trying to drown out the other.
+45,00:02:35.000,00:02:37.917,2.917,shake,hippodrome,images/beat_045.png,Your father lifts you onto his shoulders.
+46,00:02:37.917,00:02:42.084,4.167,push,hippodrome,images/beat_046.png,"Four chariots burst from the starting gates, four horses each,"
+47,00:02:42.084,00:02:45.834,3.75,pan,hippodrome,images/beat_047.png,wheels screaming on the sand. Blue. Green. Red. White.
+48,00:02:45.834,00:02:50.834,5.0,push,hippodrome,images/beat_048.png,"Seven laps around the barrier, at speeds that make the crowd scream."
+49,00:02:50.834,00:02:52.501,1.667,shake,hippodrome,images/beat_049.png,"On the third lap,"
+50,00:02:52.501,00:02:56.668,4.167,push,hippodrome,images/beat_050.png,two chariots collide at the turn and explode into splinters.
+51,00:02:56.668,00:02:59.168,2.5,push,hippodrome,images/beat_051.png,The crowd roars like the sea.
+52,00:02:59.168,00:03:00.835,1.667,pan,hippodrome,images/beat_052.png,The Green chariot wins.
+53,00:03:00.835,00:03:05.002,4.167,push,hippodrome,images/beat_053.png,Your father throws you into the air. Strangers hug you.
+54,00:03:05.002,00:03:07.919,2.917,pull,hippodrome,images/beat_054.png,A toothless old man kisses your forehead.
+55,00:03:07.919,00:03:11.669,3.75,push,hippodrome,images/beat_055.png,You’ve never felt anything like it in your life.
+56,00:03:11.669,00:03:13.752,2.083,push,hippodrome,images/beat_056.png,You belong to something enormous.
+57,00:03:13.752,00:03:15.835,2.083,pan,hippodrome,images/beat_057.png,You’re Green. Till you die.
+58,00:03:15.835,00:03:20.835,5.0,push,home,images/beat_058.png,"That night, your father carves you a little wooden chariot, painted green,"
+59,00:03:20.835,00:03:22.502,1.667,pull,home,images/beat_059.png,with four wobbly horses.
+60,00:03:22.502,00:03:26.252,3.75,push,home,images/beat_060.png,You race it along the floor until your mother
+61,00:03:26.252,00:03:30.002,3.75,push,home,images/beat_061.png,hides it under the bed so she can sleep.
+62,00:03:30.002,00:03:34.169,4.167,pan,home,images/beat_062.png,You find it in the morning and race it again.
+63,00:03:34.169,00:03:37.086,2.917,push,hippodrome,images/beat_063.png,"Your hero is a charioteer called Porphyrius,"
+64,00:03:37.086,00:03:39.586,2.5,pull,hippodrome,images/beat_064.png,the greatest racer of the age.
+65,00:03:39.586,00:03:43.753,4.167,push,hippodrome,images/beat_065.png,"The city has built statues of him on the barrier,"
+66,00:03:43.753,00:03:46.670,2.917,push,hippodrome,images/beat_066.png,"in solid bronze, while he’s still alive."
+67,00:03:46.670,00:03:50.420,3.75,pan,harbour,images/beat_067.png,You decide you’ll be just like him one day.
+68,00:03:50.420,00:03:53.753,3.333,push,harbour,images/beat_068.png,Your father laughs and says you smell too
+69,00:03:53.753,00:03:56.670,2.917,pull,harbour,images/beat_069.png,much like fish to drive a chariot.
+70,00:03:56.670,00:04:00.420,3.75,push,harbour,images/beat_070.png,"Years pass, and the races become your whole life."
+71,00:04:00.420,00:04:03.337,2.917,push,harbour,images/beat_071.png,You learn the names of every horse.
+72,00:04:03.337,00:04:07.920,4.583,pan,harbour,images/beat_072.png,You argue about charioteers with the other boys on the docks.
+73,00:04:07.920,00:04:12.503,4.583,fade,harbour,images/beat_073.png,"You save every coin you earn gutting fish for your father,"
+74,00:04:12.503,00:04:15.420,2.917,pull,hippodrome,images/beat_074.png,and spend it all on race days.
+75,00:04:15.420,00:04:19.587,4.167,push,bakery,images/beat_075.png,"And across the alley, in the Blue bakery, there’s Leon."
+76,00:04:19.587,00:04:21.670,2.083,push,bakery,images/beat_076.png,Leon is the baker’s son.
+77,00:04:21.670,00:04:26.670,5.0,pan,bakery,images/beat_077.png,"He’s your age, skinny, quick-witted, with flour permanently stuck in his eyebrows."
+78,00:04:26.670,00:04:30.420,3.75,push,bakery,images/beat_078.png,"And he is, unfortunately, a Blue. A fanatical one."
+79,00:04:30.420,00:04:34.587,4.167,pull,alley,images/beat_079.png,"The first time you meet, you’re both seven years old,"
+80,00:04:34.587,00:04:39.587,5.0,push,alley,images/beat_080.png,and you get into a fistfight over whose charioteer has better hair.
+81,00:04:39.587,00:04:40.787,1.2,push,alley,images/beat_081.png,You lose.
+82,00:04:40.787,00:04:45.787,5.0,pan,alley,images/beat_082.png,Leon gives you a bread roll afterwards to make up for it.
+83,00:04:45.787,00:04:47.870,2.083,push,alley,images/beat_083.png,He becomes your best friend.
+84,00:04:47.870,00:04:51.620,3.75,pull,harbour,images/beat_084.png,"It makes no sense, and everyone tells you so."
+85,00:04:51.620,00:04:54.537,2.917,shake,harbour,images/beat_085.png,Your father calls him that flour-faced Blue.
+86,00:04:54.537,00:04:57.454,2.917,push,bakery,images/beat_086.png,Leon’s father calls you the fish boy.
+87,00:04:57.454,00:05:00.371,2.917,pan,street,images/beat_087.png,"But every race day for ten years,"
+88,00:05:00.371,00:05:05.371,5.0,push,street,images/beat_088.png,"you and Leon walk to the Hippodrome together, arguing the whole way,"
+89,00:05:05.371,00:05:09.954,4.583,pull,hippodrome,images/beat_089.png,"split up at the entrance to sit with your own side,"
+90,00:05:09.954,00:05:14.121,4.167,push,street,images/beat_090.png,and meet again afterwards to argue all the way home.
+91,00:05:14.121,00:05:16.204,2.083,push,tavern,images/beat_091.png,The loser pays for dinner.
+92,00:05:16.204,00:05:19.954,3.75,pan,tavern,images/beat_092.png,You lose more often than you’d like to admit.
+93,00:05:19.954,00:05:24.954,5.0,push,alley,images/beat_093.png,"And when you’re sixteen, Leon proves what kind of friend he is."
+94,00:05:24.954,00:05:27.037,2.083,pull,alley,images/beat_094.png,"One night after a race,"
+95,00:05:27.037,00:05:31.620,4.583,push,alley,images/beat_095.png,three Blue thugs corner you in an alley near the harbour.
+96,00:05:31.620,00:05:35.370,3.75,push,alley,images/beat_096.png,They’ve seen your green scarf. They’re bigger than you.
+97,00:05:35.370,00:05:38.287,2.917,pan,alley,images/beat_097.png,One of them is holding a club.
+98,00:05:38.287,00:05:42.037,3.75,push,alley,images/beat_098.png,Then Leon steps out of the shadows behind them.
+99,00:05:42.037,00:05:44.537,2.5,pull,alley,images/beat_099.png,He tells them you’re his cousin.
+100,00:05:44.537,00:05:49.537,5.0,push,alley,images/beat_100.png,"He tells them you’re colour blind, and that your mother dresses you."
+101,00:05:49.537,00:05:53.287,3.75,push,alley,images/beat_101.png,They look at each other. They look at him.
+102,00:05:53.287,00:05:55.787,2.5,pan,alley,images/beat_102.png,Then they shrug and walk away.
+103,00:05:55.787,00:06:00.787,5.0,push,harbour,images/beat_103.png,You don’t speak to him for a week out of pure embarrassment.
+104,00:06:00.787,00:06:02.870,2.083,pull,tavern,images/beat_104.png,Then you buy him dinner.
+105,00:06:02.870,00:06:04.953,2.083,push,harbour,images/beat_105.png,"By the time you’re 18,"
+106,00:06:04.953,00:06:08.286,3.333,push,street,images/beat_106.png,being a fan isn’t just about racing anymore.
+107,00:06:08.286,00:06:10.786,2.5,pan,street,images/beat_107.png,The factions run the city now.
+108,00:06:10.786,00:06:14.953,4.167,push,street,images/beat_108.png,"The hardcore young members, the partisans, have their own look."
+109,00:06:14.953,00:06:19.953,5.0,pull,street,images/beat_109.png,"They shave the front of their heads and grow the back long,"
+110,00:06:19.953,00:06:23.703,3.75,push,street,images/beat_110.png,the way the Huns do. They grow wild beards.
+111,00:06:23.703,00:06:28.286,4.583,push,street,images/beat_111.png,"They wear tunics with enormous puffed sleeves, tight at the wrist,"
+112,00:06:28.286,00:06:32.036,3.75,pan,street,images/beat_112.png,"and they swagger through the streets in gangs, singing."
+113,00:06:32.036,00:06:36.619,4.583,push,street,images/beat_113.png,You join the Green partisans the day after your eighteenth birthday.
+114,00:06:36.619,00:06:40.369,3.75,pull,street,images/beat_114.png,You shave your hair. You get your puffed sleeves.
+115,00:06:40.369,00:06:45.369,5.0,push,street,images/beat_115.png,"When you walk down the street with your brothers, people step aside."
+116,00:06:45.369,00:06:49.536,4.167,push,street,images/beat_116.png,Shopkeepers give you free bread. Nobody dares overcharge a Green.
+117,00:06:49.536,00:06:54.536,5.0,pan,harbour,images/beat_117.png,Leon on the other hand joins the Blues on the same day.
+118,00:06:54.536,00:06:59.536,5.0,push,harbour,images/beat_118.png,He shows up at your fish stall with half a shaved head
+119,00:06:59.536,00:07:04.119,4.583,fade,harbour,images/beat_119.png,and sleeves so big he can barely fit through the door.
+120,00:07:04.119,00:07:06.619,2.5,shake,harbour,images/beat_120.png,You both laugh until you cry.
+121,00:07:06.619,00:07:08.286,1.667,shake,street,images/beat_121.png,Then the nights start.
+122,00:07:08.286,00:07:10.786,2.5,pan,street,images/beat_122.png,At first it’s just shouting matches.
+123,00:07:10.786,00:07:13.703,2.917,push,street,images/beat_123.png,"Blue gangs and Green gangs, meeting on"
+124,00:07:13.703,00:07:18.286,4.583,pull,street,images/beat_124.png,"street corners after the races, trading insults. Then rocks. Then sticks."
+125,00:07:18.286,00:07:22.869,4.583,push,street,images/beat_125.png,"Then one night, someone in your gang pulls out a knife."
+126,00:07:22.869,00:07:27.452,4.583,push,street,images/beat_126.png,You learn quickly that the factions don’t just fight each other.
+127,00:07:27.452,00:07:31.619,4.167,pan,street,images/beat_127.png,They rob people in the street. They break into shops.
+128,00:07:31.619,00:07:36.619,5.0,push,street,images/beat_128.png,"Partisans walk around at night with weapons hidden in their giant sleeves,"
+129,00:07:36.619,00:07:40.369,3.75,pull,street,images/beat_129.png,and the city watch is afraid to stop them.
+130,00:07:40.369,00:07:44.952,4.583,push,palace,images/beat_130.png,The factions are too powerful. Too many friends in high places.
+131,00:07:44.952,00:07:47.869,2.917,push,palace,images/beat_131.png,And the people with the friends in
+132,00:07:47.869,00:07:50.369,2.5,pan,palace,images/beat_132.png,the highest places are the Blues.
+133,00:07:50.369,00:07:54.536,4.167,push,spice,images/beat_133.png,"One night, your gang breaks into a spice merchant’s shop."
+134,00:07:54.536,00:07:58.703,4.167,pull,spice,images/beat_134.png,You stand guard at the door. You don’t take anything.
+135,00:07:58.703,00:08:01.620,2.917,push,spice,images/beat_135.png,You tell yourself that makes it different.
+136,00:08:01.620,00:08:04.953,3.333,push,spice,images/beat_136.png,"But you hear the old merchant pleading inside,"
+137,00:08:04.953,00:08:08.286,3.333,pan,spice,images/beat_137.png,and you don’t go in to stop it.
+138,00:08:08.286,00:08:12.869,4.583,push,home,images/beat_138.png,"You go home and lie awake listening to your father snore,"
+139,00:08:12.869,00:08:14.952,2.083,pull,home,images/beat_139.png,and you don’t tell him.
+140,00:08:14.952,00:08:19.952,5.0,push,palace,images/beat_140.png,"In 527, a new emperor takes the throne. His name is Justinian."
+141,00:08:19.952,00:08:24.535,4.583,push,palace,images/beat_141.png,"He’s brilliant, ambitious, hardworking, and has supported the Blues for years."
+142,00:08:24.535,00:08:26.618,2.083,pan,palace,images/beat_142.png,"His wife, the Empress Theodora,"
+143,00:08:26.618,00:08:30.785,4.167,push,hippodrome,images/beat_143.png,is a former actress who grew up around the Hippodrome.
+144,00:08:30.785,00:08:33.702,2.917,pull,hippodrome,images/beat_144.png,"Her family once worked for the Greens,"
+145,00:08:33.702,00:08:38.285,4.583,push,palace,images/beat_145.png,until the Greens refused to help them. She’s never forgiven them.
+146,00:08:38.285,00:08:41.618,3.333,push,street,images/beat_146.png,"So when a Blue partisan commits a crime,"
+147,00:08:41.618,00:08:44.118,2.5,pan,street,images/beat_147.png,the judges look the other way.
+148,00:08:44.118,00:08:47.868,3.75,push,street,images/beat_148.png,"When a Green does the same thing, he hangs."
+149,00:08:47.868,00:08:52.868,5.0,pull,harbour,images/beat_149.png,You don’t say this to Leon. You don’t have to. He knows.
+150,00:08:52.868,00:08:55.785,2.917,push,harbour,images/beat_150.png,"Meanwhile, things are getting harder for everyone."
+151,00:08:55.785,00:08:59.535,3.75,push,palace,images/beat_151.png,"Justinian is fighting wars in Persia and needs money,"
+152,00:08:59.535,00:09:04.118,4.583,pan,palace,images/beat_152.png,"and his tax minister, a ruthless man called John the Cappadocian,"
+153,00:09:04.118,00:09:07.035,2.917,push,harbour,images/beat_153.png,squeezes every coin out of the city.
+154,00:09:07.035,00:09:09.952,2.917,pull,harbour,images/beat_154.png,Your father’s fish stall now pays twice
+155,00:09:09.952,00:09:12.869,2.917,push,harbour,images/beat_155.png,the tax it did five years ago.
+156,00:09:12.869,00:09:17.869,5.0,push,bakery,images/beat_156.png,Leon’s father has had to let two bakers go. People are hungry.
+157,00:09:17.869,00:09:19.119,1.25,pan,street,images/beat_157.png,People are angry.
+158,00:09:19.119,00:09:21.202,2.083,push,street,images/beat_158.png,"And for the first time,"
+159,00:09:21.202,00:09:25.785,4.583,pull,street,images/beat_159.png,the Blues and the Greens are angry about the same thing.
+160,00:09:25.785,00:09:29.535,3.75,push,harbour,images/beat_160.png,Your father is getting old now. His back hurts.
+161,00:09:29.535,00:09:32.452,2.917,push,harbour,images/beat_161.png,"His shoulders, the ones you sat on"
+162,00:09:32.452,00:09:37.452,5.0,pan,hippodrome,images/beat_162.png,"at your first race, are stooped. He still goes to every race."
+163,00:09:37.452,00:09:40.785,3.333,push,hippodrome,images/beat_163.png,"He still sings every song. But one evening,"
+164,00:09:40.785,00:09:44.118,3.333,pull,home,images/beat_164.png,he looks at your shaved head and your
+165,00:09:44.118,00:09:47.451,3.333,push,home,images/beat_165.png,"puffed sleeves and the bruise on your cheek,"
+166,00:09:47.451,00:09:50.368,2.917,push,home,images/beat_166.png,and he says quietly that the Greens
+167,00:09:50.368,00:09:54.118,3.75,pan,home,images/beat_167.png,are supposed to be about the horses. Not this.
+168,00:09:54.118,00:09:56.618,2.5,push,home,images/beat_168.png,You tell him he doesn’t understand.
+169,00:09:56.618,00:10:00.368,3.75,pull,harbour,images/beat_169.png,He just nods and goes back to gutting fish.
+170,00:10:00.368,00:10:03.285,2.917,push,city,images/beat_170.png,"In January 532, you’re 27 years old,"
+171,00:10:03.285,00:10:05.785,2.5,push,city,images/beat_171.png,and everything goes wrong at once.
+172,00:10:05.785,00:10:08.285,2.5,pan,street,images/beat_172.png,"After a riot following the races,"
+173,00:10:08.285,00:10:11.202,2.917,push,street,images/beat_173.png,the city prefect arrests a group of
+174,00:10:11.202,00:10:15.785,4.583,pull,street,images/beat_174.png,men from both factions for murder. Seven are condemned to death.
+175,00:10:15.785,00:10:20.785,5.0,push,gallows,images/beat_175.png,"On the morning of the execution, a huge crowd gathers to watch."
+176,00:10:20.785,00:10:23.285,2.5,push,gallows,images/beat_176.png,The first hanging goes as planned.
+177,00:10:23.285,00:10:28.285,5.0,pan,gallows,images/beat_177.png,"Then the rope breaks on the next two. Not once, but twice."
+178,00:10:28.285,00:10:31.618,3.333,push,gallows,images/beat_178.png,One of the condemned men is a Blue.
+179,00:10:31.618,00:10:35.368,3.75,shake,gallows,images/beat_179.png,The other is a Green. Both survive the fall.
+180,00:10:35.368,00:10:39.951,4.583,push,gallows,images/beat_180.png,"The crowd goes wild. It’s a sign from God, they shout."
+181,00:10:39.951,00:10:43.284,3.333,push,gallows,images/beat_181.png,"Some monks rush in, grab the two survivors,"
+182,00:10:43.284,00:10:48.284,5.0,pan,gallows,images/beat_182.png,"and smuggle them across the water into the church of Saint Lawrence,"
+183,00:10:48.284,00:10:52.867,4.583,push,church,images/beat_183.png,where nobody can arrest them. Soldiers surround the church. Nobody moves.
+184,00:10:52.867,00:10:56.617,3.75,pull,hippodrome,images/beat_184.png,"On January 13th, the races go ahead as planned."
+185,00:10:56.617,00:11:00.367,3.75,push,hippodrome,images/beat_185.png,The Emperor takes his seat in the royal box.
+186,00:11:00.367,00:11:05.367,5.0,push,hippodrome,images/beat_186.png,"And the whole Hippodrome, Blue and Green alike, begins chanting at him."
+187,00:11:05.367,00:11:07.867,2.5,pan,hippodrome,images/beat_187.png,Mercy. Mercy for the two men.
+188,00:11:07.867,00:11:09.117,1.25,push,hippodrome,images/beat_188.png,Justinian doesn’t answer.
+189,00:11:09.117,00:11:13.284,4.167,pull,hippodrome,images/beat_189.png,"Race after race, the chanting gets louder. Justinian ignores them."
+190,00:11:13.284,00:11:14.951,1.667,push,hippodrome,images/beat_190.png,"By the twenty-second race,"
+191,00:11:14.951,00:11:19.534,4.583,push,hippodrome,images/beat_191.png,something happens that has never happened in the history of Constantinople.
+192,00:11:19.534,00:11:22.867,3.333,pan,hippodrome,images/beat_192.png,The Blues and the Greens start chanting together.
+193,00:11:22.867,00:11:24.950,2.083,push,hippodrome,images/beat_193.png,One word. Over and over.
+194,00:11:24.950,00:11:26.150,1.2,pull,hippodrome,images/beat_194.png,“Nika”
+195,00:11:26.150,00:11:27.817,1.667,push,hippodrome,images/beat_195.png,It means win. Conquer.
+196,00:11:27.817,00:11:31.567,3.75,push,hippodrome,images/beat_196.png,It’s what you shout to cheer on your charioteer.
+197,00:11:31.567,00:11:36.567,5.0,pan,hippodrome,images/beat_197.png,"But now, a hundred thousand people are shouting it at the Emperor,"
+198,00:11:36.567,00:11:39.900,3.333,push,hippodrome,images/beat_198.png,"in one voice, Blue and Green as one."
+199,00:11:39.900,00:11:44.900,5.0,pull,hippodrome,images/beat_199.png,"You look across the stands and see Leon, standing on his seat,"
+200,00:11:44.900,00:11:47.400,2.5,push,hippodrome,images/beat_200.png,screaming the same word you are.
+201,00:11:47.400,00:11:52.400,5.0,push,hippodrome,images/beat_201.png,"For the first time in your lives, you’re on the same side."
+202,00:11:52.400,00:11:53.650,1.25,pan,hippodrome,images/beat_202.png,It feels incredible.
+203,00:11:53.650,00:11:58.233,4.583,push,street,images/beat_203.png,The crowd pours out of the Hippodrome and into the streets.
+204,00:11:58.233,00:12:01.983,3.75,pull,street,images/beat_204.png,They break into the prisons and free the prisoners.
+205,00:12:01.983,00:12:05.316,3.333,push,street,images/beat_205.png,They set fire to the city prefect’s headquarters.
+206,00:12:05.316,00:12:09.066,3.75,push,street,images/beat_206.png,"You’re swept along with them, chanting, laughing, carrying torches."
+207,00:12:09.066,00:12:13.649,4.583,pan,street,images/beat_207.png,Leon is beside you. You slap each other on the back.
+208,00:12:13.649,00:12:16.566,2.917,fade,street,images/beat_208.png,You can’t believe how powerful it feels.
+209,00:12:16.566,00:12:19.066,2.5,pull,street,images/beat_209.png,The Emperor can’t ignore you now.
+210,00:12:19.066,00:12:20.733,1.667,push,fire,images/beat_210.png,Then the fires spread.
+211,00:12:20.733,00:12:22.400,1.667,push,fire,images/beat_211.png,The wind catches them.
+212,00:12:22.400,00:12:27.400,5.0,pan,fire,images/beat_212.png,"By the next day, half the centre of the city is burning."
+213,00:12:27.400,00:12:30.317,2.917,push,fire,images/beat_213.png,The Senate house. Public baths. Houses. Shops.
+214,00:12:30.317,00:12:32.817,2.5,pull,fire,images/beat_214.png,"The great church of Hagia Sophia,"
+215,00:12:32.817,00:12:37.400,4.583,push,fire,images/beat_215.png,"the most important church in the Empire, burns to the ground."
+216,00:12:37.400,00:12:41.983,4.583,push,fire,images/beat_216.png,People who had nothing to do with the riot lose everything.
+217,00:12:41.983,00:12:45.733,3.75,pan,fire,images/beat_217.png,You walk past a family sitting in the street
+218,00:12:45.733,00:12:49.483,3.75,push,fire,images/beat_218.png,in front of the smoking ruins of their home.
+219,00:12:49.483,00:12:51.566,2.083,fade,fire,images/beat_219.png,A little girl is crying.
+220,00:12:51.566,00:12:56.149,4.583,push,fire,images/beat_220.png,Her mother looks at your puffed Green sleeves with pure hatred.
+221,00:12:56.149,00:12:57.399,1.25,push,fire,images/beat_221.png,You stop chanting.
+222,00:12:57.399,00:13:02.399,5.0,pan,fire,images/beat_222.png,Leon notices. He asks if you’re alright. You say yes. You’re not.
+223,00:13:02.399,00:13:06.982,4.583,push,rooftop,images/beat_223.png,"That night, the two of you climb onto the roof of"
+224,00:13:06.982,00:13:10.732,3.75,pull,rooftop,images/beat_224.png,your father’s fish stall and watch the city burn.
+225,00:13:10.732,00:13:13.649,2.917,push,rooftop,images/beat_225.png,The sky over the palace is orange.
+226,00:13:13.649,00:13:16.566,2.917,push,rooftop,images/beat_226.png,You can hear the roar of the
+227,00:13:16.566,00:13:19.483,2.917,pan,rooftop,images/beat_227.png,crowds and the crash of collapsing roofs.
+228,00:13:19.483,00:13:21.983,2.5,push,rooftop,images/beat_228.png,Leon doesn’t make a single joke.
+229,00:13:21.983,00:13:26.150,4.167,pull,rooftop,images/beat_229.png,"For the first time since you were seven years old,"
+230,00:13:26.150,00:13:29.900,3.75,push,rooftop,images/beat_230.png,neither of you can think of anything to say.
+231,00:13:29.900,00:13:32.817,2.917,push,harbour,images/beat_231.png,Your father calls up from the street.
+232,00:13:32.817,00:13:36.567,3.75,fade,harbour,images/beat_232.png,He tells you to come home. To stay home.
+233,00:13:36.567,00:13:39.484,2.917,push,harbour,images/beat_233.png,He says this isn’t a race anymore.
+234,00:13:39.484,00:13:41.984,2.5,pull,rooftop,images/beat_234.png,You tell him you’ll be careful.
+235,00:13:41.984,00:13:45.317,3.333,push,harbour,images/beat_235.png,He looks at you for a long time.
+236,00:13:45.317,00:13:47.400,2.083,push,harbour,images/beat_236.png,Then he goes back inside.
+237,00:13:47.400,00:13:50.317,2.917,pan,city,images/beat_237.png,The riot goes on for five days.
+238,00:13:50.317,00:13:55.317,5.0,push,palace,images/beat_238.png,The Emperor tries to calm the crowd. He fires John the Cappadocian.
+239,00:13:55.317,00:13:59.484,4.167,pull,palace,images/beat_239.png,He fires his other unpopular ministers. It isn’t enough anymore.
+240,00:13:59.484,00:14:03.651,4.167,shake,hippodrome,images/beat_240.png,The crowd doesn’t want reforms. It wants a new emperor.
+241,00:14:03.651,00:14:06.568,2.917,push,street,images/beat_241.png,"On the fifth day, they find one."
+242,00:14:06.568,00:14:11.151,4.583,pan,hypatius_house,images/beat_242.png,"An old aristocrat called Hypatius, a nephew of a former emperor,"
+243,00:14:11.151,00:14:16.151,5.0,push,hypatius_house,images/beat_243.png,"who has been hiding in his house, hoping nobody would remember him."
+244,00:14:16.151,00:14:20.318,4.167,pull,street,images/beat_244.png,"The crowd drags him out, carries him to the Hippodrome,"
+245,00:14:20.318,00:14:24.901,4.583,push,hippodrome,images/beat_245.png,"and crowns him with a golden chain in the royal box,"
+246,00:14:24.901,00:14:28.651,3.75,push,hippodrome,images/beat_246.png,in front of tens of thousands of cheering people.
+247,00:14:28.651,00:14:33.651,5.0,pan,hippodrome,images/beat_247.png,You’re there. You cheer too. You don’t know what else to do.
+248,00:14:33.651,00:14:34.901,1.25,push,hippodrome,images/beat_248.png,Hypatius looks terrified.
+249,00:14:34.901,00:14:39.484,4.583,pull,hippodrome,images/beat_249.png,He looks like a man who already knows how this ends.
+250,00:14:39.484,00:14:42.401,2.917,push,palace,images/beat_250.png,"Inside the palace, you’ll learn much later,"
+251,00:14:42.401,00:14:44.901,2.5,push,palace,images/beat_251.png,Justinian is getting ready to run.
+252,00:14:44.901,00:14:48.234,3.333,pan,harbour,images/beat_252.png,A ship is waiting to carry him away.
+253,00:14:48.234,00:14:50.734,2.5,push,palace,images/beat_253.png,His advisers tell him it’s over.
+254,00:14:50.734,00:14:54.484,3.75,pull,palace,images/beat_254.png,But the Empress Theodora stands up and makes a
+255,00:14:54.484,00:14:58.234,3.75,push,palace,images/beat_255.png,speech that will be repeated for fifteen hundred years.
+256,00:14:58.234,00:15:03.234,5.0,push,palace,images/beat_256.png,She says she’d rather die an empress than live as a refugee.
+257,00:15:03.234,00:15:08.234,5.0,pan,palace,images/beat_257.png,That royalty makes a fine burial shroud. That she will not run.
+258,00:15:08.234,00:15:09.434,1.2,push,palace,images/beat_258.png,Justinian stays.
+259,00:15:09.434,00:15:11.517,2.083,pull,palace,images/beat_259.png,And he makes a plan.
+260,00:15:11.517,00:15:15.684,4.167,push,hippodrome,images/beat_260.png,"That afternoon, while you’re in the Hippodrome with the crowd,"
+261,00:15:15.684,00:15:20.267,4.583,push,hippodrome,images/beat_261.png,a court official called Narses quietly walks into the Blue section.
+262,00:15:20.267,00:15:24.850,4.583,pan,hippodrome,images/beat_262.png,He’s carrying bags of gold. He speaks to the Blue leaders.
+263,00:15:24.850,00:15:29.017,4.167,push,hippodrome,images/beat_263.png,He reminds them that Justinian has always been a Blue.
+264,00:15:29.017,00:15:34.017,5.0,pull,hippodrome,images/beat_264.png,That Hypatius might favour the Greens. That this is not their fight.
+265,00:15:34.017,00:15:38.600,4.583,push,hippodrome,images/beat_265.png,You watch the Blues begin to stand up. One by one.
+266,00:15:38.600,00:15:41.933,3.333,push,hippodrome,images/beat_266.png,Then hundreds of them. Then thousands. They’re leaving.
+267,00:15:41.933,00:15:46.516,4.583,pan,hippodrome,images/beat_267.png,Leon finds you in the Green stands. He grabs your arm.
+268,00:15:46.516,00:15:49.849,3.333,push,hippodrome,images/beat_268.png,"He looks scared, and Leon is never scared."
+269,00:15:49.849,00:15:54.016,4.167,pull,hippodrome,images/beat_269.png,He says you need to come with him. Right now.
+270,00:15:54.016,00:15:57.349,3.333,push,hippodrome,images/beat_270.png,He says something bad is going to happen.
+271,00:15:57.349,00:16:01.932,4.583,push,hippodrome,images/beat_271.png,"You look at him. “Green till we die”, you tell him."
+272,00:16:01.932,00:16:05.265,3.333,pan,hippodrome,images/beat_272.png,Leon stares at you for a long moment.
+273,00:16:05.265,00:16:09.848,4.583,push,hippodrome,images/beat_273.png,Then he lets go of your arm. He doesn’t say goodbye.
+274,00:16:09.848,00:16:13.598,3.75,pull,hippodrome,images/beat_274.png,He just disappears into the crowd of departing Blues.
+275,00:16:13.598,00:16:16.098,2.5,push,hippodrome,images/beat_275.png,You turn back to the track.
+276,00:16:16.098,00:16:19.848,3.75,shake,hippodrome,images/beat_276.png,"A few minutes later, the Hippodrome gates slam shut."
+277,00:16:19.848,00:16:24.848,5.0,pan,hippodrome,images/beat_277.png,"At first, nobody understands. Then you hear it. The sound of metal."
+278,00:16:24.848,00:16:29.848,5.0,push,hippodrome,images/beat_278.png,"Marching feet. And soldiers, real soldiers, veterans of the wars against Persia,"
+279,00:16:29.848,00:16:31.931,2.083,pull,hippodrome,images/beat_279.png,pour in through the entrances.
+280,00:16:31.931,00:16:35.681,3.75,push,hippodrome,images/beat_280.png,"At their head is the Emperor’s best general, Belisarius."
+281,00:16:35.681,00:16:39.014,3.333,shake,hippodrome,images/beat_281.png,There’s nowhere to run. The gates are sealed.
+282,00:16:39.014,00:16:41.097,2.083,pan,hippodrome,images/beat_282.png,The walls are too high.
+283,00:16:41.097,00:16:45.264,4.167,push,hippodrome,images/beat_283.png,A hundred thousand people were cheering here an hour ago.
+284,00:16:45.264,00:16:47.347,2.083,pull,hippodrome,images/beat_284.png,Now there are only screams.
+285,00:16:47.347,00:16:52.347,5.0,push,hippodrome,images/beat_285.png,"You don’t remember much of what happens next. Only noise, and pushing,"
+286,00:16:52.347,00:16:56.097,3.75,push,hippodrome,images/beat_286.png,and the sand of the racetrack under your feet.
+287,00:16:56.097,00:16:59.430,3.333,pan,hippodrome,images/beat_287.png,The same sand where you watched the Green
+288,00:16:59.430,00:17:02.763,3.333,push,hippodrome,images/beat_288.png,"chariot win when you were six years old,"
+289,00:17:02.763,00:17:04.846,2.083,pull,hippodrome,images/beat_289.png,sitting on your father’s shoulders.
+290,00:17:04.846,00:17:06.929,2.083,push,hippodrome,images/beat_290.png,You never leave the Hippodrome.
+291,00:17:06.929,00:17:09.012,2.083,shake,hippodrome,images/beat_291.png,"By evening, everywhere is silent."
+292,00:17:09.012,00:17:12.345,3.333,pan,scriptorium,images/beat_292.png,"The historian Procopius, who lived through those days,"
+293,00:17:12.345,00:17:17.345,5.0,push,scriptorium,images/beat_293.png,wrote that about thirty thousand people died inside the Hippodrome that afternoon.
+294,00:17:17.345,00:17:20.678,3.333,pull,hippodrome,images/beat_294.png,Thirty thousand sports fans. In a few hours.
+295,00:17:20.678,00:17:24.845,4.167,shake,palace,images/beat_295.png,"The next day, they execute Hypatius. The riot is over."
+296,00:17:24.845,00:17:28.178,3.333,push,palace,images/beat_296.png,"Justinian keeps his throne for another thirty-three years,"
+297,00:17:28.178,00:17:31.928,3.75,pan,hippodrome,images/beat_297.png,and the races start again within a few years.
+298,00:17:31.928,00:17:35.678,3.75,push,hippodrome,images/beat_298.png,The Blues and the Greens keep competing for centuries.

@@ -22,17 +22,21 @@ th{background:#F2E8D5}td.n{width:34px;color:#4A0E0E;font-weight:bold}td.t{width:
 .bh{color:#4A0E0E;font-weight:bold;font-size:11pt}.seg{font-style:italic;margin:3px 0 5px}.pr{font-size:8.8pt;color:#2A2A2A;background:#FBF7EF;border-left:3px solid #4A0E0E;padding:5px 8px;margin:4px 0}
 .f{font-size:9pt;color:#333}.f b{color:#4A0E0E}"""
 h = [f'<!doctype html><html><head><meta charset="utf-8"><style>{css}</style></head><body>']
-h.append(f'<div class="cover"><h1>yesteryears</h1><div class="sub">{e(title)}</div><div class="meta">Script · {len(rows)} Beats · Image Prompts<br>'
+h.append(f'<div class="cover"><h1>yesteryears</h1><div class="sub">{e(title)}</div><div class="meta">Script · {len(rows)} Beats · {"Voiceover Directions · " if any(p.get("vo") for p in P) else ""}Image Prompts<br>'
          f'{words:,} words · about {sum(r["dur"] for r in rows)/60:.1f} minutes at 2.4 words per second<br><br>Based on real history. Some characters are composites.</div></div>')
 h.append('<h2>1. Script</h2><div class="script">' + "".join(f"<p>{e(p)}</p>" for p in script) + "</div>")
 h.append('<h2>2. Beats</h2><table><tr><th>#</th><th>Start</th><th>Script segment</th></tr>' + "".join(
     f'<tr><td class="n">{r["beat"]:03d}</td><td class="t">{tm(r["start"])}</td><td>{e(r["text"])}</td></tr>' for r in rows) + "</table>")
-h.append('<h2>3. Image Prompts</h2><p class="f">' + "".join(f'<b>Headwear rule:</b> {e(r.split("**", 2)[2].strip())}<br>' for r in rules)
+if any(p.get("vo") for p in P):
+    h.append('<h2>3. Voiceover Script</h2><p class="f">Read each line with its direction. The [bracketed] emotion tags work directly in ElevenLabs v3 and similar tools; otherwise treat them as acting notes.</p><table><tr><th>#</th><th>Start</th><th>Line</th><th>Delivery</th></tr>' + "".join(
+        f'<tr><td class="n">{p["n"]:03d}</td><td class="t">{tm(r["start"])}</td><td>{e(p["seg"])}</td><td>{e(p["vo"])}</td></tr>' for p, r in zip(P, rows)) + "</table>")
+h.append('<h2>' + ('4' if any(p.get("vo") for p in P) else '3') + '. Image Prompts</h2><p class="f">' + "".join(f'<b>Headwear rule:</b> {e(r.split("**", 2)[2].strip())}<br>' for r in rules)
          + "<b>Character lock:</b> " + " · ".join(f"{e(a)} = {e(b)}" for a, b in lock) + "</p>")
 for p, r in zip(P, rows):
     h.append(f'<div class="beat"><div class="bh">Beat {p["n"]:03d} · {tm(r["start"])}</div><div class="seg">"{e(p["seg"])}"</div>'
              f'<div class="pr"><b>Image Prompt:</b> {e(p["prompt"])}</div><div class="f"><b>Camera:</b> {e(p["cam"])} · <b>Lighting:</b> {e(p["light"])} · '
-             f'<b>Mood:</b> {e(p["mood"])}<br><b>Action:</b> {e(p["action"])}</div></div>')
+             f'<b>Mood:</b> {e(p["mood"])}<br><b>Action:</b> {e(p["action"])}'
+             + (f'<br><b>Voiceover:</b> {e(p["vo"])}' if p.get("vo") else '') + '</div></div>')
 h.append("</body></html>")
 tmp = tempfile.NamedTemporaryFile("w", suffix=".html", delete=False); tmp.write("".join(h)); tmp.close()
 js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{tmp.name}');

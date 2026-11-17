@@ -1,0 +1,298 @@
+1|city|W|epic, establishing|a calendar page reading 505 floating over the domes and walls of Constantinople at dawn|[awe, warm] Slow, grand opening. Let "Constantinople" land with weight. Small pause after the comma.
+2|city|W|epic|a sweeping view of the city on its hills between two seas|[proud, wondering] Lift slightly on "greatest city in the world." Unhurried.
+3|city|W|historical|a map inset of the eastern Roman Empire with the city glowing at its centre, crowds filling streets below|[informative, confident] Brisk documentary tone. Slight emphasis on "half a million."
+4|walls|W|imposing|the massive triple land walls of Constantinople with towers and a moat|[impressed] Steady pace, build quietly toward the next line.
+5|walls|M|imposing|a small enemy army bouncing off the walls, tiny catapult stones bouncing back|[dry, slightly amused] Deadpan delivery of "no army has ever broken through."
+6|harbour|W|cozy|a small room above a fish stall on a busy harbour, ships on the Golden Horn|[warm, intimate] Soften the voice. We are home now.
+7|harbour|M|cozy|the fish stall with baskets of fish, nets and gulls|[warm] Relaxed, conversational.
+8|harbour|C|comic|smell lines curling from a basket of old mackerel, a gull holding its nose|[playful, wry] Light comic beat on "yesterday's mackerel." Tiny pause before it.
+9|harbour|M|character intro|{FATHER} slapping a big fish onto the counter|[affectionate] Simple, fond.
+10|harbour|M|character intro|{FATHER} laughing loudly with a customer, three fingers raised|[warm, building] Slight rise toward "three things."
+11|harbour|C|comic|insets of a church, an emperor's crown and a green flag, the green flag much larger|[list rhythm] Even beats on each item, then a tiny lift on "the Greens."
+12|harbour|C|deadpan comic|{FATHER} hugging the green flag tightly|[deadpan] Flat and dry. Beat of silence after.
+13|city|W|curious|crowds in a busy forum, some wearing blue, some green|[intriguing] Lower the voice slightly. Draw the listener in.
+14|forum|M|curious|people in the forum with question marks floating over their heads, job tools in their hands|[conversational] Steady build through the list.
+15|forum|C|dramatic|a split frame: a blue banner on one side, a green banner on the other|[pointed] Slow down. Pause before "Blue or Green?" Ask it like a real question.
+16|hippodrome|W|epic|two chariots racing, one blue, one green|[energetic, explanatory] Clear and upbeat.
+17|hippodrome|M|escalating|insets of a tribal banner and a club badge|[building] Quick, punchy staccato on "Tribes. Clubs."
+18|forum|M|escalating|insets of a politician's podium and a gang in an alley|[building, darker] Slightly darker on "Street gangs."
+19|forum|W|tribal|a street divided in two: blue banners on one side, green banners on the other|[sweeping] Smooth rhythm through the list.
+20|harbour|M|generational|a family tree with green leaves and portraits of grandfather and father|[proud, steady] Fond tone on "Your grandfather was Green."
+21|harbour|M|warm|{FATHER} beaming in a doorway|[warm] Light, quick.
+22|harbour|M|joyful|{FATHER} wrapping {BABY} in a green cloth|[tender, joyful] Smile in the voice.
+23|harbour|W|joyful|{FATHER} holding {BABY} up at the window, the whole street cheering below|[joyful, proud] Open and bright.
+24|harbour|C|anticipation|close-up of {FATHER} taking a deep breath|[anticipation] Slow down. Pause before the quote.
+25|harbour|C|rallying|{FATHER} with a speech bubble reading GREEN TILL WE DIE|[chanted, proud] Deliver the refrain like a terrace chant, warm and loud but not shouted.
+26|harbour|C|comic|{MOTHER} rolling her eyes|[dry comic] Deadpan, slightly weary.
+27|harbour|C|comic|{MOTHER} sighing, mouthing the words|[resigned, amused] Soft, fond sigh in the voice.
+28|harbour|C|warm|{MOTHER} and {FATHER} together, speech bubble GREEN TILL WE DIE|[gentle, half-smiling] Softer than before. A family ritual.
+29|harbour|M|cute|{YOU4} chanting with his fists raised|[playful] Bright and quick.
+30|harbour|M|exciting|{FATHER} holding {YOU6}'s hand on the way to the races|[excited, building] Rising energy.
+31|harbour|C|nostalgic|close-up of {YOU6}'s wide-eyed face|[nostalgic, hushed] Slow. Let it breathe. Pause after.
+32|hippodrome|W|epic|the huge Hippodrome seen from the entrance, crowds pouring in|[awe] Big, wondering tone.
+33|hippodrome|W|epic|a long stone racetrack stretching into the distance|[awe] Steady descriptive pace.
+34|hippodrome|LA|epic|steep tiers of seats rising into the sky|[awe, rising] Lift the voice as the seats rise.
+35|hippodrome|W|epic|every seat packed with people, the number 100,000 floating above|[impressed] Emphasise "a hundred thousand."
+36|hippodrome|W|historical|the long central barrier running down the track|[explanatory] Clear tour-guide tone.
+37|hippodrome|M|historical|an ancient Egyptian obelisk standing on the barrier|[wondering] Slight pause before each treasure.
+38|hippodrome|M|historical|a bronze column of twisted snakes and bronze charioteer statues|[wondering] Even rhythm through the list.
+39|hippodrome|W|grand|the royal box at the end of the track, connected to the palace|[grand] Dignified.
+40|hippodrome|M|grand|an empty golden throne in the royal box|[grand, slightly hushed] Respectful hush on "the Emperor himself."
+41|hippodrome|W|loud|sound-effect lines exploding from the crowd|[excited] Louder, faster. "You've never heard anything like it."
+42|hippodrome|W|loud|the blue half of the crowd singing|[energetic] Keep the energy high.
+43|hippodrome|W|loud|the green half of the crowd singing|[energetic] Match the previous line.
+44|hippodrome|W|loud|blue and green sound lines clashing in the air|[competitive, playful] Push slightly faster.
+45|hippodrome|M|joyful|{FATHER} lifting {YOU6} onto his shoulders|[joyful, tender] Warmth and lift.
+46|hippodrome|W|thrilling|four chariots exploding from the starting gates|[thrilling] Fast, punchy, like a race commentator.
+47|hippodrome|M|thrilling|chariot wheels kicking up sand, four colour flags|[thrilling] Staccato on "Blue. Green. Red. White."
+48|hippodrome|W|thrilling|chariots racing around the barrier, the crowd on its feet|[breathless] Keep the pace up.
+49|hippodrome|M|tense|two chariots approaching the tight turn|[tense] Slow suddenly. Suspense.
+50|hippodrome|M|chaotic, non-graphic|two chariots crashing into splinters, drivers tumbling clear|[explosive] Punch "explode into splinters."
+51|hippodrome|W|loud|the crowd roaring, waves of sound lines|[booming] Big, resonant.
+52|hippodrome|M|triumphant|the green chariot crossing the finish line|[triumphant] Short, joyous. Let it ring.
+53|hippodrome|M|joyful|{FATHER} tossing {YOU6} into the air, strangers hugging|[ecstatic] Fast, joyful.
+54|hippodrome|C|comic|a toothless old man kissing {YOU6}'s forehead|[comic, warm] Light laugh in the voice.
+55|hippodrome|C|joyful|{YOU6}'s face glowing|[wondering] Slower. Real emotion.
+56|hippodrome|W|belonging|the green crowd swallowing {YOU6} and {FATHER} in celebration|[moved] Soft and sincere.
+57|hippodrome|C|ominous|{YOU6} raising his fists, a faint shadow behind him|[proud, with a hint of foreshadowing] Deliver proudly, but let "Till you die" fall slightly darker.
+58|home|M|tender|{FATHER} carving a little green wooden chariot by lamplight|[tender, cozy] Quiet, bedtime warmth.
+59|home|C|tender|close-up of the wooden chariot with four wobbly horses|[affectionate] Small smile on "wobbly."
+60|home|M|comic|{YOU6} racing the toy chariot across the floor|[playful] Light and quick.
+61|home|M|comic|{MOTHER} sliding the chariot under the bed, {YOU6} asleep|[gently comic] Dry, soft.
+62|home|M|comic|{YOU6} pulling the chariot out at dawn, racing it again|[playful] Bright, cheeky.
+63|hippodrome|M|heroic|{PORPHYRIUS} driving a chariot to victory|[admiring] Heroic lift on "Porphyrius."
+64|hippodrome|C|heroic|{PORPHYRIUS} holding a victory wreath|[admiring] Clear, proud.
+65|hippodrome|M|heroic|bronze statues of {PORPHYRIUS} on the barrier|[impressed] Slight emphasis on "solid bronze."
+66|hippodrome|C|comic|{PORPHYRIUS} posing beside his own statue|[wry] Dry aside on "while he's still alive."
+67|harbour|C|dreamy|{YOU7} imagining himself as a charioteer in a thought bubble|[dreamy] Soft and hopeful.
+68|harbour|C|comic|{FATHER} laughing and pinching his nose|[comic] Warm laugh in the voice.
+69|harbour|C|comic|smell lines rising from {YOU7}|[comic, deadpan] Dry punchline.
+70|harbour|M|montage|a calendar flipping years over the harbour|[nostalgic, flowing] Smooth montage pace.
+71|harbour|M|montage|{YOU16} reciting horse names from a list|[enthusiastic] Quick, eager.
+72|harbour|M|montage|{YOU16} arguing with dock boys, wild gestures|[lively] Playful energy.
+73|harbour|M|montage|{YOU16} gutting fish and dropping coins in a jar|[steady] Matter-of-fact.
+74|hippodrome|M|montage|{YOU16} handing his coins over at the Hippodrome gate|[cheerful] Light.
+75|bakery|W|character intro|a Blue bakery across the alley with a blue sign|[intriguing] Slight pause before "Leon."
+76|bakery|M|character intro|{LEON16} carrying a tray of bread|[warm] Friendly introduction.
+77|bakery|C|character intro|close-up of {LEON16}'s flour-dusted eyebrows|[affectionate, comic] Smile on "flour permanently stuck."
+78|bakery|C|comic|{LEON16} waving a blue flag|[mock-tragic] Deadpan "unfortunately." Pause. Then "A fanatical one."
+79|alley|M|flashback|{YOU7} and {LEON7} facing off in an alley|[nostalgic, comic] Storyteller warmth.
+80|alley|M|comic|{YOU7} and {LEON7} in a dust-cloud scuffle, arguing about charioteer hair|[comic] Light and fast.
+81|alley|C|comic|{YOU7} sitting in the dust with a dazed face|[deadpan] Flat. "You lose."
+82|alley|M|sweet|{LEON7} handing {YOU7} a bread roll|[warm] Gentle.
+83|alley|M|sweet|{YOU7} and {LEON7} sitting side by side eating bread|[warm, sincere] Slow down. Let it land.
+84|harbour|M|comic|neighbours shaking their heads at the two boys|[wry] Conversational shrug.
+85|harbour|C|comic|{FATHER} pointing at {LEON16} with a frown|[comic, gruff] Lightly gruff tone.
+86|bakery|C|comic|{LEONFATHER} pointing at {YOU16} with a frown|[comic] Mirror the previous line.
+87|street|M|warm|{YOU16} and {LEON16} walking side by side, a calendar showing ten years|[nostalgic, warm] Flowing rhythm.
+88|street|M|comic|{YOU16} and {LEON16} arguing as they walk to the Hippodrome|[lively] Quick and playful.
+89|hippodrome|M|comic|the two boys splitting at the gate toward blue and green sections|[light] Easy pace.
+90|street|M|comic|the two boys arguing all the way home at dusk|[playful] Bouncy.
+91|tavern|M|comic|a dinner table with a bill being slid across|[wry] Short and dry.
+92|tavern|C|comic|{YOU16} paying the bill, {LEON16} grinning|[self-deprecating] Comic sigh in the voice.
+93|alley|M|tense|{YOU16} walking home alone at night|[shift to tension] Lower and slower.
+94|alley|W|tense|a dark alley near the harbour at night|[tense] Quiet, suspenseful.
+95|alley|M|tense|three Blue thugs blocking the alley in front of {YOU16}|[tense] Tight, slightly faster.
+96|alley|C|tense|a thug pointing at {YOU16}'s green scarf|[threatening] Clipped.
+97|alley|C|tense|a thug tapping a club against his stick arm|[menacing] Slow, low.
+98|alley|M|relief|{LEON16} stepping out of the shadows|[relief, building] Release the tension slightly.
+99|alley|M|comic|{LEON16} throwing a stick arm around {YOU16}'s shoulders|[playful] Light, confident.
+100|alley|C|comic|{LEON16} miming colour blindness and a mother dressing her son|[comic] Big comic timing.
+101|alley|M|comic|the three thugs looking at each other, then at {LEON16}|[comic pause] Slow beats.
+102|alley|M|comic|the thugs shrugging and walking away|[deadpan] Flat, dry.
+103|harbour|C|comic|{YOU16} turning away red-faced, a calendar showing one week|[comic, embarrassed] Sheepish tone.
+104|tavern|M|warm|{YOU16} sliding a plate of dinner to {LEON16}|[warm] Gentle punchline.
+105|harbour|M|transition|{YOU} standing taller, a calendar page reading age 18|[shift, serious] Slower, darker.
+106|street|C|ominous|a green chariot banner beside a knife|[ominous] Let "anymore" hang.
+107|street|W|ominous|green and blue gangs strutting through the city|[ominous, informative] Steady.
+108|street|M|swagger|a group of partisans posing together|[documentary] Clear.
+109|street|C|historical|close-up of a partisan with the front of his head shaved and long hair at the back|[documentary, slightly wry] Matter-of-fact.
+110|street|C|historical|a partisan stroking a wild beard|[wry] Dry.
+111|street|C|historical|giant puffed sleeves tight at the wrist|[comic, wry] Slight smile on "enormous."
+112|street|W|swagger|a gang of partisans swaggering down the street singing|[swagger] Rhythmic, a little cocky.
+113|street|M|proud|{YOUPART} joining a green gang, the others cheering|[proud] Confident.
+114|street|C|proud|{YOUPART} admiring his new haircut and green puffed sleeves in a puddle|[proud, comic] Light swagger.
+115|street|M|power|people stepping aside as {YOUPART} and his gang pass|[power] Slow, smug.
+116|street|M|power|a shopkeeper handing {YOUPART} free bread|[smug] Cocky little beat on "Nobody dares."
+117|harbour|M|comic|{LEONPART} arriving with a blue haircut and huge blue sleeves|[comic] Playful reveal.
+118|harbour|M|comic|{LEONPART} wedged in the fish stall doorway by his sleeves|[comic] Building laughter.
+119|harbour|M|comic|{LEONPART} squeezing sideways through the door|[comic] Keep it light.
+120|harbour|M|joyful|{YOUPART} and {LEONPART} laughing until they cry|[joyful] Warm, real laughter in the voice.
+121|street|W|ominous|the city at night, torches in the streets|[ominous shift] Sudden drop. Slow and quiet.
+122|street|M|tense|two gangs shouting across a street corner|[tense] Steady.
+123|street|M|escalating|gangs trading insults, speech bubbles of symbols|[escalating] Build pace through the list.
+124|street|M|escalating|rocks flying, then sticks raised in silhouette|[escalating] Staccato. "Then rocks. Then sticks."
+125|street|C|dread|close-up of a knife glinting in a partisan's sleeve|[dread] Slow and low. Pause before "a knife."
+126|street|M|grim|{YOUPART} watching a partisan rob a passer-by|[grim] Serious, documentary.
+127|street|M|grim|a partisan smashing a shop shutter|[grim] Flat.
+128|street|M|grim|partisans hiding weapons in their sleeves at night|[grim, informative] Steady.
+129|street|M|grim|a nervous city watchman backing away|[wry, grim] Dry irony.
+130|palace|C|grim|an inset of a partisan shaking hands with a nobleman|[cynical] Measured.
+131|palace|C|cynical|an inset of a staircase rising to the palace|[cynical] Slow build.
+132|palace|C|cynical|a blue flag flying from the top of the palace|[cynical, pointed] Land "the Blues" firmly.
+133|spice|W|tense|a spice merchant's shop at night, the gang breaking in|[guilty, low] Quiet, uneasy.
+134|spice|M|guilty|{YOUPART} standing guard outside the shop door|[uneasy] Hesitant.
+135|spice|C|guilty|{YOUPART} looking away, a halo crossed out above his head|[self-justifying] Slight defensiveness.
+136|spice|C|guilty|sound lines of pleading coming from inside the shop|[pained] Softer.
+137|spice|C|guilty|{YOUPART} staring at the ground|[ashamed] Slow, quiet.
+138|home|M|guilty|{YOUPART} lying awake in the dark, {FATHER} snoring nearby|[ashamed, intimate] Near-whisper.
+139|home|C|guilty|{YOUPART}'s wide-awake eyes in the dark|[ashamed] Let it trail off.
+140|palace|M|historical|{JUSTINIAN} being crowned, a calendar reading 527|[documentary] Clear, even.
+141|palace|M|historical|{JUSTINIAN} at a desk covered in plans, a small blue ribbon on his robe|[informative] Brisk list rhythm.
+142|palace|M|historical|{THEODORA} at {JUSTINIAN}'s side|[intriguing] Slight interest in the voice.
+143|hippodrome|M|flashback|a young {THEODORA} near the Hippodrome stage|[storytelling] Warm.
+144|hippodrome|M|flashback|green faction leaders turning their backs on a young {THEODORA}'s family|[sombre] Lower.
+145|palace|C|grudge|close-up of {THEODORA}'s cold, narrowed eyes|[pointed] Firm on "never forgiven."
+146|street|M|unjust|a judge turning his back on a Blue partisan|[unjust] Measured, bitter.
+147|street|C|unjust|the judge covering his eyes|[bitter] Dry.
+148|street|M|unjust, non-graphic|a Green partisan led away by guards toward a gallows silhouette|[cold] Flat. Let "he hangs" land heavily.
+149|harbour|M|tense|{YOUPART} and {LEONPART} sitting in silence|[quiet, knowing] Short, soft pauses between sentences.
+150|harbour|W|hardship|the harbour looking poorer and greyer|[sombre] Slower.
+151|palace|M|historical|{JUSTINIAN} pointing at a war map of Persia|[informative] Steady.
+152|palace|M|historical|{JOHN} counting coins greedily|[ominous] Slight edge on "ruthless."
+153|harbour|M|hardship|tax collectors carrying away sacks of coins|[resentful] Measured.
+154|harbour|C|hardship|{FATHERAGED} handing over coins at his stall|[resentful] Quiet.
+155|harbour|C|hardship|an inset bar chart: TAX doubling|[resentful] Emphasise "twice."
+156|bakery|M|hardship|{LEONFATHER} sadly letting two bakers go|[sad] Soft.
+157|street|W|anger|a crowd of hungry, angry people in the forum|[building tension] Rising.
+158|street|W|anger|blue and green fists raised together|[ominous] Slow.
+159|street|M|anger|blue and green partisans glaring at the palace together|[ominous] Let "the same thing" hang.
+160|harbour|M|bittersweet|{FATHERAGED} rubbing his aching back|[tender, sad] Gentle and slow.
+161|harbour|C|bittersweet|close-up of {FATHERAGED}'s stooped shoulders|[tender] Wistful.
+162|hippodrome|M|bittersweet|{FATHERAGED} at a race, still cheering|[fond] Soft smile.
+163|hippodrome|M|bittersweet|{FATHERAGED} singing along|[fond] Warm.
+164|home|M|tense|{FATHERAGED} looking at {YOUPART}'s shaved head|[quiet, heavy] Slow.
+165|home|C|tense|close-up of a bruise on {YOUPART}'s cheek|[heavy] Low.
+166|home|C|heartfelt|{FATHERAGED} speaking quietly|[heartfelt] Gentle, sad.
+167|home|C|heartfelt|an inset of a happy horse at full gallop|[heartfelt] "Not this" soft and firm.
+168|home|C|defiant|{YOUPART} turning away, arms crossed|[dismissive] Slightly sharp.
+169|harbour|M|sad|{FATHERAGED} nodding and gutting fish in silence|[sad] Quiet, let it fade.
+170|city|W|ominous|a calendar page reading JANUARY 532, snow on the city|[ominous] Slow, heavy.
+171|city|C|ominous|{YOUPART} looking up at a stormy sky|[dread] Dark, measured.
+172|street|M|historical|guards arresting men in blue and green|[documentary] Clear.
+173|street|M|historical|the city prefect pointing at a line of prisoners|[documentary] Measured.
+174|street|M|grim|a judge reading a sentence, seven figures in a row|[grim] Steady and serious.
+175|gallows|W|tense|a big crowd gathered in front of the gallows|[tense] Hushed.
+176|gallows|W|grim, non-graphic|the gallows seen from far away, a crowd hushed|[grim] Low and flat.
+177|gallows|M|shocking|a rope snapping, two figures dropping safely to the ground|[shock] Rising. "Not once, but twice."
+178|gallows|C|shocking|a man in a blue tunic on the ground, dazed but alive|[amazed] Lifted.
+179|gallows|C|shocking|a man in a green tunic beside him, also alive|[amazed] Hold the surprise.
+180|gallows|W|uproar|the crowd cheering and pointing at the sky|[excited] Bigger, louder.
+181|gallows|M|urgent|{MONKS} rushing in and grabbing the two survivors|[urgent] Fast.
+182|gallows|M|urgent|a small boat rowing the two men across the water toward a church|[urgent] Keep the pace.
+183|church|W|standoff|soldiers surrounding the church of Saint Lawrence|[tense] Slow down. "Nobody moves."
+184|hippodrome|W|tense|the Hippodrome filling on January 13th|[tense] Measured build.
+185|hippodrome|M|tense|{JUSTINIAN} sitting down in the royal box|[cold] Dignified.
+186|hippodrome|W|tense|the whole crowd pointing at the royal box|[building] Rising tension.
+187|hippodrome|W|pleading|the crowd chanting with speech bubbles reading MERCY|[pleading, chanted] Two beats like a chant: "Mercy. Mercy..."
+188|hippodrome|C|cold|{JUSTINIAN} staring ahead, silent|[cold] Flat and short.
+189|hippodrome|W|escalating|the chanting growing, sound lines bigger with each race|[escalating] Steadily louder.
+190|hippodrome|C|historic|a race counter reading 22|[suspense] Slow, weighty.
+191|hippodrome|W|historic|the whole Hippodrome holding its breath|[suspense] Hushed.
+192|hippodrome|W|historic|blue and green sections rising together|[awe] Slowly building.
+193|hippodrome|W|historic|one big speech bubble rising from the whole crowd|[hushed anticipation] Very quiet. "One word. Over and over."
+194|hippodrome|W|explosive|a giant speech bubble reading NIKA filling the sky|[chanted, explosive] Deliver "Nika" as a powerful chant, then let it echo.
+195|hippodrome|C|explanatory|an inset of a winner's wreath|[explanatory] Clear and simple.
+196|hippodrome|M|explanatory|a fan cheering on a charioteer|[light] Brief.
+197|hippodrome|W|ominous|a wall of fists pointed at the royal box|[ominous] Rising intensity.
+198|hippodrome|W|unity|blue and green colours merging into one wave|[awe] Big and unified.
+199|hippodrome|M|joyful|{LEONPART} standing on his seat across the stands|[delighted] Warmer.
+200|hippodrome|C|joyful|{LEONPART} and {YOUPART} screaming the same word across the stands|[joyful] Excited.
+201|hippodrome|C|joyful|{YOUPART} grinning in disbelief|[moved] Sincere, slightly emotional.
+202|hippodrome|C|euphoric|{YOUPART} with arms raised|[euphoric] Short and bright.
+203|street|W|chaotic|the crowd flooding out of the Hippodrome gates|[fast, chaotic] Quick.
+204|street|M|chaotic|prisoners walking out of a broken prison gate|[fast] Punchy.
+205|street|W|chaotic|flames rising from the prefect's headquarters|[intense] Strong.
+206|street|M|euphoric|{YOUPART} running with a torch, laughing|[euphoric] Breathless energy.
+207|street|M|euphoric|{YOUPART} and {LEONPART} slapping each other on the back|[joyful] Bright.
+208|street|C|euphoric|{YOUPART}'s glowing face lit by torchlight|[intoxicated] Rising.
+209|street|C|euphoric|{YOUPART} shaking a fist toward the palace|[defiant] Confident.
+210|fire|W|ominous|fire leaping between rooftops|[sudden drop] Stop. Quiet. Heavy.
+211|fire|W|ominous|wind blowing sparks across the city|[ominous] Slow.
+212|fire|W|devastating|half the city centre burning|[devastating] Grave.
+213|fire|M|devastating|the Senate house, baths, houses and shops burning|[list, grave] Slow, separate beats.
+214|fire|W|devastating|the old Hagia Sophia in flames|[devastating] Slow.
+215|fire|W|devastating|the church collapsing into flames and smoke|[grieving] Let "burns to the ground" fall.
+216|fire|M|tragic|families fleeing with their belongings|[sad] Gentle.
+217|fire|M|tragic|{YOUPART} walking past a family sitting in the street|[subdued] Quiet.
+218|fire|W|tragic|the smoking ruins of a house|[subdued] Slow.
+219|fire|C|tragic|a little girl crying|[heartbreaking] Very soft.
+220|fire|C|tragic|the mother glaring at {YOUPART}'s green sleeves|[cold, guilty] Let "pure hatred" hit.
+221|fire|C|guilty|{YOUPART} falling silent|[hollow] Short. Pause after.
+222|fire|C|guilty|{LEONPART} glancing at {YOUPART} with concern|[quiet] Soft. "You're not." very gentle.
+223|rooftop|W|melancholy|{YOUPART} and {LEONPART} climbing onto the fish stall roof at night|[melancholy] Slow and quiet.
+224|rooftop|W|melancholy|the two sitting on the roof watching the city burn|[melancholy] Hushed.
+225|rooftop|W|melancholy|an orange sky over the palace|[haunting] Slow.
+226|rooftop|M|melancholy|sound lines of distant crowds and falling roofs|[haunting] Low.
+227|rooftop|W|melancholy|a building collapsing in the distance|[haunting] Grave.
+228|rooftop|C|sad|{LEONPART} silent, no smile|[sad] Quiet.
+229|rooftop|M|sad|a faint flashback of the two boys eating bread|[nostalgic] Soft.
+230|rooftop|C|sad|{YOUPART} and {LEONPART} sitting in silence|[sad] Let it trail into silence.
+231|harbour|M|tense|{FATHERAGED} calling up from the street|[worried] Gentle urgency.
+232|harbour|C|pleading|{FATHERAGED}'s worried face looking up|[pleading] Soft but firm.
+233|harbour|C|pleading|{FATHERAGED} shaking his head|[heartfelt] Slow and heavy on "isn't a race anymore."
+234|rooftop|C|defiant|{YOUPART} waving down at him|[falsely reassuring] Light, a little too casual.
+235|harbour|C|heartbreaking|{FATHERAGED} looking up silently|[heartbreaking] Long pause.
+236|harbour|M|heartbreaking|{FATHERAGED} going back inside, closing the door|[heartbreaking] Very soft.
+237|city|W|chaotic|a calendar showing five days, smoke over the city|[documentary] Steady.
+238|palace|M|historical|{JUSTINIAN} dismissing {JOHN}|[documentary] Clear.
+239|palace|M|historical|ministers walking out of the palace|[documentary] Even.
+240|hippodrome|W|historical|the crowd shouting for a new emperor|[ominous] Rising.
+241|street|M|tense|rioters searching the city|[tense] Quick.
+242|hypatius_house|M|historical|{HYPATIUS} hiding behind a curtain in his house|[wry] Slight dry irony.
+243|hypatius_house|C|comic, tense|{HYPATIUS} peeking out nervously|[wry] Dry.
+244|street|M|chaotic|the crowd carrying {HYPATIUS} to the Hippodrome|[chaotic] Fast.
+245|hippodrome|M|historical|{HYPATIUS} crowned with a golden chain in the royal box|[grand, ironic] Grand but hollow.
+246|hippodrome|W|historical|tens of thousands cheering|[loud] Big.
+247|hippodrome|C|uneasy|{YOUPART} cheering half-heartedly|[uneasy] Flat, uncertain.
+248|hippodrome|C|ominous|close-up of {HYPATIUS}'s terrified face|[ominous] Quiet.
+249|hippodrome|C|ominous|{HYPATIUS} glancing at the palace walls|[foreboding] Slow, heavy.
+250|palace|W|tense|inside the palace at night, torches burning|[secretive] Hushed narrator aside.
+251|palace|M|tense|{JUSTINIAN} pacing, servants packing chests|[tense] Measured.
+252|harbour|W|tense|a ship waiting at the palace harbour|[tense] Quiet.
+253|palace|M|tense|advisers bowing their heads in defeat|[defeated] Low.
+254|palace|M|dramatic|{THEODORA} rising to her feet|[dramatic] Build.
+255|palace|C|dramatic|{THEODORA} speaking with fire|[powerful] Strong, steady.
+256|palace|C|dramatic|{THEODORA} refusing a cloak offered for travel|[powerful] Firm and proud.
+257|palace|C|dramatic|{THEODORA} pointing at the floor, unmoving|[powerful] Slow and resolute on "She will not run."
+258|palace|C|resolved|{JUSTINIAN} setting down his travel bag|[decisive] Short and firm.
+259|palace|C|ominous|{JUSTINIAN} and his advisers bending over a map of the Hippodrome|[ominous] Low and cold.
+260|hippodrome|W|ominous|the Hippodrome packed with the crowd in the afternoon|[ominous] Quiet build.
+261|hippodrome|M|ominous|{NARSES} slipping into the blue section|[secretive] Hushed.
+262|hippodrome|M|ominous|{NARSES} opening bags of gold for the Blue leaders|[secretive, cynical] Low.
+263|hippodrome|C|ominous|{NARSES} whispering, a blue ribbon held up|[persuasive] Smooth.
+264|hippodrome|C|ominous|{NARSES} pointing at the green section|[manipulative] Slow, poisonous.
+265|hippodrome|M|dread|blue fans standing up one by one|[dread] Slow build. "One by one."
+266|hippodrome|W|dread|thousands of blue fans leaving, empty seats appearing|[dread] Growing. "They're leaving."
+267|hippodrome|M|urgent|{LEONPART} pushing through the crowd and grabbing {YOUPART}'s arm|[urgent] Faster, tight.
+268|hippodrome|C|urgent|close-up of {LEONPART}'s frightened face|[fearful] Quiet emphasis on "never scared."
+269|hippodrome|C|urgent|{LEONPART} pulling on {YOUPART}'s arm|[pleading] Urgent, breathless.
+270|hippodrome|C|urgent|{LEONPART} pleading|[pleading] Low and serious.
+271|hippodrome|C|tragic|{YOUPART} saying GREEN TILL WE DIE|[quiet, stubborn] Do not chant it. Say it softly and stubbornly. Tragic.
+272|hippodrome|C|tragic|{LEONPART} staring at {YOUPART}|[heartbreaking] Long pause.
+273|hippodrome|C|tragic|{LEONPART} letting go of {YOUPART}'s arm|[heartbreaking] Very soft.
+274|hippodrome|W|tragic|{LEONPART} vanishing into the blue crowd|[heartbreaking] Let it fade.
+275|hippodrome|M|ominous|{YOUPART} turning back toward the track|[hollow] Quiet.
+276|hippodrome|W|ominous|the great Hippodrome gates slamming shut|[sudden] Hard and short on "slam shut."
+277|hippodrome|M|dread|confused faces in the crowd|[dread] Slow. Pause before "Then you hear it."
+278|hippodrome|W|dread|the shadows of soldiers marching through the entrances|[dread] Low and steady.
+279|hippodrome|W|dread|soldiers pouring through every entrance in silhouette|[dread] Heavy.
+280|hippodrome|M|dread|{BELISARIUS} leading the soldiers|[cold] Firm on "Belisarius."
+281|hippodrome|W|despair|sealed gates and high walls|[despair] Short, clipped sentences.
+282|hippodrome|LA|despair|towering walls looking up from the sand|[despair] Slow.
+283|hippodrome|W|despair|a ghostly image of the cheering crowd from an hour before|[grief] Soft.
+284|hippodrome|W|horror, non-graphic|dust and chaos in silhouette, no detail|[horror, restrained] Quiet. Let the silence after carry it.
+285|hippodrome|C|horror, non-graphic|blurred shapes pushing in a cloud of dust|[fragmented] Broken rhythm. Pauses between phrases.
+286|hippodrome|C|haunting|close-up of sand under stick feet|[haunting] Slow.
+287|hippodrome|C|haunting|a faint golden memory of the Green chariot crossing the line|[haunting, tender] Soft.
+288|hippodrome|C|haunting|the memory of {FATHER} with {YOU6} on his shoulders|[heartbreaking] Very gentle.
+289|hippodrome|C|heartbreaking|the golden memory fading into the dust|[heartbreaking] Whisper-soft.
+290|hippodrome|W|final|the empty Hippodrome at dusk, a single green scarf on the sand|[final] Slow and quiet. Full stop.
+291|hippodrome|W|silent|the Hippodrome in total silence at evening|[silent] Barely above a whisper. Long pause after.
+292|scriptorium|M|historical|{PROCOPIUS} writing by lamplight|[documentary, sombre] Calm.
+293|scriptorium|C|historical|close-up of a page with the number 30,000|[sombre] Slow and clear.
+294|hippodrome|W|devastating|thirty thousand small grey figures filling the stands|[devastating] Slow. Pause between the two sentences.
+295|palace|M|historical|a calendar reading the next day, a sheet-covered shape near the palace|[cold] Flat and factual.
+296|palace|M|historical|{JUSTINIAN} on his throne, calendar years flipping|[ironic] Measured, slightly bitter.
+297|hippodrome|W|bittersweet|chariots racing again in a full Hippodrome|[bittersweet] Lighter but hollow.
+298|hippodrome|W|bittersweet|blue and green fans cheering across the centuries, a single green scarf on an empty seat|[bittersweet, final] Slow, reflective close. Let the last line hang.

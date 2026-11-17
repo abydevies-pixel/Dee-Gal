@@ -1,0 +1,2982 @@
+[
+ {
+  "beat": 1,
+  "start": 0.0,
+  "dur": 4.167,
+  "text": "The year is 505, and you are born in Constantinople,",
+  "motion": "push",
+  "scene": "city",
+  "action": "a calendar page reading 505 floating over the domes and walls of Constantinople at dawn|[awe, warm] Slow, grand opening. Let \"Constantinople\" land with weight. Small pause after the comma.",
+  "image": "images/beat_001.png"
+ },
+ {
+  "beat": 2,
+  "start": 4.167,
+  "dur": 2.5,
+  "text": "the greatest city in the world.",
+  "motion": "pan",
+  "scene": "city",
+  "action": "a sweeping view of the city on its hills between two seas|[proud, wondering] Lift slightly on \"greatest city in the world.\" Unhurried.",
+  "image": "images/beat_002.png"
+ },
+ {
+  "beat": 3,
+  "start": 6.667,
+  "dur": 5.0,
+  "text": "Capital of the Roman Empire in the east. Half a million people,",
+  "motion": "push",
+  "scene": "city",
+  "action": "a map inset of the eastern Roman Empire with the city glowing at its centre, crowds filling streets below|[informative, confident] Brisk documentary tone. Slight emphasis on \"half a million.\"",
+  "image": "images/beat_003.png"
+ },
+ {
+  "beat": 4,
+  "start": 11.667,
+  "dur": 3.333,
+  "text": "packed between the sea and walls so thick",
+  "motion": "pull",
+  "scene": "walls",
+  "action": "the massive triple land walls of Constantinople with towers and a moat|[impressed] Steady pace, build quietly toward the next line.",
+  "image": "images/beat_004.png"
+ },
+ {
+  "beat": 5,
+  "start": 15.0,
+  "dur": 2.917,
+  "text": "no army has ever broken through them.",
+  "motion": "push",
+  "scene": "walls",
+  "action": "a small enemy army bouncing off the walls, tiny catapult stones bouncing back|[dry, slightly amused] Deadpan delivery of \"no army has ever broken through.\"",
+  "image": "images/beat_005.png"
+ },
+ {
+  "beat": 6,
+  "start": 17.917,
+  "dur": 3.75,
+  "text": "Your home is a small room above a fish",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "a small room above a fish stall on a busy harbour, ships on the Golden Horn|[warm, intimate] Soften the voice. We are home now.",
+  "image": "images/beat_006.png"
+ },
+ {
+  "beat": 7,
+  "start": 21.667,
+  "dur": 3.333,
+  "text": "stall near the harbour on the Golden Horn,",
+  "motion": "pan",
+  "scene": "harbour",
+  "action": "the fish stall with baskets of fish, nets and gulls|[warm] Relaxed, conversational.",
+  "image": "images/beat_007.png"
+ },
+ {
+  "beat": 8,
+  "start": 25.0,
+  "dur": 3.75,
+  "text": "and it smells of salt, seaweed, and yesterday\u2019s mackerel.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "smell lines curling from a basket of old mackerel, a gull holding its nose|[playful, wry] Light comic beat on \"yesterday's mackerel.\" Tiny pause before it.",
+  "image": "images/beat_008.png"
+ },
+ {
+  "beat": 9,
+  "start": 28.75,
+  "dur": 1.667,
+  "text": "Your father sells fish.",
+  "motion": "pull",
+  "scene": "harbour",
+  "action": "{FATHER} slapping a big fish onto the counter|[affectionate] Simple, fond.",
+  "image": "images/beat_009.png"
+ },
+ {
+  "beat": 10,
+  "start": 30.417,
+  "dur": 5.0,
+  "text": "He is a loud, cheerful, broad-shouldered man who believes in three things.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHER} laughing loudly with a customer, three fingers raised|[warm, building] Slight rise toward \"three things.\"",
+  "image": "images/beat_010.png"
+ },
+ {
+  "beat": 11,
+  "start": 35.417,
+  "dur": 2.5,
+  "text": "God, the Emperor, and the Greens.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "insets of a church, an emperor's crown and a green flag, the green flag much larger|[list rhythm] Even beats on each item, then a tiny lift on \"the Greens.\"",
+  "image": "images/beat_011.png"
+ },
+ {
+  "beat": 12,
+  "start": 37.917,
+  "dur": 1.25,
+  "text": "Mostly the Greens.",
+  "motion": "fade",
+  "scene": "harbour",
+  "action": "{FATHER} hugging the green flag tightly|[deadpan] Flat and dry. Beat of silence after.",
+  "image": "images/beat_012.png"
+ },
+ {
+  "beat": 13,
+  "start": 39.167,
+  "dur": 1.25,
+  "text": "Because in Constantinople,",
+  "motion": "push",
+  "scene": "city",
+  "action": "crowds in a busy forum, some wearing blue, some green|[intriguing] Lower the voice slightly. Draw the listener in.",
+  "image": "images/beat_013.png"
+ },
+ {
+  "beat": 14,
+  "start": 40.417,
+  "dur": 4.167,
+  "text": "the most important question about any person isn\u2019t their job,",
+  "motion": "pull",
+  "scene": "forum",
+  "action": "people in the forum with question marks floating over their heads, job tools in their hands|[conversational] Steady build through the list.",
+  "image": "images/beat_014.png"
+ },
+ {
+  "beat": 15,
+  "start": 44.584,
+  "dur": 5.0,
+  "text": "or their family, or even their religion. It\u2019s this. Blue or Green?",
+  "motion": "push",
+  "scene": "forum",
+  "action": "a split frame: a blue banner on one side, a green banner on the other|[pointed] Slow down. Pause before \"Blue or Green?\" Ask it like a real question.",
+  "image": "images/beat_015.png"
+ },
+ {
+  "beat": 16,
+  "start": 49.584,
+  "dur": 5.0,
+  "text": "The Blues and the Greens are the city\u2019s two great chariot-racing teams.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "two chariots racing, one blue, one green|[energetic, explanatory] Clear and upbeat.",
+  "image": "images/beat_016.png"
+ },
+ {
+  "beat": 17,
+  "start": 54.584,
+  "dur": 4.583,
+  "text": "But calling them teams doesn\u2019t come close. They are tribes. Clubs.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "insets of a tribal banner and a club badge|[building] Quick, punchy staccato on \"Tribes. Clubs.\"",
+  "image": "images/beat_017.png"
+ },
+ {
+  "beat": 18,
+  "start": 59.167,
+  "dur": 1.667,
+  "text": "Political parties. Street gangs.",
+  "motion": "push",
+  "scene": "forum",
+  "action": "insets of a politician's podium and a gang in an alley|[building, darker] Slightly darker on \"Street gangs.\"",
+  "image": "images/beat_018.png"
+ },
+ {
+  "beat": 19,
+  "start": 60.834,
+  "dur": 3.75,
+  "text": "Every neighbourhood, every guild, every family picks a side,",
+  "motion": "pull",
+  "scene": "forum",
+  "action": "a street divided in two: blue banners on one side, green banners on the other|[sweeping] Smooth rhythm through the list.",
+  "image": "images/beat_019.png"
+ },
+ {
+  "beat": 20,
+  "start": 64.584,
+  "dur": 4.583,
+  "text": "and they stay on it for generations. Your grandfather was Green.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "a family tree with green leaves and portraits of grandfather and father|[proud, steady] Fond tone on \"Your grandfather was Green.\"",
+  "image": "images/beat_020.png"
+ },
+ {
+  "beat": 21,
+  "start": 69.167,
+  "dur": 3.333,
+  "text": "Your father is Green. The day you\u2019re born,",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHER} beaming in a doorway|[warm] Light, quick.",
+  "image": "images/beat_021.png"
+ },
+ {
+  "beat": 22,
+  "start": 72.5,
+  "dur": 4.583,
+  "text": "your father wraps you in a green cloth and holds you",
+  "motion": "pan",
+  "scene": "harbour",
+  "action": "{FATHER} wrapping {BABY} in a green cloth|[tender, joyful] Smile in the voice.",
+  "image": "images/beat_022.png"
+ },
+ {
+  "beat": 23,
+  "start": 77.083,
+  "dur": 4.167,
+  "text": "up to the window so the whole street can see.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHER} holding {BABY} up at the window, the whole street cheering below|[joyful, proud] Open and bright.",
+  "image": "images/beat_023.png"
+ },
+ {
+  "beat": 24,
+  "start": 81.25,
+  "dur": 5.0,
+  "text": "Then he says the words you\u2019ll hear every day of your life.",
+  "motion": "pull",
+  "scene": "harbour",
+  "action": "close-up of {FATHER} taking a deep breath|[anticipation] Slow down. Pause before the quote.",
+  "image": "images/beat_024.png"
+ },
+ {
+  "beat": 25,
+  "start": 86.25,
+  "dur": 1.667,
+  "text": "\u201cGreen till we die\u201d.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHER} with a speech bubble reading GREEN TILL WE DIE|[chanted, proud] Deliver the refrain like a terrace chant, warm and loud but not shouted.",
+  "image": "images/beat_025.png"
+ },
+ {
+  "beat": 26,
+  "start": 87.917,
+  "dur": 4.583,
+  "text": "Your mother rolls her eyes. She\u2019s heard it a thousand times.",
+  "motion": "fade",
+  "scene": "harbour",
+  "action": "{MOTHER} rolling her eyes|[dry comic] Deadpan, slightly weary.",
+  "image": "images/beat_026.png"
+ },
+ {
+  "beat": 27,
+  "start": 92.5,
+  "dur": 1.667,
+  "text": "She says it anyway.",
+  "motion": "pan",
+  "scene": "harbour",
+  "action": "{MOTHER} sighing, mouthing the words|[resigned, amused] Soft, fond sigh in the voice.",
+  "image": "images/beat_027.png"
+ },
+ {
+  "beat": 28,
+  "start": 94.167,
+  "dur": 1.667,
+  "text": "\u201cGreen till we die\u201d.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{MOTHER} and {FATHER} together, speech bubble GREEN TILL WE DIE|[gentle, half-smiling] Softer than before. A family ritual.",
+  "image": "images/beat_028.png"
+ },
+ {
+  "beat": 29,
+  "start": 95.834,
+  "dur": 4.583,
+  "text": "By age 4, you can chant every Green song by heart.",
+  "motion": "pull",
+  "scene": "harbour",
+  "action": "{YOU4} chanting with his fists raised|[playful] Bright and quick.",
+  "image": "images/beat_029.png"
+ },
+ {
+  "beat": 30,
+  "start": 100.417,
+  "dur": 4.583,
+  "text": "By age 6, your father takes you to your first race.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHER} holding {YOU6}'s hand on the way to the races|[excited, building] Rising energy.",
+  "image": "images/beat_030.png"
+ },
+ {
+  "beat": 31,
+  "start": 105.0,
+  "dur": 1.667,
+  "text": "You\u2019ll never forget it.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "close-up of {YOU6}'s wide-eyed face|[nostalgic, hushed] Slow. Let it breathe. Pause after.",
+  "image": "images/beat_031.png"
+ },
+ {
+  "beat": 32,
+  "start": 106.667,
+  "dur": 3.75,
+  "text": "The Hippodrome is the biggest building you\u2019ve ever seen.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "the huge Hippodrome seen from the entrance, crowds pouring in|[awe] Big, wondering tone.",
+  "image": "images/beat_032.png"
+ },
+ {
+  "beat": 33,
+  "start": 110.417,
+  "dur": 3.333,
+  "text": "A giant stone racetrack, longer than four fields,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "a long stone racetrack stretching into the distance|[awe] Steady descriptive pace.",
+  "image": "images/beat_033.png"
+ },
+ {
+  "beat": 34,
+  "start": 113.75,
+  "dur": 2.917,
+  "text": "surrounded by tiers of seats so high",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "steep tiers of seats rising into the sky|[awe, rising] Lift the voice as the seats rise.",
+  "image": "images/beat_034.png"
+ },
+ {
+  "beat": 35,
+  "start": 116.667,
+  "dur": 5.0,
+  "text": "they seem to touch the sky. It holds a hundred thousand people.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "every seat packed with people, the number 100,000 floating above|[impressed] Emphasise \"a hundred thousand.\"",
+  "image": "images/beat_035.png"
+ },
+ {
+  "beat": 36,
+  "start": 121.667,
+  "dur": 3.333,
+  "text": "Down the middle of the track runs a",
+  "motion": "fade",
+  "scene": "hippodrome",
+  "action": "the long central barrier running down the track|[explanatory] Clear tour-guide tone.",
+  "image": "images/beat_036.png"
+ },
+ {
+  "beat": 37,
+  "start": 125.0,
+  "dur": 4.167,
+  "text": "long stone barrier covered with ancient treasures. An Egyptian obelisk.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "an ancient Egyptian obelisk standing on the barrier|[wondering] Slight pause before each treasure.",
+  "image": "images/beat_037.png"
+ },
+ {
+  "beat": 38,
+  "start": 129.167,
+  "dur": 4.167,
+  "text": "A bronze column of twisted snakes. Statues of famous charioteers.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "a bronze column of twisted snakes and bronze charioteer statues|[wondering] Even rhythm through the list.",
+  "image": "images/beat_038.png"
+ },
+ {
+  "beat": 39,
+  "start": 133.334,
+  "dur": 3.75,
+  "text": "At one end, connected directly to the Great Palace,",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "the royal box at the end of the track, connected to the palace|[grand] Dignified.",
+  "image": "images/beat_039.png"
+ },
+ {
+  "beat": 40,
+  "start": 137.084,
+  "dur": 4.583,
+  "text": "is the royal box, where the Emperor himself sits to watch.",
+  "motion": "shake",
+  "scene": "hippodrome",
+  "action": "an empty golden throne in the royal box|[grand, slightly hushed] Respectful hush on \"the Emperor himself.\"",
+  "image": "images/beat_040.png"
+ },
+ {
+  "beat": 41,
+  "start": 141.667,
+  "dur": 3.75,
+  "text": "And the noise. You\u2019ve never heard anything like it.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "sound-effect lines exploding from the crowd|[excited] Louder, faster. \"You've never heard anything like it.\"",
+  "image": "images/beat_041.png"
+ },
+ {
+  "beat": 42,
+  "start": 145.417,
+  "dur": 4.167,
+  "text": "A hundred thousand voices, half of them singing Blue songs,",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "the blue half of the crowd singing|[energetic] Keep the energy high.",
+  "image": "images/beat_042.png"
+ },
+ {
+  "beat": 43,
+  "start": 149.584,
+  "dur": 2.083,
+  "text": "half of them singing Green,",
+  "motion": "shake",
+  "scene": "hippodrome",
+  "action": "the green half of the crowd singing|[energetic] Match the previous line.",
+  "image": "images/beat_043.png"
+ },
+ {
+  "beat": 44,
+  "start": 151.667,
+  "dur": 3.333,
+  "text": "each side trying to drown out the other.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "blue and green sound lines clashing in the air|[competitive, playful] Push slightly faster.",
+  "image": "images/beat_044.png"
+ },
+ {
+  "beat": 45,
+  "start": 155.0,
+  "dur": 2.917,
+  "text": "Your father lifts you onto his shoulders.",
+  "motion": "shake",
+  "scene": "hippodrome",
+  "action": "{FATHER} lifting {YOU6} onto his shoulders|[joyful, tender] Warmth and lift.",
+  "image": "images/beat_045.png"
+ },
+ {
+  "beat": 46,
+  "start": 157.917,
+  "dur": 4.167,
+  "text": "Four chariots burst from the starting gates, four horses each,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "four chariots exploding from the starting gates|[thrilling] Fast, punchy, like a race commentator.",
+  "image": "images/beat_046.png"
+ },
+ {
+  "beat": 47,
+  "start": 162.084,
+  "dur": 3.75,
+  "text": "wheels screaming on the sand. Blue. Green. Red. White.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "chariot wheels kicking up sand, four colour flags|[thrilling] Staccato on \"Blue. Green. Red. White.\"",
+  "image": "images/beat_047.png"
+ },
+ {
+  "beat": 48,
+  "start": 165.834,
+  "dur": 5.0,
+  "text": "Seven laps around the barrier, at speeds that make the crowd scream.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "chariots racing around the barrier, the crowd on its feet|[breathless] Keep the pace up.",
+  "image": "images/beat_048.png"
+ },
+ {
+  "beat": 49,
+  "start": 170.834,
+  "dur": 1.667,
+  "text": "On the third lap,",
+  "motion": "shake",
+  "scene": "hippodrome",
+  "action": "two chariots approaching the tight turn|[tense] Slow suddenly. Suspense.",
+  "image": "images/beat_049.png"
+ },
+ {
+  "beat": 50,
+  "start": 172.501,
+  "dur": 4.167,
+  "text": "two chariots collide at the turn and explode into splinters.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "two chariots crashing into splinters, drivers tumbling clear|[explosive] Punch \"explode into splinters.\"",
+  "image": "images/beat_050.png"
+ },
+ {
+  "beat": 51,
+  "start": 176.668,
+  "dur": 2.5,
+  "text": "The crowd roars like the sea.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "the crowd roaring, waves of sound lines|[booming] Big, resonant.",
+  "image": "images/beat_051.png"
+ },
+ {
+  "beat": 52,
+  "start": 179.168,
+  "dur": 1.667,
+  "text": "The Green chariot wins.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "the green chariot crossing the finish line|[triumphant] Short, joyous. Let it ring.",
+  "image": "images/beat_052.png"
+ },
+ {
+  "beat": 53,
+  "start": 180.835,
+  "dur": 4.167,
+  "text": "Your father throws you into the air. Strangers hug you.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{FATHER} tossing {YOU6} into the air, strangers hugging|[ecstatic] Fast, joyful.",
+  "image": "images/beat_053.png"
+ },
+ {
+  "beat": 54,
+  "start": 185.002,
+  "dur": 2.917,
+  "text": "A toothless old man kisses your forehead.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "a toothless old man kissing {YOU6}'s forehead|[comic, warm] Light laugh in the voice.",
+  "image": "images/beat_054.png"
+ },
+ {
+  "beat": 55,
+  "start": 187.919,
+  "dur": 3.75,
+  "text": "You\u2019ve never felt anything like it in your life.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{YOU6}'s face glowing|[wondering] Slower. Real emotion.",
+  "image": "images/beat_055.png"
+ },
+ {
+  "beat": 56,
+  "start": 191.669,
+  "dur": 2.083,
+  "text": "You belong to something enormous.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "the green crowd swallowing {YOU6} and {FATHER} in celebration|[moved] Soft and sincere.",
+  "image": "images/beat_056.png"
+ },
+ {
+  "beat": 57,
+  "start": 193.752,
+  "dur": 2.083,
+  "text": "You\u2019re Green. Till you die.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "{YOU6} raising his fists, a faint shadow behind him|[proud, with a hint of foreshadowing] Deliver proudly, but let \"Till you die\" fall slightly darker.",
+  "image": "images/beat_057.png"
+ },
+ {
+  "beat": 58,
+  "start": 195.835,
+  "dur": 5.0,
+  "text": "That night, your father carves you a little wooden chariot, painted green,",
+  "motion": "push",
+  "scene": "home",
+  "action": "{FATHER} carving a little green wooden chariot by lamplight|[tender, cozy] Quiet, bedtime warmth.",
+  "image": "images/beat_058.png"
+ },
+ {
+  "beat": 59,
+  "start": 200.835,
+  "dur": 1.667,
+  "text": "with four wobbly horses.",
+  "motion": "pull",
+  "scene": "home",
+  "action": "close-up of the wooden chariot with four wobbly horses|[affectionate] Small smile on \"wobbly.\"",
+  "image": "images/beat_059.png"
+ },
+ {
+  "beat": 60,
+  "start": 202.502,
+  "dur": 3.75,
+  "text": "You race it along the floor until your mother",
+  "motion": "push",
+  "scene": "home",
+  "action": "{YOU6} racing the toy chariot across the floor|[playful] Light and quick.",
+  "image": "images/beat_060.png"
+ },
+ {
+  "beat": 61,
+  "start": 206.252,
+  "dur": 3.75,
+  "text": "hides it under the bed so she can sleep.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{MOTHER} sliding the chariot under the bed, {YOU6} asleep|[gently comic] Dry, soft.",
+  "image": "images/beat_061.png"
+ },
+ {
+  "beat": 62,
+  "start": 210.002,
+  "dur": 4.167,
+  "text": "You find it in the morning and race it again.",
+  "motion": "pan",
+  "scene": "home",
+  "action": "{YOU6} pulling the chariot out at dawn, racing it again|[playful] Bright, cheeky.",
+  "image": "images/beat_062.png"
+ },
+ {
+  "beat": 63,
+  "start": 214.169,
+  "dur": 2.917,
+  "text": "Your hero is a charioteer called Porphyrius,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{PORPHYRIUS} driving a chariot to victory|[admiring] Heroic lift on \"Porphyrius.\"",
+  "image": "images/beat_063.png"
+ },
+ {
+  "beat": 64,
+  "start": 217.086,
+  "dur": 2.5,
+  "text": "the greatest racer of the age.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "{PORPHYRIUS} holding a victory wreath|[admiring] Clear, proud.",
+  "image": "images/beat_064.png"
+ },
+ {
+  "beat": 65,
+  "start": 219.586,
+  "dur": 4.167,
+  "text": "The city has built statues of him on the barrier,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "bronze statues of {PORPHYRIUS} on the barrier|[impressed] Slight emphasis on \"solid bronze.\"",
+  "image": "images/beat_065.png"
+ },
+ {
+  "beat": 66,
+  "start": 223.753,
+  "dur": 2.917,
+  "text": "in solid bronze, while he\u2019s still alive.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{PORPHYRIUS} posing beside his own statue|[wry] Dry aside on \"while he's still alive.\"",
+  "image": "images/beat_066.png"
+ },
+ {
+  "beat": 67,
+  "start": 226.67,
+  "dur": 3.75,
+  "text": "You decide you\u2019ll be just like him one day.",
+  "motion": "pan",
+  "scene": "harbour",
+  "action": "{YOU7} imagining himself as a charioteer in a thought bubble|[dreamy] Soft and hopeful.",
+  "image": "images/beat_067.png"
+ },
+ {
+  "beat": 68,
+  "start": 230.42,
+  "dur": 3.333,
+  "text": "Your father laughs and says you smell too",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHER} laughing and pinching his nose|[comic] Warm laugh in the voice.",
+  "image": "images/beat_068.png"
+ },
+ {
+  "beat": 69,
+  "start": 233.753,
+  "dur": 2.917,
+  "text": "much like fish to drive a chariot.",
+  "motion": "pull",
+  "scene": "harbour",
+  "action": "smell lines rising from {YOU7}|[comic, deadpan] Dry punchline.",
+  "image": "images/beat_069.png"
+ },
+ {
+  "beat": 70,
+  "start": 236.67,
+  "dur": 3.75,
+  "text": "Years pass, and the races become your whole life.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "a calendar flipping years over the harbour|[nostalgic, flowing] Smooth montage pace.",
+  "image": "images/beat_070.png"
+ },
+ {
+  "beat": 71,
+  "start": 240.42,
+  "dur": 2.917,
+  "text": "You learn the names of every horse.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{YOU16} reciting horse names from a list|[enthusiastic] Quick, eager.",
+  "image": "images/beat_071.png"
+ },
+ {
+  "beat": 72,
+  "start": 243.337,
+  "dur": 4.583,
+  "text": "You argue about charioteers with the other boys on the docks.",
+  "motion": "pan",
+  "scene": "harbour",
+  "action": "{YOU16} arguing with dock boys, wild gestures|[lively] Playful energy.",
+  "image": "images/beat_072.png"
+ },
+ {
+  "beat": 73,
+  "start": 247.92,
+  "dur": 4.583,
+  "text": "You save every coin you earn gutting fish for your father,",
+  "motion": "fade",
+  "scene": "harbour",
+  "action": "{YOU16} gutting fish and dropping coins in a jar|[steady] Matter-of-fact.",
+  "image": "images/beat_073.png"
+ },
+ {
+  "beat": 74,
+  "start": 252.503,
+  "dur": 2.917,
+  "text": "and spend it all on race days.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "{YOU16} handing his coins over at the Hippodrome gate|[cheerful] Light.",
+  "image": "images/beat_074.png"
+ },
+ {
+  "beat": 75,
+  "start": 255.42,
+  "dur": 4.167,
+  "text": "And across the alley, in the Blue bakery, there\u2019s Leon.",
+  "motion": "push",
+  "scene": "bakery",
+  "action": "a Blue bakery across the alley with a blue sign|[intriguing] Slight pause before \"Leon.\"",
+  "image": "images/beat_075.png"
+ },
+ {
+  "beat": 76,
+  "start": 259.587,
+  "dur": 2.083,
+  "text": "Leon is the baker\u2019s son.",
+  "motion": "push",
+  "scene": "bakery",
+  "action": "{LEON16} carrying a tray of bread|[warm] Friendly introduction.",
+  "image": "images/beat_076.png"
+ },
+ {
+  "beat": 77,
+  "start": 261.67,
+  "dur": 5.0,
+  "text": "He\u2019s your age, skinny, quick-witted, with flour permanently stuck in his eyebrows.",
+  "motion": "pan",
+  "scene": "bakery",
+  "action": "close-up of {LEON16}'s flour-dusted eyebrows|[affectionate, comic] Smile on \"flour permanently stuck.\"",
+  "image": "images/beat_077.png"
+ },
+ {
+  "beat": 78,
+  "start": 266.67,
+  "dur": 3.75,
+  "text": "And he is, unfortunately, a Blue. A fanatical one.",
+  "motion": "push",
+  "scene": "bakery",
+  "action": "{LEON16} waving a blue flag|[mock-tragic] Deadpan \"unfortunately.\" Pause. Then \"A fanatical one.\"",
+  "image": "images/beat_078.png"
+ },
+ {
+  "beat": 79,
+  "start": 270.42,
+  "dur": 4.167,
+  "text": "The first time you meet, you\u2019re both seven years old,",
+  "motion": "pull",
+  "scene": "alley",
+  "action": "{YOU7} and {LEON7} facing off in an alley|[nostalgic, comic] Storyteller warmth.",
+  "image": "images/beat_079.png"
+ },
+ {
+  "beat": 80,
+  "start": 274.587,
+  "dur": 5.0,
+  "text": "and you get into a fistfight over whose charioteer has better hair.",
+  "motion": "push",
+  "scene": "alley",
+  "action": "{YOU7} and {LEON7} in a dust-cloud scuffle, arguing about charioteer hair|[comic] Light and fast.",
+  "image": "images/beat_080.png"
+ },
+ {
+  "beat": 81,
+  "start": 279.587,
+  "dur": 1.2,
+  "text": "You lose.",
+  "motion": "push",
+  "scene": "alley",
+  "action": "{YOU7} sitting in the dust with a dazed face|[deadpan] Flat. \"You lose.\"",
+  "image": "images/beat_081.png"
+ },
+ {
+  "beat": 82,
+  "start": 280.787,
+  "dur": 5.0,
+  "text": "Leon gives you a bread roll afterwards to make up for it.",
+  "motion": "pan",
+  "scene": "alley",
+  "action": "{LEON7} handing {YOU7} a bread roll|[warm] Gentle.",
+  "image": "images/beat_082.png"
+ },
+ {
+  "beat": 83,
+  "start": 285.787,
+  "dur": 2.083,
+  "text": "He becomes your best friend.",
+  "motion": "push",
+  "scene": "alley",
+  "action": "{YOU7} and {LEON7} sitting side by side eating bread|[warm, sincere] Slow down. Let it land.",
+  "image": "images/beat_083.png"
+ },
+ {
+  "beat": 84,
+  "start": 287.87,
+  "dur": 3.75,
+  "text": "It makes no sense, and everyone tells you so.",
+  "motion": "pull",
+  "scene": "harbour",
+  "action": "neighbours shaking their heads at the two boys|[wry] Conversational shrug.",
+  "image": "images/beat_084.png"
+ },
+ {
+  "beat": 85,
+  "start": 291.62,
+  "dur": 2.917,
+  "text": "Your father calls him that flour-faced Blue.",
+  "motion": "shake",
+  "scene": "harbour",
+  "action": "{FATHER} pointing at {LEON16} with a frown|[comic, gruff] Lightly gruff tone.",
+  "image": "images/beat_085.png"
+ },
+ {
+  "beat": 86,
+  "start": 294.537,
+  "dur": 2.917,
+  "text": "Leon\u2019s father calls you the fish boy.",
+  "motion": "push",
+  "scene": "bakery",
+  "action": "{LEONFATHER} pointing at {YOU16} with a frown|[comic] Mirror the previous line.",
+  "image": "images/beat_086.png"
+ },
+ {
+  "beat": 87,
+  "start": 297.454,
+  "dur": 2.917,
+  "text": "But every race day for ten years,",
+  "motion": "pan",
+  "scene": "street",
+  "action": "{YOU16} and {LEON16} walking side by side, a calendar showing ten years|[nostalgic, warm] Flowing rhythm.",
+  "image": "images/beat_087.png"
+ },
+ {
+  "beat": 88,
+  "start": 300.371,
+  "dur": 5.0,
+  "text": "you and Leon walk to the Hippodrome together, arguing the whole way,",
+  "motion": "push",
+  "scene": "street",
+  "action": "{YOU16} and {LEON16} arguing as they walk to the Hippodrome|[lively] Quick and playful.",
+  "image": "images/beat_088.png"
+ },
+ {
+  "beat": 89,
+  "start": 305.371,
+  "dur": 4.583,
+  "text": "split up at the entrance to sit with your own side,",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "the two boys splitting at the gate toward blue and green sections|[light] Easy pace.",
+  "image": "images/beat_089.png"
+ },
+ {
+  "beat": 90,
+  "start": 309.954,
+  "dur": 4.167,
+  "text": "and meet again afterwards to argue all the way home.",
+  "motion": "push",
+  "scene": "street",
+  "action": "the two boys arguing all the way home at dusk|[playful] Bouncy.",
+  "image": "images/beat_090.png"
+ },
+ {
+  "beat": 91,
+  "start": 314.121,
+  "dur": 2.083,
+  "text": "The loser pays for dinner.",
+  "motion": "push",
+  "scene": "tavern",
+  "action": "a dinner table with a bill being slid across|[wry] Short and dry.",
+  "image": "images/beat_091.png"
+ },
+ {
+  "beat": 92,
+  "start": 316.204,
+  "dur": 3.75,
+  "text": "You lose more often than you\u2019d like to admit.",
+  "motion": "pan",
+  "scene": "tavern",
+  "action": "{YOU16} paying the bill, {LEON16} grinning|[self-deprecating] Comic sigh in the voice.",
+  "image": "images/beat_092.png"
+ },
+ {
+  "beat": 93,
+  "start": 319.954,
+  "dur": 5.0,
+  "text": "And when you\u2019re sixteen, Leon proves what kind of friend he is.",
+  "motion": "push",
+  "scene": "alley",
+  "action": "{YOU16} walking home alone at night|[shift to tension] Lower and slower.",
+  "image": "images/beat_093.png"
+ },
+ {
+  "beat": 94,
+  "start": 324.954,
+  "dur": 2.083,
+  "text": "One night after a race,",
+  "motion": "pull",
+  "scene": "alley",
+  "action": "a dark alley near the harbour at night|[tense] Quiet, suspenseful.",
+  "image": "images/beat_094.png"
+ },
+ {
+  "beat": 95,
+  "start": 327.037,
+  "dur": 4.583,
+  "text": "three Blue thugs corner you in an alley near the harbour.",
+  "motion": "push",
+  "scene": "alley",
+  "action": "three Blue thugs blocking the alley in front of {YOU16}|[tense] Tight, slightly faster.",
+  "image": "images/beat_095.png"
+ },
+ {
+  "beat": 96,
+  "start": 331.62,
+  "dur": 3.75,
+  "text": "They\u2019ve seen your green scarf. They\u2019re bigger than you.",
+  "motion": "push",
+  "scene": "alley",
+  "action": "a thug pointing at {YOU16}'s green scarf|[threatening] Clipped.",
+  "image": "images/beat_096.png"
+ },
+ {
+  "beat": 97,
+  "start": 335.37,
+  "dur": 2.917,
+  "text": "One of them is holding a club.",
+  "motion": "pan",
+  "scene": "alley",
+  "action": "a thug tapping a club against his stick arm|[menacing] Slow, low.",
+  "image": "images/beat_097.png"
+ },
+ {
+  "beat": 98,
+  "start": 338.287,
+  "dur": 3.75,
+  "text": "Then Leon steps out of the shadows behind them.",
+  "motion": "push",
+  "scene": "alley",
+  "action": "{LEON16} stepping out of the shadows|[relief, building] Release the tension slightly.",
+  "image": "images/beat_098.png"
+ },
+ {
+  "beat": 99,
+  "start": 342.037,
+  "dur": 2.5,
+  "text": "He tells them you\u2019re his cousin.",
+  "motion": "pull",
+  "scene": "alley",
+  "action": "{LEON16} throwing a stick arm around {YOU16}'s shoulders|[playful] Light, confident.",
+  "image": "images/beat_099.png"
+ },
+ {
+  "beat": 100,
+  "start": 344.537,
+  "dur": 5.0,
+  "text": "He tells them you\u2019re colour blind, and that your mother dresses you.",
+  "motion": "push",
+  "scene": "alley",
+  "action": "{LEON16} miming colour blindness and a mother dressing her son|[comic] Big comic timing.",
+  "image": "images/beat_100.png"
+ },
+ {
+  "beat": 101,
+  "start": 349.537,
+  "dur": 3.75,
+  "text": "They look at each other. They look at him.",
+  "motion": "push",
+  "scene": "alley",
+  "action": "the three thugs looking at each other, then at {LEON16}|[comic pause] Slow beats.",
+  "image": "images/beat_101.png"
+ },
+ {
+  "beat": 102,
+  "start": 353.287,
+  "dur": 2.5,
+  "text": "Then they shrug and walk away.",
+  "motion": "pan",
+  "scene": "alley",
+  "action": "the thugs shrugging and walking away|[deadpan] Flat, dry.",
+  "image": "images/beat_102.png"
+ },
+ {
+  "beat": 103,
+  "start": 355.787,
+  "dur": 5.0,
+  "text": "You don\u2019t speak to him for a week out of pure embarrassment.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{YOU16} turning away red-faced, a calendar showing one week|[comic, embarrassed] Sheepish tone.",
+  "image": "images/beat_103.png"
+ },
+ {
+  "beat": 104,
+  "start": 360.787,
+  "dur": 2.083,
+  "text": "Then you buy him dinner.",
+  "motion": "pull",
+  "scene": "tavern",
+  "action": "{YOU16} sliding a plate of dinner to {LEON16}|[warm] Gentle punchline.",
+  "image": "images/beat_104.png"
+ },
+ {
+  "beat": 105,
+  "start": 362.87,
+  "dur": 2.083,
+  "text": "By the time you\u2019re 18,",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{YOU} standing taller, a calendar page reading age 18|[shift, serious] Slower, darker.",
+  "image": "images/beat_105.png"
+ },
+ {
+  "beat": 106,
+  "start": 364.953,
+  "dur": 3.333,
+  "text": "being a fan isn\u2019t just about racing anymore.",
+  "motion": "push",
+  "scene": "street",
+  "action": "a green chariot banner beside a knife|[ominous] Let \"anymore\" hang.",
+  "image": "images/beat_106.png"
+ },
+ {
+  "beat": 107,
+  "start": 368.286,
+  "dur": 2.5,
+  "text": "The factions run the city now.",
+  "motion": "pan",
+  "scene": "street",
+  "action": "green and blue gangs strutting through the city|[ominous, informative] Steady.",
+  "image": "images/beat_107.png"
+ },
+ {
+  "beat": 108,
+  "start": 370.786,
+  "dur": 4.167,
+  "text": "The hardcore young members, the partisans, have their own look.",
+  "motion": "push",
+  "scene": "street",
+  "action": "a group of partisans posing together|[documentary] Clear.",
+  "image": "images/beat_108.png"
+ },
+ {
+  "beat": 109,
+  "start": 374.953,
+  "dur": 5.0,
+  "text": "They shave the front of their heads and grow the back long,",
+  "motion": "pull",
+  "scene": "street",
+  "action": "close-up of a partisan with the front of his head shaved and long hair at the back|[documentary, slightly wry] Matter-of-fact.",
+  "image": "images/beat_109.png"
+ },
+ {
+  "beat": 110,
+  "start": 379.953,
+  "dur": 3.75,
+  "text": "the way the Huns do. They grow wild beards.",
+  "motion": "push",
+  "scene": "street",
+  "action": "a partisan stroking a wild beard|[wry] Dry.",
+  "image": "images/beat_110.png"
+ },
+ {
+  "beat": 111,
+  "start": 383.703,
+  "dur": 4.583,
+  "text": "They wear tunics with enormous puffed sleeves, tight at the wrist,",
+  "motion": "push",
+  "scene": "street",
+  "action": "giant puffed sleeves tight at the wrist|[comic, wry] Slight smile on \"enormous.\"",
+  "image": "images/beat_111.png"
+ },
+ {
+  "beat": 112,
+  "start": 388.286,
+  "dur": 3.75,
+  "text": "and they swagger through the streets in gangs, singing.",
+  "motion": "pan",
+  "scene": "street",
+  "action": "a gang of partisans swaggering down the street singing|[swagger] Rhythmic, a little cocky.",
+  "image": "images/beat_112.png"
+ },
+ {
+  "beat": 113,
+  "start": 392.036,
+  "dur": 4.583,
+  "text": "You join the Green partisans the day after your eighteenth birthday.",
+  "motion": "push",
+  "scene": "street",
+  "action": "{YOUPART} joining a green gang, the others cheering|[proud] Confident.",
+  "image": "images/beat_113.png"
+ },
+ {
+  "beat": 114,
+  "start": 396.619,
+  "dur": 3.75,
+  "text": "You shave your hair. You get your puffed sleeves.",
+  "motion": "pull",
+  "scene": "street",
+  "action": "{YOUPART} admiring his new haircut and green puffed sleeves in a puddle|[proud, comic] Light swagger.",
+  "image": "images/beat_114.png"
+ },
+ {
+  "beat": 115,
+  "start": 400.369,
+  "dur": 5.0,
+  "text": "When you walk down the street with your brothers, people step aside.",
+  "motion": "push",
+  "scene": "street",
+  "action": "people stepping aside as {YOUPART} and his gang pass|[power] Slow, smug.",
+  "image": "images/beat_115.png"
+ },
+ {
+  "beat": 116,
+  "start": 405.369,
+  "dur": 4.167,
+  "text": "Shopkeepers give you free bread. Nobody dares overcharge a Green.",
+  "motion": "push",
+  "scene": "street",
+  "action": "a shopkeeper handing {YOUPART} free bread|[smug] Cocky little beat on \"Nobody dares.\"",
+  "image": "images/beat_116.png"
+ },
+ {
+  "beat": 117,
+  "start": 409.536,
+  "dur": 5.0,
+  "text": "Leon on the other hand joins the Blues on the same day.",
+  "motion": "pan",
+  "scene": "harbour",
+  "action": "{LEONPART} arriving with a blue haircut and huge blue sleeves|[comic] Playful reveal.",
+  "image": "images/beat_117.png"
+ },
+ {
+  "beat": 118,
+  "start": 414.536,
+  "dur": 5.0,
+  "text": "He shows up at your fish stall with half a shaved head",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{LEONPART} wedged in the fish stall doorway by his sleeves|[comic] Building laughter.",
+  "image": "images/beat_118.png"
+ },
+ {
+  "beat": 119,
+  "start": 419.536,
+  "dur": 4.583,
+  "text": "and sleeves so big he can barely fit through the door.",
+  "motion": "fade",
+  "scene": "harbour",
+  "action": "{LEONPART} squeezing sideways through the door|[comic] Keep it light.",
+  "image": "images/beat_119.png"
+ },
+ {
+  "beat": 120,
+  "start": 424.119,
+  "dur": 2.5,
+  "text": "You both laugh until you cry.",
+  "motion": "shake",
+  "scene": "harbour",
+  "action": "{YOUPART} and {LEONPART} laughing until they cry|[joyful] Warm, real laughter in the voice.",
+  "image": "images/beat_120.png"
+ },
+ {
+  "beat": 121,
+  "start": 426.619,
+  "dur": 1.667,
+  "text": "Then the nights start.",
+  "motion": "shake",
+  "scene": "street",
+  "action": "the city at night, torches in the streets|[ominous shift] Sudden drop. Slow and quiet.",
+  "image": "images/beat_121.png"
+ },
+ {
+  "beat": 122,
+  "start": 428.286,
+  "dur": 2.5,
+  "text": "At first it\u2019s just shouting matches.",
+  "motion": "pan",
+  "scene": "street",
+  "action": "two gangs shouting across a street corner|[tense] Steady.",
+  "image": "images/beat_122.png"
+ },
+ {
+  "beat": 123,
+  "start": 430.786,
+  "dur": 2.917,
+  "text": "Blue gangs and Green gangs, meeting on",
+  "motion": "push",
+  "scene": "street",
+  "action": "gangs trading insults, speech bubbles of symbols|[escalating] Build pace through the list.",
+  "image": "images/beat_123.png"
+ },
+ {
+  "beat": 124,
+  "start": 433.703,
+  "dur": 4.583,
+  "text": "street corners after the races, trading insults. Then rocks. Then sticks.",
+  "motion": "pull",
+  "scene": "street",
+  "action": "rocks flying, then sticks raised in silhouette|[escalating] Staccato. \"Then rocks. Then sticks.\"",
+  "image": "images/beat_124.png"
+ },
+ {
+  "beat": 125,
+  "start": 438.286,
+  "dur": 4.583,
+  "text": "Then one night, someone in your gang pulls out a knife.",
+  "motion": "push",
+  "scene": "street",
+  "action": "close-up of a knife glinting in a partisan's sleeve|[dread] Slow and low. Pause before \"a knife.\"",
+  "image": "images/beat_125.png"
+ },
+ {
+  "beat": 126,
+  "start": 442.869,
+  "dur": 4.583,
+  "text": "You learn quickly that the factions don\u2019t just fight each other.",
+  "motion": "push",
+  "scene": "street",
+  "action": "{YOUPART} watching a partisan rob a passer-by|[grim] Serious, documentary.",
+  "image": "images/beat_126.png"
+ },
+ {
+  "beat": 127,
+  "start": 447.452,
+  "dur": 4.167,
+  "text": "They rob people in the street. They break into shops.",
+  "motion": "pan",
+  "scene": "street",
+  "action": "a partisan smashing a shop shutter|[grim] Flat.",
+  "image": "images/beat_127.png"
+ },
+ {
+  "beat": 128,
+  "start": 451.619,
+  "dur": 5.0,
+  "text": "Partisans walk around at night with weapons hidden in their giant sleeves,",
+  "motion": "push",
+  "scene": "street",
+  "action": "partisans hiding weapons in their sleeves at night|[grim, informative] Steady.",
+  "image": "images/beat_128.png"
+ },
+ {
+  "beat": 129,
+  "start": 456.619,
+  "dur": 3.75,
+  "text": "and the city watch is afraid to stop them.",
+  "motion": "pull",
+  "scene": "street",
+  "action": "a nervous city watchman backing away|[wry, grim] Dry irony.",
+  "image": "images/beat_129.png"
+ },
+ {
+  "beat": 130,
+  "start": 460.369,
+  "dur": 4.583,
+  "text": "The factions are too powerful. Too many friends in high places.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "an inset of a partisan shaking hands with a nobleman|[cynical] Measured.",
+  "image": "images/beat_130.png"
+ },
+ {
+  "beat": 131,
+  "start": 464.952,
+  "dur": 2.917,
+  "text": "And the people with the friends in",
+  "motion": "push",
+  "scene": "palace",
+  "action": "an inset of a staircase rising to the palace|[cynical] Slow build.",
+  "image": "images/beat_131.png"
+ },
+ {
+  "beat": 132,
+  "start": 467.869,
+  "dur": 2.5,
+  "text": "the highest places are the Blues.",
+  "motion": "pan",
+  "scene": "palace",
+  "action": "a blue flag flying from the top of the palace|[cynical, pointed] Land \"the Blues\" firmly.",
+  "image": "images/beat_132.png"
+ },
+ {
+  "beat": 133,
+  "start": 470.369,
+  "dur": 4.167,
+  "text": "One night, your gang breaks into a spice merchant\u2019s shop.",
+  "motion": "push",
+  "scene": "spice",
+  "action": "a spice merchant's shop at night, the gang breaking in|[guilty, low] Quiet, uneasy.",
+  "image": "images/beat_133.png"
+ },
+ {
+  "beat": 134,
+  "start": 474.536,
+  "dur": 4.167,
+  "text": "You stand guard at the door. You don\u2019t take anything.",
+  "motion": "pull",
+  "scene": "spice",
+  "action": "{YOUPART} standing guard outside the shop door|[uneasy] Hesitant.",
+  "image": "images/beat_134.png"
+ },
+ {
+  "beat": 135,
+  "start": 478.703,
+  "dur": 2.917,
+  "text": "You tell yourself that makes it different.",
+  "motion": "push",
+  "scene": "spice",
+  "action": "{YOUPART} looking away, a halo crossed out above his head|[self-justifying] Slight defensiveness.",
+  "image": "images/beat_135.png"
+ },
+ {
+  "beat": 136,
+  "start": 481.62,
+  "dur": 3.333,
+  "text": "But you hear the old merchant pleading inside,",
+  "motion": "push",
+  "scene": "spice",
+  "action": "sound lines of pleading coming from inside the shop|[pained] Softer.",
+  "image": "images/beat_136.png"
+ },
+ {
+  "beat": 137,
+  "start": 484.953,
+  "dur": 3.333,
+  "text": "and you don\u2019t go in to stop it.",
+  "motion": "pan",
+  "scene": "spice",
+  "action": "{YOUPART} staring at the ground|[ashamed] Slow, quiet.",
+  "image": "images/beat_137.png"
+ },
+ {
+  "beat": 138,
+  "start": 488.286,
+  "dur": 4.583,
+  "text": "You go home and lie awake listening to your father snore,",
+  "motion": "push",
+  "scene": "home",
+  "action": "{YOUPART} lying awake in the dark, {FATHER} snoring nearby|[ashamed, intimate] Near-whisper.",
+  "image": "images/beat_138.png"
+ },
+ {
+  "beat": 139,
+  "start": 492.869,
+  "dur": 2.083,
+  "text": "and you don\u2019t tell him.",
+  "motion": "pull",
+  "scene": "home",
+  "action": "{YOUPART}'s wide-awake eyes in the dark|[ashamed] Let it trail off.",
+  "image": "images/beat_139.png"
+ },
+ {
+  "beat": 140,
+  "start": 494.952,
+  "dur": 5.0,
+  "text": "In 527, a new emperor takes the throne. His name is Justinian.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{JUSTINIAN} being crowned, a calendar reading 527|[documentary] Clear, even.",
+  "image": "images/beat_140.png"
+ },
+ {
+  "beat": 141,
+  "start": 499.952,
+  "dur": 4.583,
+  "text": "He\u2019s brilliant, ambitious, hardworking, and has supported the Blues for years.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{JUSTINIAN} at a desk covered in plans, a small blue ribbon on his robe|[informative] Brisk list rhythm.",
+  "image": "images/beat_141.png"
+ },
+ {
+  "beat": 142,
+  "start": 504.535,
+  "dur": 2.083,
+  "text": "His wife, the Empress Theodora,",
+  "motion": "pan",
+  "scene": "palace",
+  "action": "{THEODORA} at {JUSTINIAN}'s side|[intriguing] Slight interest in the voice.",
+  "image": "images/beat_142.png"
+ },
+ {
+  "beat": 143,
+  "start": 506.618,
+  "dur": 4.167,
+  "text": "is a former actress who grew up around the Hippodrome.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "a young {THEODORA} near the Hippodrome stage|[storytelling] Warm.",
+  "image": "images/beat_143.png"
+ },
+ {
+  "beat": 144,
+  "start": 510.785,
+  "dur": 2.917,
+  "text": "Her family once worked for the Greens,",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "green faction leaders turning their backs on a young {THEODORA}'s family|[sombre] Lower.",
+  "image": "images/beat_144.png"
+ },
+ {
+  "beat": 145,
+  "start": 513.702,
+  "dur": 4.583,
+  "text": "until the Greens refused to help them. She\u2019s never forgiven them.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "close-up of {THEODORA}'s cold, narrowed eyes|[pointed] Firm on \"never forgiven.\"",
+  "image": "images/beat_145.png"
+ },
+ {
+  "beat": 146,
+  "start": 518.285,
+  "dur": 3.333,
+  "text": "So when a Blue partisan commits a crime,",
+  "motion": "push",
+  "scene": "street",
+  "action": "a judge turning his back on a Blue partisan|[unjust] Measured, bitter.",
+  "image": "images/beat_146.png"
+ },
+ {
+  "beat": 147,
+  "start": 521.618,
+  "dur": 2.5,
+  "text": "the judges look the other way.",
+  "motion": "pan",
+  "scene": "street",
+  "action": "the judge covering his eyes|[bitter] Dry.",
+  "image": "images/beat_147.png"
+ },
+ {
+  "beat": 148,
+  "start": 524.118,
+  "dur": 3.75,
+  "text": "When a Green does the same thing, he hangs.",
+  "motion": "push",
+  "scene": "street",
+  "action": "a Green partisan led away by guards toward a gallows silhouette|[cold] Flat. Let \"he hangs\" land heavily.",
+  "image": "images/beat_148.png"
+ },
+ {
+  "beat": 149,
+  "start": 527.868,
+  "dur": 5.0,
+  "text": "You don\u2019t say this to Leon. You don\u2019t have to. He knows.",
+  "motion": "pull",
+  "scene": "harbour",
+  "action": "{YOUPART} and {LEONPART} sitting in silence|[quiet, knowing] Short, soft pauses between sentences.",
+  "image": "images/beat_149.png"
+ },
+ {
+  "beat": 150,
+  "start": 532.868,
+  "dur": 2.917,
+  "text": "Meanwhile, things are getting harder for everyone.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "the harbour looking poorer and greyer|[sombre] Slower.",
+  "image": "images/beat_150.png"
+ },
+ {
+  "beat": 151,
+  "start": 535.785,
+  "dur": 3.75,
+  "text": "Justinian is fighting wars in Persia and needs money,",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{JUSTINIAN} pointing at a war map of Persia|[informative] Steady.",
+  "image": "images/beat_151.png"
+ },
+ {
+  "beat": 152,
+  "start": 539.535,
+  "dur": 4.583,
+  "text": "and his tax minister, a ruthless man called John the Cappadocian,",
+  "motion": "pan",
+  "scene": "palace",
+  "action": "{JOHN} counting coins greedily|[ominous] Slight edge on \"ruthless.\"",
+  "image": "images/beat_152.png"
+ },
+ {
+  "beat": 153,
+  "start": 544.118,
+  "dur": 2.917,
+  "text": "squeezes every coin out of the city.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "tax collectors carrying away sacks of coins|[resentful] Measured.",
+  "image": "images/beat_153.png"
+ },
+ {
+  "beat": 154,
+  "start": 547.035,
+  "dur": 2.917,
+  "text": "Your father\u2019s fish stall now pays twice",
+  "motion": "pull",
+  "scene": "harbour",
+  "action": "{FATHERAGED} handing over coins at his stall|[resentful] Quiet.",
+  "image": "images/beat_154.png"
+ },
+ {
+  "beat": 155,
+  "start": 549.952,
+  "dur": 2.917,
+  "text": "the tax it did five years ago.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "an inset bar chart: TAX doubling|[resentful] Emphasise \"twice.\"",
+  "image": "images/beat_155.png"
+ },
+ {
+  "beat": 156,
+  "start": 552.869,
+  "dur": 5.0,
+  "text": "Leon\u2019s father has had to let two bakers go. People are hungry.",
+  "motion": "push",
+  "scene": "bakery",
+  "action": "{LEONFATHER} sadly letting two bakers go|[sad] Soft.",
+  "image": "images/beat_156.png"
+ },
+ {
+  "beat": 157,
+  "start": 557.869,
+  "dur": 1.25,
+  "text": "People are angry.",
+  "motion": "pan",
+  "scene": "street",
+  "action": "a crowd of hungry, angry people in the forum|[building tension] Rising.",
+  "image": "images/beat_157.png"
+ },
+ {
+  "beat": 158,
+  "start": 559.119,
+  "dur": 2.083,
+  "text": "And for the first time,",
+  "motion": "push",
+  "scene": "street",
+  "action": "blue and green fists raised together|[ominous] Slow.",
+  "image": "images/beat_158.png"
+ },
+ {
+  "beat": 159,
+  "start": 561.202,
+  "dur": 4.583,
+  "text": "the Blues and the Greens are angry about the same thing.",
+  "motion": "pull",
+  "scene": "street",
+  "action": "blue and green partisans glaring at the palace together|[ominous] Let \"the same thing\" hang.",
+  "image": "images/beat_159.png"
+ },
+ {
+  "beat": 160,
+  "start": 565.785,
+  "dur": 3.75,
+  "text": "Your father is getting old now. His back hurts.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHERAGED} rubbing his aching back|[tender, sad] Gentle and slow.",
+  "image": "images/beat_160.png"
+ },
+ {
+  "beat": 161,
+  "start": 569.535,
+  "dur": 2.917,
+  "text": "His shoulders, the ones you sat on",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "close-up of {FATHERAGED}'s stooped shoulders|[tender] Wistful.",
+  "image": "images/beat_161.png"
+ },
+ {
+  "beat": 162,
+  "start": 572.452,
+  "dur": 5.0,
+  "text": "at your first race, are stooped. He still goes to every race.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "{FATHERAGED} at a race, still cheering|[fond] Soft smile.",
+  "image": "images/beat_162.png"
+ },
+ {
+  "beat": 163,
+  "start": 577.452,
+  "dur": 3.333,
+  "text": "He still sings every song. But one evening,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{FATHERAGED} singing along|[fond] Warm.",
+  "image": "images/beat_163.png"
+ },
+ {
+  "beat": 164,
+  "start": 580.785,
+  "dur": 3.333,
+  "text": "he looks at your shaved head and your",
+  "motion": "pull",
+  "scene": "home",
+  "action": "{FATHERAGED} looking at {YOUPART}'s shaved head|[quiet, heavy] Slow.",
+  "image": "images/beat_164.png"
+ },
+ {
+  "beat": 165,
+  "start": 584.118,
+  "dur": 3.333,
+  "text": "puffed sleeves and the bruise on your cheek,",
+  "motion": "push",
+  "scene": "home",
+  "action": "close-up of a bruise on {YOUPART}'s cheek|[heavy] Low.",
+  "image": "images/beat_165.png"
+ },
+ {
+  "beat": 166,
+  "start": 587.451,
+  "dur": 2.917,
+  "text": "and he says quietly that the Greens",
+  "motion": "push",
+  "scene": "home",
+  "action": "{FATHERAGED} speaking quietly|[heartfelt] Gentle, sad.",
+  "image": "images/beat_166.png"
+ },
+ {
+  "beat": 167,
+  "start": 590.368,
+  "dur": 3.75,
+  "text": "are supposed to be about the horses. Not this.",
+  "motion": "pan",
+  "scene": "home",
+  "action": "an inset of a happy horse at full gallop|[heartfelt] \"Not this\" soft and firm.",
+  "image": "images/beat_167.png"
+ },
+ {
+  "beat": 168,
+  "start": 594.118,
+  "dur": 2.5,
+  "text": "You tell him he doesn\u2019t understand.",
+  "motion": "push",
+  "scene": "home",
+  "action": "{YOUPART} turning away, arms crossed|[dismissive] Slightly sharp.",
+  "image": "images/beat_168.png"
+ },
+ {
+  "beat": 169,
+  "start": 596.618,
+  "dur": 3.75,
+  "text": "He just nods and goes back to gutting fish.",
+  "motion": "pull",
+  "scene": "harbour",
+  "action": "{FATHERAGED} nodding and gutting fish in silence|[sad] Quiet, let it fade.",
+  "image": "images/beat_169.png"
+ },
+ {
+  "beat": 170,
+  "start": 600.368,
+  "dur": 2.917,
+  "text": "In January 532, you\u2019re 27 years old,",
+  "motion": "push",
+  "scene": "city",
+  "action": "a calendar page reading JANUARY 532, snow on the city|[ominous] Slow, heavy.",
+  "image": "images/beat_170.png"
+ },
+ {
+  "beat": 171,
+  "start": 603.285,
+  "dur": 2.5,
+  "text": "and everything goes wrong at once.",
+  "motion": "push",
+  "scene": "city",
+  "action": "{YOUPART} looking up at a stormy sky|[dread] Dark, measured.",
+  "image": "images/beat_171.png"
+ },
+ {
+  "beat": 172,
+  "start": 605.785,
+  "dur": 2.5,
+  "text": "After a riot following the races,",
+  "motion": "pan",
+  "scene": "street",
+  "action": "guards arresting men in blue and green|[documentary] Clear.",
+  "image": "images/beat_172.png"
+ },
+ {
+  "beat": 173,
+  "start": 608.285,
+  "dur": 2.917,
+  "text": "the city prefect arrests a group of",
+  "motion": "push",
+  "scene": "street",
+  "action": "the city prefect pointing at a line of prisoners|[documentary] Measured.",
+  "image": "images/beat_173.png"
+ },
+ {
+  "beat": 174,
+  "start": 611.202,
+  "dur": 4.583,
+  "text": "men from both factions for murder. Seven are condemned to death.",
+  "motion": "pull",
+  "scene": "street",
+  "action": "a judge reading a sentence, seven figures in a row|[grim] Steady and serious.",
+  "image": "images/beat_174.png"
+ },
+ {
+  "beat": 175,
+  "start": 615.785,
+  "dur": 5.0,
+  "text": "On the morning of the execution, a huge crowd gathers to watch.",
+  "motion": "push",
+  "scene": "gallows",
+  "action": "a big crowd gathered in front of the gallows|[tense] Hushed.",
+  "image": "images/beat_175.png"
+ },
+ {
+  "beat": 176,
+  "start": 620.785,
+  "dur": 2.5,
+  "text": "The first hanging goes as planned.",
+  "motion": "push",
+  "scene": "gallows",
+  "action": "the gallows seen from far away, a crowd hushed|[grim] Low and flat.",
+  "image": "images/beat_176.png"
+ },
+ {
+  "beat": 177,
+  "start": 623.285,
+  "dur": 5.0,
+  "text": "Then the rope breaks on the next two. Not once, but twice.",
+  "motion": "pan",
+  "scene": "gallows",
+  "action": "a rope snapping, two figures dropping safely to the ground|[shock] Rising. \"Not once, but twice.\"",
+  "image": "images/beat_177.png"
+ },
+ {
+  "beat": 178,
+  "start": 628.285,
+  "dur": 3.333,
+  "text": "One of the condemned men is a Blue.",
+  "motion": "push",
+  "scene": "gallows",
+  "action": "a man in a blue tunic on the ground, dazed but alive|[amazed] Lifted.",
+  "image": "images/beat_178.png"
+ },
+ {
+  "beat": 179,
+  "start": 631.618,
+  "dur": 3.75,
+  "text": "The other is a Green. Both survive the fall.",
+  "motion": "shake",
+  "scene": "gallows",
+  "action": "a man in a green tunic beside him, also alive|[amazed] Hold the surprise.",
+  "image": "images/beat_179.png"
+ },
+ {
+  "beat": 180,
+  "start": 635.368,
+  "dur": 4.583,
+  "text": "The crowd goes wild. It\u2019s a sign from God, they shout.",
+  "motion": "push",
+  "scene": "gallows",
+  "action": "the crowd cheering and pointing at the sky|[excited] Bigger, louder.",
+  "image": "images/beat_180.png"
+ },
+ {
+  "beat": 181,
+  "start": 639.951,
+  "dur": 3.333,
+  "text": "Some monks rush in, grab the two survivors,",
+  "motion": "push",
+  "scene": "gallows",
+  "action": "{MONKS} rushing in and grabbing the two survivors|[urgent] Fast.",
+  "image": "images/beat_181.png"
+ },
+ {
+  "beat": 182,
+  "start": 643.284,
+  "dur": 5.0,
+  "text": "and smuggle them across the water into the church of Saint Lawrence,",
+  "motion": "pan",
+  "scene": "gallows",
+  "action": "a small boat rowing the two men across the water toward a church|[urgent] Keep the pace.",
+  "image": "images/beat_182.png"
+ },
+ {
+  "beat": 183,
+  "start": 648.284,
+  "dur": 4.583,
+  "text": "where nobody can arrest them. Soldiers surround the church. Nobody moves.",
+  "motion": "push",
+  "scene": "church",
+  "action": "soldiers surrounding the church of Saint Lawrence|[tense] Slow down. \"Nobody moves.\"",
+  "image": "images/beat_183.png"
+ },
+ {
+  "beat": 184,
+  "start": 652.867,
+  "dur": 3.75,
+  "text": "On January 13th, the races go ahead as planned.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "the Hippodrome filling on January 13th|[tense] Measured build.",
+  "image": "images/beat_184.png"
+ },
+ {
+  "beat": 185,
+  "start": 656.617,
+  "dur": 3.75,
+  "text": "The Emperor takes his seat in the royal box.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{JUSTINIAN} sitting down in the royal box|[cold] Dignified.",
+  "image": "images/beat_185.png"
+ },
+ {
+  "beat": 186,
+  "start": 660.367,
+  "dur": 5.0,
+  "text": "And the whole Hippodrome, Blue and Green alike, begins chanting at him.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "the whole crowd pointing at the royal box|[building] Rising tension.",
+  "image": "images/beat_186.png"
+ },
+ {
+  "beat": 187,
+  "start": 665.367,
+  "dur": 2.5,
+  "text": "Mercy. Mercy for the two men.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "the crowd chanting with speech bubbles reading MERCY|[pleading, chanted] Two beats like a chant: \"Mercy. Mercy...\"",
+  "image": "images/beat_187.png"
+ },
+ {
+  "beat": 188,
+  "start": 667.867,
+  "dur": 1.25,
+  "text": "Justinian doesn\u2019t answer.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{JUSTINIAN} staring ahead, silent|[cold] Flat and short.",
+  "image": "images/beat_188.png"
+ },
+ {
+  "beat": 189,
+  "start": 669.117,
+  "dur": 4.167,
+  "text": "Race after race, the chanting gets louder. Justinian ignores them.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "the chanting growing, sound lines bigger with each race|[escalating] Steadily louder.",
+  "image": "images/beat_189.png"
+ },
+ {
+  "beat": 190,
+  "start": 673.284,
+  "dur": 1.667,
+  "text": "By the twenty-second race,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "a race counter reading 22|[suspense] Slow, weighty.",
+  "image": "images/beat_190.png"
+ },
+ {
+  "beat": 191,
+  "start": 674.951,
+  "dur": 4.583,
+  "text": "something happens that has never happened in the history of Constantinople.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "the whole Hippodrome holding its breath|[suspense] Hushed.",
+  "image": "images/beat_191.png"
+ },
+ {
+  "beat": 192,
+  "start": 679.534,
+  "dur": 3.333,
+  "text": "The Blues and the Greens start chanting together.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "blue and green sections rising together|[awe] Slowly building.",
+  "image": "images/beat_192.png"
+ },
+ {
+  "beat": 193,
+  "start": 682.867,
+  "dur": 2.083,
+  "text": "One word. Over and over.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "one big speech bubble rising from the whole crowd|[hushed anticipation] Very quiet. \"One word. Over and over.\"",
+  "image": "images/beat_193.png"
+ },
+ {
+  "beat": 194,
+  "start": 684.95,
+  "dur": 1.2,
+  "text": "\u201cNika\u201d",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "a giant speech bubble reading NIKA filling the sky|[chanted, explosive] Deliver \"Nika\" as a powerful chant, then let it echo.",
+  "image": "images/beat_194.png"
+ },
+ {
+  "beat": 195,
+  "start": 686.15,
+  "dur": 1.667,
+  "text": "It means win. Conquer.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "an inset of a winner's wreath|[explanatory] Clear and simple.",
+  "image": "images/beat_195.png"
+ },
+ {
+  "beat": 196,
+  "start": 687.817,
+  "dur": 3.75,
+  "text": "It\u2019s what you shout to cheer on your charioteer.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "a fan cheering on a charioteer|[light] Brief.",
+  "image": "images/beat_196.png"
+ },
+ {
+  "beat": 197,
+  "start": 691.567,
+  "dur": 5.0,
+  "text": "But now, a hundred thousand people are shouting it at the Emperor,",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "a wall of fists pointed at the royal box|[ominous] Rising intensity.",
+  "image": "images/beat_197.png"
+ },
+ {
+  "beat": 198,
+  "start": 696.567,
+  "dur": 3.333,
+  "text": "in one voice, Blue and Green as one.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "blue and green colours merging into one wave|[awe] Big and unified.",
+  "image": "images/beat_198.png"
+ },
+ {
+  "beat": 199,
+  "start": 699.9,
+  "dur": 5.0,
+  "text": "You look across the stands and see Leon, standing on his seat,",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "{LEONPART} standing on his seat across the stands|[delighted] Warmer.",
+  "image": "images/beat_199.png"
+ },
+ {
+  "beat": 200,
+  "start": 704.9,
+  "dur": 2.5,
+  "text": "screaming the same word you are.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{LEONPART} and {YOUPART} screaming the same word across the stands|[joyful] Excited.",
+  "image": "images/beat_200.png"
+ },
+ {
+  "beat": 201,
+  "start": 707.4,
+  "dur": 5.0,
+  "text": "For the first time in your lives, you\u2019re on the same side.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{YOUPART} grinning in disbelief|[moved] Sincere, slightly emotional.",
+  "image": "images/beat_201.png"
+ },
+ {
+  "beat": 202,
+  "start": 712.4,
+  "dur": 1.25,
+  "text": "It feels incredible.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "{YOUPART} with arms raised|[euphoric] Short and bright.",
+  "image": "images/beat_202.png"
+ },
+ {
+  "beat": 203,
+  "start": 713.65,
+  "dur": 4.583,
+  "text": "The crowd pours out of the Hippodrome and into the streets.",
+  "motion": "push",
+  "scene": "street",
+  "action": "the crowd flooding out of the Hippodrome gates|[fast, chaotic] Quick.",
+  "image": "images/beat_203.png"
+ },
+ {
+  "beat": 204,
+  "start": 718.233,
+  "dur": 3.75,
+  "text": "They break into the prisons and free the prisoners.",
+  "motion": "pull",
+  "scene": "street",
+  "action": "prisoners walking out of a broken prison gate|[fast] Punchy.",
+  "image": "images/beat_204.png"
+ },
+ {
+  "beat": 205,
+  "start": 721.983,
+  "dur": 3.333,
+  "text": "They set fire to the city prefect\u2019s headquarters.",
+  "motion": "push",
+  "scene": "street",
+  "action": "flames rising from the prefect's headquarters|[intense] Strong.",
+  "image": "images/beat_205.png"
+ },
+ {
+  "beat": 206,
+  "start": 725.316,
+  "dur": 3.75,
+  "text": "You\u2019re swept along with them, chanting, laughing, carrying torches.",
+  "motion": "push",
+  "scene": "street",
+  "action": "{YOUPART} running with a torch, laughing|[euphoric] Breathless energy.",
+  "image": "images/beat_206.png"
+ },
+ {
+  "beat": 207,
+  "start": 729.066,
+  "dur": 4.583,
+  "text": "Leon is beside you. You slap each other on the back.",
+  "motion": "pan",
+  "scene": "street",
+  "action": "{YOUPART} and {LEONPART} slapping each other on the back|[joyful] Bright.",
+  "image": "images/beat_207.png"
+ },
+ {
+  "beat": 208,
+  "start": 733.649,
+  "dur": 2.917,
+  "text": "You can\u2019t believe how powerful it feels.",
+  "motion": "fade",
+  "scene": "street",
+  "action": "{YOUPART}'s glowing face lit by torchlight|[intoxicated] Rising.",
+  "image": "images/beat_208.png"
+ },
+ {
+  "beat": 209,
+  "start": 736.566,
+  "dur": 2.5,
+  "text": "The Emperor can\u2019t ignore you now.",
+  "motion": "pull",
+  "scene": "street",
+  "action": "{YOUPART} shaking a fist toward the palace|[defiant] Confident.",
+  "image": "images/beat_209.png"
+ },
+ {
+  "beat": 210,
+  "start": 739.066,
+  "dur": 1.667,
+  "text": "Then the fires spread.",
+  "motion": "push",
+  "scene": "fire",
+  "action": "fire leaping between rooftops|[sudden drop] Stop. Quiet. Heavy.",
+  "image": "images/beat_210.png"
+ },
+ {
+  "beat": 211,
+  "start": 740.733,
+  "dur": 1.667,
+  "text": "The wind catches them.",
+  "motion": "push",
+  "scene": "fire",
+  "action": "wind blowing sparks across the city|[ominous] Slow.",
+  "image": "images/beat_211.png"
+ },
+ {
+  "beat": 212,
+  "start": 742.4,
+  "dur": 5.0,
+  "text": "By the next day, half the centre of the city is burning.",
+  "motion": "pan",
+  "scene": "fire",
+  "action": "half the city centre burning|[devastating] Grave.",
+  "image": "images/beat_212.png"
+ },
+ {
+  "beat": 213,
+  "start": 747.4,
+  "dur": 2.917,
+  "text": "The Senate house. Public baths. Houses. Shops.",
+  "motion": "push",
+  "scene": "fire",
+  "action": "the Senate house, baths, houses and shops burning|[list, grave] Slow, separate beats.",
+  "image": "images/beat_213.png"
+ },
+ {
+  "beat": 214,
+  "start": 750.317,
+  "dur": 2.5,
+  "text": "The great church of Hagia Sophia,",
+  "motion": "pull",
+  "scene": "fire",
+  "action": "the old Hagia Sophia in flames|[devastating] Slow.",
+  "image": "images/beat_214.png"
+ },
+ {
+  "beat": 215,
+  "start": 752.817,
+  "dur": 4.583,
+  "text": "the most important church in the Empire, burns to the ground.",
+  "motion": "push",
+  "scene": "fire",
+  "action": "the church collapsing into flames and smoke|[grieving] Let \"burns to the ground\" fall.",
+  "image": "images/beat_215.png"
+ },
+ {
+  "beat": 216,
+  "start": 757.4,
+  "dur": 4.583,
+  "text": "People who had nothing to do with the riot lose everything.",
+  "motion": "push",
+  "scene": "fire",
+  "action": "families fleeing with their belongings|[sad] Gentle.",
+  "image": "images/beat_216.png"
+ },
+ {
+  "beat": 217,
+  "start": 761.983,
+  "dur": 3.75,
+  "text": "You walk past a family sitting in the street",
+  "motion": "pan",
+  "scene": "fire",
+  "action": "{YOUPART} walking past a family sitting in the street|[subdued] Quiet.",
+  "image": "images/beat_217.png"
+ },
+ {
+  "beat": 218,
+  "start": 765.733,
+  "dur": 3.75,
+  "text": "in front of the smoking ruins of their home.",
+  "motion": "push",
+  "scene": "fire",
+  "action": "the smoking ruins of a house|[subdued] Slow.",
+  "image": "images/beat_218.png"
+ },
+ {
+  "beat": 219,
+  "start": 769.483,
+  "dur": 2.083,
+  "text": "A little girl is crying.",
+  "motion": "fade",
+  "scene": "fire",
+  "action": "a little girl crying|[heartbreaking] Very soft.",
+  "image": "images/beat_219.png"
+ },
+ {
+  "beat": 220,
+  "start": 771.566,
+  "dur": 4.583,
+  "text": "Her mother looks at your puffed Green sleeves with pure hatred.",
+  "motion": "push",
+  "scene": "fire",
+  "action": "the mother glaring at {YOUPART}'s green sleeves|[cold, guilty] Let \"pure hatred\" hit.",
+  "image": "images/beat_220.png"
+ },
+ {
+  "beat": 221,
+  "start": 776.149,
+  "dur": 1.25,
+  "text": "You stop chanting.",
+  "motion": "push",
+  "scene": "fire",
+  "action": "{YOUPART} falling silent|[hollow] Short. Pause after.",
+  "image": "images/beat_221.png"
+ },
+ {
+  "beat": 222,
+  "start": 777.399,
+  "dur": 5.0,
+  "text": "Leon notices. He asks if you\u2019re alright. You say yes. You\u2019re not.",
+  "motion": "pan",
+  "scene": "fire",
+  "action": "{LEONPART} glancing at {YOUPART} with concern|[quiet] Soft. \"You're not.\" very gentle.",
+  "image": "images/beat_222.png"
+ },
+ {
+  "beat": 223,
+  "start": 782.399,
+  "dur": 4.583,
+  "text": "That night, the two of you climb onto the roof of",
+  "motion": "push",
+  "scene": "rooftop",
+  "action": "{YOUPART} and {LEONPART} climbing onto the fish stall roof at night|[melancholy] Slow and quiet.",
+  "image": "images/beat_223.png"
+ },
+ {
+  "beat": 224,
+  "start": 786.982,
+  "dur": 3.75,
+  "text": "your father\u2019s fish stall and watch the city burn.",
+  "motion": "pull",
+  "scene": "rooftop",
+  "action": "the two sitting on the roof watching the city burn|[melancholy] Hushed.",
+  "image": "images/beat_224.png"
+ },
+ {
+  "beat": 225,
+  "start": 790.732,
+  "dur": 2.917,
+  "text": "The sky over the palace is orange.",
+  "motion": "push",
+  "scene": "rooftop",
+  "action": "an orange sky over the palace|[haunting] Slow.",
+  "image": "images/beat_225.png"
+ },
+ {
+  "beat": 226,
+  "start": 793.649,
+  "dur": 2.917,
+  "text": "You can hear the roar of the",
+  "motion": "push",
+  "scene": "rooftop",
+  "action": "sound lines of distant crowds and falling roofs|[haunting] Low.",
+  "image": "images/beat_226.png"
+ },
+ {
+  "beat": 227,
+  "start": 796.566,
+  "dur": 2.917,
+  "text": "crowds and the crash of collapsing roofs.",
+  "motion": "pan",
+  "scene": "rooftop",
+  "action": "a building collapsing in the distance|[haunting] Grave.",
+  "image": "images/beat_227.png"
+ },
+ {
+  "beat": 228,
+  "start": 799.483,
+  "dur": 2.5,
+  "text": "Leon doesn\u2019t make a single joke.",
+  "motion": "push",
+  "scene": "rooftop",
+  "action": "{LEONPART} silent, no smile|[sad] Quiet.",
+  "image": "images/beat_228.png"
+ },
+ {
+  "beat": 229,
+  "start": 801.983,
+  "dur": 4.167,
+  "text": "For the first time since you were seven years old,",
+  "motion": "pull",
+  "scene": "rooftop",
+  "action": "a faint flashback of the two boys eating bread|[nostalgic] Soft.",
+  "image": "images/beat_229.png"
+ },
+ {
+  "beat": 230,
+  "start": 806.15,
+  "dur": 3.75,
+  "text": "neither of you can think of anything to say.",
+  "motion": "push",
+  "scene": "rooftop",
+  "action": "{YOUPART} and {LEONPART} sitting in silence|[sad] Let it trail into silence.",
+  "image": "images/beat_230.png"
+ },
+ {
+  "beat": 231,
+  "start": 809.9,
+  "dur": 2.917,
+  "text": "Your father calls up from the street.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHERAGED} calling up from the street|[worried] Gentle urgency.",
+  "image": "images/beat_231.png"
+ },
+ {
+  "beat": 232,
+  "start": 812.817,
+  "dur": 3.75,
+  "text": "He tells you to come home. To stay home.",
+  "motion": "fade",
+  "scene": "harbour",
+  "action": "{FATHERAGED}'s worried face looking up|[pleading] Soft but firm.",
+  "image": "images/beat_232.png"
+ },
+ {
+  "beat": 233,
+  "start": 816.567,
+  "dur": 2.917,
+  "text": "He says this isn\u2019t a race anymore.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHERAGED} shaking his head|[heartfelt] Slow and heavy on \"isn't a race anymore.\"",
+  "image": "images/beat_233.png"
+ },
+ {
+  "beat": 234,
+  "start": 819.484,
+  "dur": 2.5,
+  "text": "You tell him you\u2019ll be careful.",
+  "motion": "pull",
+  "scene": "rooftop",
+  "action": "{YOUPART} waving down at him|[falsely reassuring] Light, a little too casual.",
+  "image": "images/beat_234.png"
+ },
+ {
+  "beat": 235,
+  "start": 821.984,
+  "dur": 3.333,
+  "text": "He looks at you for a long time.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHERAGED} looking up silently|[heartbreaking] Long pause.",
+  "image": "images/beat_235.png"
+ },
+ {
+  "beat": 236,
+  "start": 825.317,
+  "dur": 2.083,
+  "text": "Then he goes back inside.",
+  "motion": "push",
+  "scene": "harbour",
+  "action": "{FATHERAGED} going back inside, closing the door|[heartbreaking] Very soft.",
+  "image": "images/beat_236.png"
+ },
+ {
+  "beat": 237,
+  "start": 827.4,
+  "dur": 2.917,
+  "text": "The riot goes on for five days.",
+  "motion": "pan",
+  "scene": "city",
+  "action": "a calendar showing five days, smoke over the city|[documentary] Steady.",
+  "image": "images/beat_237.png"
+ },
+ {
+  "beat": 238,
+  "start": 830.317,
+  "dur": 5.0,
+  "text": "The Emperor tries to calm the crowd. He fires John the Cappadocian.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{JUSTINIAN} dismissing {JOHN}|[documentary] Clear.",
+  "image": "images/beat_238.png"
+ },
+ {
+  "beat": 239,
+  "start": 835.317,
+  "dur": 4.167,
+  "text": "He fires his other unpopular ministers. It isn\u2019t enough anymore.",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "ministers walking out of the palace|[documentary] Even.",
+  "image": "images/beat_239.png"
+ },
+ {
+  "beat": 240,
+  "start": 839.484,
+  "dur": 4.167,
+  "text": "The crowd doesn\u2019t want reforms. It wants a new emperor.",
+  "motion": "shake",
+  "scene": "hippodrome",
+  "action": "the crowd shouting for a new emperor|[ominous] Rising.",
+  "image": "images/beat_240.png"
+ },
+ {
+  "beat": 241,
+  "start": 843.651,
+  "dur": 2.917,
+  "text": "On the fifth day, they find one.",
+  "motion": "push",
+  "scene": "street",
+  "action": "rioters searching the city|[tense] Quick.",
+  "image": "images/beat_241.png"
+ },
+ {
+  "beat": 242,
+  "start": 846.568,
+  "dur": 4.583,
+  "text": "An old aristocrat called Hypatius, a nephew of a former emperor,",
+  "motion": "pan",
+  "scene": "hypatius_house",
+  "action": "{HYPATIUS} hiding behind a curtain in his house|[wry] Slight dry irony.",
+  "image": "images/beat_242.png"
+ },
+ {
+  "beat": 243,
+  "start": 851.151,
+  "dur": 5.0,
+  "text": "who has been hiding in his house, hoping nobody would remember him.",
+  "motion": "push",
+  "scene": "hypatius_house",
+  "action": "{HYPATIUS} peeking out nervously|[wry] Dry.",
+  "image": "images/beat_243.png"
+ },
+ {
+  "beat": 244,
+  "start": 856.151,
+  "dur": 4.167,
+  "text": "The crowd drags him out, carries him to the Hippodrome,",
+  "motion": "pull",
+  "scene": "street",
+  "action": "the crowd carrying {HYPATIUS} to the Hippodrome|[chaotic] Fast.",
+  "image": "images/beat_244.png"
+ },
+ {
+  "beat": 245,
+  "start": 860.318,
+  "dur": 4.583,
+  "text": "and crowns him with a golden chain in the royal box,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{HYPATIUS} crowned with a golden chain in the royal box|[grand, ironic] Grand but hollow.",
+  "image": "images/beat_245.png"
+ },
+ {
+  "beat": 246,
+  "start": 864.901,
+  "dur": 3.75,
+  "text": "in front of tens of thousands of cheering people.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "tens of thousands cheering|[loud] Big.",
+  "image": "images/beat_246.png"
+ },
+ {
+  "beat": 247,
+  "start": 868.651,
+  "dur": 5.0,
+  "text": "You\u2019re there. You cheer too. You don\u2019t know what else to do.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "{YOUPART} cheering half-heartedly|[uneasy] Flat, uncertain.",
+  "image": "images/beat_247.png"
+ },
+ {
+  "beat": 248,
+  "start": 873.651,
+  "dur": 1.25,
+  "text": "Hypatius looks terrified.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "close-up of {HYPATIUS}'s terrified face|[ominous] Quiet.",
+  "image": "images/beat_248.png"
+ },
+ {
+  "beat": 249,
+  "start": 874.901,
+  "dur": 4.583,
+  "text": "He looks like a man who already knows how this ends.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "{HYPATIUS} glancing at the palace walls|[foreboding] Slow, heavy.",
+  "image": "images/beat_249.png"
+ },
+ {
+  "beat": 250,
+  "start": 879.484,
+  "dur": 2.917,
+  "text": "Inside the palace, you\u2019ll learn much later,",
+  "motion": "push",
+  "scene": "palace",
+  "action": "inside the palace at night, torches burning|[secretive] Hushed narrator aside.",
+  "image": "images/beat_250.png"
+ },
+ {
+  "beat": 251,
+  "start": 882.401,
+  "dur": 2.5,
+  "text": "Justinian is getting ready to run.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{JUSTINIAN} pacing, servants packing chests|[tense] Measured.",
+  "image": "images/beat_251.png"
+ },
+ {
+  "beat": 252,
+  "start": 884.901,
+  "dur": 3.333,
+  "text": "A ship is waiting to carry him away.",
+  "motion": "pan",
+  "scene": "harbour",
+  "action": "a ship waiting at the palace harbour|[tense] Quiet.",
+  "image": "images/beat_252.png"
+ },
+ {
+  "beat": 253,
+  "start": 888.234,
+  "dur": 2.5,
+  "text": "His advisers tell him it\u2019s over.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "advisers bowing their heads in defeat|[defeated] Low.",
+  "image": "images/beat_253.png"
+ },
+ {
+  "beat": 254,
+  "start": 890.734,
+  "dur": 3.75,
+  "text": "But the Empress Theodora stands up and makes a",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "{THEODORA} rising to her feet|[dramatic] Build.",
+  "image": "images/beat_254.png"
+ },
+ {
+  "beat": 255,
+  "start": 894.484,
+  "dur": 3.75,
+  "text": "speech that will be repeated for fifteen hundred years.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{THEODORA} speaking with fire|[powerful] Strong, steady.",
+  "image": "images/beat_255.png"
+ },
+ {
+  "beat": 256,
+  "start": 898.234,
+  "dur": 5.0,
+  "text": "She says she\u2019d rather die an empress than live as a refugee.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{THEODORA} refusing a cloak offered for travel|[powerful] Firm and proud.",
+  "image": "images/beat_256.png"
+ },
+ {
+  "beat": 257,
+  "start": 903.234,
+  "dur": 5.0,
+  "text": "That royalty makes a fine burial shroud. That she will not run.",
+  "motion": "pan",
+  "scene": "palace",
+  "action": "{THEODORA} pointing at the floor, unmoving|[powerful] Slow and resolute on \"She will not run.\"",
+  "image": "images/beat_257.png"
+ },
+ {
+  "beat": 258,
+  "start": 908.234,
+  "dur": 1.2,
+  "text": "Justinian stays.",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{JUSTINIAN} setting down his travel bag|[decisive] Short and firm.",
+  "image": "images/beat_258.png"
+ },
+ {
+  "beat": 259,
+  "start": 909.434,
+  "dur": 2.083,
+  "text": "And he makes a plan.",
+  "motion": "pull",
+  "scene": "palace",
+  "action": "{JUSTINIAN} and his advisers bending over a map of the Hippodrome|[ominous] Low and cold.",
+  "image": "images/beat_259.png"
+ },
+ {
+  "beat": 260,
+  "start": 911.517,
+  "dur": 4.167,
+  "text": "That afternoon, while you\u2019re in the Hippodrome with the crowd,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "the Hippodrome packed with the crowd in the afternoon|[ominous] Quiet build.",
+  "image": "images/beat_260.png"
+ },
+ {
+  "beat": 261,
+  "start": 915.684,
+  "dur": 4.583,
+  "text": "a court official called Narses quietly walks into the Blue section.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{NARSES} slipping into the blue section|[secretive] Hushed.",
+  "image": "images/beat_261.png"
+ },
+ {
+  "beat": 262,
+  "start": 920.267,
+  "dur": 4.583,
+  "text": "He\u2019s carrying bags of gold. He speaks to the Blue leaders.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "{NARSES} opening bags of gold for the Blue leaders|[secretive, cynical] Low.",
+  "image": "images/beat_262.png"
+ },
+ {
+  "beat": 263,
+  "start": 924.85,
+  "dur": 4.167,
+  "text": "He reminds them that Justinian has always been a Blue.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{NARSES} whispering, a blue ribbon held up|[persuasive] Smooth.",
+  "image": "images/beat_263.png"
+ },
+ {
+  "beat": 264,
+  "start": 929.017,
+  "dur": 5.0,
+  "text": "That Hypatius might favour the Greens. That this is not their fight.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "{NARSES} pointing at the green section|[manipulative] Slow, poisonous.",
+  "image": "images/beat_264.png"
+ },
+ {
+  "beat": 265,
+  "start": 934.017,
+  "dur": 4.583,
+  "text": "You watch the Blues begin to stand up. One by one.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "blue fans standing up one by one|[dread] Slow build. \"One by one.\"",
+  "image": "images/beat_265.png"
+ },
+ {
+  "beat": 266,
+  "start": 938.6,
+  "dur": 3.333,
+  "text": "Then hundreds of them. Then thousands. They\u2019re leaving.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "thousands of blue fans leaving, empty seats appearing|[dread] Growing. \"They're leaving.\"",
+  "image": "images/beat_266.png"
+ },
+ {
+  "beat": 267,
+  "start": 941.933,
+  "dur": 4.583,
+  "text": "Leon finds you in the Green stands. He grabs your arm.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "{LEONPART} pushing through the crowd and grabbing {YOUPART}'s arm|[urgent] Faster, tight.",
+  "image": "images/beat_267.png"
+ },
+ {
+  "beat": 268,
+  "start": 946.516,
+  "dur": 3.333,
+  "text": "He looks scared, and Leon is never scared.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "close-up of {LEONPART}'s frightened face|[fearful] Quiet emphasis on \"never scared.\"",
+  "image": "images/beat_268.png"
+ },
+ {
+  "beat": 269,
+  "start": 949.849,
+  "dur": 4.167,
+  "text": "He says you need to come with him. Right now.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "{LEONPART} pulling on {YOUPART}'s arm|[pleading] Urgent, breathless.",
+  "image": "images/beat_269.png"
+ },
+ {
+  "beat": 270,
+  "start": 954.016,
+  "dur": 3.333,
+  "text": "He says something bad is going to happen.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{LEONPART} pleading|[pleading] Low and serious.",
+  "image": "images/beat_270.png"
+ },
+ {
+  "beat": 271,
+  "start": 957.349,
+  "dur": 4.583,
+  "text": "You look at him. \u201cGreen till we die\u201d, you tell him.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{YOUPART} saying GREEN TILL WE DIE|[quiet, stubborn] Do not chant it. Say it softly and stubbornly. Tragic.",
+  "image": "images/beat_271.png"
+ },
+ {
+  "beat": 272,
+  "start": 961.932,
+  "dur": 3.333,
+  "text": "Leon stares at you for a long moment.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "{LEONPART} staring at {YOUPART}|[heartbreaking] Long pause.",
+  "image": "images/beat_272.png"
+ },
+ {
+  "beat": 273,
+  "start": 965.265,
+  "dur": 4.583,
+  "text": "Then he lets go of your arm. He doesn\u2019t say goodbye.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{LEONPART} letting go of {YOUPART}'s arm|[heartbreaking] Very soft.",
+  "image": "images/beat_273.png"
+ },
+ {
+  "beat": 274,
+  "start": 969.848,
+  "dur": 3.75,
+  "text": "He just disappears into the crowd of departing Blues.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "{LEONPART} vanishing into the blue crowd|[heartbreaking] Let it fade.",
+  "image": "images/beat_274.png"
+ },
+ {
+  "beat": 275,
+  "start": 973.598,
+  "dur": 2.5,
+  "text": "You turn back to the track.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{YOUPART} turning back toward the track|[hollow] Quiet.",
+  "image": "images/beat_275.png"
+ },
+ {
+  "beat": 276,
+  "start": 976.098,
+  "dur": 3.75,
+  "text": "A few minutes later, the Hippodrome gates slam shut.",
+  "motion": "shake",
+  "scene": "hippodrome",
+  "action": "the great Hippodrome gates slamming shut|[sudden] Hard and short on \"slam shut.\"",
+  "image": "images/beat_276.png"
+ },
+ {
+  "beat": 277,
+  "start": 979.848,
+  "dur": 5.0,
+  "text": "At first, nobody understands. Then you hear it. The sound of metal.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "confused faces in the crowd|[dread] Slow. Pause before \"Then you hear it.\"",
+  "image": "images/beat_277.png"
+ },
+ {
+  "beat": 278,
+  "start": 984.848,
+  "dur": 5.0,
+  "text": "Marching feet. And soldiers, real soldiers, veterans of the wars against Persia,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "the shadows of soldiers marching through the entrances|[dread] Low and steady.",
+  "image": "images/beat_278.png"
+ },
+ {
+  "beat": 279,
+  "start": 989.848,
+  "dur": 2.083,
+  "text": "pour in through the entrances.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "soldiers pouring through every entrance in silhouette|[dread] Heavy.",
+  "image": "images/beat_279.png"
+ },
+ {
+  "beat": 280,
+  "start": 991.931,
+  "dur": 3.75,
+  "text": "At their head is the Emperor\u2019s best general, Belisarius.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "{BELISARIUS} leading the soldiers|[cold] Firm on \"Belisarius.\"",
+  "image": "images/beat_280.png"
+ },
+ {
+  "beat": 281,
+  "start": 995.681,
+  "dur": 3.333,
+  "text": "There\u2019s nowhere to run. The gates are sealed.",
+  "motion": "shake",
+  "scene": "hippodrome",
+  "action": "sealed gates and high walls|[despair] Short, clipped sentences.",
+  "image": "images/beat_281.png"
+ },
+ {
+  "beat": 282,
+  "start": 999.014,
+  "dur": 2.083,
+  "text": "The walls are too high.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "towering walls looking up from the sand|[despair] Slow.",
+  "image": "images/beat_282.png"
+ },
+ {
+  "beat": 283,
+  "start": 1001.097,
+  "dur": 4.167,
+  "text": "A hundred thousand people were cheering here an hour ago.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "a ghostly image of the cheering crowd from an hour before|[grief] Soft.",
+  "image": "images/beat_283.png"
+ },
+ {
+  "beat": 284,
+  "start": 1005.264,
+  "dur": 2.083,
+  "text": "Now there are only screams.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "dust and chaos in silhouette, no detail|[horror, restrained] Quiet. Let the silence after carry it.",
+  "image": "images/beat_284.png"
+ },
+ {
+  "beat": 285,
+  "start": 1007.347,
+  "dur": 5.0,
+  "text": "You don\u2019t remember much of what happens next. Only noise, and pushing,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "blurred shapes pushing in a cloud of dust|[fragmented] Broken rhythm. Pauses between phrases.",
+  "image": "images/beat_285.png"
+ },
+ {
+  "beat": 286,
+  "start": 1012.347,
+  "dur": 3.75,
+  "text": "and the sand of the racetrack under your feet.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "close-up of sand under stick feet|[haunting] Slow.",
+  "image": "images/beat_286.png"
+ },
+ {
+  "beat": 287,
+  "start": 1016.097,
+  "dur": 3.333,
+  "text": "The same sand where you watched the Green",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "a faint golden memory of the Green chariot crossing the line|[haunting, tender] Soft.",
+  "image": "images/beat_287.png"
+ },
+ {
+  "beat": 288,
+  "start": 1019.43,
+  "dur": 3.333,
+  "text": "chariot win when you were six years old,",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "the memory of {FATHER} with {YOU6} on his shoulders|[heartbreaking] Very gentle.",
+  "image": "images/beat_288.png"
+ },
+ {
+  "beat": 289,
+  "start": 1022.763,
+  "dur": 2.083,
+  "text": "sitting on your father\u2019s shoulders.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "the golden memory fading into the dust|[heartbreaking] Whisper-soft.",
+  "image": "images/beat_289.png"
+ },
+ {
+  "beat": 290,
+  "start": 1024.846,
+  "dur": 2.083,
+  "text": "You never leave the Hippodrome.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "the empty Hippodrome at dusk, a single green scarf on the sand|[final] Slow and quiet. Full stop.",
+  "image": "images/beat_290.png"
+ },
+ {
+  "beat": 291,
+  "start": 1026.929,
+  "dur": 2.083,
+  "text": "By evening, everywhere is silent.",
+  "motion": "shake",
+  "scene": "hippodrome",
+  "action": "the Hippodrome in total silence at evening|[silent] Barely above a whisper. Long pause after.",
+  "image": "images/beat_291.png"
+ },
+ {
+  "beat": 292,
+  "start": 1029.012,
+  "dur": 3.333,
+  "text": "The historian Procopius, who lived through those days,",
+  "motion": "pan",
+  "scene": "scriptorium",
+  "action": "{PROCOPIUS} writing by lamplight|[documentary, sombre] Calm.",
+  "image": "images/beat_292.png"
+ },
+ {
+  "beat": 293,
+  "start": 1032.345,
+  "dur": 5.0,
+  "text": "wrote that about thirty thousand people died inside the Hippodrome that afternoon.",
+  "motion": "push",
+  "scene": "scriptorium",
+  "action": "close-up of a page with the number 30,000|[sombre] Slow and clear.",
+  "image": "images/beat_293.png"
+ },
+ {
+  "beat": 294,
+  "start": 1037.345,
+  "dur": 3.333,
+  "text": "Thirty thousand sports fans. In a few hours.",
+  "motion": "pull",
+  "scene": "hippodrome",
+  "action": "thirty thousand small grey figures filling the stands|[devastating] Slow. Pause between the two sentences.",
+  "image": "images/beat_294.png"
+ },
+ {
+  "beat": 295,
+  "start": 1040.678,
+  "dur": 4.167,
+  "text": "The next day, they execute Hypatius. The riot is over.",
+  "motion": "shake",
+  "scene": "palace",
+  "action": "a calendar reading the next day, a sheet-covered shape near the palace|[cold] Flat and factual.",
+  "image": "images/beat_295.png"
+ },
+ {
+  "beat": 296,
+  "start": 1044.845,
+  "dur": 3.333,
+  "text": "Justinian keeps his throne for another thirty-three years,",
+  "motion": "push",
+  "scene": "palace",
+  "action": "{JUSTINIAN} on his throne, calendar years flipping|[ironic] Measured, slightly bitter.",
+  "image": "images/beat_296.png"
+ },
+ {
+  "beat": 297,
+  "start": 1048.178,
+  "dur": 3.75,
+  "text": "and the races start again within a few years.",
+  "motion": "pan",
+  "scene": "hippodrome",
+  "action": "chariots racing again in a full Hippodrome|[bittersweet] Lighter but hollow.",
+  "image": "images/beat_297.png"
+ },
+ {
+  "beat": 298,
+  "start": 1051.928,
+  "dur": 3.75,
+  "text": "The Blues and the Greens keep competing for centuries.",
+  "motion": "push",
+  "scene": "hippodrome",
+  "action": "blue and green fans cheering across the centuries, a single green scarf on an empty seat|[bittersweet, final] Slow, reflective close. Let the last line hang.",
+  "image": "images/beat_298.png"
+ }
+]
